@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-09-25",
+ "generated_on": "2026-09-27",
  "festivals": [
   {
    "id": "academy-canadian-cinema",
@@ -4128,6 +4128,16 @@
    }
   },
   {
+   "festival": "chicago-underground",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-06-09",
+    "to": "2027-06-13",
+    "approximate": false
+   }
+  },
+  {
    "festival": "cleveland",
    "cycle": 2027,
    "runs": {
@@ -4514,50 +4524,6 @@
   }
  ],
  "deadlines": [
-  {
-   "festival": "portland",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "documentary",
-    "feature",
-    "short",
-    "student"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-08-26",
-    "to": "2026-08-26",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 50,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Early Discount Deadline: Narrative Feature, Documentary Feature, Animated Feature, Animated Short, Student"
-  },
-  {
-   "festival": "portland",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-08-26",
-    "to": "2026-08-26",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 45,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Early Discount Deadline: Narrative Short, Documentary Short, Micro Shorts (1-5m)"
-  },
   {
    "festival": "sundance",
    "cycle": 2027,
@@ -5338,15 +5304,22 @@
    "festival": "voyage-in-time-andong",
    "cycle": 2026,
    "tier": "regular",
-   "categories": [],
+   "categories": [
+    "feature",
+    "short"
+   ],
    "closes": {
     "precision": "day",
     "from": "2026-09-15",
     "to": "2026-09-15",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Regular Deadline"
+   "fee": {
+    "amount": 12,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Feature Film, Short Film, Animation"
   },
   {
    "festival": "pan-african-arts",
@@ -5790,7 +5763,50 @@
    "festival": "sarasota",
    "cycle": 2027,
    "tier": "early",
-   "categories": [],
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-30",
+    "to": "2026-09-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: Shorts"
+  },
+  {
+   "festival": "sarasota",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-30",
+    "to": "2026-09-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: Documentary Feature, Narrative Feature"
+  },
+  {
+   "festival": "sarasota",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "student"
+   ],
    "closes": {
     "precision": "day",
     "from": "2026-09-30",
@@ -5798,7 +5814,7 @@
     "approximate": false
    },
    "fee_unknown": true,
-   "note": "Earlybird Deadline"
+   "note": "Earlybird Deadline: NYU Students, Hollywood Nights Young Filmmaker Competition"
   },
   {
    "festival": "sebastopol-documentary",
@@ -5884,30 +5900,66 @@
    "festival": "voyage-in-time-fest",
    "cycle": 2027,
    "tier": "early",
-   "categories": [],
+   "categories": [
+    "feature",
+    "short"
+   ],
    "closes": {
     "precision": "day",
     "from": "2026-09-30",
     "to": "2026-09-30",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Earlybird Deadline"
+   "fee": {
+    "amount": 9,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: Short Film, Animation, Feature Film"
   },
   {
    "festival": "ashland-independent",
    "cycle": 2027,
    "ordinal": 26,
    "tier": "early",
-   "categories": [],
+   "categories": [
+    "documentary",
+    "feature"
+   ],
    "closes": {
     "precision": "day",
     "from": "2026-10-01",
     "to": "2026-10-01",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Early Bird"
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: Documentary (feature length), Narrative (feature length)"
+  },
+  {
+   "festival": "ashland-independent",
+   "cycle": 2027,
+   "ordinal": 26,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-01",
+    "to": "2026-10-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: Documentary (short subject), Narrative (short subject)"
   },
   {
    "festival": "phoenix",
@@ -6413,15 +6465,22 @@
    "festival": "voyage-in-time-andong",
    "cycle": 2026,
    "tier": "late",
-   "categories": [],
+   "categories": [
+    "feature",
+    "short"
+   ],
    "closes": {
     "precision": "day",
     "from": "2026-10-15",
     "to": "2026-10-15",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Late Deadline"
+   "fee": {
+    "amount": 15,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Feature Film, Short Film, Animation"
   },
   {
    "festival": "atlanta",
@@ -6531,14 +6590,89 @@
    "cycle": 2027,
    "ordinal": 26,
    "tier": "regular",
-   "categories": [],
+   "categories": [
+    "documentary",
+    "feature"
+   ],
    "closes": {
     "precision": "day",
     "from": "2026-10-19",
     "to": "2026-10-19",
     "approximate": false
    },
-   "fee_unknown": true
+   "fee": {
+    "amount": 55,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Documentary (feature length), Narrative (feature length)"
+  },
+  {
+   "festival": "ashland-independent",
+   "cycle": 2027,
+   "ordinal": 26,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-19",
+    "to": "2026-10-19",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Documentary (short subject), Narrative (short subject)"
+  },
+  {
+   "festival": "chicago-underground",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "experimental",
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-19",
+    "to": "2026-10-19",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Super Early Bird: Narrative Feature, Documentary Feature, Experimental Feature, Animation Feature, Music Film / Visual Album (Feature)"
+  },
+  {
+   "festival": "chicago-underground",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-19",
+    "to": "2026-10-19",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 30,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Super Early Bird: Narrative Short, Documentary Short, Experimental Short, Animated Short"
   },
   {
    "festival": "berlinale",
@@ -7235,15 +7369,22 @@
    "festival": "voyage-in-time-andong",
    "cycle": 2026,
    "tier": "extended",
-   "categories": [],
+   "categories": [
+    "feature",
+    "short"
+   ],
    "closes": {
     "precision": "day",
     "from": "2026-11-07",
     "to": "2026-11-07",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Extended Deadline"
+   "fee": {
+    "amount": 18,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: Feature Film, Short Film, Animation"
   },
   {
    "festival": "busan-10",
@@ -7324,6 +7465,51 @@
    },
    "fee_unknown": false,
    "note": "Late Deadline: Animation, Documentary, Student"
+  },
+  {
+   "festival": "chicago-underground",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "experimental",
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-16",
+    "to": "2026-11-16",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird Deadline: Narrative Feature, Documentary Feature, Experimental Feature, Animation Feature, Music Film / Visual Album (Feature)"
+  },
+  {
+   "festival": "chicago-underground",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-16",
+    "to": "2026-11-16",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird Deadline: Narrative Short, Documentary Short, Experimental Short, Animated Short"
   },
   {
    "festival": "portland",
@@ -7453,14 +7639,44 @@
    "cycle": 2027,
    "ordinal": 26,
    "tier": "late",
-   "categories": [],
+   "categories": [
+    "documentary",
+    "feature"
+   ],
    "closes": {
     "precision": "day",
     "from": "2026-11-23",
     "to": "2026-11-23",
     "approximate": false
    },
-   "fee_unknown": true
+   "fee": {
+    "amount": 70,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Documentary (feature length), Narrative (feature length)"
+  },
+  {
+   "festival": "ashland-independent",
+   "cycle": 2027,
+   "ordinal": 26,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-23",
+    "to": "2026-11-23",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 55,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Documentary (short subject), Narrative (short subject)"
   },
   {
    "festival": "ficci-cartagena",
@@ -7536,15 +7752,42 @@
    "festival": "sarasota",
    "cycle": 2027,
    "tier": "regular",
-   "categories": [],
+   "categories": [
+    "short"
+   ],
    "closes": {
     "precision": "day",
     "from": "2026-11-30",
     "to": "2026-11-30",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Regular Deadline"
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Shorts"
+  },
+  {
+   "festival": "sarasota",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-30",
+    "to": "2026-11-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 70,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Documentary Feature, Narrative Feature"
   },
   {
    "festival": "sidewalk",
@@ -7635,15 +7878,22 @@
    "festival": "voyage-in-time-fest",
    "cycle": 2027,
    "tier": "regular",
-   "categories": [],
+   "categories": [
+    "feature",
+    "short"
+   ],
    "closes": {
     "precision": "day",
     "from": "2026-11-30",
     "to": "2026-11-30",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Regular Deadline"
+   "fee": {
+    "amount": 12,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Short Film, Animation, Feature Film"
   },
   {
    "festival": "voyage-in-time-fest-tokyo",
@@ -8240,15 +8490,42 @@
    "festival": "sarasota",
    "cycle": 2027,
    "tier": "late",
-   "categories": [],
+   "categories": [
+    "short"
+   ],
    "closes": {
     "precision": "day",
     "from": "2026-12-31",
     "to": "2026-12-31",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Late Deadline"
+   "fee": {
+    "amount": 55,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Shorts"
+  },
+  {
+   "festival": "sarasota",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-31",
+    "to": "2026-12-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 80,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Documentary Feature, Narrative Feature"
   },
   {
    "festival": "voyage-in-time-paris",
@@ -8366,6 +8643,51 @@
    },
    "fee_unknown": false,
    "note": "Regular: Short Narrative, Short Documentary, Short Animation"
+  },
+  {
+   "festival": "chicago-underground",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "experimental",
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-04",
+    "to": "2027-01-04",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 65,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Narrative Feature, Documentary Feature, Experimental Feature, Animation Feature, Music Film / Visual Album (Feature)"
+  },
+  {
+   "festival": "chicago-underground",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-04",
+    "to": "2027-01-04",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Narrative Short, Documentary Short, Experimental Short, Animated Short"
   },
   {
    "festival": "seattle",
@@ -8554,15 +8876,22 @@
    "festival": "voyage-in-time-fest",
    "cycle": 2027,
    "tier": "late",
-   "categories": [],
+   "categories": [
+    "feature",
+    "short"
+   ],
    "closes": {
     "precision": "day",
     "from": "2027-01-15",
     "to": "2027-01-15",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Late Deadline"
+   "fee": {
+    "amount": 15,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Short Film, Animation, Feature Film"
   },
   {
    "festival": "hollyshorts",
@@ -8860,6 +9189,71 @@
    "note": "Late: Narrative Feature, Documentary Feature"
   },
   {
+   "festival": "chicago-underground",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-01",
+    "to": "2027-02-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Narrative Short, Documentary Short, Animated Short"
+  },
+  {
+   "festival": "chicago-underground",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-01",
+    "to": "2027-02-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Experimental Short"
+  },
+  {
+   "festival": "chicago-underground",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "experimental",
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-01",
+    "to": "2027-02-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 80,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Narrative Feature, Documentary Feature, Experimental Feature, Animation Feature, Music Film / Visual Album (Feature)"
+  },
+  {
    "festival": "milwaukee",
    "cycle": 2027,
    "tier": "final",
@@ -8877,15 +9271,22 @@
    "festival": "voyage-in-time-fest",
    "cycle": 2027,
    "tier": "extended",
-   "categories": [],
+   "categories": [
+    "feature",
+    "short"
+   ],
    "closes": {
     "precision": "day",
     "from": "2027-02-10",
     "to": "2027-02-10",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Extended Deadline"
+   "fee": {
+    "amount": 18,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: Short Film, Animation, Feature Film"
   },
   {
    "festival": "indy-presented-by",
@@ -8933,15 +9334,42 @@
    "festival": "sarasota",
    "cycle": 2027,
    "tier": "final",
-   "categories": [],
+   "categories": [
+    "documentary",
+    "feature"
+   ],
    "closes": {
     "precision": "day",
     "from": "2027-02-19",
     "to": "2027-02-19",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Final Deadline"
+   "fee": {
+    "amount": 90,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final Deadline: Documentary Feature, Narrative Feature"
+  },
+  {
+   "festival": "sarasota",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-19",
+    "to": "2027-02-19",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 65,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final Deadline: Shorts"
   },
   {
    "festival": "mpumalanga",
@@ -8956,6 +9384,51 @@
    },
    "fee_unknown": true,
    "note": "Feb 20, 2027"
+  },
+  {
+   "festival": "chicago-underground",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "documentary",
+    "experimental",
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-27",
+    "to": "2027-02-27",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 90,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: Narrative Feature, Documentary Feature, Experimental Feature, Animation Feature, Music Film / Visual Album (Feature)"
+  },
+  {
+   "festival": "chicago-underground",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-27",
+    "to": "2027-02-27",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 55,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: Narrative Short, Documentary Short, Experimental Short, Animated Short"
   },
   {
    "festival": "voyage-in-time-fest-tokyo",
