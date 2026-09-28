@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-09-27",
+ "generated_on": "2026-09-28",
  "festivals": [
   {
    "id": "academy-canadian-cinema",
@@ -4524,27 +4524,6 @@
   }
  ],
  "deadlines": [
-  {
-   "festival": "sundance",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "documentary",
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-08-28",
-    "to": "2026-08-28",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 100,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Official Deadline Features: U.S. Narrative Feature Films, U.S. Documentary Feature Films, International Narrative Feature Films, International Documentary Feature Films"
-  },
   {
    "festival": "ann-arbor",
    "cycle": 2027,
