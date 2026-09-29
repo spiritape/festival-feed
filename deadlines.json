@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-09-28",
+ "generated_on": "2026-09-29",
  "festivals": [
   {
    "id": "academy-canadian-cinema",
@@ -4951,6 +4951,27 @@
    "cycle": 2027,
    "categories": [
     "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-09",
+    "to": "2026-09-09",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Discount Deadline: Narrative Short, Documentary Short, Micro Shorts (1-5m)"
+  },
+  {
+   "festival": "portland",
+   "cycle": 2027,
+   "categories": [
+    "animation",
+    "documentary",
     "feature",
     "short",
     "student"
@@ -4967,26 +4988,6 @@
    },
    "fee_unknown": false,
    "note": "Discount Deadline: Narrative Feature, Documentary Feature, Animated Feature, Animated Short, Student"
-  },
-  {
-   "festival": "portland",
-   "cycle": 2027,
-   "categories": [
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-09",
-    "to": "2026-09-09",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 50,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Discount Deadline: Narrative Short, Documentary Short, Micro Shorts (1-5m)"
   },
   {
    "festival": "atlanta",
@@ -5326,6 +5327,28 @@
    "tier": "early",
    "categories": [
     "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-16",
+    "to": "2026-09-16",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 55,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird Deadline: Narrative Short, Documentary Short, Micro Shorts (1-5m)"
+  },
+  {
+   "festival": "portland",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "animation",
+    "documentary",
     "feature",
     "short",
     "student"
@@ -5342,27 +5365,6 @@
    },
    "fee_unknown": false,
    "note": "Early Bird Deadline: Narrative Feature, Documentary Feature, Animated Feature, Animated Short, Student"
-  },
-  {
-   "festival": "portland",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-16",
-    "to": "2026-09-16",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 55,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Early Bird Deadline: Narrative Short, Documentary Short, Micro Shorts (1-5m)"
   },
   {
    "festival": "portland",
@@ -5467,6 +5469,27 @@
    "cycle": 2026,
    "tier": "extended",
    "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-25",
+    "to": "2026-09-25",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: WTF Shorts Category"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "tier": "extended",
+   "categories": [
+    "animation",
     "documentary",
     "experimental",
     "short"
@@ -5483,26 +5506,6 @@
    },
    "fee_unknown": false,
    "note": "Extended Deadline: International Short Live Action (Fiction) Film Competition, International Short Documentary Competition, International Short Animation Competition, International Short Experimental Competition, International Short Web / New Media Competition"
-  },
-  {
-   "festival": "beirut",
-   "cycle": 2026,
-   "tier": "extended",
-   "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-25",
-    "to": "2026-09-25",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 50,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Extended Deadline: WTF Shorts Category"
   },
   {
    "festival": "riverrun",
@@ -5701,6 +5704,27 @@
    "cycle": 2027,
    "categories": [
     "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-30",
+    "to": "2026-09-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Advance Deadline: Narrative Short, Documentary Short, Micro Shorts (1-5m)"
+  },
+  {
+   "festival": "portland",
+   "cycle": 2027,
+   "categories": [
+    "animation",
+    "documentary",
     "feature",
     "short",
     "student"
@@ -5717,26 +5741,6 @@
    },
    "fee_unknown": false,
    "note": "Advance Deadline: Narrative Feature, Documentary Feature, Animated Feature, Animated Short, Student"
-  },
-  {
-   "festival": "portland",
-   "cycle": 2027,
-   "categories": [
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-30",
-    "to": "2026-09-30",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 60,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Advance Deadline: Narrative Short, Documentary Short, Micro Shorts (1-5m)"
   },
   {
    "festival": "sarasota",
@@ -6241,6 +6245,28 @@
    "tier": "regular",
    "categories": [
     "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-07",
+    "to": "2026-10-07",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 65,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Narrative Short, Documentary Short, Micro Shorts (1-5m)"
+  },
+  {
+   "festival": "portland",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "animation",
+    "documentary",
     "feature",
     "short",
     "student"
@@ -6257,27 +6283,6 @@
    },
    "fee_unknown": false,
    "note": "Regular Deadline: Narrative Feature, Documentary Feature, Animated Feature, Animated Short, Student"
-  },
-  {
-   "festival": "portland",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-07",
-    "to": "2026-10-07",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 65,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Narrative Short, Documentary Short, Micro Shorts (1-5m)"
   },
   {
    "festival": "portland",
@@ -6677,6 +6682,28 @@
    "tier": "late",
    "categories": [
     "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-21",
+    "to": "2026-10-21",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 70,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Narrative Short, Documentary Short, Micro Shorts (1-5m)"
+  },
+  {
+   "festival": "portland",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "animation",
+    "documentary",
     "feature",
     "short",
     "student"
@@ -6693,27 +6720,6 @@
    },
    "fee_unknown": false,
    "note": "Late Deadline: Narrative Feature, Documentary Feature, Animated Feature, Animated Short, Student"
-  },
-  {
-   "festival": "portland",
-   "cycle": 2027,
-   "tier": "late",
-   "categories": [
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-21",
-    "to": "2026-10-21",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 70,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Late Deadline: Narrative Short, Documentary Short, Micro Shorts (1-5m)"
   },
   {
    "festival": "santa-barbara",
@@ -7076,6 +7082,28 @@
    "tier": "extended",
    "categories": [
     "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-04",
+    "to": "2026-11-04",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 75,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: Narrative Short, Documentary Short, Micro Shorts (1-5m)"
+  },
+  {
+   "festival": "portland",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "animation",
+    "documentary",
     "feature",
     "short",
     "student"
@@ -7092,27 +7120,6 @@
    },
    "fee_unknown": false,
    "note": "Extended Deadline: Narrative Feature, Documentary Feature, Animated Feature, Animated Short, Student"
-  },
-  {
-   "festival": "portland",
-   "cycle": 2027,
-   "tier": "extended",
-   "categories": [
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-11-04",
-    "to": "2026-11-04",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 75,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Extended Deadline: Narrative Short, Documentary Short, Micro Shorts (1-5m)"
   },
   {
    "festival": "phoenix",
@@ -7538,6 +7545,7 @@
    "cycle": 2027,
    "tier": "final",
    "categories": [
+    "animation",
     "feature",
     "short",
     "student"
