@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-09-29",
+ "generated_on": "2026-09-30",
  "festivals": [
   {
    "id": "academy-canadian-cinema",
@@ -5422,6 +5422,50 @@
    "note": "Regular Deadline: Short List: Features, Winner's Circle (Features Only)"
   },
   {
+   "festival": "santa-barbara",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "animation",
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-18",
+    "to": "2026-09-18",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Official Deadline: Short: Fiction, Short: Documentary, Short: Animation, Short: Nature, Short: Santa Barbara Filmmaker"
+  },
+  {
+   "festival": "santa-barbara",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "animation",
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-18",
+    "to": "2026-09-18",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 90,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Official Deadline: Feature: Fiction, Feature: Documentary, Feature: Animation, Feature: Santa Barbara Filmmaker"
+  },
+  {
    "festival": "sundance",
    "cycle": 2027,
    "tier": "late",
@@ -6725,15 +6769,45 @@
    "festival": "santa-barbara",
    "cycle": 2027,
    "tier": "late",
-   "categories": [],
+   "categories": [
+    "animation",
+    "documentary",
+    "short"
+   ],
    "closes": {
     "precision": "day",
     "from": "2026-10-30",
     "to": "2026-10-30",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Oct 30, 2026 (late/SB filmmaker)"
+   "fee": {
+    "amount": 70,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Short: Fiction, Short: Documentary, Short: Animation, Short: Nature, Short: Santa Barbara Filmmaker"
+  },
+  {
+   "festival": "santa-barbara",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "animation",
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-30",
+    "to": "2026-10-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 115,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Feature: Fiction, Feature: Documentary, Feature: Animation, Feature: Santa Barbara Filmmaker"
   },
   {
    "festival": "ficci-cartagena",
@@ -7929,15 +8003,45 @@
    "festival": "santa-barbara",
    "cycle": 2027,
    "tier": "final",
-   "categories": [],
+   "categories": [
+    "animation",
+    "documentary",
+    "feature"
+   ],
    "closes": {
     "precision": "day",
     "from": "2026-12-02",
     "to": "2026-12-02",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Final: Dec 2, 2026"
+   "fee": {
+    "amount": 125,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final Deadline: Feature: Fiction, Feature: Documentary, Feature: Animation, Feature: Santa Barbara Filmmaker"
+  },
+  {
+   "festival": "santa-barbara",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "animation",
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-02",
+    "to": "2026-12-02",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 80,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final Deadline: Short: Fiction, Short: Documentary, Short: Animation, Short: Nature, Short: Santa Barbara Filmmaker"
   },
   {
    "festival": "sffilm",
