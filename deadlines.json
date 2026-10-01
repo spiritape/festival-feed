@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-09-30",
+ "generated_on": "2026-10-01",
  "festivals": [
   {
    "id": "academy-canadian-cinema",
@@ -4292,16 +4292,6 @@
    "cycle": 2026
   },
   {
-   "festival": "palm-springs-shortfest",
-   "cycle": 2027,
-   "runs": {
-    "precision": "day",
-    "from": "2027-01-07",
-    "to": "2027-01-18",
-    "approximate": false
-   }
-  },
-  {
    "festival": "pan-african-arts",
    "cycle": 2027,
    "runs": {
@@ -4524,242 +4514,6 @@
   }
  ],
  "deadlines": [
-  {
-   "festival": "ann-arbor",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "documentary",
-    "experimental",
-    "feature",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-08-31",
-    "to": "2026-08-31",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 80,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Experimental (Feature), Experimental Narrative (Feature), Experimental Documentary (Feature), Experimental Animation (Feature), Off the Screen Feature (Performance and Installation)"
-  },
-  {
-   "festival": "ann-arbor",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "documentary",
-    "experimental",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-08-31",
-    "to": "2026-08-31",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 60,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Experimental (Short), Experimental Narrative (Short), Experimental Documentary (Short), Experimental Animation (Short), Off the Screen Short (Performance and Installation)"
-  },
-  {
-   "festival": "iffr-rotterdam",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-08-31",
-    "to": "2026-08-31",
-    "approximate": false,
-    "time": "17:00",
-    "tz": "CEST"
-   },
-   "fee": {
-    "amount": 85,
-    "currency": "EUR",
-    "note": "ex. VAT"
-   },
-   "fee_unknown": false,
-   "note": "Standard fee; features from 64 minutes"
-  },
-  {
-   "festival": "iffr-rotterdam",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-08-31",
-    "to": "2026-08-31",
-    "approximate": false,
-    "time": "17:00",
-    "tz": "CEST"
-   },
-   "fee": {
-    "amount": 55,
-    "currency": "EUR",
-    "note": "ex. VAT"
-   },
-   "fee_unknown": false,
-   "note": "Standard fee; short and mid-length, under 64 minutes"
-  },
-  {
-   "festival": "palm-springs-shortfest",
-   "cycle": 2027,
-   "tier": "final",
-   "categories": [
-    "documentary",
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-08-31",
-    "to": "2026-08-31",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 115,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Final Deadline: International Feature, Documentary Feature, American Feature, After Dark Feature, Local Feature"
-  },
-  {
-   "festival": "riverrun",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "documentary",
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-08-31",
-    "to": "2026-08-31",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 44,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Early Bird Deadline: Narrative Feature, Documentary Feature"
-  },
-  {
-   "festival": "riverrun",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-08-31",
-    "to": "2026-08-31",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 33,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Early Bird Deadline: Narrative Short, Documentary Short, Animated Short"
-  },
-  {
-   "festival": "sebastopol-documentary",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "documentary",
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-08-31",
-    "to": "2026-08-31",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 50,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Documentary Feature"
-  },
-  {
-   "festival": "sebastopol-documentary",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-08-31",
-    "to": "2026-08-31",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 45,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Documentary Short"
-  },
-  {
-   "festival": "sebastopol-documentary",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "documentary"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-08-31",
-    "to": "2026-08-31",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 35,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Documentary Mini- Doc"
-  },
-  {
-   "festival": "sundance",
-   "cycle": 2027,
-   "tier": "late",
-   "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-08-31",
-    "to": "2026-08-31",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 95,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Late Deadline Shorts: U.S. Short Films, International Short Films"
-  },
   {
    "festival": "animation-dingle",
    "cycle": 2027,
@@ -5598,29 +5352,7 @@
    "cycle": 2027,
    "tier": "late",
    "categories": [
-    "documentary",
-    "experimental",
-    "feature",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-30",
-    "to": "2026-09-30",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 100,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Late Deadline: Experimental (Feature), Experimental Narrative (Feature), Experimental Documentary (Feature), Experimental Animation (Feature)"
-  },
-  {
-   "festival": "ann-arbor",
-   "cycle": 2027,
-   "tier": "late",
-   "categories": [
+    "animation",
     "documentary",
     "experimental",
     "short"
@@ -5637,6 +5369,29 @@
    },
    "fee_unknown": false,
    "note": "Late Deadline: Experimental (Short), Experimental Narrative (Short), Experimental Documentary (Short), Experimental Animation (Short)"
+  },
+  {
+   "festival": "ann-arbor",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-30",
+    "to": "2026-09-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 100,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Experimental (Feature), Experimental Narrative (Feature), Experimental Documentary (Feature), Experimental Animation (Feature)"
   },
   {
    "festival": "florida",
@@ -6403,6 +6158,52 @@
    },
    "fee_unknown": false,
    "note": "Regular Deadline: Documentary Feature"
+  },
+  {
+   "festival": "ann-arbor",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-14",
+    "to": "2026-10-14",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 110,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: Experimental (Feature), Experimental Narrative (Feature), Experimental Documentary (Feature), Experimental Animation (Feature)"
+  },
+  {
+   "festival": "ann-arbor",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-14",
+    "to": "2026-10-14",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 90,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: Experimental (Short), Experimental Narrative (Short), Experimental Documentary (Short), Experimental Animation (Short)"
   },
   {
    "festival": "doc-edge",
