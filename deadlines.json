@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-10-01",
+ "generated_on": "2026-10-03",
  "festivals": [
   {
    "id": "academy-canadian-cinema",
@@ -4515,47 +4515,6 @@
  ],
  "deadlines": [
   {
-   "festival": "animation-dingle",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "short",
-    "student"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-02",
-    "to": "2026-09-02",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 25,
-    "currency": "EUR"
-   },
-   "fee_unknown": false,
-   "note": "Earlybird Deadline: Animation Irish Student Short Film, Animation International Student Short Film"
-  },
-  {
-   "festival": "animation-dingle",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-02",
-    "to": "2026-09-02",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 30,
-    "currency": "EUR"
-   },
-   "fee_unknown": false,
-   "note": "Earlybird Deadline: Irish Professional Short Film, International Professional Short Film"
-  },
-  {
    "festival": "new-media",
    "cycle": 2026,
    "tier": "final",
@@ -5311,27 +5270,6 @@
    "tier": "regular",
    "categories": [
     "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-28",
-    "to": "2026-09-28",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 40,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Narrative Short, Documentary Short, Animated Short"
-  },
-  {
-   "festival": "riverrun",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "documentary",
     "feature"
    ],
    "closes": {
@@ -5346,6 +5284,28 @@
    },
    "fee_unknown": false,
    "note": "Regular Deadline: Narrative Feature, Documentary Feature"
+  },
+  {
+   "festival": "riverrun",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "animation",
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-28",
+    "to": "2026-09-28",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Narrative Short, Documentary Short, Animated Short"
   },
   {
    "festival": "ann-arbor",
@@ -6876,6 +6836,7 @@
    "cycle": 2027,
    "tier": "late",
    "categories": [
+    "animation",
     "documentary",
     "short"
    ],
@@ -7887,6 +7848,7 @@
    "cycle": 2027,
    "tier": "final",
    "categories": [
+    "animation",
     "documentary",
     "short"
    ],
