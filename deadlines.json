@@ -3752,7 +3752,7 @@
    "entry": "open",
    "page": "https://vp.eventival.com/trieste/2027",
    "submit": "https://vp.eventival.com/trieste/2027",
-   "website": "https://vp.eventival.com/trieste/2027",
+   "website": "https://triestefilmfestival.it/en/",
    "portal": "eventival",
    "city": "Trieste",
    "country": "Italy",
@@ -4008,6 +4008,10 @@
    }
   },
   {
+   "festival": "anifilm-animated",
+   "cycle": 2027
+  },
+  {
    "festival": "animation-dingle",
    "cycle": 2027,
    "runs": {
@@ -4080,6 +4084,10 @@
   },
   {
    "festival": "berlin-gate",
+   "cycle": 2027
+  },
+  {
+   "festival": "berlin-gate",
    "cycle": 2026
   },
   {
@@ -4091,6 +4099,10 @@
     "to": "2027-02-28",
     "approximate": false
    }
+  },
+  {
+   "festival": "big-sky-documentary",
+   "cycle": 2027
   },
   {
    "festival": "bronzelens",
@@ -4176,6 +4188,14 @@
    }
   },
   {
+   "festival": "documentary-sheffield",
+   "cycle": 2027
+  },
+  {
+   "festival": "fest-new-directors-new-films",
+   "cycle": 2027
+  },
+  {
    "festival": "ficci-cartagena",
    "cycle": 2027,
    "runs": {
@@ -4240,6 +4260,10 @@
    }
   },
   {
+   "festival": "in-palace",
+   "cycle": 2027
+  },
+  {
    "festival": "indy-presented-by",
    "cycle": 2027,
    "runs": {
@@ -4248,6 +4272,14 @@
     "to": "2027-07-25",
     "approximate": false
    }
+  },
+  {
+   "festival": "irish-television-awards",
+   "cycle": 2027
+  },
+  {
+   "festival": "la-shorts-internatio",
+   "cycle": 2027
   },
   {
    "festival": "malaga",
@@ -4392,6 +4424,10 @@
    }
   },
   {
+   "festival": "sedona",
+   "cycle": 2027
+  },
+  {
    "festival": "sffilm",
    "cycle": 2027,
    "runs": {
@@ -4422,6 +4458,10 @@
    }
   },
   {
+   "festival": "st-kilda",
+   "cycle": 2027
+  },
+  {
    "festival": "sundance",
    "cycle": 2027,
    "runs": {
@@ -4440,6 +4480,10 @@
     "to": "2027-03-21",
     "approximate": false
    }
+  },
+  {
+   "festival": "sydney",
+   "cycle": 2027
   },
   {
    "festival": "thomas-edison",
@@ -5181,6 +5225,20 @@
    "note": "Official Deadline: Feature: Fiction, Feature: Documentary, Feature: Animation, Feature: Santa Barbara Filmmaker"
   },
   {
+   "festival": "sedona",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-20",
+    "to": "2026-09-20",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Deadline"
+  },
+  {
    "festival": "sundance",
    "cycle": 2027,
    "tier": "late",
@@ -5645,6 +5703,19 @@
    "note": "Earlybird Deadline: Documentary (short subject), Narrative (short subject)"
   },
   {
+   "festival": "in-palace",
+   "cycle": 2027,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-01",
+    "to": "2026-10-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "DEADLINE"
+  },
+  {
    "festival": "phoenix",
    "cycle": 2027,
    "tier": "regular",
@@ -5812,6 +5883,20 @@
    "note": "Final Deadline; narrative, documentary or animated short"
   },
   {
+   "festival": "big-sky-documentary",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-02",
+    "to": "2026-10-02",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Deadline"
+  },
+  {
    "festival": "hollyshorts",
    "cycle": 2026,
    "tier": "extended",
@@ -5941,6 +6026,20 @@
    "note": "Pre Earlybird Deadline: Feature: Georgia Production, Short Film: Georgia Production, Short Film: Student, Documentary: Georgia Production, Short Documentary: Georgia Production"
   },
   {
+   "festival": "berlin-gate",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-05",
+    "to": "2026-10-05",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Deadline"
+  },
+  {
    "festival": "slamdance",
    "cycle": 2027,
    "tier": "extended",
@@ -6063,6 +6162,19 @@
    "note": "Oct 7, 2026"
   },
   {
+   "festival": "irish-television-awards",
+   "cycle": 2027,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-09",
+    "to": "2026-10-09",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "SUBMISSIONS DEADLINE"
+  },
+  {
    "festival": "amdocs-american-documentary",
    "cycle": 2027,
    "tier": "regular",
@@ -6124,6 +6236,20 @@
    },
    "fee_unknown": false,
    "note": "Regular Deadline: Documentary Short, Animated Work"
+  },
+  {
+   "festival": "fest-new-directors-new-films",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-13",
+    "to": "2026-10-13",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Deadline"
   },
   {
    "festival": "ann-arbor",
@@ -6822,6 +6948,34 @@
    "note": "Early Bird: First Feature, Animated Feature (Non Competition)"
   },
   {
+   "festival": "berlin-gate",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-01",
+    "to": "2026-11-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Deadline"
+  },
+  {
+   "festival": "sedona",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-01",
+    "to": "2026-11-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Deadline"
+  },
+  {
    "festival": "riverrun",
    "cycle": 2027,
    "tier": "late",
@@ -7426,6 +7580,20 @@
    "note": "Late Oct 21 / Final Nov 18, 2026"
   },
   {
+   "festival": "documentary-sheffield",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-20",
+    "to": "2026-11-20",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Early Deadline"
+  },
+  {
    "festival": "florida",
    "cycle": 2027,
    "tier": "late",
@@ -7468,6 +7636,20 @@
    },
    "fee_unknown": false,
    "note": "Late Deadline: Narrative Shorts, Documentary Shorts, International Shorts, Animation Shorts, Experimental Shorts"
+  },
+  {
+   "festival": "la-shorts-internatio",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-20",
+    "to": "2026-11-20",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Deadline"
   },
   {
    "festival": "ashland-independent",
@@ -7758,6 +7940,20 @@
    },
    "fee_unknown": true,
    "note": "Earlybird Deadline"
+  },
+  {
+   "festival": "ashland-independent",
+   "cycle": 2027,
+   "ordinal": 26,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-01",
+    "to": "2026-12-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "LOCAL LENS DEADLINE"
   },
   {
    "festival": "malaga",
@@ -8227,6 +8423,33 @@
    "note": "Accepting through ~Dec 15, 2026"
   },
   {
+   "festival": "la-shorts-internatio",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-18",
+    "to": "2026-12-18",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Extended Deadline"
+  },
+  {
+   "festival": "anifilm-animated",
+   "cycle": 2027,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-31",
+    "to": "2026-12-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "the application submission deadline"
+  },
+  {
    "festival": "bronzelens",
    "cycle": 2027,
    "tier": "early",
@@ -8396,6 +8619,20 @@
    },
    "fee_unknown": false,
    "note": "Late Deadline: Documentary Feature, Narrative Feature"
+  },
+  {
+   "festival": "st-kilda",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-31",
+    "to": "2026-12-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Early-bird deadline"
   },
   {
    "festival": "voyage-in-time-paris",
@@ -8766,6 +9003,48 @@
    "note": "Late Deadline: Short Film, Animation, Feature Film"
   },
   {
+   "festival": "la-shorts-internatio",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-22",
+    "to": "2027-01-22",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Deadline"
+  },
+  {
+   "festival": "fest-new-directors-new-films",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-27",
+    "to": "2027-01-27",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Extended Deadline"
+  },
+  {
+   "festival": "documentary-sheffield",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-29",
+    "to": "2027-01-29",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Standard Deadline"
+  },
+  {
    "festival": "hollyshorts",
    "cycle": 2027,
    "tier": "early",
@@ -8957,6 +9236,19 @@
    },
    "fee_unknown": false,
    "note": "Regular Deadline: Narrative Short, Documentary Short, Animated Short"
+  },
+  {
+   "festival": "st-kilda",
+   "cycle": 2027,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-31",
+    "to": "2027-01-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Submissions close"
   },
   {
    "festival": "bali",
@@ -9205,6 +9497,20 @@
    "note": "Regular Deadline: Horror Short, Indiana Spotlight Narrative Short, Indiana Spotlight Documentary Short, Indiana Spotlight Animated Short"
   },
   {
+   "festival": "documentary-sheffield",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-19",
+    "to": "2027-02-19",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Deadline"
+  },
+  {
    "festival": "sarasota",
    "cycle": 2027,
    "tier": "final",
@@ -9258,6 +9564,19 @@
    },
    "fee_unknown": true,
    "note": "Feb 20, 2027"
+  },
+  {
+   "festival": "sydney",
+   "cycle": 2027,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-26",
+    "to": "2027-02-26",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Closing date for all entries"
   },
   {
    "festival": "chicago-underground",
