@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-10-03",
+ "generated_on": "2026-10-05",
  "festivals": [
   {
    "id": "academy-canadian-cinema",
@@ -4747,26 +4747,6 @@
    "cycle": 2027,
    "tier": "regular",
    "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-11",
-    "to": "2026-09-11",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 45,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Animated Short"
-  },
-  {
-   "festival": "atlanta",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
     "documentary",
     "short"
    ],
@@ -4824,6 +4804,27 @@
    },
    "fee_unknown": false,
    "note": "Regular Deadline: Documentary Feature"
+  },
+  {
+   "festival": "atlanta",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "animation",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-11",
+    "to": "2026-09-11",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Animated Short"
   },
   {
    "festival": "hollyshorts",
@@ -4886,6 +4887,7 @@
    "cycle": 2027,
    "tier": "late",
    "categories": [
+    "animation",
     "documentary",
     "experimental",
     "short"
@@ -5398,67 +5400,6 @@
    "note": "Earlybird Deadline: Narrative Features, Documentary Features, International Features, Animation Features"
   },
   {
-   "festival": "friss-hus-budapest",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-30",
-    "to": "2026-09-30",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 17,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: International Competition - ANIMATION"
-  },
-  {
-   "festival": "friss-hus-budapest",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-30",
-    "to": "2026-09-30",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 15,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: LGBTQ Shorts, Horror Shorts"
-  },
-  {
-   "festival": "friss-hus-budapest",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-30",
-    "to": "2026-09-30",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 23,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Hungarian Competition - ANIMATION, International Competition - DOCUMENTARY, Hungarian Competition - DOCUMENTARY"
-  },
-  {
    "festival": "portland",
    "cycle": 2027,
    "categories": [
@@ -5892,6 +5833,69 @@
    "note": "Extended Deadline: UK short films, International Short Films, Student Short Films, Sports short films"
   },
   {
+   "festival": "friss-hus-budapest",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-03",
+    "to": "2026-10-03",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 15,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: LGBTQ Shorts, Horror Shorts"
+  },
+  {
+   "festival": "friss-hus-budapest",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "animation",
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-03",
+    "to": "2026-10-03",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 23,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Hungarian Competition - ANIMATION, International Competition - DOCUMENTARY, Hungarian Competition - DOCUMENTARY"
+  },
+  {
+   "festival": "friss-hus-budapest",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "animation",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-03",
+    "to": "2026-10-03",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 17,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: International Competition - ANIMATION"
+  },
+  {
    "festival": "bronzelens",
    "cycle": 2027,
    "tier": "early",
@@ -5962,6 +5966,7 @@
    "cycle": 2027,
    "tier": "extended",
    "categories": [
+    "animation",
     "documentary",
     "experimental",
     "short"
@@ -6062,27 +6067,6 @@
    "cycle": 2027,
    "tier": "regular",
    "categories": [
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-11",
-    "to": "2026-10-11",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 40,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Documentary Short, Animated Work"
-  },
-  {
-   "festival": "amdocs-american-documentary",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
     "documentary"
    ],
    "closes": {
@@ -6118,6 +6102,28 @@
    },
    "fee_unknown": false,
    "note": "Regular Deadline: Documentary Feature"
+  },
+  {
+   "festival": "amdocs-american-documentary",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "animation",
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-11",
+    "to": "2026-10-11",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Documentary Short, Animated Work"
   },
   {
    "festival": "ann-arbor",
@@ -6337,27 +6343,6 @@
    "cycle": 2027,
    "tier": "late",
    "categories": [
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-16",
-    "to": "2026-10-16",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 65,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Late Deadline: Documentary Short, Animated Short"
-  },
-  {
-   "festival": "atlanta",
-   "cycle": 2027,
-   "tier": "late",
-   "categories": [
     "experimental",
     "short"
    ],
@@ -6373,6 +6358,28 @@
    },
    "fee_unknown": false,
    "note": "Late Deadline: Experimental Short"
+  },
+  {
+   "festival": "atlanta",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "animation",
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-16",
+    "to": "2026-10-16",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 65,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Documentary Short, Animated Short"
   },
   {
    "festival": "ashland-independent",
@@ -6589,6 +6596,27 @@
    "cycle": 2027,
    "tier": "extended",
    "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-31",
+    "to": "2026-10-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 17,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: LGBTQ Shorts, Horror Shorts"
+  },
+  {
+   "festival": "friss-hus-budapest",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "animation",
     "documentary",
     "short"
    ],
@@ -6610,6 +6638,7 @@
    "cycle": 2027,
    "tier": "extended",
    "categories": [
+    "animation",
     "short"
    ],
    "closes": {
@@ -6624,68 +6653,6 @@
    },
    "fee_unknown": false,
    "note": "Extended Deadline: International Competition - ANIMATION"
-  },
-  {
-   "festival": "friss-hus-budapest",
-   "cycle": 2027,
-   "tier": "extended",
-   "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-31",
-    "to": "2026-10-31",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 17,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Extended Deadline: LGBTQ Shorts, Horror Shorts"
-  },
-  {
-   "festival": "sidewalk",
-   "cycle": 2027,
-   "categories": [
-    "documentary",
-    "short",
-    "student"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-31",
-    "to": "2026-10-31",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 25,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Magic Deadline: Narrative Short, Documentary Short, Animated Short, Collegiate+ Student Short"
-  },
-  {
-   "festival": "sidewalk",
-   "cycle": 2027,
-   "categories": [
-    "documentary",
-    "feature",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-31",
-    "to": "2026-10-31",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 35,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Magic Deadline: Narrative Feature, Documentary Feature, Animated Feature"
   },
   {
    "festival": "sidewalk",
@@ -6708,17 +6675,18 @@
    "note": "Magic Deadline: K-12 Student Short"
   },
   {
-   "festival": "bali",
+   "festival": "sidewalk",
    "cycle": 2027,
-   "tier": "early",
    "categories": [
+    "animation",
     "documentary",
-    "short"
+    "short",
+    "student"
    ],
    "closes": {
     "precision": "day",
-    "from": "2026-11-01",
-    "to": "2026-11-01",
+    "from": "2026-10-31",
+    "to": "2026-10-31",
     "approximate": false
    },
    "fee": {
@@ -6726,7 +6694,28 @@
     "currency": "USD"
    },
    "fee_unknown": false,
-   "note": "Early Bird: Short Narrative, Short Documentary, Short Animation"
+   "note": "Magic Deadline: Narrative Short, Documentary Short, Animated Short, Collegiate+ Student Short"
+  },
+  {
+   "festival": "sidewalk",
+   "cycle": 2027,
+   "categories": [
+    "animation",
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-31",
+    "to": "2026-10-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Magic Deadline: Narrative Feature, Documentary Feature, Animated Feature"
   },
   {
    "festival": "bali",
@@ -6747,27 +6736,6 @@
    },
    "fee_unknown": false,
    "note": "Early Bird: Indonesian (WNI) Feature Film"
-  },
-  {
-   "festival": "bali",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "feature",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-11-01",
-    "to": "2026-11-01",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 35,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Early Bird: First Feature, Animated Feature (Non Competition)"
   },
   {
    "festival": "bali",
@@ -6809,6 +6777,49 @@
    },
    "fee_unknown": false,
    "note": "Early Bird: Narrative Feature, Documentary Feature"
+  },
+  {
+   "festival": "bali",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "animation",
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-01",
+    "to": "2026-11-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 25,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird: Short Narrative, Short Documentary, Short Animation"
+  },
+  {
+   "festival": "bali",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "animation",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-01",
+    "to": "2026-11-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird: First Feature, Animated Feature (Non Competition)"
   },
   {
    "festival": "riverrun",
@@ -7127,6 +7138,7 @@
    "cycle": 2027,
    "tier": "extended",
    "categories": [
+    "animation",
     "documentary",
     "short"
    ],
@@ -7617,49 +7629,6 @@
    "cycle": 2027,
    "tier": "early",
    "categories": [
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-11-30",
-    "to": "2026-11-30",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 30,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Early Bird Deadline: Narrative Short, Documentary Short, Animated Short"
-  },
-  {
-   "festival": "sidewalk",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "documentary",
-    "feature",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-11-30",
-    "to": "2026-11-30",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 40,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Early Bird Deadline: Narrative Feature, Documentary Feature, Animated Feature"
-  },
-  {
-   "festival": "sidewalk",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
     "short",
     "student"
    ],
@@ -7696,6 +7665,50 @@
    },
    "fee_unknown": false,
    "note": "Early Bird Deadline: Collegiate+ Student Short"
+  },
+  {
+   "festival": "sidewalk",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "animation",
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-30",
+    "to": "2026-11-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird Deadline: Narrative Feature, Documentary Feature, Animated Feature"
+  },
+  {
+   "festival": "sidewalk",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "animation",
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-30",
+    "to": "2026-11-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 30,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird Deadline: Narrative Short, Documentary Short, Animated Short"
   },
   {
    "festival": "voyage-in-time-fest",
@@ -7955,6 +7968,27 @@
    "cycle": 2027,
    "tier": "final",
    "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-10",
+    "to": "2026-12-10",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 20,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final Deadline: LGBTQ Shorts, Horror Shorts"
+  },
+  {
+   "festival": "friss-hus-budapest",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "animation",
     "documentary",
     "short"
    ],
@@ -7976,6 +8010,7 @@
    "cycle": 2027,
    "tier": "final",
    "categories": [
+    "animation",
     "short"
    ],
    "closes": {
@@ -7990,26 +8025,6 @@
    },
    "fee_unknown": false,
    "note": "Final Deadline: International Competition - ANIMATION"
-  },
-  {
-   "festival": "friss-hus-budapest",
-   "cycle": 2027,
-   "tier": "final",
-   "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-12-10",
-    "to": "2026-12-10",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 20,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Final Deadline: LGBTQ Shorts, Horror Shorts"
   },
   {
    "festival": "phoenix",
@@ -8180,6 +8195,7 @@
    "cycle": 2027,
    "tier": "late",
    "categories": [
+    "animation",
     "documentary",
     "short"
    ],
@@ -8421,27 +8437,6 @@
    "cycle": 2027,
    "tier": "regular",
    "categories": [
-    "feature",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2027-01-01",
-    "to": "2027-01-01",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 50,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular: First Feature, Animated Feature (Non Competition)"
-  },
-  {
-   "festival": "bali",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
     "short"
    ],
    "closes": {
@@ -8482,6 +8477,7 @@
    "cycle": 2027,
    "tier": "regular",
    "categories": [
+    "animation",
     "documentary",
     "short"
    ],
@@ -8497,6 +8493,27 @@
    },
    "fee_unknown": false,
    "note": "Regular: Short Narrative, Short Documentary, Short Animation"
+  },
+  {
+   "festival": "bali",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "animation",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-01",
+    "to": "2027-01-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular: First Feature, Animated Feature (Non Competition)"
   },
   {
    "festival": "chicago-underground",
@@ -8583,6 +8600,7 @@
    "cycle": 2027,
    "tier": "extended",
    "categories": [
+    "animation",
     "documentary",
     "short"
    ],
@@ -8859,28 +8877,6 @@
    "cycle": 2027,
    "tier": "regular",
    "categories": [
-    "documentary",
-    "feature",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2027-01-31",
-    "to": "2027-01-31",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 45,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Narrative Feature, Documentary Feature, Animated Feature"
-  },
-  {
-   "festival": "sidewalk",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
     "short",
     "student"
    ],
@@ -8923,6 +8919,29 @@
    "cycle": 2027,
    "tier": "regular",
    "categories": [
+    "animation",
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-31",
+    "to": "2027-01-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Narrative Feature, Documentary Feature, Animated Feature"
+  },
+  {
+   "festival": "sidewalk",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "animation",
     "documentary",
     "short"
    ],
@@ -8964,48 +8983,6 @@
    "cycle": 2027,
    "tier": "late",
    "categories": [
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2027-02-01",
-    "to": "2027-02-01",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 45,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Late: Short Narrative, Short Documentary, Short Animation"
-  },
-  {
-   "festival": "bali",
-   "cycle": 2027,
-   "tier": "late",
-   "categories": [
-    "feature",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2027-02-01",
-    "to": "2027-02-01",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 60,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Late: First Feature, Animated Feature (Non Competition)"
-  },
-  {
-   "festival": "bali",
-   "cycle": 2027,
-   "tier": "late",
-   "categories": [
     "short"
    ],
    "closes": {
@@ -9041,6 +9018,49 @@
    },
    "fee_unknown": false,
    "note": "Late: Narrative Feature, Documentary Feature"
+  },
+  {
+   "festival": "bali",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "animation",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-01",
+    "to": "2027-02-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late: First Feature, Animated Feature (Non Competition)"
+  },
+  {
+   "festival": "bali",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "animation",
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-01",
+    "to": "2027-02-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late: Short Narrative, Short Documentary, Short Animation"
   },
   {
    "festival": "chicago-underground",
@@ -9331,48 +9351,6 @@
    "cycle": 2027,
    "tier": "final",
    "categories": [
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2027-03-01",
-    "to": "2027-03-01",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 55,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Final: Short Narrative, Short Documentary, Short Animation"
-  },
-  {
-   "festival": "bali",
-   "cycle": 2027,
-   "tier": "final",
-   "categories": [
-    "feature",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2027-03-01",
-    "to": "2027-03-01",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 70,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Final: First Feature, Animated Feature (Non Competition)"
-  },
-  {
-   "festival": "bali",
-   "cycle": 2027,
-   "tier": "final",
-   "categories": [
     "short"
    ],
    "closes": {
@@ -9428,6 +9406,49 @@
    },
    "fee_unknown": false,
    "note": "Final: Indonesian (WNI) Feature Film"
+  },
+  {
+   "festival": "bali",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "animation",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-03-01",
+    "to": "2027-03-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 70,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final: First Feature, Animated Feature (Non Competition)"
+  },
+  {
+   "festival": "bali",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "animation",
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-03-01",
+    "to": "2027-03-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 55,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final: Short Narrative, Short Documentary, Short Animation"
   },
   {
    "festival": "indy-presented-by",
@@ -9490,49 +9511,6 @@
    "cycle": 2027,
    "tier": "late",
    "categories": [
-    "documentary",
-    "feature",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2027-03-14",
-    "to": "2027-03-14",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 55,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Late Deadline: Narrative Feature, Documentary Feature, Animated Feature"
-  },
-  {
-   "festival": "sidewalk",
-   "cycle": 2027,
-   "tier": "late",
-   "categories": [
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2027-03-14",
-    "to": "2027-03-14",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 40,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Late Deadline: Narrative Short, Documentary Short, Animated Short"
-  },
-  {
-   "festival": "sidewalk",
-   "cycle": 2027,
-   "tier": "late",
-   "categories": [
     "short",
     "student"
    ],
@@ -9569,6 +9547,50 @@
    },
    "fee_unknown": false,
    "note": "Late Deadline: Collegiate+ Student Short"
+  },
+  {
+   "festival": "sidewalk",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "animation",
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-03-14",
+    "to": "2027-03-14",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 55,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Narrative Feature, Documentary Feature, Animated Feature"
+  },
+  {
+   "festival": "sidewalk",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "animation",
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-03-14",
+    "to": "2027-03-14",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Narrative Short, Documentary Short, Animated Short"
   },
   {
    "festival": "run-shoot-filmworks",
@@ -9902,49 +9924,6 @@
    "cycle": 2027,
    "tier": "extended",
    "categories": [
-    "documentary",
-    "feature",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2027-04-30",
-    "to": "2027-04-30",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 70,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Extended Deadline: Narrative Feature, Documentary Feature, Animated Feature"
-  },
-  {
-   "festival": "sidewalk",
-   "cycle": 2027,
-   "tier": "extended",
-   "categories": [
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2027-04-30",
-    "to": "2027-04-30",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 50,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Extended Deadline: Narrative Short, Documentary Short, Animated Short"
-  },
-  {
-   "festival": "sidewalk",
-   "cycle": 2027,
-   "tier": "extended",
-   "categories": [
     "short",
     "student"
    ],
@@ -9981,6 +9960,50 @@
    },
    "fee_unknown": false,
    "note": "Extended Deadline: Collegiate+ Student Short"
+  },
+  {
+   "festival": "sidewalk",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "animation",
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-04-30",
+    "to": "2027-04-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 70,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: Narrative Feature, Documentary Feature, Animated Feature"
+  },
+  {
+   "festival": "sidewalk",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "animation",
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-04-30",
+    "to": "2027-04-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: Narrative Short, Documentary Short, Animated Short"
   },
   {
    "festival": "hollyshorts",
