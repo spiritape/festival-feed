@@ -9,7 +9,8 @@
    "page": "https://www.25fps.hr/en",
    "website": "https://www.25fps.hr/en",
    "city": "Zagreb",
-   "country": "Croatia"
+   "country": "Croatia",
+   "logo": "logos/25fps-zagreb.png"
   },
   {
    "id": "academy-canadian-cinema",
@@ -36,7 +37,8 @@
    "page": "https://www.adelaidefilmfestival.org/",
    "website": "https://www.adelaidefilmfestival.org/",
    "city": "Adelaide",
-   "country": "Australia"
+   "country": "Australia",
+   "logo": "logos/adelaide.png"
   },
   {
    "id": "afi",
@@ -66,7 +68,8 @@
    "website": "https://www.alchemyfilmandarts.org.uk/",
    "portal": "filmfreeway",
    "city": "Hawick",
-   "country": "United Kingdom"
+   "country": "United Kingdom",
+   "logo": "logos/alchemy.png"
   },
   {
    "id": "alcine-cine-alcala",
@@ -379,7 +382,8 @@
    "page": "https://aiff.gr/",
    "website": "https://aiff.gr/",
    "city": "Athens",
-   "country": "Greece"
+   "country": "Greece",
+   "logo": "logos/athens-aiff.png"
   },
   {
    "id": "athens-video",
@@ -549,7 +553,8 @@
    "page": "https://www.berlinfest.com/",
    "website": "https://www.berlinfest.com/",
    "city": "Berlin",
-   "country": "Germany"
+   "country": "Germany",
+   "logo": "logos/berlin-independent.png"
   },
   {
    "id": "berlinale",
@@ -577,7 +582,8 @@
    "page": "https://www.bfi.org.uk/london-film-festival",
    "website": "https://www.bfi.org.uk/london-film-festival",
    "city": "London",
-   "country": "United Kingdom"
+   "country": "United Kingdom",
+   "logo": "logos/bfi-london.png"
   },
   {
    "id": "big-sky-documentary",
@@ -711,7 +717,8 @@
    "page": "https://www.brusselsfilmfestival.org/",
    "website": "https://www.brusselsfilmfestival.org/",
    "city": "Brussels",
-   "country": "Belgium"
+   "country": "Belgium",
+   "logo": "logos/brussels-independent.png"
   },
   {
    "id": "bucheon-animation",
@@ -820,7 +827,8 @@
    "page": "https://www.cambridgefilmfestival.org.uk/",
    "website": "https://www.cambridgefilmfestival.org.uk/",
    "city": "Cambridge",
-   "country": "United Kingdom"
+   "country": "United Kingdom",
+   "logo": "logos/cambridge-uk.png"
   },
   {
    "id": "camden",
@@ -848,7 +856,8 @@
    "page": "https://ciff.com.au/",
    "website": "https://ciff.com.au/",
    "city": "Canberra",
-   "country": "Australia"
+   "country": "Australia",
+   "logo": "logos/canberra.png"
   },
   {
    "id": "cannes",
@@ -876,7 +885,8 @@
    "page": "https://www.champselyseesfilmfestival.com/",
    "website": "https://www.champselyseesfilmfestival.com/",
    "city": "Paris",
-   "country": "France"
+   "country": "France",
+   "logo": "logos/champs-elysees.png"
   },
   {
    "id": "chicago",
@@ -897,7 +907,8 @@
     ],
     "year": 2027
    },
-   "moviemaker_year": 2026
+   "moviemaker_year": 2026,
+   "logo": "logos/chicago.png"
   },
   {
    "id": "chicago-childrens",
@@ -1062,7 +1073,8 @@
    "submit": "https://www.courtisane.be/en/node/4504",
    "website": "https://www.courtisane.be/",
    "city": "Ghent",
-   "country": "Belgium"
+   "country": "Belgium",
+   "logo": "logos/courtisane.png"
   },
   {
    "id": "cph-dox",
@@ -1071,7 +1083,8 @@
    "page": "https://cphdox.dk/",
    "website": "https://cphdox.dk/",
    "city": "Copenhagen",
-   "country": "Denmark"
+   "country": "Denmark",
+   "logo": "logos/cph-dox.png"
   },
   {
    "id": "crossroads-sf",
@@ -1081,7 +1094,8 @@
    "website": "https://www.sfcinematheque.org/crossroads/",
    "city": "San Francisco",
    "region": "CA",
-   "country": "United States"
+   "country": "United States",
+   "logo": "logos/crossroads-sf.png"
   },
   {
    "id": "cucalorus",
@@ -1367,7 +1381,8 @@
    "page": "https://www.diff.ie/",
    "website": "https://www.diff.ie/",
    "city": "Dublin",
-   "country": "Ireland"
+   "country": "Ireland",
+   "logo": "logos/dublin.png"
   },
   {
    "id": "durban",
@@ -1453,7 +1468,8 @@
    "website": "https://www.emaf.de/en/",
    "portal": "own",
    "city": "Osnabrück",
-   "country": "Germany"
+   "country": "Germany",
+   "logo": "logos/emaf.png"
   },
   {
    "id": "energacamerimage",
@@ -1562,7 +1578,8 @@
    "page": "https://fest.rs/",
    "website": "https://fest.rs/",
    "city": "Belgrade",
-   "country": "Serbia"
+   "country": "Serbia",
+   "logo": "logos/fest-belgrade.png"
   },
   {
    "id": "fest-new-directors-new-films",
@@ -1583,7 +1600,8 @@
    "page": "https://www.festivaldorio.com.br/",
    "website": "https://www.festivaldorio.com.br/",
    "city": "Rio de Janeiro",
-   "country": "Brazil"
+   "country": "Brazil",
+   "logo": "logos/festival-do-rio.png"
   },
   {
    "id": "ficci-cartagena",
@@ -1611,7 +1629,8 @@
    "page": "https://ficunam.unam.mx/",
    "website": "https://ficunam.unam.mx/",
    "city": "Mexico City",
-   "country": "Mexico"
+   "country": "Mexico",
+   "logo": "logos/ficunam.png"
   },
   {
    "id": "ficvaldivia",
@@ -1662,7 +1681,8 @@
    "page": "https://www.filmfesthamburg.de/en/",
    "website": "https://www.filmfesthamburg.de/en/",
    "city": "Hamburg",
-   "country": "Germany"
+   "country": "Germany",
+   "logo": "logos/filmfest-hamburg.png"
   },
   {
    "id": "filmfest-munchen",
@@ -1671,7 +1691,8 @@
    "page": "https://www.filmfest-muenchen.de/en/",
    "website": "https://www.filmfest-muenchen.de/en/",
    "city": "Munich",
-   "country": "Germany"
+   "country": "Germany",
+   "logo": "logos/filmfest-munchen.png"
   },
   {
    "id": "filmquest",
@@ -1984,7 +2005,8 @@
    "page": "https://habanafilmfestival.com/",
    "website": "https://habanafilmfestival.com/",
    "city": "Havana",
-   "country": "Cuba"
+   "country": "Cuba",
+   "logo": "logos/havana.png"
   },
   {
    "id": "hawaii",
@@ -2026,7 +2048,8 @@
    "page": "https://hiff.fi/",
    "website": "https://hiff.fi/",
    "city": "Helsinki",
-   "country": "Finland"
+   "country": "Finland",
+   "logo": "logos/helsinki-love-anarchy.png"
   },
   {
    "id": "hiro-shima-animation",
@@ -2125,7 +2148,8 @@
    "page": "https://festicinehuelva.com/",
    "website": "https://festicinehuelva.com/",
    "city": "Huelva",
-   "country": "Spain"
+   "country": "Spain",
+   "logo": "logos/huelva.png"
   },
   {
    "id": "huesca",
@@ -2168,7 +2192,8 @@
    "page": "https://iffartfilm.com/en/",
    "website": "https://iffartfilm.com/en/",
    "city": "Košice",
-   "country": "Slovakia"
+   "country": "Slovakia",
+   "logo": "logos/iff-art-film.png"
   },
   {
    "id": "iff-boston",
@@ -2178,7 +2203,8 @@
    "website": "https://iffboston.org/",
    "city": "Boston",
    "region": "MA",
-   "country": "United States"
+   "country": "United States",
+   "logo": "logos/iff-boston.png"
   },
   {
    "id": "iffi-goa",
@@ -2187,7 +2213,8 @@
    "page": "https://www.iffigoa.org/",
    "website": "https://www.iffigoa.org/",
    "city": "Panaji",
-   "country": "India"
+   "country": "India",
+   "logo": "logos/iffi-goa.png"
   },
   {
    "id": "iffr-rotterdam",
@@ -2208,7 +2235,8 @@
    "submit": "https://imagesfestival.com/submissions",
    "website": "https://imagesfestival.com/",
    "city": "Toronto",
-   "country": "Canada"
+   "country": "Canada",
+   "logo": "logos/images-toronto.png"
   },
   {
    "id": "imaginaria",
@@ -2268,7 +2296,8 @@
    "website": "https://indiememphis.org/",
    "city": "Memphis",
    "region": "TN",
-   "country": "United States"
+   "country": "United States",
+   "logo": "logos/indie-memphis.png"
   },
   {
    "id": "indielisboa",
@@ -2277,7 +2306,8 @@
    "page": "https://indielisboa.com/",
    "website": "https://indielisboa.com/",
    "city": "Lisbon",
-   "country": "Portugal"
+   "country": "Portugal",
+   "logo": "logos/indielisboa.png"
   },
   {
    "id": "indy-presented-by",
@@ -2388,7 +2418,8 @@
    "page": "https://film.iksv.org/en",
    "website": "https://film.iksv.org/en",
    "city": "Istanbul",
-   "country": "Turkey"
+   "country": "Turkey",
+   "logo": "logos/istanbul.png"
   },
   {
    "id": "its-all-true",
@@ -2491,7 +2522,8 @@
    "page": "https://www.kasselerdokfest.de/en/",
    "website": "https://www.kasselerdokfest.de/en/",
    "city": "Kassel",
-   "country": "Germany"
+   "country": "Germany",
+   "logo": "logos/kasseler-dokfest.png"
   },
   {
    "id": "krakow",
@@ -2555,7 +2587,8 @@
    "page": "https://alternativa.cccb.org/",
    "website": "https://alternativa.cccb.org/",
    "city": "Barcelona",
-   "country": "Spain"
+   "country": "Spain",
+   "logo": "logos/lalternativa-barcelona.png"
   },
   {
    "id": "leeds",
@@ -2648,7 +2681,8 @@
    "page": "https://liff.org/",
    "website": "https://liff.org/",
    "city": "London",
-   "country": "United Kingdom"
+   "country": "United Kingdom",
+   "logo": "logos/london-independent.png"
   },
   {
    "id": "louisiana-film-prize",
@@ -2681,7 +2715,8 @@
    "page": "https://www.mumbaifilmfestival.com/",
    "website": "https://www.mumbaifilmfestival.com/",
    "city": "Mumbai",
-   "country": "India"
+   "country": "India",
+   "logo": "logos/mami-mumbai.png"
   },
   {
    "id": "mammoth-lakes",
@@ -2719,7 +2754,8 @@
    "page": "https://www.iffmh.de/",
    "website": "https://www.iffmh.de/",
    "city": "Mannheim",
-   "country": "Germany"
+   "country": "Germany",
+   "logo": "logos/mannheim-heidelberg.png"
   },
   {
    "id": "mar-del-plata",
@@ -2752,7 +2788,8 @@
    "page": "https://www.mediacityfilmfestival.com/",
    "website": "https://www.mediacityfilmfestival.com/",
    "city": "Windsor",
-   "country": "Canada"
+   "country": "Canada",
+   "logo": "logos/media-city.png"
   },
   {
    "id": "melbourne",
@@ -2779,7 +2816,8 @@
    "page": "https://msfilmfestival.fi/",
    "website": "https://msfilmfestival.fi/",
    "city": "Sodankylä",
-   "country": "Finland"
+   "country": "Finland",
+   "logo": "logos/midnight-sun.png"
   },
   {
    "id": "milano-film-fest",
@@ -2788,7 +2826,8 @@
    "page": "https://milanofilmfest.it/",
    "website": "https://milanofilmfest.it/",
    "city": "Milan",
-   "country": "Italy"
+   "country": "Italy",
+   "logo": "logos/milano-film-fest.png"
   },
   {
    "id": "milwaukee",
@@ -2810,7 +2849,8 @@
    "page": "https://www.molodist.com/",
    "website": "https://www.molodist.com/",
    "city": "Kyiv",
-   "country": "Ukraine"
+   "country": "Ukraine",
+   "logo": "logos/molodist-kyiv.png"
   },
   {
    "id": "mono-no-aware",
@@ -2821,7 +2861,8 @@
    "website": "https://www.mononoawarefilm.com/",
    "city": "Brooklyn",
    "region": "NY",
-   "country": "United States"
+   "country": "United States",
+   "logo": "logos/mono-no-aware.png"
   },
   {
    "id": "montclair",
@@ -2831,7 +2872,8 @@
    "website": "https://www.montclairfilm.org/",
    "city": "Montclair",
    "region": "NJ",
-   "country": "United States"
+   "country": "United States",
+   "logo": "logos/montclair.png"
   },
   {
    "id": "morelia",
@@ -2858,7 +2900,8 @@
    "page": "https://mostra.org/",
    "website": "https://mostra.org/",
    "city": "São Paulo",
-   "country": "Brazil"
+   "country": "Brazil",
+   "logo": "logos/mostra-sao-paulo.png"
   },
   {
    "id": "motelx-lisbon",
@@ -3054,7 +3097,8 @@
    "website": "https://newportbeachfilmfest.com/",
    "city": "Newport Beach",
    "region": "CA",
-   "country": "United States"
+   "country": "United States",
+   "logo": "logos/newport-beach.png"
   },
   {
    "id": "nordisk-panorama",
@@ -3117,7 +3161,8 @@
    "page": "https://www.nziff.co.nz/",
    "website": "https://www.nziff.co.nz/",
    "city": "Auckland",
-   "country": "New Zealand"
+   "country": "New Zealand",
+   "logo": "logos/nziff.png"
   },
   {
    "id": "oberhausen",
@@ -3144,7 +3189,8 @@
    "page": "https://oiff.com.ua/",
    "website": "https://oiff.com.ua/",
    "city": "Odesa",
-   "country": "Ukraine"
+   "country": "Ukraine",
+   "logo": "logos/odesa.png"
   },
   {
    "id": "off-odense",
@@ -3258,7 +3304,8 @@
    "website": "https://www.overlookfilmfest.com/",
    "city": "New Orleans",
    "region": "LA",
-   "country": "United States"
+   "country": "United States",
+   "logo": "logos/overlook.png"
   },
   {
    "id": "oxford-ms",
@@ -3268,7 +3315,8 @@
    "website": "https://www.ox-film.com/",
    "city": "Oxford",
    "region": "MS",
-   "country": "United States"
+   "country": "United States",
+   "logo": "logos/oxford-ms.png"
   },
   {
    "id": "palm-springs-shortfest",
@@ -3377,7 +3425,8 @@
    "page": "https://www.prague-film-festival.com/",
    "website": "https://www.prague-film-festival.com/",
    "city": "Prague",
-   "country": "Czech Republic"
+   "country": "Czech Republic",
+   "logo": "logos/prague-independent.png"
   },
   {
    "id": "premi-david-donatello",
@@ -3405,7 +3454,8 @@
    "website": "https://www.prismaticground.com/",
    "city": "New York",
    "region": "NY",
-   "country": "United States"
+   "country": "United States",
+   "logo": "logos/prismatic-ground.png"
   },
   {
    "id": "provincetown",
@@ -3489,7 +3539,8 @@
    "website": "https://film-festival.org/",
    "city": "Providence",
    "region": "RI",
-   "country": "United States"
+   "country": "United States",
+   "logo": "logos/rhode-island.png"
   },
   {
    "id": "riga",
@@ -3498,7 +3549,8 @@
    "page": "https://rigaiff.lv/en/",
    "website": "https://rigaiff.lv/en/",
    "city": "Riga",
-   "country": "Latvia"
+   "country": "Latvia",
+   "logo": "logos/riga.png"
   },
   {
    "id": "rio-janeiro-curta",
@@ -3546,7 +3598,8 @@
    "page": "https://riff.it/en/",
    "website": "https://riff.it/en/",
    "city": "Rome",
-   "country": "Italy"
+   "country": "Italy",
+   "logo": "logos/rome-independent.png"
   },
   {
    "id": "rooftop-films",
@@ -3827,7 +3880,8 @@
    "page": "https://www.siff.com/",
    "website": "https://www.siff.com/",
    "city": "Shanghai",
-   "country": "China"
+   "country": "China",
+   "logo": "logos/shanghai.png"
   },
   {
    "id": "short-shorts-film-fe",
@@ -3940,7 +3994,8 @@
    "page": "https://www.skopjefilmfestival.com.mk/",
    "website": "https://www.skopjefilmfestival.com.mk/",
    "city": "Skopje",
-   "country": "North Macedonia"
+   "country": "North Macedonia",
+   "logo": "logos/skopje.png"
   },
   {
    "id": "slamdance",
@@ -3969,7 +4024,8 @@
    "page": "https://siff.bg/",
    "website": "https://siff.bg/",
    "city": "Sofia",
-   "country": "Bulgaria"
+   "country": "Bulgaria",
+   "logo": "logos/sofia.png"
   },
   {
    "id": "spark-animation",
@@ -4034,7 +4090,8 @@
    "page": "https://www.stockholmfilmfestival.se/en",
    "website": "https://www.stockholmfilmfestival.se/en",
    "city": "Stockholm",
-   "country": "Sweden"
+   "country": "Sweden",
+   "logo": "logos/stockholm.png"
   },
   {
    "id": "stuttgart-animated",
@@ -4060,7 +4117,8 @@
    "website": "https://sunvalleyfilmfestival.org/",
    "city": "Sun Valley",
    "region": "ID",
-   "country": "United States"
+   "country": "United States",
+   "logo": "logos/sun-valley.png"
   },
   {
    "id": "sundance",
@@ -4128,7 +4186,8 @@
    "website": "https://tacomafilmfestival.com/",
    "city": "Tacoma",
    "region": "WA",
-   "country": "United States"
+   "country": "United States",
+   "logo": "logos/tacoma.png"
   },
   {
    "id": "taipei-golden-horse",
@@ -4223,7 +4282,8 @@
    "page": "https://filmfestival.gr/en/",
    "website": "https://filmfestival.gr/en/",
    "city": "Thessaloniki",
-   "country": "Greece"
+   "country": "Greece",
+   "logo": "logos/thessaloniki.png"
   },
   {
    "id": "thomas-edison",
@@ -4313,7 +4373,8 @@
    "page": "https://www.torinofilmfest.org/en/",
    "website": "https://www.torinofilmfest.org/en/",
    "city": "Turin",
-   "country": "Italy"
+   "country": "Italy",
+   "logo": "logos/torino.png"
   },
   {
    "id": "tribeca",
@@ -4411,7 +4472,8 @@
    "page": "https://www.videoex.ch/",
    "website": "https://www.videoex.ch/",
    "city": "Zurich",
-   "country": "Switzerland"
+   "country": "Switzerland",
+   "logo": "logos/videoex.png"
   },
   {
    "id": "vienna",
@@ -4438,7 +4500,8 @@
    "page": "https://viff.org/",
    "website": "https://viff.org/",
    "city": "Vancouver",
-   "country": "Canada"
+   "country": "Canada",
+   "logo": "logos/viff-vancouver.png"
   },
   {
    "id": "vilnius",
@@ -4465,7 +4528,8 @@
    "page": "https://kinopavasaris.lt/en/",
    "website": "https://kinopavasaris.lt/en/",
    "city": "Vilnius",
-   "country": "Lithuania"
+   "country": "Lithuania",
+   "logo": "logos/vilnius-kino-pavasaris.png"
   },
   {
    "id": "visions-reel",
@@ -4585,7 +4649,8 @@
    "submit": "https://wndx.org/submissions/",
    "website": "https://www.wndx.org/",
    "city": "Winnipeg",
-   "country": "Canada"
+   "country": "Canada",
+   "logo": "logos/wndx.png"
   },
   {
    "id": "woodstock",
@@ -4654,7 +4719,7 @@
     "to": "2027-03-20",
     "approximate": false
    },
-   "verified_on": "2026-09-20"
+   "verified_on": "2026-10-06"
   },
   {
    "festival": "ann-arbor",
@@ -5069,7 +5134,7 @@
     "to": "2027-04-11",
     "approximate": false
    },
-   "verified_on": "2026-09-19"
+   "verified_on": "2026-10-06"
   },
   {
    "festival": "portland",
@@ -5080,7 +5145,7 @@
     "to": "2027-10-10",
     "approximate": false
    },
-   "verified_on": "2026-10-05"
+   "verified_on": "2026-10-06"
   },
   {
    "festival": "portland",
@@ -5249,6 +5314,18 @@
     "approximate": false
    },
    "verified_on": "2026-09-18"
+  },
+  {
+   "festival": "tribeca",
+   "cycle": 2027,
+   "runs": {
+    "precision": "month",
+    "from": "2027-06-01",
+    "to": "2027-06-30",
+    "approximate": true,
+    "label": "~June 2027"
+   },
+   "verified_on": "2026-10-06"
   },
   {
    "festival": "trieste",
@@ -6586,28 +6663,6 @@
    "tier": "regular",
    "categories": [
     "documentary",
-    "experimental",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-01",
-    "to": "2026-10-01",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 50,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Short Documentary - US Made, World Cinema Shorts - Made Outside US, Live Action Short Films - US Made, Animated Shorts, Experimental Shorts - US Made, Arizona Shorts - Made in Arizona"
-  },
-  {
-   "festival": "phoenix",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "documentary",
     "feature"
    ],
    "closes": {
@@ -6642,6 +6697,29 @@
    },
    "fee_unknown": false,
    "note": "Regular Deadline: African American Directed Features - US Made, Asian American Pacific Islander Directed Features - US Made, Native American Directed Features, Latinx Directed Features - US Made, LGBTQIA+ Directed Features - US Made"
+  },
+  {
+   "festival": "phoenix",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-01",
+    "to": "2026-10-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Short Documentary - US Made, World Cinema Shorts - Made Outside US, Live Action Short Films - US Made, Animated Shorts, Experimental Shorts - US Made, Arizona Shorts - Made in Arizona"
   },
   {
    "festival": "sxsw",
@@ -7508,6 +7586,20 @@
    "note": "Regular"
   },
   {
+   "festival": "tribeca",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-28",
+    "to": "2026-10-28",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Shorts & Music Videos Early Deadline"
+  },
+  {
    "festival": "alchemy",
    "cycle": 2027,
    "categories": [
@@ -7958,6 +8050,27 @@
    "cycle": 2027,
    "tier": "regular",
    "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-04",
+    "to": "2026-11-04",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Irish Professional Short Film, International Professional Short Film"
+  },
+  {
+   "festival": "animation-dingle",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "animation",
     "short",
     "student"
    ],
@@ -7973,26 +8086,6 @@
    },
    "fee_unknown": false,
    "note": "Regular Deadline: Animation Irish Student Short Film, Animation International Student Short Film"
-  },
-  {
-   "festival": "animation-dingle",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-11-04",
-    "to": "2026-11-04",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 45,
-    "currency": "EUR"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Irish Professional Short Film, International Professional Short Film"
   },
   {
    "festival": "berlinale",
@@ -8163,6 +8256,7 @@
    "cycle": 2027,
    "tier": "late",
    "categories": [
+    "animation",
     "documentary",
     "experimental",
     "short"
@@ -8995,6 +9089,20 @@
    "note": "Shorts final Nov 11 / Features final Dec 2, 2026"
   },
   {
+   "festival": "tribeca",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-02",
+    "to": "2026-12-02",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Shorts & Music Videos Official Deadline"
+  },
+  {
    "festival": "riverrun",
    "cycle": 2027,
    "tier": "final",
@@ -9062,6 +9170,7 @@
    "cycle": 2027,
    "tier": "late",
    "categories": [
+    "animation",
     "short",
     "student"
    ],
@@ -9251,28 +9360,6 @@
    "tier": "extended",
    "categories": [
     "documentary",
-    "experimental",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-12-10",
-    "to": "2026-12-10",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 80,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Extended Deadline: Short Documentary - US Made, World Cinema Shorts - Made Outside US, Live Action Short Films - US Made, Animated Shorts, Experimental Shorts - US Made, Arizona Shorts - Made in Arizona"
-  },
-  {
-   "festival": "phoenix",
-   "cycle": 2027,
-   "tier": "extended",
-   "categories": [
-    "documentary",
     "feature"
    ],
    "closes": {
@@ -9307,6 +9394,29 @@
    },
    "fee_unknown": false,
    "note": "Extended Deadline: African American Directed Features - US Made, Asian American Pacific Islander Directed Features - US Made, Native American Directed Features, Latinx Directed Features - US Made, LGBTQIA+ Directed Features - US Made"
+  },
+  {
+   "festival": "phoenix",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-10",
+    "to": "2026-12-10",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 80,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: Short Documentary - US Made, World Cinema Shorts - Made Outside US, Live Action Short Films - US Made, Animated Shorts, Experimental Shorts - US Made, Arizona Shorts - Made in Arizona"
   },
   {
    "festival": "amdocs-american-documentary",
@@ -10471,6 +10581,20 @@
    },
    "fee_unknown": true,
    "note": "closes Feb 1, 2027"
+  },
+  {
+   "festival": "tribeca",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-03",
+    "to": "2027-02-03",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Shorts & Music Videos Extended Deadline"
   },
   {
    "festival": "voyage-in-time-fest",
