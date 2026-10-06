@@ -1,7 +1,16 @@
 {
  "format": 1,
- "generated_on": "2026-10-05",
+ "generated_on": "2026-10-06",
  "festivals": [
+  {
+   "id": "25fps-zagreb",
+   "name": "25 FPS International Experimental Film and Video Festival",
+   "entry": "open",
+   "page": "https://www.25fps.hr/en",
+   "website": "https://www.25fps.hr/en",
+   "city": "Zagreb",
+   "country": "Croatia"
+  },
   {
    "id": "academy-canadian-cinema",
    "name": "Canadian Screen Awards [academy of Canadian Cinema & Television]",
@@ -38,6 +47,17 @@
     "year": 2027
    },
    "logo": "logos/afi.png"
+  },
+  {
+   "id": "alchemy",
+   "name": "Alchemy Film & Moving Image Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/alchemyfilmandarts",
+   "submit": "https://filmfreeway.com/alchemyfilmandarts",
+   "website": "https://www.alchemyfilmandarts.org.uk/",
+   "portal": "filmfreeway",
+   "city": "Hawick",
+   "country": "United Kingdom"
   },
   {
    "id": "alcine-cine-alcala",
@@ -962,6 +982,26 @@
    "logo": "logos/coronado-island.png"
   },
   {
+   "id": "courtisane",
+   "name": "Courtisane Festival",
+   "entry": "open",
+   "page": "https://www.courtisane.be/en/node/4504",
+   "submit": "https://www.courtisane.be/en/node/4504",
+   "website": "https://www.courtisane.be/",
+   "city": "Ghent",
+   "country": "Belgium"
+  },
+  {
+   "id": "crossroads-sf",
+   "name": "Crossroads (San Francisco Cinematheque)",
+   "entry": "open",
+   "page": "https://www.sfcinematheque.org/crossroads/",
+   "website": "https://www.sfcinematheque.org/crossroads/",
+   "city": "San Francisco",
+   "region": "CA",
+   "country": "United States"
+  },
+  {
    "id": "cucalorus",
    "name": "Cucalorus Film Festival",
    "entry": "open",
@@ -1299,6 +1339,17 @@
    "country": "United States",
    "moviemaker_year": 2026,
    "logo": "logos/el-paso.png"
+  },
+  {
+   "id": "emaf",
+   "name": "European Media Art Festival (EMAF)",
+   "entry": "open",
+   "page": "https://emaf.filmchief.com/entry-forms",
+   "submit": "https://emaf.filmchief.com/entry-forms",
+   "website": "https://www.emaf.de/en/",
+   "portal": "own",
+   "city": "Osnabrück",
+   "country": "Germany"
   },
   {
    "id": "energacamerimage",
@@ -1945,6 +1996,16 @@
    "logo": "logos/iffr-rotterdam.png"
   },
   {
+   "id": "images-toronto",
+   "name": "Images Festival",
+   "entry": "open",
+   "page": "https://imagesfestival.com/submissions",
+   "submit": "https://imagesfestival.com/submissions",
+   "website": "https://imagesfestival.com/",
+   "city": "Toronto",
+   "country": "Canada"
+  },
+  {
    "id": "imaginaria",
    "name": "Imaginaria Film Festival",
    "entry": "open",
@@ -2191,6 +2252,15 @@
    "logo": "logos/karlovy-vary.png"
   },
   {
+   "id": "kasseler-dokfest",
+   "name": "Kasseler Dokfest",
+   "entry": "open",
+   "page": "https://www.kasselerdokfest.de/en/",
+   "website": "https://www.kasselerdokfest.de/en/",
+   "city": "Kassel",
+   "country": "Germany"
+  },
+  {
    "id": "krakow",
    "name": "Krakow Film Festival",
    "entry": "open",
@@ -2398,6 +2468,15 @@
    "logo": "logos/mcminnville-short.png"
   },
   {
+   "id": "media-city",
+   "name": "Media City Film Festival",
+   "entry": "open",
+   "page": "https://www.mediacityfilmfestival.com/",
+   "website": "https://www.mediacityfilmfestival.com/",
+   "city": "Windsor",
+   "country": "Canada"
+  },
+  {
    "id": "melbourne",
    "name": "Melbourne International Film Festival",
    "entry": "open",
@@ -2427,6 +2506,17 @@
    "region": "WI",
    "country": "United States",
    "logo": "logos/milwaukee.png"
+  },
+  {
+   "id": "mono-no-aware",
+   "name": "Mono No Aware",
+   "entry": "open",
+   "page": "https://www.mononoawarefilm.com/call-for-entries-mono-no-aware-xx-2026",
+   "submit": "https://www.mononoawarefilm.com/call-for-entries-mono-no-aware-xx-2026",
+   "website": "https://www.mononoawarefilm.com/",
+   "city": "Brooklyn",
+   "region": "NY",
+   "country": "United States"
   },
   {
    "id": "morelia",
@@ -2921,6 +3011,16 @@
     "year": 2027
    },
    "logo": "logos/premi-david-donatello.png"
+  },
+  {
+   "id": "prismatic-ground",
+   "name": "Prismatic Ground",
+   "entry": "open",
+   "page": "https://www.prismaticground.com/",
+   "website": "https://www.prismaticground.com/",
+   "city": "New York",
+   "region": "NY",
+   "country": "United States"
   },
   {
    "id": "provincetown",
@@ -3815,6 +3915,15 @@
    "logo": "logos/venice.png"
   },
   {
+   "id": "videoex",
+   "name": "VIDEOEX – Experimental Film & Video Festival",
+   "entry": "open",
+   "page": "https://www.videoex.ch/",
+   "website": "https://www.videoex.ch/",
+   "city": "Zurich",
+   "country": "Switzerland"
+  },
+  {
    "id": "vienna",
    "name": "Vienna Shorts – International Film Festival",
    "entry": "open",
@@ -3961,6 +4070,16 @@
    "logo": "logos/whistler.png"
   },
   {
+   "id": "wndx",
+   "name": "WNDX Festival of Moving Image",
+   "entry": "open",
+   "page": "https://wndx.org/submissions/",
+   "submit": "https://wndx.org/submissions/",
+   "website": "https://www.wndx.org/",
+   "city": "Winnipeg",
+   "country": "Canada"
+  },
+  {
    "id": "woodstock",
    "name": "Woodstock Film Festival",
    "entry": "open",
@@ -3998,6 +4117,11 @@
  ],
  "editions": [
   {
+   "festival": "alchemy",
+   "cycle": 2027,
+   "verified_on": "2026-10-06"
+  },
+  {
    "festival": "amdocs-american-documentary",
    "cycle": 2027,
    "runs": {
@@ -4005,11 +4129,13 @@
     "from": "2027-03-17",
     "to": "2027-03-21",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-10-05"
   },
   {
    "festival": "anifilm-animated",
-   "cycle": 2027
+   "cycle": 2027,
+   "verified_on": "2026-10-05"
   },
   {
    "festival": "animation-dingle",
@@ -4019,7 +4145,8 @@
     "from": "2027-03-18",
     "to": "2027-03-20",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-09-20"
   },
   {
    "festival": "ann-arbor",
@@ -4029,7 +4156,8 @@
     "from": "2027-03-23",
     "to": "2027-03-28",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-10-01"
   },
   {
    "festival": "ashland-independent",
@@ -4040,7 +4168,8 @@
     "from": "2027-04-15",
     "to": "2027-04-18",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-10-05"
   },
   {
    "festival": "aspen",
@@ -4050,7 +4179,8 @@
     "from": "2027-04-06",
     "to": "2027-04-10",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-09-18"
   },
   {
    "festival": "atlanta",
@@ -4060,7 +4190,8 @@
     "from": "2027-04-22",
     "to": "2027-05-02",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-10-05"
   },
   {
    "festival": "bali",
@@ -4070,7 +4201,8 @@
     "from": "2027-06-01",
     "to": "2027-06-07",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-10-05"
   },
   {
    "festival": "beirut",
@@ -4080,15 +4212,18 @@
     "from": "2026-11-01",
     "to": "2026-11-06",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-10-01"
   },
   {
    "festival": "berlin-gate",
-   "cycle": 2027
+   "cycle": 2027,
+   "verified_on": "2026-10-05"
   },
   {
    "festival": "berlin-gate",
-   "cycle": 2026
+   "cycle": 2026,
+   "verified_on": "2026-09-03"
   },
   {
    "festival": "berlinale",
@@ -4098,11 +4233,13 @@
     "from": "2027-02-01",
     "to": "2027-02-28",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-09-03"
   },
   {
    "festival": "big-sky-documentary",
-   "cycle": 2027
+   "cycle": 2027,
+   "verified_on": "2026-10-05"
   },
   {
    "festival": "bronzelens",
@@ -4112,7 +4249,8 @@
     "from": "2027-08-20",
     "to": "2027-08-29",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-09-20"
   },
   {
    "festival": "brooklyn",
@@ -4122,12 +4260,14 @@
     "from": "2027-06-01",
     "to": "2027-06-30",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-09-03"
   },
   {
    "festival": "busan-10",
    "cycle": 2027,
-   "ordinal": 44
+   "ordinal": 44,
+   "verified_on": "2026-09-21"
   },
   {
    "festival": "cannes",
@@ -4137,7 +4277,8 @@
     "from": "2027-05-01",
     "to": "2027-05-31",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-09-03"
   },
   {
    "festival": "chicago-underground",
@@ -4147,7 +4288,8 @@
     "from": "2027-06-09",
     "to": "2027-06-13",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-09-27"
   },
   {
    "festival": "cleveland",
@@ -4157,15 +4299,23 @@
     "from": "2027-03-01",
     "to": "2027-05-31",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-09-03"
+  },
+  {
+   "festival": "courtisane",
+   "cycle": 2027,
+   "verified_on": "2026-10-06"
   },
   {
    "festival": "diametrale-experimental",
-   "cycle": 2026
+   "cycle": 2026,
+   "verified_on": "2026-09-03"
   },
   {
    "festival": "directors-notes",
-   "cycle": 2026
+   "cycle": 2026,
+   "verified_on": "2026-09-03"
   },
   {
    "festival": "doc-edge",
@@ -4175,7 +4325,8 @@
     "from": "2027-05-26",
     "to": "2027-07-04",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-10-05"
   },
   {
    "festival": "doc-nyc",
@@ -4185,15 +4336,29 @@
     "from": "2026-11-11",
     "to": "2026-11-19",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-09-18"
   },
   {
    "festival": "documentary-sheffield",
-   "cycle": 2027
+   "cycle": 2027,
+   "verified_on": "2026-10-05"
+  },
+  {
+   "festival": "emaf",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-21",
+    "to": "2027-04-25",
+    "approximate": false
+   },
+   "verified_on": "2026-10-06"
   },
   {
    "festival": "fest-new-directors-new-films",
-   "cycle": 2027
+   "cycle": 2027,
+   "verified_on": "2026-10-05"
   },
   {
    "festival": "ficci-cartagena",
@@ -4203,7 +4368,8 @@
     "from": "2027-04-06",
     "to": "2027-04-11",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-09-03"
   },
   {
    "festival": "florida",
@@ -4213,11 +4379,13 @@
     "from": "2027-04-09",
     "to": "2027-04-18",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-09-18"
   },
   {
    "festival": "foyle",
-   "cycle": 2026
+   "cycle": 2026,
+   "verified_on": "2026-09-03"
   },
   {
    "festival": "friss-hus-budapest",
@@ -4227,7 +4395,8 @@
     "from": "2027-05-27",
     "to": "2027-06-02",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-10-05"
   },
   {
    "festival": "hollyshorts",
@@ -4237,7 +4406,8 @@
     "from": "2027-08-12",
     "to": "2027-08-22",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-09-20"
   },
   {
    "festival": "hollyshorts",
@@ -4247,7 +4417,8 @@
     "from": "2026-11-12",
     "to": "2026-11-15",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-09-18"
   },
   {
    "festival": "iffr-rotterdam",
@@ -4257,11 +4428,13 @@
     "from": "2027-02-01",
     "to": "2027-02-28",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-09-12"
   },
   {
    "festival": "in-palace",
-   "cycle": 2027
+   "cycle": 2027,
+   "verified_on": "2026-10-05"
   },
   {
    "festival": "indy-presented-by",
@@ -4271,15 +4444,18 @@
     "from": "2027-07-20",
     "to": "2027-07-25",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-09-18"
   },
   {
    "festival": "irish-television-awards",
-   "cycle": 2027
+   "cycle": 2027,
+   "verified_on": "2026-10-05"
   },
   {
    "festival": "la-shorts-internatio",
-   "cycle": 2027
+   "cycle": 2027,
+   "verified_on": "2026-10-05"
   },
   {
    "festival": "malaga",
@@ -4289,7 +4465,19 @@
     "from": "2027-02-26",
     "to": "2027-03-07",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-09-03"
+  },
+  {
+   "festival": "media-city",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-09-14",
+    "to": "2027-09-18",
+    "approximate": false
+   },
+   "verified_on": "2026-10-06"
   },
   {
    "festival": "milwaukee",
@@ -4299,7 +4487,13 @@
     "from": "2027-03-01",
     "to": "2027-05-31",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-09-03"
+  },
+  {
+   "festival": "mono-no-aware",
+   "cycle": 2026,
+   "verified_on": "2026-10-06"
   },
   {
    "festival": "mpumalanga",
@@ -4309,19 +4503,23 @@
     "from": "2027-01-01",
     "to": "2027-12-31",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-09-03"
   },
   {
    "festival": "new-media",
-   "cycle": 2026
+   "cycle": 2026,
+   "verified_on": "2026-09-03"
   },
   {
    "festival": "new-york-screening",
-   "cycle": 2027
+   "cycle": 2027,
+   "verified_on": "2026-09-03"
   },
   {
    "festival": "omaha",
-   "cycle": 2026
+   "cycle": 2026,
+   "verified_on": "2026-09-03"
   },
   {
    "festival": "pan-african-arts",
@@ -4331,7 +4529,8 @@
     "from": "2027-02-15",
     "to": "2027-02-21",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-10-05"
   },
   {
    "festival": "phoenix",
@@ -4341,7 +4540,8 @@
     "from": "2027-04-01",
     "to": "2027-04-11",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-09-19"
   },
   {
    "festival": "portland",
@@ -4351,7 +4551,8 @@
     "from": "2027-10-06",
     "to": "2027-10-10",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-10-05"
   },
   {
    "festival": "portland",
@@ -4361,7 +4562,8 @@
     "from": "2026-09-01",
     "to": "2026-11-30",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-09-03"
   },
   {
    "festival": "riverrun",
@@ -4371,7 +4573,8 @@
     "from": "2027-04-16",
     "to": "2027-04-24",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-10-03"
   },
   {
    "festival": "run-shoot-filmworks",
@@ -4381,7 +4584,8 @@
     "from": "2027-08-07",
     "to": "2027-08-15",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-09-20"
   },
   {
    "festival": "santa-barbara",
@@ -4391,7 +4595,8 @@
     "from": "2027-02-03",
     "to": "2027-02-13",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-10-05"
   },
   {
    "festival": "sarasota",
@@ -4401,7 +4606,8 @@
     "from": "2027-04-09",
     "to": "2027-04-18",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-09-27"
   },
   {
    "festival": "seattle",
@@ -4411,7 +4617,8 @@
     "from": "2027-05-13",
     "to": "2027-05-23",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-09-03"
   },
   {
    "festival": "sebastopol-documentary",
@@ -4421,11 +4628,13 @@
     "from": "2027-04-15",
     "to": "2027-04-18",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-09-20"
   },
   {
    "festival": "sedona",
-   "cycle": 2027
+   "cycle": 2027,
+   "verified_on": "2026-10-05"
   },
   {
    "festival": "sffilm",
@@ -4435,7 +4644,8 @@
     "from": "2027-04-22",
     "to": "2027-05-02",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-09-03"
   },
   {
    "festival": "sidewalk",
@@ -4445,7 +4655,8 @@
     "from": "2027-08-23",
     "to": "2027-08-29",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-10-05"
   },
   {
    "festival": "slamdance",
@@ -4455,11 +4666,13 @@
     "from": "2027-02-18",
     "to": "2027-02-24",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-10-05"
   },
   {
    "festival": "st-kilda",
-   "cycle": 2027
+   "cycle": 2027,
+   "verified_on": "2026-10-05"
   },
   {
    "festival": "sundance",
@@ -4469,7 +4682,8 @@
     "from": "2027-01-21",
     "to": "2027-01-31",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-10-03"
   },
   {
    "festival": "sxsw",
@@ -4479,11 +4693,13 @@
     "from": "2027-03-15",
     "to": "2027-03-21",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-10-05"
   },
   {
    "festival": "sydney",
-   "cycle": 2027
+   "cycle": 2027,
+   "verified_on": "2026-10-05"
   },
   {
    "festival": "thomas-edison",
@@ -4493,7 +4709,8 @@
     "from": "2027-02-12",
     "to": "2027-02-12",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-09-18"
   },
   {
    "festival": "trieste",
@@ -4504,7 +4721,8 @@
     "from": "2027-01-15",
     "to": "2027-01-23",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-10-05"
   },
   {
    "festival": "voyage-in-time-andong",
@@ -4514,7 +4732,8 @@
     "from": "2026-11-20",
     "to": "2026-11-20",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-09-27"
   },
   {
    "festival": "voyage-in-time-fest",
@@ -4524,7 +4743,8 @@
     "from": "2027-02-23",
     "to": "2027-02-24",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-09-27"
   },
   {
    "festival": "voyage-in-time-fest-tokyo",
@@ -4534,7 +4754,8 @@
     "from": "2027-09-06",
     "to": "2027-09-08",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-09-12"
   },
   {
    "festival": "voyage-in-time-kyoto",
@@ -4544,7 +4765,8 @@
     "from": "2027-09-16",
     "to": "2027-09-17",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-09-13"
   },
   {
    "festival": "voyage-in-time-paris",
@@ -4554,7 +4776,8 @@
     "from": "2027-04-15",
     "to": "2027-04-15",
     "approximate": false
-   }
+   },
+   "verified_on": "2026-09-12"
   }
  ],
  "deadlines": [
@@ -6383,6 +6606,21 @@
    "note": "Earlybird Deadline: New Zealand Short Documentary"
   },
   {
+   "festival": "mono-no-aware",
+   "cycle": 2026,
+   "categories": [
+    "experimental"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-15",
+    "to": "2026-10-15",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Deadline"
+  },
+  {
    "festival": "voyage-in-time-andong",
    "cycle": 2026,
    "tier": "late",
@@ -6658,6 +6896,21 @@
    },
    "fee_unknown": false,
    "note": "Late Deadline: Narrative Feature, Documentary Feature, Animated Feature, Animated Short, Student"
+  },
+  {
+   "festival": "alchemy",
+   "cycle": 2027,
+   "categories": [
+    "experimental"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-30",
+    "to": "2026-10-30",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Call for Entries"
   },
   {
    "festival": "santa-barbara",
@@ -8423,6 +8676,25 @@
    "note": "Accepting through ~Dec 15, 2026"
   },
   {
+   "festival": "emaf",
+   "cycle": 2027,
+   "categories": [
+    "experimental"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-15",
+    "to": "2026-12-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 0,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Call for entries closes (or at 2,200 entries)"
+  },
+  {
    "festival": "la-shorts-internatio",
    "cycle": 2027,
    "tier": "extended",
@@ -8435,6 +8707,21 @@
    },
    "fee_unknown": true,
    "note": "Extended Deadline"
+  },
+  {
+   "festival": "courtisane",
+   "cycle": 2027,
+   "categories": [
+    "experimental"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-23",
+    "to": "2026-12-23",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Deadline for Courtisane festival 2027"
   },
   {
    "festival": "anifilm-animated",
@@ -10110,6 +10397,21 @@
    },
    "fee_unknown": false,
    "note": "Regular Deadline: Short Live Action, Animation, Documentary, Student, Bollywood Shorts"
+  },
+  {
+   "festival": "media-city",
+   "cycle": 2027,
+   "categories": [
+    "experimental"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-04-10",
+    "to": "2027-04-10",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Call for entries closes"
   },
   {
    "festival": "run-shoot-filmworks",
