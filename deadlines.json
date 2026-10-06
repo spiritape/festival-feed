@@ -30,6 +30,15 @@
    "logo": "logos/academy-canadian-cinema.png"
   },
   {
+   "id": "adelaide",
+   "name": "Adelaide Film Festival",
+   "entry": "open",
+   "page": "https://www.adelaidefilmfestival.org/",
+   "website": "https://www.adelaidefilmfestival.org/",
+   "city": "Adelaide",
+   "country": "Australia"
+  },
+  {
    "id": "afi",
    "name": "AFI Fest",
    "entry": "open",
@@ -364,6 +373,15 @@
    "logo": "logos/aspen.png"
   },
   {
+   "id": "athens-aiff",
+   "name": "Athens International Film Festival – Opening Nights",
+   "entry": "open",
+   "page": "https://aiff.gr/",
+   "website": "https://aiff.gr/",
+   "city": "Athens",
+   "country": "Greece"
+  },
+  {
    "id": "athens-video",
    "name": "Athens International Film + Video Festival",
    "entry": "open",
@@ -525,6 +543,15 @@
    "logo": "logos/berlin-gate.png"
   },
   {
+   "id": "berlin-independent",
+   "name": "Berlin Independent Film Festival",
+   "entry": "open",
+   "page": "https://www.berlinfest.com/",
+   "website": "https://www.berlinfest.com/",
+   "city": "Berlin",
+   "country": "Germany"
+  },
+  {
    "id": "berlinale",
    "name": "Berlinale",
    "entry": "open",
@@ -542,6 +569,15 @@
     "year": 2027
    },
    "logo": "logos/berlinale.png"
+  },
+  {
+   "id": "bfi-london",
+   "name": "BFI London Film Festival",
+   "entry": "open",
+   "page": "https://www.bfi.org.uk/london-film-festival",
+   "website": "https://www.bfi.org.uk/london-film-festival",
+   "city": "London",
+   "country": "United Kingdom"
   },
   {
    "id": "big-sky-documentary",
@@ -669,6 +705,15 @@
    "logo": "logos/brussels.png"
   },
   {
+   "id": "brussels-independent",
+   "name": "Brussels Independent Film Festival",
+   "entry": "open",
+   "page": "https://www.brusselsfilmfestival.org/",
+   "website": "https://www.brusselsfilmfestival.org/",
+   "city": "Brussels",
+   "country": "Belgium"
+  },
+  {
    "id": "bucheon-animation",
    "name": "Bucheon International Animation Festival",
    "entry": "open",
@@ -769,6 +814,15 @@
    "logo": "logos/calgary-underground.png"
   },
   {
+   "id": "cambridge-uk",
+   "name": "Cambridge Film Festival",
+   "entry": "open",
+   "page": "https://www.cambridgefilmfestival.org.uk/",
+   "website": "https://www.cambridgefilmfestival.org.uk/",
+   "city": "Cambridge",
+   "country": "United Kingdom"
+  },
+  {
    "id": "camden",
    "name": "Camden International Film Festival",
    "entry": "open",
@@ -788,6 +842,15 @@
    "logo": "logos/camden.png"
   },
   {
+   "id": "canberra",
+   "name": "Canberra International Film Festival",
+   "entry": "open",
+   "page": "https://ciff.com.au/",
+   "website": "https://ciff.com.au/",
+   "city": "Canberra",
+   "country": "Australia"
+  },
+  {
    "id": "cannes",
    "name": "Cannes Film Festival",
    "entry": "invitation",
@@ -805,6 +868,15 @@
     "year": 2027
    },
    "logo": "logos/cannes.png"
+  },
+  {
+   "id": "champs-elysees",
+   "name": "Champs-Élysées Film Festival",
+   "entry": "open",
+   "page": "https://www.champselyseesfilmfestival.com/",
+   "website": "https://www.champselyseesfilmfestival.com/",
+   "city": "Paris",
+   "country": "France"
   },
   {
    "id": "chicago",
@@ -937,7 +1009,8 @@
    "website": "https://www.clevelandfilm.org/",
    "portal": "filmfreeway",
    "city": "Cleveland",
-   "country": "OH",
+   "region": "OH",
+   "country": "United States",
    "academy": {
     "lists": [
      "live-action",
@@ -990,6 +1063,15 @@
    "website": "https://www.courtisane.be/",
    "city": "Ghent",
    "country": "Belgium"
+  },
+  {
+   "id": "cph-dox",
+   "name": "CPH:DOX",
+   "entry": "open",
+   "page": "https://cphdox.dk/",
+   "website": "https://cphdox.dk/",
+   "city": "Copenhagen",
+   "country": "Denmark"
   },
   {
    "id": "crossroads-sf",
@@ -1058,6 +1140,7 @@
    "website": "https://danceswithfilms.com",
    "portal": "own",
    "city": "Los Angeles and New York City",
+   "country": "United States",
    "moviemaker_year": 2026,
    "logo": "logos/dances-with-films.png"
   },
@@ -1248,6 +1331,18 @@
    "logo": "logos/documentary-sheffield.png"
   },
   {
+   "id": "downtown-nyc",
+   "name": "The Downtown Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/TheDowntownFestival",
+   "submit": "https://filmfreeway.com/TheDowntownFestival",
+   "website": "https://www.thedowntownfestival.com/",
+   "portal": "filmfreeway",
+   "city": "New York",
+   "region": "NY",
+   "country": "United States"
+  },
+  {
    "id": "drama",
    "name": "Drama International Short Film Festival",
    "entry": "open",
@@ -1264,6 +1359,15 @@
     "year": 2027
    },
    "logo": "logos/drama.png"
+  },
+  {
+   "id": "dublin",
+   "name": "Dublin International Film Festival",
+   "entry": "open",
+   "page": "https://www.diff.ie/",
+   "website": "https://www.diff.ie/",
+   "city": "Dublin",
+   "country": "Ireland"
   },
   {
    "id": "durban",
@@ -1452,6 +1556,15 @@
    "logo": "logos/fespaco-pan-african.png"
   },
   {
+   "id": "fest-belgrade",
+   "name": "FEST – Belgrade International Film Festival",
+   "entry": "open",
+   "page": "https://fest.rs/",
+   "website": "https://fest.rs/",
+   "city": "Belgrade",
+   "country": "Serbia"
+  },
+  {
    "id": "fest-new-directors-new-films",
    "name": "FEST - New Directors New Films",
    "entry": "open",
@@ -1462,6 +1575,15 @@
    "city": "Espinho",
    "country": "Portugal",
    "logo": "logos/fest-new-directors-new-films.png"
+  },
+  {
+   "id": "festival-do-rio",
+   "name": "Rio de Janeiro International Film Festival (Festival do Rio)",
+   "entry": "open",
+   "page": "https://www.festivaldorio.com.br/",
+   "website": "https://www.festivaldorio.com.br/",
+   "city": "Rio de Janeiro",
+   "country": "Brazil"
   },
   {
    "id": "ficci-cartagena",
@@ -1481,6 +1603,15 @@
     "year": 2027
    },
    "logo": "logos/ficci-cartagena.png"
+  },
+  {
+   "id": "ficunam",
+   "name": "FICUNAM – UNAM International Film Festival",
+   "entry": "open",
+   "page": "https://ficunam.unam.mx/",
+   "website": "https://ficunam.unam.mx/",
+   "city": "Mexico City",
+   "country": "Mexico"
   },
   {
    "id": "ficvaldivia",
@@ -1523,6 +1654,24 @@
    "country": "United States",
    "moviemaker_year": 2026,
    "logo": "logos/film-fest-knox.png"
+  },
+  {
+   "id": "filmfest-hamburg",
+   "name": "Filmfest Hamburg",
+   "entry": "open",
+   "page": "https://www.filmfesthamburg.de/en/",
+   "website": "https://www.filmfesthamburg.de/en/",
+   "city": "Hamburg",
+   "country": "Germany"
+  },
+  {
+   "id": "filmfest-munchen",
+   "name": "Filmfest München",
+   "entry": "open",
+   "page": "https://www.filmfest-muenchen.de/en/",
+   "website": "https://www.filmfest-muenchen.de/en/",
+   "city": "Munich",
+   "country": "Germany"
   },
   {
    "id": "filmquest",
@@ -1678,7 +1827,8 @@
    "website": "https://lindseyfilmfest.com",
    "portal": "own",
    "city": "Florence",
-   "country": "Alabama",
+   "region": "AL",
+   "country": "United States",
    "logo": "logos/george-lindsey-una.png"
   },
   {
@@ -1828,6 +1978,15 @@
    "logo": "logos/hamptons.png"
   },
   {
+   "id": "havana",
+   "name": "Havana Film Festival (International Festival of New Latin American Cinema)",
+   "entry": "open",
+   "page": "https://habanafilmfestival.com/",
+   "website": "https://habanafilmfestival.com/",
+   "city": "Havana",
+   "country": "Cuba"
+  },
+  {
    "id": "hawaii",
    "name": "Hawaii International Film Festival",
    "entry": "open",
@@ -1859,6 +2018,15 @@
    "country": "United States",
    "moviemaker_year": 2026,
    "logo": "logos/heartland.png"
+  },
+  {
+   "id": "helsinki-love-anarchy",
+   "name": "Helsinki International Film Festival – Love & Anarchy",
+   "entry": "open",
+   "page": "https://hiff.fi/",
+   "website": "https://hiff.fi/",
+   "city": "Helsinki",
+   "country": "Finland"
   },
   {
    "id": "hiro-shima-animation",
@@ -1951,6 +2119,15 @@
    "logo": "logos/hot-springs-documentary.png"
   },
   {
+   "id": "huelva",
+   "name": "Huelva Ibero-American Film Festival",
+   "entry": "open",
+   "page": "https://festicinehuelva.com/",
+   "website": "https://festicinehuelva.com/",
+   "city": "Huelva",
+   "country": "Spain"
+  },
+  {
    "id": "huesca",
    "name": "Huesca International Film Festival",
    "entry": "open",
@@ -1983,6 +2160,34 @@
     "year": 2027
    },
    "logo": "logos/idfa-documentary-amsterdam.png"
+  },
+  {
+   "id": "iff-art-film",
+   "name": "IFF Art Film",
+   "entry": "open",
+   "page": "https://iffartfilm.com/en/",
+   "website": "https://iffartfilm.com/en/",
+   "city": "Košice",
+   "country": "Slovakia"
+  },
+  {
+   "id": "iff-boston",
+   "name": "Independent Film Festival Boston (IFFBoston)",
+   "entry": "open",
+   "page": "https://iffboston.org/",
+   "website": "https://iffboston.org/",
+   "city": "Boston",
+   "region": "MA",
+   "country": "United States"
+  },
+  {
+   "id": "iffi-goa",
+   "name": "International Film Festival of India (IFFI Goa)",
+   "entry": "open",
+   "page": "https://www.iffigoa.org/",
+   "website": "https://www.iffigoa.org/",
+   "city": "Panaji",
+   "country": "India"
   },
   {
    "id": "iffr-rotterdam",
@@ -2054,6 +2259,25 @@
     "year": 2027
    },
    "logo": "logos/in-palace.png"
+  },
+  {
+   "id": "indie-memphis",
+   "name": "Indie Memphis Film Festival",
+   "entry": "open",
+   "page": "https://indiememphis.org/",
+   "website": "https://indiememphis.org/",
+   "city": "Memphis",
+   "region": "TN",
+   "country": "United States"
+  },
+  {
+   "id": "indielisboa",
+   "name": "IndieLisboa International Film Festival",
+   "entry": "open",
+   "page": "https://indielisboa.com/",
+   "website": "https://indielisboa.com/",
+   "city": "Lisbon",
+   "country": "Portugal"
   },
   {
    "id": "indy-presented-by",
@@ -2156,6 +2380,15 @@
     "year": 2027
    },
    "logo": "logos/israel-academy-ophir.png"
+  },
+  {
+   "id": "istanbul",
+   "name": "Istanbul Film Festival",
+   "entry": "open",
+   "page": "https://film.iksv.org/en",
+   "website": "https://film.iksv.org/en",
+   "city": "Istanbul",
+   "country": "Turkey"
   },
   {
    "id": "its-all-true",
@@ -2316,6 +2549,15 @@
    "logo": "logos/la-shorts-internatio.png"
   },
   {
+   "id": "lalternativa-barcelona",
+   "name": "L'Alternativa – Barcelona Independent Film Festival",
+   "entry": "open",
+   "page": "https://alternativa.cccb.org/",
+   "website": "https://alternativa.cccb.org/",
+   "city": "Barcelona",
+   "country": "Spain"
+  },
+  {
    "id": "leeds",
    "name": "Leeds International Film Festival",
    "entry": "open",
@@ -2371,6 +2613,15 @@
    "logo": "logos/leuven.png"
   },
   {
+   "id": "lima",
+   "name": "Lima Film Festival PUCP",
+   "entry": "open",
+   "page": "https://festivaldelima.com/",
+   "website": "https://festivaldelima.com/",
+   "city": "Lima",
+   "country": "Peru"
+  },
+  {
    "id": "locarno",
    "name": "Locarno Festival",
    "entry": "open",
@@ -2389,6 +2640,15 @@
    },
    "moviemaker_year": 2026,
    "logo": "logos/locarno.png"
+  },
+  {
+   "id": "london-independent",
+   "name": "London Independent Film Festival",
+   "entry": "open",
+   "page": "https://liff.org/",
+   "website": "https://liff.org/",
+   "city": "London",
+   "country": "United Kingdom"
   },
   {
    "id": "louisiana-film-prize",
@@ -2413,6 +2673,15 @@
    "city": "Malaga",
    "country": "Spain",
    "logo": "logos/malaga.png"
+  },
+  {
+   "id": "mami-mumbai",
+   "name": "MAMI Mumbai Film Festival",
+   "entry": "open",
+   "page": "https://www.mumbaifilmfestival.com/",
+   "website": "https://www.mumbaifilmfestival.com/",
+   "city": "Mumbai",
+   "country": "India"
   },
   {
    "id": "mammoth-lakes",
@@ -2442,6 +2711,15 @@
     "year": 2027
    },
    "logo": "logos/manchester-animation.png"
+  },
+  {
+   "id": "mannheim-heidelberg",
+   "name": "International Filmfestival Mannheim-Heidelberg",
+   "entry": "open",
+   "page": "https://www.iffmh.de/",
+   "website": "https://www.iffmh.de/",
+   "city": "Mannheim",
+   "country": "Germany"
   },
   {
    "id": "mar-del-plata",
@@ -2495,6 +2773,24 @@
    "logo": "logos/melbourne.png"
   },
   {
+   "id": "midnight-sun",
+   "name": "Midnight Sun Film Festival",
+   "entry": "invitation",
+   "page": "https://msfilmfestival.fi/",
+   "website": "https://msfilmfestival.fi/",
+   "city": "Sodankylä",
+   "country": "Finland"
+  },
+  {
+   "id": "milano-film-fest",
+   "name": "Milano Film Fest",
+   "entry": "open",
+   "page": "https://milanofilmfest.it/",
+   "website": "https://milanofilmfest.it/",
+   "city": "Milan",
+   "country": "Italy"
+  },
+  {
    "id": "milwaukee",
    "name": "Milwaukee Film Festival",
    "entry": "open",
@@ -2508,6 +2804,15 @@
    "logo": "logos/milwaukee.png"
   },
   {
+   "id": "molodist-kyiv",
+   "name": "Molodist – Kyiv International Film Festival",
+   "entry": "open",
+   "page": "https://www.molodist.com/",
+   "website": "https://www.molodist.com/",
+   "city": "Kyiv",
+   "country": "Ukraine"
+  },
+  {
    "id": "mono-no-aware",
    "name": "Mono No Aware",
    "entry": "open",
@@ -2516,6 +2821,16 @@
    "website": "https://www.mononoawarefilm.com/",
    "city": "Brooklyn",
    "region": "NY",
+   "country": "United States"
+  },
+  {
+   "id": "montclair",
+   "name": "Montclair Film Festival",
+   "entry": "open",
+   "page": "https://www.montclairfilm.org/",
+   "website": "https://www.montclairfilm.org/",
+   "city": "Montclair",
+   "region": "NJ",
    "country": "United States"
   },
   {
@@ -2535,6 +2850,15 @@
     "year": 2027
    },
    "logo": "logos/morelia.png"
+  },
+  {
+   "id": "mostra-sao-paulo",
+   "name": "São Paulo International Film Festival (Mostra)",
+   "entry": "open",
+   "page": "https://mostra.org/",
+   "website": "https://mostra.org/",
+   "city": "São Paulo",
+   "country": "Brazil"
   },
   {
    "id": "motelx-lisbon",
@@ -2705,7 +3029,8 @@
    "website": "https://nyfilmscreeningfest.com",
    "portal": "own",
    "city": "New York",
-   "country": "USA",
+   "region": "NY",
+   "country": "United States",
    "logo": "logos/new-york-screening.png"
   },
   {
@@ -2720,6 +3045,16 @@
    "country": "United States",
    "moviemaker_year": 2026,
    "logo": "logos/newfilmmakers-la.png"
+  },
+  {
+   "id": "newport-beach",
+   "name": "Newport Beach Film Festival",
+   "entry": "open",
+   "page": "https://newportbeachfilmfest.com/",
+   "website": "https://newportbeachfilmfest.com/",
+   "city": "Newport Beach",
+   "region": "CA",
+   "country": "United States"
   },
   {
    "id": "nordisk-panorama",
@@ -2776,6 +3111,15 @@
    "logo": "logos/nouveau-cinema.png"
   },
   {
+   "id": "nziff",
+   "name": "New Zealand International Film Festival",
+   "entry": "open",
+   "page": "https://www.nziff.co.nz/",
+   "website": "https://www.nziff.co.nz/",
+   "city": "Auckland",
+   "country": "New Zealand"
+  },
+  {
    "id": "oberhausen",
    "name": "International Short Film Festival Oberhausen",
    "entry": "open",
@@ -2792,6 +3136,15 @@
     "year": 2027
    },
    "logo": "logos/oberhausen.png"
+  },
+  {
+   "id": "odesa",
+   "name": "Odesa International Film Festival",
+   "entry": "open",
+   "page": "https://oiff.com.ua/",
+   "website": "https://oiff.com.ua/",
+   "city": "Odesa",
+   "country": "Ukraine"
   },
   {
    "id": "off-odense",
@@ -2847,6 +3200,8 @@
    "website": "https://www.oregonindependentfilmfest.com/",
    "portal": "filmfreeway",
    "city": "Oregon",
+   "region": "OR",
+   "country": "United States",
    "logo": "logos/oregon-independent.png"
   },
   {
@@ -2894,6 +3249,26 @@
     "year": 2027
    },
    "logo": "logos/out-on-atlanta.png"
+  },
+  {
+   "id": "overlook",
+   "name": "Overlook Film Festival",
+   "entry": "open",
+   "page": "https://www.overlookfilmfest.com/",
+   "website": "https://www.overlookfilmfest.com/",
+   "city": "New Orleans",
+   "region": "LA",
+   "country": "United States"
+  },
+  {
+   "id": "oxford-ms",
+   "name": "Oxford Film Festival",
+   "entry": "open",
+   "page": "https://www.ox-film.com/",
+   "website": "https://www.ox-film.com/",
+   "city": "Oxford",
+   "region": "MS",
+   "country": "United States"
   },
   {
    "id": "palm-springs-shortfest",
@@ -2992,7 +3367,17 @@
    "website": "https://www.pbs.org/pov/",
    "portal": "filmfreeway",
    "city": "United States (broadcast)",
+   "country": "United States",
    "logo": "logos/pov.png"
+  },
+  {
+   "id": "prague-independent",
+   "name": "Prague Independent Film Festival",
+   "entry": "open",
+   "page": "https://www.prague-film-festival.com/",
+   "website": "https://www.prague-film-festival.com/",
+   "city": "Prague",
+   "country": "Czech Republic"
   },
   {
    "id": "premi-david-donatello",
@@ -3097,6 +3482,25 @@
    "logo": "logos/regard-saguenay.png"
   },
   {
+   "id": "rhode-island",
+   "name": "Flickers' Rhode Island International Film Festival",
+   "entry": "open",
+   "page": "https://film-festival.org/",
+   "website": "https://film-festival.org/",
+   "city": "Providence",
+   "region": "RI",
+   "country": "United States"
+  },
+  {
+   "id": "riga",
+   "name": "Riga International Film Festival",
+   "entry": "open",
+   "page": "https://rigaiff.lv/en/",
+   "website": "https://rigaiff.lv/en/",
+   "city": "Riga",
+   "country": "Latvia"
+  },
+  {
    "id": "rio-janeiro-curta",
    "name": "Rio de Janeiro International Short Film Festival – Festival Curta Cinema",
    "entry": "open",
@@ -3134,6 +3538,15 @@
    },
    "moviemaker_year": 2026,
    "logo": "logos/riverrun.png"
+  },
+  {
+   "id": "rome-independent",
+   "name": "Rome Independent Film Festival (RIFF)",
+   "entry": "open",
+   "page": "https://riff.it/en/",
+   "website": "https://riff.it/en/",
+   "city": "Rome",
+   "country": "Italy"
   },
   {
    "id": "rooftop-films",
@@ -3408,6 +3821,15 @@
    "logo": "logos/sffilm.png"
   },
   {
+   "id": "shanghai",
+   "name": "Shanghai International Film Festival",
+   "entry": "open",
+   "page": "https://www.siff.com/",
+   "website": "https://www.siff.com/",
+   "city": "Shanghai",
+   "country": "China"
+  },
+  {
    "id": "short-shorts-film-fe",
    "name": "Short Shorts Film Festival",
    "entry": "open",
@@ -3464,7 +3886,7 @@
    "page": "https://www.siggraph.org",
    "website": "https://www.siggraph.org",
    "portal": "own",
-   "country": "USA and Canada",
+   "country": "United States",
    "academy": {
     "lists": [
      "live-action",
@@ -3512,6 +3934,15 @@
    "logo": "logos/sitges-fantastic-catalonia.png"
   },
   {
+   "id": "skopje",
+   "name": "Skopje Film Festival",
+   "entry": "open",
+   "page": "https://www.skopjefilmfestival.com.mk/",
+   "website": "https://www.skopjefilmfestival.com.mk/",
+   "city": "Skopje",
+   "country": "North Macedonia"
+  },
+  {
    "id": "slamdance",
    "name": "Slamdance",
    "entry": "open",
@@ -3530,6 +3961,15 @@
     "year": 2027
    },
    "logo": "logos/slamdance.png"
+  },
+  {
+   "id": "sofia",
+   "name": "Sofia International Film Festival",
+   "entry": "open",
+   "page": "https://siff.bg/",
+   "website": "https://siff.bg/",
+   "city": "Sofia",
+   "country": "Bulgaria"
   },
   {
    "id": "spark-animation",
@@ -3588,6 +4028,15 @@
    "logo": "logos/st-louis.png"
   },
   {
+   "id": "stockholm",
+   "name": "Stockholm International Film Festival",
+   "entry": "open",
+   "page": "https://www.stockholmfilmfestival.se/en",
+   "website": "https://www.stockholmfilmfestival.se/en",
+   "city": "Stockholm",
+   "country": "Sweden"
+  },
+  {
    "id": "stuttgart-animated",
    "name": "Stuttgart Festival of Animated Film",
    "entry": "open",
@@ -3602,6 +4051,16 @@
     "year": 2027
    },
    "logo": "logos/stuttgart-animated.png"
+  },
+  {
+   "id": "sun-valley",
+   "name": "Sun Valley Film Festival",
+   "entry": "open",
+   "page": "https://sunvalleyfilmfestival.org/",
+   "website": "https://sunvalleyfilmfestival.org/",
+   "city": "Sun Valley",
+   "region": "ID",
+   "country": "United States"
   },
   {
    "id": "sundance",
@@ -3662,13 +4121,24 @@
    "logo": "logos/sydney.png"
   },
   {
+   "id": "tacoma",
+   "name": "Tacoma Film Festival",
+   "entry": "open",
+   "page": "https://tacomafilmfestival.com/",
+   "website": "https://tacomafilmfestival.com/",
+   "city": "Tacoma",
+   "region": "WA",
+   "country": "United States"
+  },
+  {
    "id": "taipei-golden-horse",
    "name": "Taipei Golden Horse Film Festival",
    "entry": "open",
    "page": "https://www.goldenhorse.org.tw",
    "website": "https://www.goldenhorse.org.tw",
    "portal": "own",
-   "country": "GO LDEN HORSE AWARDS",
+   "city": "Taipei",
+   "country": "Taiwan",
    "academy": {
     "lists": [
      "live-action",
@@ -3747,6 +4217,15 @@
    "logo": "logos/tehran.png"
   },
   {
+   "id": "thessaloniki",
+   "name": "Thessaloniki International Film Festival",
+   "entry": "open",
+   "page": "https://filmfestival.gr/en/",
+   "website": "https://filmfestival.gr/en/",
+   "city": "Thessaloniki",
+   "country": "Greece"
+  },
+  {
    "id": "thomas-edison",
    "name": "Thomas Edison Film Festival",
    "entry": "open",
@@ -3774,6 +4253,8 @@
    "website": "https://filmpittsburgh.org",
    "portal": "own",
    "city": "Pittsburgh",
+   "region": "PA",
+   "country": "United States",
    "moviemaker_year": 2026,
    "logo": "logos/three-rivers.png"
   },
@@ -3824,6 +4305,15 @@
    "city": "Tokyo",
    "country": "Japan",
    "logo": "logos/tokyo.png"
+  },
+  {
+   "id": "torino",
+   "name": "Torino Film Festival",
+   "entry": "open",
+   "page": "https://www.torinofilmfest.org/en/",
+   "website": "https://www.torinofilmfest.org/en/",
+   "city": "Turin",
+   "country": "Italy"
   },
   {
    "id": "tribeca",
@@ -3942,6 +4432,15 @@
    "logo": "logos/vienna.png"
   },
   {
+   "id": "viff-vancouver",
+   "name": "Vancouver International Film Festival (VIFF)",
+   "entry": "open",
+   "page": "https://viff.org/",
+   "website": "https://viff.org/",
+   "city": "Vancouver",
+   "country": "Canada"
+  },
+  {
    "id": "vilnius",
    "name": "Vilnius Short Film Festival",
    "entry": "open",
@@ -3958,6 +4457,15 @@
     "year": 2027
    },
    "logo": "logos/vilnius.png"
+  },
+  {
+   "id": "vilnius-kino-pavasaris",
+   "name": "Vilnius International Film Festival Kino Pavasaris",
+   "entry": "open",
+   "page": "https://kinopavasaris.lt/en/",
+   "website": "https://kinopavasaris.lt/en/",
+   "city": "Vilnius",
+   "country": "Lithuania"
   },
   {
    "id": "visions-reel",
@@ -4226,6 +4734,11 @@
    "verified_on": "2026-09-03"
   },
   {
+   "festival": "berlin-independent",
+   "cycle": 2027,
+   "verified_on": "2026-10-06"
+  },
+  {
    "festival": "berlinale",
    "cycle": 2027,
    "runs": {
@@ -4304,6 +4817,11 @@
   },
   {
    "festival": "courtisane",
+   "cycle": 2027,
+   "verified_on": "2026-10-06"
+  },
+  {
+   "festival": "cph-dox",
    "cycle": 2027,
    "verified_on": "2026-10-06"
   },
@@ -4421,6 +4939,11 @@
    "verified_on": "2026-09-18"
   },
   {
+   "festival": "iff-boston",
+   "cycle": 2027,
+   "verified_on": "2026-10-06"
+  },
+  {
    "festival": "iffr-rotterdam",
    "cycle": 2027,
    "runs": {
@@ -4520,6 +5043,11 @@
    "festival": "omaha",
    "cycle": 2026,
    "verified_on": "2026-09-03"
+  },
+  {
+   "festival": "overlook",
+   "cycle": 2027,
+   "verified_on": "2026-10-06"
   },
   {
    "festival": "pan-african-arts",
@@ -4670,9 +5198,19 @@
    "verified_on": "2026-10-05"
   },
   {
+   "festival": "sofia",
+   "cycle": 2027,
+   "verified_on": "2026-10-06"
+  },
+  {
    "festival": "st-kilda",
    "cycle": 2027,
    "verified_on": "2026-10-05"
+  },
+  {
+   "festival": "stockholm",
+   "cycle": 2026,
+   "verified_on": "2026-10-06"
   },
   {
    "festival": "sundance",
@@ -4970,6 +5508,20 @@
    "note": "Discount Deadline: Narrative Feature, Documentary Feature, Animated Feature, Animated Short, Student"
   },
   {
+   "festival": "berlin-independent",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-10",
+    "to": "2026-09-10",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Early"
+  },
+  {
    "festival": "atlanta",
    "cycle": 2027,
    "tier": "regular",
@@ -5118,7 +5670,9 @@
    "festival": "diametrale-experimental",
    "cycle": 2026,
    "tier": "final",
-   "categories": [],
+   "categories": [
+    "experimental"
+   ],
    "closes": {
     "precision": "day",
     "from": "2026-09-13",
@@ -5217,6 +5771,20 @@
    },
    "fee_unknown": false,
    "note": "Late fee; final submission deadline; short and mid-length, under 64 minutes"
+  },
+  {
+   "festival": "stockholm",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-15",
+    "to": "2026-09-15",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Final Deadline"
   },
   {
    "festival": "sxsw",
@@ -5546,6 +6114,20 @@
    },
    "fee_unknown": false,
    "note": "Extended Deadline: International Short Live Action (Fiction) Film Competition, International Short Documentary Competition, International Short Animation Competition, International Short Experimental Competition, International Short Web / New Media Competition"
+  },
+  {
+   "festival": "overlook",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-25",
+    "to": "2026-09-25",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Early (Un)Deadline"
   },
   {
    "festival": "riverrun",
@@ -6621,6 +7203,20 @@
    "note": "Deadline"
   },
   {
+   "festival": "sofia",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-15",
+    "to": "2026-10-15",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "🔹 Early Bird Deadline for Foreign Entries >"
+  },
+  {
    "festival": "voyage-in-time-andong",
    "cycle": 2026,
    "tier": "late",
@@ -6898,6 +7494,20 @@
    "note": "Late Deadline: Narrative Feature, Documentary Feature, Animated Feature, Animated Short, Student"
   },
   {
+   "festival": "berlin-independent",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-22",
+    "to": "2026-10-22",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular"
+  },
+  {
    "festival": "alchemy",
    "cycle": 2027,
    "categories": [
@@ -6911,6 +7521,33 @@
    },
    "fee_unknown": true,
    "note": "Call for Entries"
+  },
+  {
+   "festival": "iff-boston",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-30",
+    "to": "2026-10-30",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Deadline"
+  },
+  {
+   "festival": "overlook",
+   "cycle": 2027,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-30",
+    "to": "2026-10-30",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Halloween (Un)Deadline"
   },
   {
    "festival": "santa-barbara",
@@ -7097,6 +7734,20 @@
    "note": "Magic Deadline: Narrative Feature, Documentary Feature, Animated Feature"
   },
   {
+   "festival": "sofia",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-31",
+    "to": "2026-10-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "🔸 Regular Deadline for Foreign Entries >"
+  },
+  {
    "festival": "bali",
    "cycle": 2027,
    "tier": "early",
@@ -7229,6 +7880,22 @@
    "note": "Late Deadline"
   },
   {
+   "festival": "sofia",
+   "cycle": 2027,
+   "categories": [
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-01",
+    "to": "2026-11-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Deadline for Bulgarian Feature and Short Films >"
+  },
+  {
    "festival": "riverrun",
    "cycle": 2027,
    "tier": "late",
@@ -7270,6 +7937,21 @@
    },
    "fee_unknown": false,
    "note": "Late Deadline: Narrative Short, Documentary Short, Animated Short"
+  },
+  {
+   "festival": "cph-dox",
+   "cycle": 2027,
+   "categories": [
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-03",
+    "to": "2026-11-03",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "FILMS: Submission deadline"
   },
   {
    "festival": "animation-dingle",
@@ -7833,6 +8515,20 @@
    "note": "Late Oct 21 / Final Nov 18, 2026"
   },
   {
+   "festival": "berlin-independent",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-19",
+    "to": "2026-11-19",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late"
+  },
+  {
    "festival": "documentary-sheffield",
    "cycle": 2027,
    "tier": "early",
@@ -7947,6 +8643,20 @@
    },
    "fee_unknown": false,
    "note": "Late Deadline: Documentary (short subject), Narrative (short subject)"
+  },
+  {
+   "festival": "overlook",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-27",
+    "to": "2026-11-27",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular (Un)Deadline"
   },
   {
    "festival": "ficci-cartagena",
@@ -8709,6 +9419,20 @@
    "note": "Extended Deadline"
   },
   {
+   "festival": "berlin-independent",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-22",
+    "to": "2026-12-22",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Final"
+  },
+  {
    "festival": "courtisane",
    "cycle": 2027,
    "categories": [
@@ -9304,6 +10028,20 @@
    "note": "Late Deadline"
   },
   {
+   "festival": "overlook",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-24",
+    "to": "2027-01-24",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late (Un)Deadline"
+  },
+  {
    "festival": "fest-new-directors-new-films",
    "cycle": 2027,
    "tier": "extended",
@@ -9352,6 +10090,20 @@
    },
    "fee_unknown": false,
    "note": "Early Bird Deadline: Short Live Action, Animation, Documentary, Student, Bollywood Shorts"
+  },
+  {
+   "festival": "overlook",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-29",
+    "to": "2027-01-29",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Final (Un)Deadline"
   },
   {
    "festival": "doc-edge",
