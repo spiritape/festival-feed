@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-10-06",
+ "generated_on": "2026-10-07",
  "festivals": [
   {
    "id": "25fps-zagreb",
@@ -5095,11 +5095,6 @@
    "verified_on": "2026-09-03"
   },
   {
-   "festival": "new-media",
-   "cycle": 2026,
-   "verified_on": "2026-09-03"
-  },
-  {
    "festival": "new-york-screening",
    "cycle": 2027,
    "verified_on": "2026-09-03"
@@ -5396,20 +5391,6 @@
   }
  ],
  "deadlines": [
-  {
-   "festival": "new-media",
-   "cycle": 2026,
-   "tier": "final",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-06",
-    "to": "2026-09-06",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Sept 6, 2026"
-  },
   {
    "festival": "foyle",
    "cycle": 2026,
@@ -11655,6 +11636,4856 @@
    },
    "fee_unknown": true,
    "note": "Extended Deadline"
+  }
+ ],
+ "previous": [
+  {
+   "festival": "austin",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-27",
+    "to": "2026-03-27",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Fees by tier: features $65-95, shorts $60-90. Ranges, so no single amount recorded."
+  },
+  {
+   "festival": "austin",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-20",
+    "to": "2026-05-20",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Fees by tier: features $65-95, shorts $60-90. Ranges, so no single amount recorded."
+  },
+  {
+   "festival": "austin",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-19",
+    "to": "2026-06-19",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Fees by tier: features $65-95, shorts $60-90. Ranges, so no single amount recorded."
+  },
+  {
+   "festival": "austin",
+   "cycle": 2026,
+   "tier": "extended",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-01",
+    "to": "2026-07-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Online extended deadline. Fees by tier: features $65-95, shorts $60-90. Ranges, so no single amount recorded."
+  },
+  {
+   "festival": "bafici",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2025-12-18",
+    "to": "2025-12-18",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Closed (Dec 18, 2025)"
+  },
+  {
+   "festival": "busan",
+   "cycle": 2026,
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-02",
+    "to": "2026-06-02",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Jun 2, 2026 (passed, Asian shorts)"
+  },
+  {
+   "festival": "busan",
+   "cycle": 2026,
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-08",
+    "to": "2026-07-08",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Jul 8, 2026 (passed, features)"
+  },
+  {
+   "festival": "chicago",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-07",
+    "to": "2026-04-07",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: Short Films"
+  },
+  {
+   "festival": "chicago",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "feature",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-07",
+    "to": "2026-04-07",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: Feature Length Narratives (Student Fee), Feature Length Documentaries (Student Fee)"
+  },
+  {
+   "festival": "chicago",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-07",
+    "to": "2026-04-07",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 90,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: Feature Length Narratives, Feature Length Documentaries"
+  },
+  {
+   "festival": "chicago",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-07",
+    "to": "2026-04-07",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 20,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: Short Films (Student Fee)"
+  },
+  {
+   "festival": "chicago",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "feature",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-08",
+    "to": "2026-06-08",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Feature Length Narratives (Student Fee), Feature Length Documentaries (Student Fee)"
+  },
+  {
+   "festival": "chicago",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-08",
+    "to": "2026-06-08",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Short Films"
+  },
+  {
+   "festival": "chicago",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-08",
+    "to": "2026-06-08",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 100,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Feature Length Narratives, Feature Length Documentaries"
+  },
+  {
+   "festival": "chicago",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-08",
+    "to": "2026-06-08",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 30,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Short Films (Student Fee)"
+  },
+  {
+   "festival": "chicago",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "feature",
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-30",
+    "to": "2026-06-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 80,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Feature Length Narratives (Student Fee), Feature Length Documentaries (Student Fee), Short Films"
+  },
+  {
+   "festival": "chicago",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-30",
+    "to": "2026-06-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Short Films (Student Fee)"
+  },
+  {
+   "festival": "chicago",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-30",
+    "to": "2026-06-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 200,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Feature Length Narratives, Feature Length Documentaries"
+  },
+  {
+   "festival": "cinanima-animated-espinho",
+   "cycle": 2026,
+   "categories": [
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-21",
+    "to": "2026-06-21",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 3,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Deadline: INTERNATIONAL COMPETITION - Short Films, INTERNATIONAL COMPETITION - Feature Films"
+  },
+  {
+   "festival": "cork",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-27",
+    "to": "2026-03-27",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 25,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: International Shorts, International Shorts - Documentary"
+  },
+  {
+   "festival": "cork",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-27",
+    "to": "2026-03-27",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 20,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: Irish Shorts, Irish Shorts - Documentary"
+  },
+  {
+   "festival": "cork",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-27",
+    "to": "2026-03-27",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 15,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: Cork Shorts, Cork Shorts - Documentary"
+  },
+  {
+   "festival": "cork",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-27",
+    "to": "2026-03-27",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: International Features, International Features - Documentary"
+  },
+  {
+   "festival": "cork",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-27",
+    "to": "2026-03-27",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: Irish Features, Irish Features - Documentary"
+  },
+  {
+   "festival": "cork",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-05",
+    "to": "2026-06-05",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: International Shorts, International Shorts - Documentary"
+  },
+  {
+   "festival": "cork",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-05",
+    "to": "2026-06-05",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 30,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Irish Shorts, Irish Shorts - Documentary"
+  },
+  {
+   "festival": "cork",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-05",
+    "to": "2026-06-05",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 25,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Cork Shorts, Cork Shorts - Documentary"
+  },
+  {
+   "festival": "cork",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-05",
+    "to": "2026-06-05",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 55,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: International Features, International Features - Documentary"
+  },
+  {
+   "festival": "cork",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-05",
+    "to": "2026-06-05",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Irish Features, Irish Features - Documentary"
+  },
+  {
+   "festival": "cork",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-07",
+    "to": "2026-08-07",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 70,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: International Features, International Features - Documentary"
+  },
+  {
+   "festival": "cork",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-07",
+    "to": "2026-08-07",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 65,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Irish Features, Irish Features - Documentary"
+  },
+  {
+   "festival": "cork",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-07",
+    "to": "2026-08-07",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: International Shorts, International Shorts - Documentary"
+  },
+  {
+   "festival": "cork",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-14",
+    "to": "2026-08-14",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Irish Shorts Late Deadline: Irish Shorts, Irish Shorts - Documentary"
+  },
+  {
+   "festival": "cork",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-14",
+    "to": "2026-08-14",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Irish Shorts Late Deadline: Cork Shorts, Cork Shorts - Documentary"
+  },
+  {
+   "festival": "cucalorus",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-20",
+    "to": "2026-07-20",
+    "approximate": true
+   },
+   "fee_unknown": true,
+   "note": "~Jul 20, 2026 (passed)"
+  },
+  {
+   "festival": "downtown-nyc",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-15",
+    "to": "2026-05-15",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Earlybird Deadline"
+  },
+  {
+   "festival": "downtown-nyc",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-15",
+    "to": "2026-06-15",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Deadline"
+  },
+  {
+   "festival": "downtown-nyc",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-30",
+    "to": "2026-07-30",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Deadline"
+  },
+  {
+   "festival": "edinburgh",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-17",
+    "to": "2026-04-17",
+    "approximate": true
+   },
+   "fee_unknown": true,
+   "note": "~Apr 17, 2026 (passed)"
+  },
+  {
+   "festival": "ficvaldivia",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-24",
+    "to": "2026-04-24",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Closed (Apr 24, 2026)"
+  },
+  {
+   "festival": "french-academy-cinema",
+   "cycle": 2027,
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-15",
+    "to": "2026-07-15",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Online entry for the César 2027 short film awards closed 15 July 2026."
+  },
+  {
+   "festival": "havana",
+   "cycle": 2026,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-15",
+    "to": "2026-08-15",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Inscripciones"
+  },
+  {
+   "festival": "heartland",
+   "cycle": 2026,
+   "ordinal": 35,
+   "tier": "early",
+   "categories": [
+    "feature",
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-02-01",
+    "to": "2026-02-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Early Bird Deadline"
+  },
+  {
+   "festival": "heartland",
+   "cycle": 2026,
+   "ordinal": 35,
+   "tier": "regular",
+   "categories": [
+    "feature",
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-17",
+    "to": "2026-05-17",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Deadline"
+  },
+  {
+   "festival": "heartland",
+   "cycle": 2026,
+   "ordinal": 35,
+   "tier": "late",
+   "categories": [
+    "feature",
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-07",
+    "to": "2026-06-07",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Deadline"
+  },
+  {
+   "festival": "heartland",
+   "cycle": 2026,
+   "ordinal": 35,
+   "tier": "extended",
+   "categories": [
+    "feature",
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-05",
+    "to": "2026-07-05",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Extended Deadline"
+  },
+  {
+   "festival": "hot-springs-documentary",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-02-01",
+    "to": "2026-02-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Early Bird Deadline"
+  },
+  {
+   "festival": "hot-springs-documentary",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-01",
+    "to": "2026-05-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Deadline"
+  },
+  {
+   "festival": "hot-springs-documentary",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-15",
+    "to": "2026-06-15",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Deadline"
+  },
+  {
+   "festival": "hot-springs-documentary",
+   "cycle": 2026,
+   "tier": "extended",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-15",
+    "to": "2026-07-15",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Extended Deadline"
+  },
+  {
+   "festival": "iff-art-film",
+   "cycle": 2026,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-10",
+    "to": "2026-04-10",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Film submission deadline"
+  },
+  {
+   "festival": "iffi-goa",
+   "cycle": 2026,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-31",
+    "to": "2026-08-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "deadline for receiving applications and preview material"
+  },
+  {
+   "festival": "karlovy-vary",
+   "cycle": 2026,
+   "ordinal": 60,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "month",
+    "from": "2026-02-01",
+    "to": "2026-02-28",
+    "approximate": true,
+    "label": "~Feb 2026"
+   },
+   "fee_unknown": true,
+   "note": "per prior-year pattern, not a published date"
+  },
+  {
+   "festival": "karlovy-vary",
+   "cycle": 2026,
+   "ordinal": 60,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "month",
+    "from": "2026-03-01",
+    "to": "2026-03-31",
+    "approximate": true,
+    "label": "~Mar 2026"
+   },
+   "fee_unknown": true,
+   "note": "per prior-year pattern, not a published date"
+  },
+  {
+   "festival": "kasseler-dokfest",
+   "cycle": 2026,
+   "categories": [
+    "documentary",
+    "experimental"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-01",
+    "to": "2026-07-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Deadline"
+  },
+  {
+   "festival": "leuven",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-15",
+    "to": "2026-04-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 10,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: European Competition: ANIMATION, European Competition: DOCUMENTARY"
+  },
+  {
+   "festival": "leuven",
+   "cycle": 2026,
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-15",
+    "to": "2026-07-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 15,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "International Deadline: European Competition: ANIMATION, European Competition: DOCUMENTARY"
+  },
+  {
+   "festival": "leuven",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-15",
+    "to": "2026-08-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 20,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Late (European) Deadline: European Competition: ANIMATION, European Competition: DOCUMENTARY"
+  },
+  {
+   "festival": "locarno",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-02-19",
+    "to": "2026-02-19",
+    "approximate": false,
+    "time": "14:00",
+    "tz": "CET"
+   },
+   "fee": {
+    "amount": 100,
+    "currency": "CHF"
+   },
+   "fee_unknown": false,
+   "note": "Early; feature and medium length, from 41 minutes"
+  },
+  {
+   "festival": "locarno",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-02-19",
+    "to": "2026-02-19",
+    "approximate": false,
+    "time": "14:00",
+    "tz": "CET"
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "CHF"
+   },
+   "fee_unknown": false,
+   "note": "Early; short, up to 40 minutes"
+  },
+  {
+   "festival": "locarno",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-09",
+    "to": "2026-04-09",
+    "approximate": false,
+    "time": "14:00",
+    "tz": "CEST"
+   },
+   "fee": {
+    "amount": 130,
+    "currency": "CHF"
+   },
+   "fee_unknown": false,
+   "note": "Regular; feature and medium length, from 41 minutes"
+  },
+  {
+   "festival": "locarno",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-09",
+    "to": "2026-04-09",
+    "approximate": false,
+    "time": "14:00",
+    "tz": "CEST"
+   },
+   "fee": {
+    "amount": 55,
+    "currency": "CHF"
+   },
+   "fee_unknown": false,
+   "note": "Regular; short, up to 40 minutes"
+  },
+  {
+   "festival": "locarno",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-23",
+    "to": "2026-04-23",
+    "approximate": false,
+    "time": "14:00",
+    "tz": "CEST"
+   },
+   "fee": {
+    "amount": 200,
+    "currency": "CHF"
+   },
+   "fee_unknown": false,
+   "note": "Late; feature and medium length, from 41 minutes"
+  },
+  {
+   "festival": "locarno",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-23",
+    "to": "2026-04-23",
+    "approximate": false,
+    "time": "14:00",
+    "tz": "CEST"
+   },
+   "fee": {
+    "amount": 75,
+    "currency": "CHF"
+   },
+   "fee_unknown": false,
+   "note": "Late; short, up to 40 minutes"
+  },
+  {
+   "festival": "manchester-animation",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-03",
+    "to": "2026-03-03",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 15,
+    "currency": "GBP"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird Deadline: Short Film"
+  },
+  {
+   "festival": "manchester-animation",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-03",
+    "to": "2026-03-03",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 7.5,
+    "currency": "GBP"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird Deadline: Student Film"
+  },
+  {
+   "festival": "manchester-animation",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-03",
+    "to": "2026-03-03",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "GBP"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird Deadline: Feature Film"
+  },
+  {
+   "festival": "manchester-animation",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-23",
+    "to": "2026-06-23",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 20,
+    "currency": "GBP"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Short Film"
+  },
+  {
+   "festival": "manchester-animation",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-23",
+    "to": "2026-06-23",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "GBP"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Feature Film"
+  },
+  {
+   "festival": "manchester-animation",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-23",
+    "to": "2026-06-23",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 12.5,
+    "currency": "GBP"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Student Film"
+  },
+  {
+   "festival": "manchester-animation",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-31",
+    "to": "2026-07-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "GBP"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Feature Film"
+  },
+  {
+   "festival": "manchester-animation",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-31",
+    "to": "2026-07-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 17.5,
+    "currency": "GBP"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Student Film"
+  },
+  {
+   "festival": "manchester-animation",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-31",
+    "to": "2026-07-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 25,
+    "currency": "GBP"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Short Film"
+  },
+  {
+   "festival": "mannheim-heidelberg",
+   "cycle": 2026,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-30",
+    "to": "2026-06-30",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Einreichungsschluss 75. IFFMH"
+  },
+  {
+   "festival": "mar-del-plata",
+   "cycle": 2026,
+   "tier": "extended",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-15",
+    "to": "2026-07-15",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Closed (extended to Jul 15, 2026)"
+  },
+  {
+   "festival": "new-media",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-06",
+    "to": "2026-09-06",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Sept 6, 2026"
+  },
+  {
+   "festival": "new-next",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-25",
+    "to": "2026-05-25",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "2026 deadline was May 25, 2026 (closed)"
+  },
+  {
+   "festival": "new-orleans",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-01-09",
+    "to": "2026-01-09",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Early Bird Deadline"
+  },
+  {
+   "festival": "new-orleans",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-06",
+    "to": "2026-03-06",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Deadline"
+  },
+  {
+   "festival": "new-orleans",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-24",
+    "to": "2026-04-24",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Deadline"
+  },
+  {
+   "festival": "new-orleans",
+   "cycle": 2026,
+   "tier": "extended",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-29",
+    "to": "2026-05-29",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Extended Deadline"
+  },
+  {
+   "festival": "ojai",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-02-28",
+    "to": "2026-02-28",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Feb 28, 2026 (passed)"
+  },
+  {
+   "festival": "ojai",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-31",
+    "to": "2026-03-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Mar 31, 2026 (passed)"
+  },
+  {
+   "festival": "ojai",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-31",
+    "to": "2026-05-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Apr 30 / May 31, 2026 (passed)"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-06",
+    "to": "2026-03-06",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Mar 6, 2026 (passed)"
+  },
+  {
+   "festival": "palm-springs-shortfest",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-06",
+    "to": "2026-06-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 75,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird Deadline: International Feature, Documentary Feature, American Feature, After Dark Feature, Local Feature"
+  },
+  {
+   "festival": "palm-springs-shortfest",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-31",
+    "to": "2026-07-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 95,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: International Feature, Documentary Feature, American Feature, After Dark Feature, Local Feature"
+  },
+  {
+   "festival": "palm-springs-shortfest",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-31",
+    "to": "2026-08-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 115,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final Deadline: International Feature, Documentary Feature, American Feature, After Dark Feature, Local Feature"
+  },
+  {
+   "festival": "poff-tallinn-black-nights",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-29",
+    "to": "2026-06-29",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Jun 29, 2026 (passed)"
+  },
+  {
+   "festival": "poff-tallinn-black-nights",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-24",
+    "to": "2026-08-24",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Aug 24, 2026 (passed)"
+  },
+  {
+   "festival": "san-francisco-jewish",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-01-31",
+    "to": "2026-01-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Deadline"
+  },
+  {
+   "festival": "san-francisco-jewish",
+   "cycle": 2026,
+   "tier": "extended",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-02-28",
+    "to": "2026-02-28",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Extended Deadline"
+  },
+  {
+   "festival": "san-sebastian",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-16",
+    "to": "2026-06-16",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Preselection: Jun 16, 2026 (passed)"
+  },
+  {
+   "festival": "santa-fe",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-03",
+    "to": "2026-06-03",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Deadline"
+  },
+  {
+   "festival": "santa-fe",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-09",
+    "to": "2026-07-09",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Final Deadline"
+  },
+  {
+   "festival": "spark-animation",
+   "cycle": 2026,
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-31",
+    "to": "2026-07-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 10,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Submission Deadline: Animated Student Films"
+  },
+  {
+   "festival": "spark-animation",
+   "cycle": 2026,
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-31",
+    "to": "2026-07-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 20,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Submission Deadline: Animated Short Films, Animated Commissioned Works, VFX Short Narrative"
+  },
+  {
+   "festival": "spark-animation",
+   "cycle": 2026,
+   "categories": [
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-31",
+    "to": "2026-07-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Submission Deadline: Animated Feature Films"
+  },
+  {
+   "festival": "tauron-american-in-poland",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-20",
+    "to": "2026-06-20",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Jun 20, 2026 (passed)"
+  },
+  {
+   "festival": "tiff",
+   "cycle": 2026,
+   "ordinal": 51,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-08",
+    "to": "2026-05-08",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Standard: May 8, 2026 (passed)"
+  },
+  {
+   "festival": "urbanworld",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-06",
+    "to": "2026-04-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 75,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: U.S. & World Narrative Feature Films, U.S. & World Documentary Feature Films"
+  },
+  {
+   "festival": "urbanworld",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-06",
+    "to": "2026-04-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: Animation"
+  },
+  {
+   "festival": "urbanworld",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-06",
+    "to": "2026-04-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 55,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: U.S. & World Narrative Short Films, U.S. & World Documentary Short Films, Experimental Films"
+  },
+  {
+   "festival": "urbanworld",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-06",
+    "to": "2026-07-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Animation"
+  },
+  {
+   "festival": "urbanworld",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-06",
+    "to": "2026-07-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 75,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: U.S. & World Narrative Short Films, U.S. & World Documentary Short Films, Experimental Films"
+  },
+  {
+   "festival": "urbanworld",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-06",
+    "to": "2026-07-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 90,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: U.S. & World Narrative Feature Films, U.S. & World Documentary Feature Films"
+  },
+  {
+   "festival": "urbanworld",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-10",
+    "to": "2026-07-10",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 95,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: U.S. & World Narrative Short Films, U.S. & World Documentary Short Films, Experimental Films"
+  },
+  {
+   "festival": "urbanworld",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-10",
+    "to": "2026-07-10",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 110,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: U.S. & World Narrative Feature Films, U.S. & World Documentary Feature Films"
+  },
+  {
+   "festival": "urbanworld",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-10",
+    "to": "2026-07-10",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Animation"
+  },
+  {
+   "festival": "urbanworld",
+   "cycle": 2026,
+   "tier": "extended",
+   "categories": [
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-06",
+    "to": "2026-08-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 105,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Final Deadline: U.S. & World Narrative Short Films, U.S. & World Documentary Short Films, Experimental Films"
+  },
+  {
+   "festival": "urbanworld",
+   "cycle": 2026,
+   "tier": "extended",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-06",
+    "to": "2026-08-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 80,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Final Deadline: Animation"
+  },
+  {
+   "festival": "urbanworld",
+   "cycle": 2026,
+   "tier": "extended",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-06",
+    "to": "2026-08-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 120,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Final Deadline: U.S. & World Narrative Feature Films, U.S. & World Documentary Feature Films"
+  },
+  {
+   "festival": "venice",
+   "cycle": 2026,
+   "ordinal": 83,
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-28",
+    "to": "2026-05-28",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "shorts: May 28, 2026)"
+  },
+  {
+   "festival": "venice",
+   "cycle": 2026,
+   "ordinal": 83,
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-04",
+    "to": "2026-06-04",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "2026 ed. closed (features: Jun 4, 2026"
+  }
+ ],
+ "events": [
+  {
+   "festival": "mami-mumbai",
+   "cycle": 2024,
+   "runs": {
+    "precision": "day",
+    "from": "2024-10-19",
+    "to": "2024-10-24",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "brussels-independent",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-02-03",
+    "to": "2025-02-09",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "oxford-ms",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-02-27",
+    "to": "2025-03-02",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "ficunam",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-05-29",
+    "to": "2025-06-05",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "champs-elysees",
+   "cycle": 2025,
+   "runs": {
+    "precision": "month",
+    "from": "2025-06-01",
+    "to": "2025-06-30",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "imaginenative-media-arts",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-06-03",
+    "to": "2025-06-08",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "milano-film-fest",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-06-03",
+    "to": "2025-06-08",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "raindance",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-06-18",
+    "to": "2025-06-27",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "nevada-city",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-06-20",
+    "to": "2025-06-22",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "rhode-island",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-08-04",
+    "to": "2025-08-09",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "bengaluru",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-08-07",
+    "to": "2025-08-17",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "lima",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-08-07",
+    "to": "2025-08-16",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "salute-your-shorts",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-08-15",
+    "to": "2025-08-17",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "imaginaria",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-08-17",
+    "to": "2025-08-23",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "documentary-kerala",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-08-22",
+    "to": "2025-08-27",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "off-odense",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-08-25",
+    "to": "2025-08-31",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "crossroads-sf",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-08-29",
+    "to": "2025-08-31",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "fantoche-animation",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-09-02",
+    "to": "2025-09-07",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "drama",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-09-08",
+    "to": "2025-09-14",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "motelx-lisbon",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-09-09",
+    "to": "2025-09-15",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "israel-academy-ophir",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-09-16",
+    "to": "2025-09-16",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "calgary",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-09-18",
+    "to": "2025-09-28",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "fantastic-fest",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-09-18",
+    "to": "2025-09-25",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "helsinki-love-anarchy",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-09-18",
+    "to": "2025-09-28",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "nashville",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-09-18",
+    "to": "2025-09-24",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "nordisk-panorama",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-09-18",
+    "to": "2025-09-23",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "prague-independent",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-09-18",
+    "to": "2025-09-21",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "tirana",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-09-21",
+    "to": "2025-09-27",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "25fps-zagreb",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-09-23",
+    "to": "2025-09-27",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "odesa",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-09-24",
+    "to": "2025-10-04",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "ottawa-animation",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-09-24",
+    "to": "2025-09-28",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "edmonton",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-09-25",
+    "to": "2025-10-04",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "el-paso",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-09-25",
+    "to": "2025-09-27",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "filmfest-hamburg",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-09-25",
+    "to": "2025-10-04",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "out-on-atlanta",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-09-25",
+    "to": "2025-10-05",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "athens-aiff",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-01",
+    "to": "2025-10-12",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "wndx",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-01",
+    "to": "2025-10-05",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "festival-do-rio",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-02",
+    "to": "2025-10-12",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "viff-vancouver",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-02",
+    "to": "2025-10-12",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "animest-animation",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-03",
+    "to": "2025-10-12",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "hamptons",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-03",
+    "to": "2025-10-13",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "haifa",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-04",
+    "to": "2025-10-14",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "show-me",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-07",
+    "to": "2025-10-27",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "bfi-london",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-08",
+    "to": "2025-10-19",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "nouveau-cinema",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-08",
+    "to": "2025-10-19",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "reelsisters-diaspora",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-08",
+    "to": "2025-10-29",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "tasveer",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-08",
+    "to": "2025-10-12",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "sitges-fantastic-catalonia",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-09",
+    "to": "2025-10-19",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "tacoma",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-09",
+    "to": "2025-10-12",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "morelia",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-10",
+    "to": "2025-10-19",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "warsaw",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-10",
+    "to": "2025-10-19",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "iris-prize",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-13",
+    "to": "2025-10-19",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "adelaide",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-15",
+    "to": "2025-10-26",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "hawaii",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-15",
+    "to": "2025-10-26",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "louisiana-film-prize",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-15",
+    "to": "2025-10-19",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "woodstock",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-15",
+    "to": "2025-10-19",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "doclisboa",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-16",
+    "to": "2025-10-26",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "mostra-sao-paulo",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-16",
+    "to": "2025-10-30",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "new-hampshire",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-16",
+    "to": "2025-10-19",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "newport-beach",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-16",
+    "to": "2025-10-23",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "riga",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-16",
+    "to": "2025-10-26",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "san-jose",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-16",
+    "to": "2025-10-19",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "tehran",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-19",
+    "to": "2025-10-24",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "uppsala",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-20",
+    "to": "2025-10-26",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "evolution-mallorca",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-21",
+    "to": "2025-10-29",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "afi",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-22",
+    "to": "2025-10-26",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "cambridge-uk",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-23",
+    "to": "2025-11-02",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "filmquest",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-23",
+    "to": "2025-11-01",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "bucheon-animation",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-24",
+    "to": "2025-10-28",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "molodist-kyiv",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-25",
+    "to": "2025-11-02",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "scad-savannah",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-25",
+    "to": "2025-11-01",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "leipzig-documentary-animated",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-27",
+    "to": "2025-11-02",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "bitbang-animation",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-28",
+    "to": "2025-11-01",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "leeds",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-30",
+    "to": "2025-11-16",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "thessaloniki",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-10-30",
+    "to": "2025-11-09",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "documentaries-bilbao-zinebi",
+   "cycle": 2025,
+   "runs": {
+    "precision": "month",
+    "from": "2025-11-01",
+    "to": "2025-11-30",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "interfilm-berlin",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-11-04",
+    "to": "2025-11-09",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "kurzfilmtage-winterthur",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-11-04",
+    "to": "2025-11-09",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "coronado-island",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-11-05",
+    "to": "2025-11-09",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "alcine-cine-alcala",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-11-06",
+    "to": "2025-11-16",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "film-fest-knox",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-11-06",
+    "to": "2025-11-09",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "st-louis",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-11-06",
+    "to": "2025-11-16",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "taipei-golden-horse",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-11-06",
+    "to": "2025-11-23",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "chicago-childrens",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-11-07",
+    "to": "2025-11-17",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "cairo",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-11-12",
+    "to": "2025-11-21",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "three-rivers",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-11-12",
+    "to": "2025-11-23",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "idfa-documentary-amsterdam",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-11-13",
+    "to": "2025-11-23",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "lalternativa-barcelona",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-11-13",
+    "to": "2025-11-23",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "ficx-gijon",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-11-14",
+    "to": "2025-11-22",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "huelva",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-11-14",
+    "to": "2025-11-22",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "energacamerimage",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-11-15",
+    "to": "2025-11-22",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "izmir",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-11-17",
+    "to": "2025-11-23",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "german-award",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-11-20",
+    "to": "2025-11-20",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "rome-independent",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-11-21",
+    "to": "2025-11-28",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "torino",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-11-21",
+    "to": "2025-11-29",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "singapore",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-11-26",
+    "to": "2025-12-07",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "bogoshorts-bogota",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-12-02",
+    "to": "2025-12-09",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "sun-valley",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-12-03",
+    "to": "2025-12-07",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "whistler",
+   "cycle": 2025,
+   "runs": {
+    "precision": "day",
+    "from": "2025-12-03",
+    "to": "2025-12-07",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "vilnius",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-01-21",
+    "to": "2026-01-27",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "flickerfest",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-01-23",
+    "to": "2026-02-01",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "goteborg",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-01-23",
+    "to": "2026-02-01",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "jiiff-jose-ignacio",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-01-24",
+    "to": "2026-02-01",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "clermont-ferrand",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-01-30",
+    "to": "2026-02-07",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "dublin",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-02-19",
+    "to": "2026-03-01",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "anima-brussels-animation",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-02-20",
+    "to": "2026-03-01",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "bafta",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-02-22",
+    "to": "2026-02-22",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "el-dorado",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-02-25",
+    "to": "2026-03-01",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "mcminnville-short",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-02-26",
+    "to": "2026-03-01",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "goya-awards",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-02-28",
+    "to": "2026-02-28",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "new-york-childrens",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-02-28",
+    "to": "2026-03-15",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "tampere",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-03-04",
+    "to": "2026-03-08",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "vilnius-kino-pavasaris",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-03-09",
+    "to": "2026-03-22",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "cinequest",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-03-10",
+    "to": "2026-03-18",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "kaboom-animation",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-03-13",
+    "to": "2026-03-22",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "regard-saguenay",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-03-18",
+    "to": "2026-03-22",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "rio-janeiro-curta",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-03-25",
+    "to": "2026-04-01",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "hong-kong",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-04-01",
+    "to": "2026-04-12",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "goshort-nijmegen",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-04-07",
+    "to": "2026-04-12",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "fantaspoa",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-04-08",
+    "to": "2026-04-26",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "images-toronto",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-04-09",
+    "to": "2026-04-13",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "istanbul",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-04-09",
+    "to": "2026-04-19",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "its-all-true",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-04-09",
+    "to": "2026-04-19",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "london-independent",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-04-10",
+    "to": "2026-04-19",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "athens-video",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-04-13",
+    "to": "2026-04-19",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "alexandria",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-04-15",
+    "to": "2026-04-20",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "bafici",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-04-15",
+    "to": "2026-04-26",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "calgary-underground",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-04-16",
+    "to": "2026-04-26",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "full-frame-documentary",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-04-16",
+    "to": "2026-04-19",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "guadalajara",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-04-17",
+    "to": "2026-04-25",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "brussels",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-04-23",
+    "to": "2026-05-02",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "dallas",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-04-23",
+    "to": "2026-04-30",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "hot-docs-canadian",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-04-23",
+    "to": "2026-05-03",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "san-luis-obispo",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-04-23",
+    "to": "2026-04-28",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "oberhausen",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-04-28",
+    "to": "2026-05-03",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "prismatic-ground",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-04-29",
+    "to": "2026-05-03",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "angeles-asian-pacific",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-04-30",
+    "to": "2026-05-07",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "indielisboa",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-04-30",
+    "to": "2026-05-10",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "chilemonos-animation",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-05-01",
+    "to": "2026-05-31",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "stuttgart-animated",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-05-05",
+    "to": "2026-05-10",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "animayo-summit-animation",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-05-06",
+    "to": "2026-05-09",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "premi-david-donatello",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-05-06",
+    "to": "2026-05-06",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "mammoth-lakes",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-05-20",
+    "to": "2026-05-24",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "mountainfilm",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-05-21",
+    "to": "2026-05-25",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "internacional-cine-lebu",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-05-22",
+    "to": "2026-05-29",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "videoex",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-05-22",
+    "to": "2026-05-31",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "short-shorts-film-fe",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-05-25",
+    "to": "2026-06-10",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "vienna",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-05-26",
+    "to": "2026-05-31",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "american-black",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-05-27",
+    "to": "2026-05-31",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "angeles-latino",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-05-27",
+    "to": "2026-05-31",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "docaviv-documentary",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-05-28",
+    "to": "2026-06-06",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "academy-canadian-cinema",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-05-31",
+    "to": "2026-05-31",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "krakow",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-05-31",
+    "to": "2026-06-07",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "deauville-green-awards",
+   "cycle": 2026,
+   "ordinal": 15,
+   "runs": {
+    "precision": "month",
+    "from": "2026-06-01",
+    "to": "2026-06-30",
+    "approximate": true,
+    "label": "~June 2026"
+   }
+  },
+  {
+   "festival": "fest-new-directors-new-films",
+   "cycle": 2026,
+   "ordinal": 22,
+   "runs": {
+    "precision": "month",
+    "from": "2026-06-01",
+    "to": "2026-06-30",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "tribeca",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-06-03",
+    "to": "2026-06-14",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "huesca",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-06-05",
+    "to": "2026-06-13",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "world-animated-animafest",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-06-08",
+    "to": "2026-06-13",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "midnight-sun",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-06-10",
+    "to": "2026-06-14",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "norwegian",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-06-10",
+    "to": "2026-06-14",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "provincetown",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-06-10",
+    "to": "2026-06-14",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "shanghai",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-06-12",
+    "to": "2026-06-21",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "dances-with-films",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-06-18",
+    "to": "2026-06-28",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "ouray",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-06-18",
+    "to": "2026-06-21",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "annecy-animation",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-06-21",
+    "to": "2026-06-27",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "filmfest-munchen",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-06-26",
+    "to": "2026-07-05",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "anca-animation",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-06-30",
+    "to": "2026-07-05",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "karlovy-vary",
+   "cycle": 2026,
+   "ordinal": 60,
+   "runs": {
+    "precision": "day",
+    "from": "2026-07-03",
+    "to": "2026-07-11",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "animator-animated",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-07-04",
+    "to": "2026-07-12",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "galway-fleadh",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-07-07",
+    "to": "2026-07-12",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "jerusalem",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-07-09",
+    "to": "2026-07-19",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "fantasia",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-07-16",
+    "to": "2026-08-02",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "curtas-vila-doconde",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-07-17",
+    "to": "2026-07-26",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "siggraph",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-07-19",
+    "to": "2026-07-23",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "durban",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-07-23",
+    "to": "2026-08-02",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "guanajuato",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-07-24",
+    "to": "2026-08-02",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "nziff",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-07-29",
+    "to": "2026-08-09",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "locarno",
+   "cycle": 2026,
+   "runs": {
+    "precision": "month",
+    "from": "2026-08-01",
+    "to": "2026-08-31",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "blackstar",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-08-06",
+    "to": "2026-08-09",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "melbourne",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-08-06",
+    "to": "2026-08-23",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "edinburgh",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-08-13",
+    "to": "2026-08-19",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "hiro-shima-animation",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-08-19",
+    "to": "2026-08-23",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "sidewalk",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-08-24",
+    "to": "2026-08-30",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "runs": {
+    "precision": "season",
+    "from": "2026-09-01",
+    "to": "2026-11-30",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "portland",
+   "cycle": 2026,
+   "runs": {
+    "precision": "season",
+    "from": "2026-09-01",
+    "to": "2026-11-30",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "venice",
+   "cycle": 2026,
+   "ordinal": 83,
+   "runs": {
+    "precision": "day",
+    "from": "2026-09-02",
+    "to": "2026-09-12",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "deauville-american",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-09-04",
+    "to": "2026-09-13",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "tiff",
+   "cycle": 2026,
+   "ordinal": 51,
+   "runs": {
+    "precision": "day",
+    "from": "2026-09-10",
+    "to": "2026-09-20",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "camden",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-09-17",
+    "to": "2026-09-20",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "spark-animation",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-09-17",
+    "to": "2026-09-20",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "san-sebastian",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-09-18",
+    "to": "2026-09-26",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "chicago-underground",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-09-23",
+    "to": "2026-09-27",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "new-next",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-10-01",
+    "to": "2026-10-04",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "tokyo",
+   "cycle": 2026,
+   "ordinal": 39,
+   "runs": {
+    "precision": "month",
+    "from": "2026-10-01",
+    "to": "2026-11-30",
+    "approximate": true,
+    "label": "Oct/Nov 2026"
+   }
+  },
+  {
+   "festival": "fest-belgrade",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-10-02",
+    "to": "2026-10-11",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "busan",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-10-06",
+    "to": "2026-10-15",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "heartland",
+   "cycle": 2026,
+   "ordinal": 35,
+   "runs": {
+    "precision": "day",
+    "from": "2026-10-08",
+    "to": "2026-10-18",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "downtown-nyc",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-10-09",
+    "to": "2026-10-18",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "ficvaldivia",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-10-12",
+    "to": "2026-10-18",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "chicago",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-10-14",
+    "to": "2026-10-25",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "urbanworld",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-10-14",
+    "to": "2026-10-18",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "montclair",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-10-16",
+    "to": "2026-10-25",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "new-orleans",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-10-22",
+    "to": "2026-10-27",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "austin",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-10-29",
+    "to": "2026-11-05",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-11-01",
+    "to": "2026-11-06",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "indie-memphis",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-11-05",
+    "to": "2026-11-08",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "mar-del-plata",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-11-05",
+    "to": "2026-11-15",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "cinanima-animated-espinho",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-11-06",
+    "to": "2026-11-22",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "ojai",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-11-06",
+    "to": "2026-11-09",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "poff-tallinn-black-nights",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-11-06",
+    "to": "2026-11-20",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "manchester-animation",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-11-08",
+    "to": "2026-11-12",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "doc-nyc",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-11-11",
+    "to": "2026-11-19",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "cork",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-11-12",
+    "to": "2026-11-22",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "hollyshorts",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-11-12",
+    "to": "2026-11-15",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "kasseler-dokfest",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-11-17",
+    "to": "2026-11-22",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "tauron-american-in-poland",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-11-17",
+    "to": "2026-11-22",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "cucalorus",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-11-18",
+    "to": "2026-11-22",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "voyage-in-time-andong",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-11-20",
+    "to": "2026-11-20",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "leuven",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-11-27",
+    "to": "2026-12-05",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "mpumalanga",
+   "cycle": 2027,
+   "runs": {
+    "precision": "year",
+    "from": "2027-01-01",
+    "to": "2027-12-31",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "pov",
+   "cycle": 2027,
+   "runs": {
+    "precision": "year",
+    "from": "2027-01-01",
+    "to": "2027-12-31",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "palm-springs-shortfest",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-01-07",
+    "to": "2027-01-18",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "trieste",
+   "cycle": 2027,
+   "ordinal": 38,
+   "runs": {
+    "precision": "day",
+    "from": "2027-01-15",
+    "to": "2027-01-23",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "sundance",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-01-21",
+    "to": "2027-01-31",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "berlinale",
+   "cycle": 2027,
+   "runs": {
+    "precision": "month",
+    "from": "2027-02-01",
+    "to": "2027-02-28",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "iffr-rotterdam",
+   "cycle": 2027,
+   "runs": {
+    "precision": "month",
+    "from": "2027-02-01",
+    "to": "2027-02-28",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "santa-barbara",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-02-03",
+    "to": "2027-02-13",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "thomas-edison",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-02-12",
+    "to": "2027-02-12",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "pan-african-arts",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-02-15",
+    "to": "2027-02-21",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "slamdance",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-02-18",
+    "to": "2027-02-24",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "voyage-in-time-fest",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-02-23",
+    "to": "2027-02-24",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "malaga",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-02-26",
+    "to": "2027-03-07",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "cleveland",
+   "cycle": 2027,
+   "runs": {
+    "precision": "season",
+    "from": "2027-03-01",
+    "to": "2027-05-31",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "george-lindsey-una",
+   "cycle": 2027,
+   "ordinal": 30,
+   "runs": {
+    "precision": "month",
+    "from": "2027-03-01",
+    "to": "2027-03-10",
+    "approximate": true,
+    "label": "~early Mar 2027"
+   }
+  },
+  {
+   "festival": "milwaukee",
+   "cycle": 2027,
+   "runs": {
+    "precision": "season",
+    "from": "2027-03-01",
+    "to": "2027-05-31",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "sxsw",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-03-15",
+    "to": "2027-03-21",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "amdocs-american-documentary",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-03-17",
+    "to": "2027-03-21",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "animation-dingle",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-03-18",
+    "to": "2027-03-20",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "fespaco-pan-african",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-03-20",
+    "to": "2027-03-27",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "ann-arbor",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-03-23",
+    "to": "2027-03-28",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "phoenix",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-01",
+    "to": "2027-04-11",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "aspen",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-06",
+    "to": "2027-04-10",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "ficci-cartagena",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-06",
+    "to": "2027-04-11",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "florida",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-09",
+    "to": "2027-04-18",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "sarasota",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-09",
+    "to": "2027-04-18",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "visions-reel",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-09",
+    "to": "2027-04-18",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "ashland-independent",
+   "cycle": 2027,
+   "ordinal": 26,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-15",
+    "to": "2027-04-18",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "sebastopol-documentary",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-15",
+    "to": "2027-04-18",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "voyage-in-time-paris",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-15",
+    "to": "2027-04-15",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "riverrun",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-16",
+    "to": "2027-04-24",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "emaf",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-21",
+    "to": "2027-04-25",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "atlanta",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-22",
+    "to": "2027-05-02",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "sffilm",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-22",
+    "to": "2027-05-02",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "cannes",
+   "cycle": 2027,
+   "runs": {
+    "precision": "month",
+    "from": "2027-05-01",
+    "to": "2027-05-31",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "seattle",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-05-13",
+    "to": "2027-05-23",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "doc-edge",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-05-26",
+    "to": "2027-07-04",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "friss-hus-budapest",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-05-27",
+    "to": "2027-06-02",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "bali",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-06-01",
+    "to": "2027-06-07",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "brooklyn",
+   "cycle": 2027,
+   "runs": {
+    "precision": "month",
+    "from": "2027-06-01",
+    "to": "2027-06-30",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "ouray",
+   "cycle": 2027,
+   "runs": {
+    "precision": "month",
+    "from": "2027-06-01",
+    "to": "2027-06-30",
+    "approximate": true,
+    "label": "June 2027 (TBD)"
+   }
+  },
+  {
+   "festival": "rooftop-films",
+   "cycle": 2027,
+   "runs": {
+    "precision": "season",
+    "from": "2027-06-01",
+    "to": "2027-08-31",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "tribeca",
+   "cycle": 2027,
+   "runs": {
+    "precision": "month",
+    "from": "2027-06-01",
+    "to": "2027-06-30",
+    "approximate": true,
+    "label": "~June 2027"
+   }
+  },
+  {
+   "festival": "chicago-underground",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-06-09",
+    "to": "2027-06-13",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "deadcenter",
+   "cycle": 2027,
+   "runs": {
+    "precision": "month",
+    "from": "2027-06-11",
+    "to": "2027-06-20",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "karlovy-vary",
+   "cycle": 2027,
+   "ordinal": 61,
+   "runs": {
+    "precision": "month",
+    "from": "2027-07-01",
+    "to": "2027-07-31",
+    "approximate": true,
+    "label": "~Jul 2027"
+   }
+  },
+  {
+   "festival": "indy-presented-by",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-07-20",
+    "to": "2027-07-25",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "sarajevo",
+   "cycle": 2027,
+   "ordinal": 33,
+   "runs": {
+    "precision": "month",
+    "from": "2027-08-01",
+    "to": "2027-08-31",
+    "approximate": true
+   }
+  },
+  {
+   "festival": "venice",
+   "cycle": 2027,
+   "ordinal": 84,
+   "runs": {
+    "precision": "month",
+    "from": "2027-08-01",
+    "to": "2027-09-30",
+    "approximate": true,
+    "label": "~Aug-Sept 2027"
+   }
+  },
+  {
+   "festival": "run-shoot-filmworks",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-08-07",
+    "to": "2027-08-15",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "hollyshorts",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-08-12",
+    "to": "2027-08-22",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "bronzelens",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-08-20",
+    "to": "2027-08-29",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "sidewalk",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-08-23",
+    "to": "2027-08-29",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "voyage-in-time-fest-tokyo",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-09-06",
+    "to": "2027-09-08",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "media-city",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-09-14",
+    "to": "2027-09-18",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "voyage-in-time-kyoto",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-09-16",
+    "to": "2027-09-17",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "portland",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-10-06",
+    "to": "2027-10-10",
+    "approximate": false
+   }
   }
  ]
 }
