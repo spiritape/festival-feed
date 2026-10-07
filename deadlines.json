@@ -4963,7 +4963,7 @@
     "to": "2027-04-18",
     "approximate": false
    },
-   "verified_on": "2026-09-18"
+   "verified_on": "2026-10-07"
   },
   {
    "festival": "foyle",
@@ -5140,7 +5140,7 @@
     "to": "2027-10-10",
     "approximate": false
    },
-   "verified_on": "2026-10-06"
+   "verified_on": "2026-10-07"
   },
   {
    "festival": "portland",
@@ -5217,7 +5217,7 @@
     "to": "2027-04-18",
     "approximate": false
    },
-   "verified_on": "2026-09-20"
+   "verified_on": "2026-10-07"
   },
   {
    "festival": "sedona",
@@ -5308,7 +5308,7 @@
     "to": "2027-02-12",
     "approximate": false
    },
-   "verified_on": "2026-09-18"
+   "verified_on": "2026-10-07"
   },
   {
    "festival": "tribeca",
@@ -5424,6 +5424,7 @@
    "cycle": 2027,
    "tier": "final",
    "categories": [
+    "animation",
     "documentary",
     "experimental",
     "short"
@@ -5446,6 +5447,7 @@
    "cycle": 2027,
    "tier": "final",
    "categories": [
+    "animation",
     "documentary",
     "experimental",
     "short"
@@ -5468,6 +5470,7 @@
    "cycle": 2027,
    "tier": "final",
    "categories": [
+    "animation",
     "documentary",
     "experimental",
     "short"
@@ -5490,6 +5493,7 @@
    "cycle": 2027,
    "tier": "final",
    "categories": [
+    "animation",
     "documentary",
     "experimental",
     "short",
@@ -6281,6 +6285,29 @@
    "cycle": 2027,
    "tier": "early",
    "categories": [
+    "animation",
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-30",
+    "to": "2026-09-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: Narrative Features, Documentary Features, International Features, Animation Features"
+  },
+  {
+   "festival": "florida",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "animation",
     "documentary",
     "experimental",
     "short"
@@ -6297,28 +6324,6 @@
    },
    "fee_unknown": false,
    "note": "Earlybird Deadline: Narrative Shorts, Documentary Shorts, International Shorts, Animation Shorts, Experimental Shorts"
-  },
-  {
-   "festival": "florida",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "documentary",
-    "feature",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-30",
-    "to": "2026-09-30",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 50,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Earlybird Deadline: Narrative Features, Documentary Features, International Features, Animation Features"
   },
   {
    "festival": "portland",
@@ -8324,9 +8329,9 @@
    "cycle": 2027,
    "tier": "regular",
    "categories": [
+    "animation",
     "documentary",
-    "feature",
-    "short"
+    "feature"
    ],
    "closes": {
     "precision": "day",
@@ -8346,6 +8351,7 @@
    "cycle": 2027,
    "tier": "regular",
    "categories": [
+    "animation",
     "documentary",
     "experimental",
     "short"
@@ -8622,9 +8628,9 @@
    "cycle": 2027,
    "tier": "late",
    "categories": [
+    "animation",
     "documentary",
-    "feature",
-    "short"
+    "feature"
    ],
    "closes": {
     "precision": "day",
@@ -8644,6 +8650,7 @@
    "cycle": 2027,
    "tier": "late",
    "categories": [
+    "animation",
     "documentary",
     "experimental",
     "short"
@@ -9173,6 +9180,7 @@
    "cycle": 2027,
    "tier": "extended",
    "categories": [
+    "animation",
     "documentary",
     "experimental",
     "short"
@@ -9195,9 +9203,9 @@
    "cycle": 2027,
    "tier": "extended",
    "categories": [
+    "animation",
     "documentary",
-    "feature",
-    "short"
+    "feature"
    ],
    "closes": {
     "precision": "day",
@@ -12636,6 +12644,7 @@
    "cycle": 2026,
    "tier": "early",
    "categories": [
+    "animation",
     "documentary",
     "short"
    ],
@@ -12656,6 +12665,7 @@
    "festival": "leuven",
    "cycle": 2026,
    "categories": [
+    "animation",
     "documentary",
     "short"
    ],
@@ -12677,6 +12687,7 @@
    "cycle": 2026,
    "tier": "late",
    "categories": [
+    "animation",
     "documentary",
     "short"
    ],
@@ -13447,26 +13458,6 @@
    "cycle": 2026,
    "tier": "early",
    "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-04-06",
-    "to": "2026-04-06",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 40,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Earlybird Deadline: Animation"
-  },
-  {
-   "festival": "urbanworld",
-   "cycle": 2026,
-   "tier": "early",
-   "categories": [
     "documentary",
     "experimental",
     "short"
@@ -13487,22 +13478,23 @@
   {
    "festival": "urbanworld",
    "cycle": 2026,
-   "tier": "regular",
+   "tier": "early",
    "categories": [
+    "animation",
     "short"
    ],
    "closes": {
     "precision": "day",
-    "from": "2026-07-06",
-    "to": "2026-07-06",
+    "from": "2026-04-06",
+    "to": "2026-04-06",
     "approximate": false
    },
    "fee": {
-    "amount": 50,
+    "amount": 40,
     "currency": "USD"
    },
    "fee_unknown": false,
-   "note": "Regular Deadline: Animation"
+   "note": "Earlybird Deadline: Animation"
   },
   {
    "festival": "urbanworld",
@@ -13546,6 +13538,27 @@
    },
    "fee_unknown": false,
    "note": "Regular Deadline: U.S. & World Narrative Feature Films, U.S. & World Documentary Feature Films"
+  },
+  {
+   "festival": "urbanworld",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "animation",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-06",
+    "to": "2026-07-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Animation"
   },
   {
    "festival": "urbanworld",
@@ -13595,6 +13608,7 @@
    "cycle": 2026,
    "tier": "late",
    "categories": [
+    "animation",
     "short"
    ],
    "closes": {
@@ -13637,26 +13651,6 @@
    "cycle": 2026,
    "tier": "extended",
    "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-08-06",
-    "to": "2026-08-06",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 80,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Extended Final Deadline: Animation"
-  },
-  {
-   "festival": "urbanworld",
-   "cycle": 2026,
-   "tier": "extended",
-   "categories": [
     "documentary",
     "feature"
    ],
@@ -13672,6 +13666,27 @@
    },
    "fee_unknown": false,
    "note": "Extended Final Deadline: U.S. & World Narrative Feature Films, U.S. & World Documentary Feature Films"
+  },
+  {
+   "festival": "urbanworld",
+   "cycle": 2026,
+   "tier": "extended",
+   "categories": [
+    "animation",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-06",
+    "to": "2026-08-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 80,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Final Deadline: Animation"
   },
   {
    "festival": "venice",
