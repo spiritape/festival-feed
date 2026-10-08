@@ -979,9 +979,11 @@
    "id": "cinequest",
    "name": "Cinequest Film Festival",
    "entry": "open",
-   "page": "https://www.cinequest.org",
+   "page": "https://filmfreeway.com/cinequest",
+   "submit": "https://filmfreeway.com/cinequest",
    "website": "https://www.cinequest.org",
-   "portal": "own",
+   "portal": "filmfreeway",
+   "city": "San Jose",
    "region": "California",
    "country": "United States",
    "academy": {
@@ -4870,6 +4872,17 @@
    "verified_on": "2026-09-27"
   },
   {
+   "festival": "cinequest",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-03-09",
+    "to": "2027-03-21",
+    "approximate": false
+   },
+   "verified_on": "2026-10-08"
+  },
+  {
    "festival": "cleveland",
    "cycle": 2027,
    "runs": {
@@ -7085,6 +7098,71 @@
    "note": "Regular Deadline: Documentary Short, Animated Work"
   },
   {
+   "festival": "cinequest",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-12",
+    "to": "2026-10-12",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD",
+    "note": "college students; high school students $35"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: College Student Shorts and High School Student Shorts"
+  },
+  {
+   "festival": "cinequest",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-12",
+    "to": "2026-10-12",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 65,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Comedy, Dramatic, Thriller/Fantasy/Sci-Fi/Horror, New Visions, Global Landscapes and Documentary Feature Competitions"
+  },
+  {
+   "festival": "cinequest",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "animation",
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-12",
+    "to": "2026-10-12",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Short Film Competition (General, Comedy, Dramatic, Animation, Thriller/Fantasy/Sci-Fi/Horror, Documentary, Maverick) and Films for Families"
+  },
+  {
    "festival": "fest-new-directors-new-films",
    "cycle": 2027,
    "tier": "regular",
@@ -7635,6 +7713,71 @@
    "note": "Regular"
   },
   {
+   "festival": "cinequest",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "animation",
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-23",
+    "to": "2026-10-23",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 55,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Short Film Competition (General, Comedy, Dramatic, Animation, Thriller/Fantasy/Sci-Fi/Horror, Documentary, Maverick) and Films for Families"
+  },
+  {
+   "festival": "cinequest",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-23",
+    "to": "2026-10-23",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD",
+    "note": "college students; high school students $40"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: College Student Shorts and High School Student Shorts"
+  },
+  {
+   "festival": "cinequest",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-23",
+    "to": "2026-10-23",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 70,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Comedy, Dramatic, Thriller/Fantasy/Sci-Fi/Horror, New Visions, Global Landscapes and Documentary Feature Competitions"
+  },
+  {
    "festival": "tribeca",
    "cycle": 2027,
    "tier": "early",
@@ -8005,6 +8148,71 @@
    },
    "fee_unknown": true,
    "note": "Late Deadline"
+  },
+  {
+   "festival": "cinequest",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-01",
+    "to": "2026-11-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "USD",
+    "note": "college students; high school students $50"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: College Student Shorts and High School Student Shorts"
+  },
+  {
+   "festival": "cinequest",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-01",
+    "to": "2026-11-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 80,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: Comedy, Dramatic, Thriller/Fantasy/Sci-Fi/Horror, New Visions, Global Landscapes and Documentary Feature Competitions"
+  },
+  {
+   "festival": "cinequest",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "animation",
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-01",
+    "to": "2026-11-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 65,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: Short Film Competition (General, Comedy, Dramatic, Animation, Thriller/Fantasy/Sci-Fi/Horror, Documentary, Maverick) and Films for Families"
   },
   {
    "festival": "sedona",
@@ -16891,6 +17099,16 @@
     "precision": "season",
     "from": "2027-03-01",
     "to": "2027-05-31",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "cinequest",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-03-09",
+    "to": "2027-03-21",
     "approximate": false
    }
   },
