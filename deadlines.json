@@ -2091,6 +2091,18 @@
    "logo": "https://images.squarespace-cdn.com/content/v1/65df9b1dbbf6253a86277a4d/068c5025-2679-4184-92af-af6497a20510/favicon.ico?format=100w"
   },
   {
+   "id": "hollyshorts-london",
+   "name": "HollyShorts London",
+   "entry": "open",
+   "page": "https://filmfreeway.com/HollyShortsLondon",
+   "submit": "https://filmfreeway.com/HollyShortsLondon",
+   "website": "https://www.hollyshorts.com",
+   "portal": "filmfreeway",
+   "city": "London",
+   "country": "United Kingdom",
+   "logo": "https://images.squarespace-cdn.com/content/v1/65df9b1dbbf6253a86277a4d/068c5025-2679-4184-92af-af6497a20510/favicon.ico?format=100w"
+  },
+  {
    "id": "hong-kong",
    "name": "The Hong Kong International Film Festival",
    "entry": "open",
@@ -5012,7 +5024,7 @@
    "verified_on": "2026-10-11"
   },
   {
-   "festival": "hollyshorts",
+   "festival": "hollyshorts-london",
    "cycle": 2026,
    "runs": {
     "precision": "day",
@@ -5529,7 +5541,7 @@
    "note": "Regular Deadline: Animated Short"
   },
   {
-   "festival": "hollyshorts",
+   "festival": "hollyshorts-london",
    "cycle": 2026,
    "tier": "late",
    "categories": [
@@ -6907,7 +6919,7 @@
    "note": "Late Deadline"
   },
   {
-   "festival": "hollyshorts",
+   "festival": "hollyshorts-london",
    "cycle": 2026,
    "tier": "extended",
    "categories": [
@@ -17886,7 +17898,7 @@
    }
   },
   {
-   "festival": "hollyshorts",
+   "festival": "hollyshorts-london",
    "cycle": 2026,
    "runs": {
     "precision": "day",
