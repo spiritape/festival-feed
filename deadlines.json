@@ -5230,7 +5230,7 @@
     "to": "2027-05-23",
     "approximate": false
    },
-   "verified_on": "2026-09-03"
+   "verified_on": "2026-10-11"
   },
   {
    "festival": "sebastopol-documentary",
@@ -5241,7 +5241,7 @@
     "to": "2027-04-18",
     "approximate": false
    },
-   "verified_on": "2026-10-07"
+   "verified_on": "2026-10-11"
   },
   {
    "festival": "sedona",
@@ -5257,7 +5257,7 @@
     "to": "2027-05-02",
     "approximate": false
    },
-   "verified_on": "2026-09-03"
+   "verified_on": "2026-10-11"
   },
   {
    "festival": "sidewalk",
@@ -6541,6 +6541,50 @@
    "note": "Late Deadline: Documentary Feature"
   },
   {
+   "festival": "sffilm",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "animation",
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-30",
+    "to": "2026-09-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 55,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "EARLY - All films: shorts"
+  },
+  {
+   "festival": "sffilm",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "animation",
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-30",
+    "to": "2026-09-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 70,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "EARLY - All films: features"
+  },
+  {
    "festival": "trieste",
    "cycle": 2027,
    "ordinal": 38,
@@ -6759,6 +6803,50 @@
    },
    "fee_unknown": false,
    "note": "Regular Deadline: Short Documentary - US Made, World Cinema Shorts - Made Outside US, Live Action Short Films - US Made, Animated Shorts, Experimental Shorts - US Made, Arizona Shorts - Made in Arizona"
+  },
+  {
+   "festival": "seattle",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "animation",
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-01",
+    "to": "2026-10-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early: Shorts (40 minutes or less)"
+  },
+  {
+   "festival": "seattle",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "animation",
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-01",
+    "to": "2026-10-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 75,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early: Features (41 minutes or more)"
   },
   {
    "festival": "sxsw",
@@ -8863,6 +8951,50 @@
    "note": "Short Films – Late Deadline"
   },
   {
+   "festival": "sffilm",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "animation",
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-11",
+    "to": "2026-11-11",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 70,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "REGULAR - Last Deadline Shorts: the final date a short can enter"
+  },
+  {
+   "festival": "sffilm",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "animation",
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-11",
+    "to": "2026-11-11",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 85,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "REGULAR - All: features"
+  },
+  {
    "festival": "aspen",
    "cycle": 2027,
    "tier": "late",
@@ -9531,8 +9663,9 @@
    "cycle": 2027,
    "tier": "final",
    "categories": [
-    "feature",
-    "short"
+    "animation",
+    "documentary",
+    "feature"
    ],
    "closes": {
     "precision": "day",
@@ -9540,8 +9673,12 @@
     "to": "2026-12-02",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Shorts final Nov 11 / Features final Dec 2, 2026"
+   "fee": {
+    "amount": 100,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "FINAL - Feature, Mid-Length, Youth: features only, no shorts"
   },
   {
    "festival": "tribeca",
@@ -10012,6 +10149,50 @@
    },
    "fee_unknown": false,
    "note": "Call for entries closes (or at 2,200 entries)"
+  },
+  {
+   "festival": "seattle",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "animation",
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-17",
+    "to": "2026-12-17",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 80,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular: Shorts (40 minutes or less)"
+  },
+  {
+   "festival": "seattle",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "animation",
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-17",
+    "to": "2026-12-17",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 100,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular: Features (41 minutes or more)"
   },
   {
    "festival": "la-shorts-internatio",
@@ -10655,16 +10836,46 @@
   {
    "festival": "seattle",
    "cycle": 2027,
-   "tier": "final",
-   "categories": [],
+   "tier": "late",
+   "categories": [
+    "animation",
+    "documentary",
+    "feature"
+   ],
    "closes": {
     "precision": "day",
     "from": "2027-01-07",
     "to": "2027-01-07",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Accepting until Jan 7, 2027"
+   "fee": {
+    "amount": 125,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late: Features (41 minutes or more). Hard close: submissions must be uploaded by Jan 7."
+  },
+  {
+   "festival": "seattle",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "animation",
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-07",
+    "to": "2027-01-07",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 100,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late: Shorts (40 minutes or less). Hard close: submissions must be uploaded by Jan 7."
   },
   {
    "festival": "amdocs-american-documentary",
