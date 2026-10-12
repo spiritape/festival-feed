@@ -17600,6 +17600,16 @@
    }
   },
   {
+   "festival": "ojai",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-11-04",
+    "to": "2026-11-09",
+    "approximate": false
+   }
+  },
+  {
    "festival": "indie-memphis",
    "cycle": 2026,
    "runs": {
@@ -17626,16 +17636,6 @@
     "precision": "day",
     "from": "2026-11-06",
     "to": "2026-11-22",
-    "approximate": false
-   }
-  },
-  {
-   "festival": "ojai",
-   "cycle": 2026,
-   "runs": {
-    "precision": "day",
-    "from": "2026-11-06",
-    "to": "2026-11-09",
     "approximate": false
    }
   },
