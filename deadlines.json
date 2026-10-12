@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-10-11",
+ "generated_on": "2026-10-12",
  "festivals": [
   {
    "id": "25fps-zagreb",
@@ -4831,7 +4831,7 @@
   {
    "festival": "big-sky-documentary",
    "cycle": 2027,
-   "verified_on": "2026-10-05"
+   "verified_on": "2026-10-12"
   },
   {
    "festival": "bronzelens",
@@ -5053,7 +5053,7 @@
   {
    "festival": "in-palace",
    "cycle": 2027,
-   "verified_on": "2026-10-05"
+   "verified_on": "2026-10-12"
   },
   {
    "festival": "indy-presented-by",
@@ -5069,7 +5069,7 @@
   {
    "festival": "irish-television-awards",
    "cycle": 2027,
-   "verified_on": "2026-10-05"
+   "verified_on": "2026-10-12"
   },
   {
    "festival": "la-shorts-internatio",
@@ -5165,7 +5165,7 @@
     "to": "2027-02-21",
     "approximate": false
    },
-   "verified_on": "2026-10-05"
+   "verified_on": "2026-10-12"
   },
   {
    "festival": "phoenix",
@@ -5328,7 +5328,7 @@
     "to": "2027-03-21",
     "approximate": false
    },
-   "verified_on": "2026-10-05"
+   "verified_on": "2026-10-12"
   },
   {
    "festival": "sydney",
@@ -5368,7 +5368,7 @@
     "to": "2026-11-20",
     "approximate": false
    },
-   "verified_on": "2026-09-27"
+   "verified_on": "2026-10-12"
   },
   {
    "festival": "voyage-in-time-fest",
@@ -5416,151 +5416,6 @@
   }
  ],
  "deadlines": [
-  {
-   "festival": "atlanta",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-11",
-    "to": "2026-09-11",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 70,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Narrative Feature"
-  },
-  {
-   "festival": "atlanta",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-11",
-    "to": "2026-09-11",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 60,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Narrative Short"
-  },
-  {
-   "festival": "atlanta",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-11",
-    "to": "2026-09-11",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 55,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Documentary Short"
-  },
-  {
-   "festival": "atlanta",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "experimental",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-11",
-    "to": "2026-09-11",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 25,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Experimental Short"
-  },
-  {
-   "festival": "atlanta",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "documentary",
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-11",
-    "to": "2026-09-11",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 65,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Documentary Feature"
-  },
-  {
-   "festival": "atlanta",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "animation",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-11",
-    "to": "2026-09-11",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 45,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Animated Short"
-  },
-  {
-   "festival": "hollyshorts-london",
-   "cycle": 2026,
-   "tier": "late",
-   "categories": [
-    "short",
-    "student"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-11",
-    "to": "2026-09-11",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 50,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Late Deadline: UK short films, International Short Films, Student Short Films, Sports short films"
-  },
   {
    "festival": "oregon-independent",
    "cycle": 2026,
@@ -5933,6 +5788,7 @@
    "cycle": 2026,
    "tier": "regular",
    "categories": [
+    "animation",
     "feature",
     "short"
    ],
@@ -7574,6 +7430,7 @@
    "cycle": 2026,
    "tier": "late",
    "categories": [
+    "animation",
     "feature",
     "short"
    ],
@@ -8855,6 +8712,7 @@
    "cycle": 2026,
    "tier": "extended",
    "categories": [
+    "animation",
     "feature",
     "short"
    ],
