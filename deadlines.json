@@ -573,7 +573,7 @@
     ],
     "year": 2027
    },
-   "logo": "https://www.google.com/s2/favicons?domain=berlinale.de&sz=128"
+   "logo": "https://www.berlinale.de/media/images/logo/logo-berlinale-facebook.png"
   },
   {
    "id": "bfi-london",
@@ -1632,7 +1632,7 @@
    "website": "https://ficunam.unam.mx/",
    "city": "Mexico City",
    "country": "Mexico",
-   "logo": "https://www.google.com/s2/favicons?domain=ficunam.unam.mx&sz=128"
+   "logo": "https://ficunam.unam.mx/wp-content/uploads/2020/09/favicon-ficunam-300x300.png"
   },
   {
    "id": "ficvaldivia",
@@ -1643,7 +1643,7 @@
    "portal": "festhome",
    "city": "Valdivia",
    "country": "Chile",
-   "logo": "https://www.google.com/s2/favicons?domain=ficvaldivia.cl&sz=128"
+   "logo": "https://ficvaldivia.cl/wp-content/uploads/2020/03/ficvaldivia_favicon_152x152.png"
   },
   {
    "id": "ficx-gijon",
@@ -2674,7 +2674,7 @@
     "year": 2027
    },
    "moviemaker_year": 2026,
-   "logo": "https://www.google.com/s2/favicons?domain=locarnofestival.ch&sz=128"
+   "logo": "https://assets.locarnofestival.ch/data/mgnl/apple-touch-icon.png"
   },
   {
    "id": "london-independent",
@@ -2915,7 +2915,7 @@
    "city": "Lisbon",
    "country": "Portugal",
    "moviemaker_year": 2026,
-   "logo": "https://www.google.com/s2/favicons?domain=motelx.org&sz=128"
+   "logo": "https://www.motelx.org/uploads/config/7a70797bcd9ffa91f4e76a94f794f731.ico"
   },
   {
    "id": "mountainfilm",
@@ -3393,7 +3393,7 @@
     ],
     "year": 2027
    },
-   "logo": "https://www.google.com/s2/favicons?domain=poff.ee&sz=128"
+   "logo": "https://poff.ee/assets/img/static/favicons/BNFF-192.png"
   },
   {
    "id": "portland",
@@ -3711,7 +3711,7 @@
    "portal": "own",
    "city": "San Sebastian",
    "country": "Spain",
-   "logo": "https://www.google.com/s2/favicons?domain=sansebastianfestival.com&sz=128"
+   "logo": "https://sansebastianfestival.com/favicon.ico"
   },
   {
    "id": "santa-barbara",
@@ -3772,7 +3772,7 @@
     ],
     "year": 2027
    },
-   "logo": "https://www.google.com/s2/favicons?domain=sff.ba&sz=128"
+   "logo": "https://www.sff.ba/assets/public/favicon/android-icon-192x192.png"
   },
   {
    "id": "sarasota",
@@ -3798,7 +3798,7 @@
    "region": "Georgia",
    "country": "United States",
    "moviemaker_year": 2026,
-   "logo": "https://www.google.com/s2/favicons?domain=filmfest.scad.edu&sz=128"
+   "logo": "https://filmfest.scad.edu/sites/filmfest/themes/filmfest/favicon.ico"
   },
   {
    "id": "seattle",
@@ -4366,7 +4366,7 @@
    "portal": "own",
    "city": "Tokyo",
    "country": "Japan",
-   "logo": "https://www.google.com/s2/favicons?domain=www.tiff-jp.net&sz=128"
+   "logo": "https://2026.tiff-jp.net/favicon.ico"
   },
   {
    "id": "torino",
@@ -4397,7 +4397,7 @@
     ],
     "year": 2027
    },
-   "logo": "https://www.google.com/s2/favicons?domain=tribecafilm.com&sz=128"
+   "logo": "https://tribecafilm.com/favicon.ico"
   },
   {
    "id": "trieste",
