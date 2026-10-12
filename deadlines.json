@@ -1250,8 +1250,8 @@
    "id": "doc-nyc",
    "name": "DOC NYC",
    "entry": "open",
-   "page": "https://filmfreeway.com/DOCNYCShortListsandWinnersCircle",
-   "submit": "https://filmfreeway.com/DOCNYCShortListsandWinnersCircle",
+   "page": "https://filmfreeway.com/DOCNYC",
+   "submit": "https://filmfreeway.com/DOCNYC",
    "website": "https://www.docnyc.net",
    "portal": "filmfreeway",
    "city": "New York City",
@@ -4912,7 +4912,7 @@
     "to": "2027-06-13",
     "approximate": false
    },
-   "verified_on": "2026-10-08"
+   "verified_on": "2026-10-11"
   },
   {
    "festival": "diametrale-experimental",
@@ -4933,7 +4933,7 @@
     "to": "2027-07-04",
     "approximate": false
    },
-   "verified_on": "2026-10-05"
+   "verified_on": "2026-10-11"
   },
   {
    "festival": "doc-nyc",
@@ -4941,10 +4941,10 @@
    "runs": {
     "precision": "day",
     "from": "2026-11-11",
-    "to": "2026-11-19",
+    "to": "2026-11-29",
     "approximate": false
    },
-   "verified_on": "2026-09-18"
+   "verified_on": "2026-10-11"
   },
   {
    "festival": "documentary-sheffield",
@@ -17665,7 +17665,7 @@
    "runs": {
     "precision": "day",
     "from": "2026-11-11",
-    "to": "2026-11-19",
+    "to": "2026-11-29",
     "approximate": false
    }
   },
