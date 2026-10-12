@@ -5109,6 +5109,11 @@
    "verified_on": "2026-09-03"
   },
   {
+   "festival": "new-media",
+   "cycle": 2027,
+   "verified_on": "2026-10-11"
+  },
+  {
    "festival": "new-york-screening",
    "cycle": 2027,
    "verified_on": "2026-09-03"
@@ -5117,6 +5122,17 @@
    "festival": "omaha",
    "cycle": 2027,
    "verified_on": "2026-10-08"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-10-06",
+    "to": "2026-10-12",
+    "approximate": false
+   },
+   "verified_on": "2026-10-11"
   },
   {
    "festival": "overlook",
@@ -5295,7 +5311,7 @@
     "to": "2027-01-31",
     "approximate": false
    },
-   "verified_on": "2026-10-03"
+   "verified_on": "2026-10-11"
   },
   {
    "festival": "sxsw",
@@ -5538,6 +5554,194 @@
    },
    "fee_unknown": false,
    "note": "Late Deadline: UK short films, International Short Films, Student Short Films, Sports short films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [
+    "feature",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-12",
+    "to": "2026-09-12",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 58,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*FINAL DEADLINE*: OREGON-MADE FILMS - Feature Films, STUDENT PROJECTS - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [
+    "animation",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-12",
+    "to": "2026-09-12",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 56,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*FINAL DEADLINE*: ANIMATION - Short Films, INTERNATIONAL - Short Films, DRAMA - Short Films, COMEDY - Short Films, GENRE (Horror/SciFi) - Short Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [
+    "experimental",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-12",
+    "to": "2026-09-12",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 68,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*FINAL DEADLINE*: DRAMA - Feature Films, EXPERIMENTAL FILMS - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-12",
+    "to": "2026-09-12",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 54,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*FINAL DEADLINE*: SHORT FILMS, ONLINE FILM FESTIVAL - SHORT FILMS"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-12",
+    "to": "2026-09-12",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 55,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*FINAL DEADLINE*: DOCUMENTARY - Short Films, EXPERIMENTAL FILMS - Short Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-12",
+    "to": "2026-09-12",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 62,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*FINAL DEADLINE*: FEATURE FILMS, ONLINE FILM FESTIVAL - FEATURE FILMS"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-12",
+    "to": "2026-09-12",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 74,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*FINAL DEADLINE*: INTERNATIONAL - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-12",
+    "to": "2026-09-12",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 52,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*FINAL DEADLINE*: OREGON-MADE FILMS - Short Films, STUDENT PROJECTS - Short Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [
+    "animation",
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-12",
+    "to": "2026-09-12",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 70,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*FINAL DEADLINE*: DOCUMENTARY - Feature Films, ANIMATION - Feature Films, COMEDY - Feature Films, GENRE (Horror/SciFi) - Feature Films"
   },
   {
    "festival": "diametrale-experimental",
@@ -9215,6 +9419,20 @@
    "note": "Shorts & Music Videos Official Deadline"
   },
   {
+   "festival": "new-media",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-06",
+    "to": "2026-12-06",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular"
+  },
+  {
    "festival": "riverrun",
    "cycle": 2027,
    "tier": "final",
@@ -10922,6 +11140,20 @@
    "note": "Final Deadline: Oklahoma Narrative Feature, Indigenous Feature, Live Action Short, Animated Short, Documentary Short, Indigenous Short"
   },
   {
+   "festival": "new-media",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-06",
+    "to": "2027-02-06",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular"
+  },
+  {
    "festival": "voyage-in-time-fest",
    "cycle": 2027,
    "tier": "extended",
@@ -11804,6 +12036,20 @@
    },
    "fee_unknown": false,
    "note": "Regular Deadline: Short Live Action, Animation, Documentary, Student, Bollywood Shorts"
+  },
+  {
+   "festival": "new-media",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-04-06",
+    "to": "2027-04-06",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Final"
   },
   {
    "festival": "media-city",
@@ -13766,20 +14012,6 @@
    "note": "Closed (extended to Jul 15, 2026)"
   },
   {
-   "festival": "new-media",
-   "cycle": 2026,
-   "tier": "final",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-06",
-    "to": "2026-09-06",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Sept 6, 2026"
-  },
-  {
    "festival": "new-next",
    "cycle": 2026,
    "tier": "final",
@@ -14020,20 +14252,6 @@
    },
    "fee_unknown": false,
    "note": "Extended Deadline: Narrative Feature, Documentary Feature"
-  },
-  {
-   "festival": "oregon-independent",
-   "cycle": 2026,
-   "tier": "final",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-03-06",
-    "to": "2026-03-06",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Mar 6, 2026 (passed)"
   },
   {
    "festival": "palm-springs-shortfest",
@@ -16595,16 +16813,6 @@
    }
   },
   {
-   "festival": "oregon-independent",
-   "cycle": 2026,
-   "runs": {
-    "precision": "season",
-    "from": "2026-09-01",
-    "to": "2026-11-30",
-    "approximate": false
-   }
-  },
-  {
    "festival": "portland",
    "cycle": 2026,
    "runs": {
@@ -16725,6 +16933,16 @@
     "precision": "day",
     "from": "2026-10-06",
     "to": "2026-10-15",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-10-06",
+    "to": "2026-10-12",
     "approximate": false
    }
   },
