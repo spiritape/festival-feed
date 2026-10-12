@@ -4836,12 +4836,12 @@
    "festival": "brooklyn",
    "cycle": 2027,
    "runs": {
-    "precision": "month",
-    "from": "2027-06-01",
-    "to": "2027-06-30",
+    "precision": "day",
+    "from": "2027-05-20",
+    "to": "2027-06-03",
     "approximate": false
    },
-   "verified_on": "2026-09-03"
+   "verified_on": "2026-10-11"
   },
   {
    "festival": "busan-10",
@@ -4886,12 +4886,12 @@
    "festival": "cleveland",
    "cycle": 2027,
    "runs": {
-    "precision": "season",
-    "from": "2027-03-01",
-    "to": "2027-05-31",
+    "precision": "day",
+    "from": "2027-04-01",
+    "to": "2027-04-30",
     "approximate": false
    },
-   "verified_on": "2026-09-03"
+   "verified_on": "2026-10-11"
   },
   {
    "festival": "courtisane",
@@ -4913,6 +4913,11 @@
     "approximate": false
    },
    "verified_on": "2026-10-08"
+  },
+  {
+   "festival": "diametrale-experimental",
+   "cycle": 2027,
+   "verified_on": "2026-10-11"
   },
   {
    "festival": "diametrale-experimental",
@@ -5085,12 +5090,12 @@
    "festival": "milwaukee",
    "cycle": 2027,
    "runs": {
-    "precision": "season",
-    "from": "2027-03-01",
-    "to": "2027-05-31",
+    "precision": "day",
+    "from": "2027-04-29",
+    "to": "2027-05-13",
     "approximate": false
    },
-   "verified_on": "2026-09-03"
+   "verified_on": "2026-10-11"
   },
   {
    "festival": "mono-no-aware",
@@ -5745,6 +5750,21 @@
   },
   {
    "festival": "diametrale-experimental",
+   "cycle": 2027,
+   "categories": [
+    "experimental"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-13",
+    "to": "2026-09-13",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Deadline für Filmeinreichungen"
+  },
+  {
+   "festival": "diametrale-experimental",
    "cycle": 2026,
    "tier": "final",
    "categories": [
@@ -6294,6 +6314,49 @@
    },
    "fee_unknown": false,
    "note": "Late Deadline: Experimental (Feature), Experimental Narrative (Feature), Experimental Documentary (Feature), Experimental Animation (Feature)"
+  },
+  {
+   "festival": "cleveland",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "animation",
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-30",
+    "to": "2026-09-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 65,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Narrative Short, Documentary Short, Animated Short"
+  },
+  {
+   "festival": "cleveland",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-30",
+    "to": "2026-09-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 85,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Narrative Feature, Documentary Feature"
   },
   {
    "festival": "florida",
@@ -7831,6 +7894,27 @@
    "note": "Call for Entries"
   },
   {
+   "festival": "brooklyn",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-30",
+    "to": "2026-10-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 65,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early-bird Deadline - Features: Narrative Feature, Documentary Feature"
+  },
+  {
    "festival": "iff-boston",
    "cycle": 2027,
    "tier": "regular",
@@ -8267,6 +8351,47 @@
    },
    "fee_unknown": true,
    "note": "Deadline for Bulgarian Feature and Short Films >"
+  },
+  {
+   "festival": "milwaukee",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-02",
+    "to": "2026-11-02",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: Short Films"
+  },
+  {
+   "festival": "milwaukee",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-02",
+    "to": "2026-11-02",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: Narrative Feature Films, Documentary Feature Films"
   },
   {
    "festival": "riverrun",
@@ -8799,6 +8924,49 @@
    "note": "Late Deadline: Animation, Documentary, Student"
   },
   {
+   "festival": "cleveland",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-15",
+    "to": "2026-11-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 100,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final Deadline: Narrative Feature, Documentary Feature"
+  },
+  {
+   "festival": "cleveland",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "animation",
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-15",
+    "to": "2026-11-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 80,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final Deadline: Narrative Short, Documentary Short, Animated Short"
+  },
+  {
    "festival": "chicago-underground",
    "cycle": 2027,
    "tier": "early",
@@ -9137,6 +9305,30 @@
    },
    "fee_unknown": true,
    "note": "Nov 30, 2026"
+  },
+  {
+   "festival": "brooklyn",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-30",
+    "to": "2026-11-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 65,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early-bird Deadline - Shorts: Narrative Feature, Short Narrative, Short Documentary, Experimental, Animation"
   },
   {
    "festival": "sarasota",
@@ -9815,16 +10007,45 @@
   {
    "festival": "cleveland",
    "cycle": 2027,
-   "tier": "final",
-   "categories": [],
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
    "closes": {
     "precision": "day",
     "from": "2026-12-15",
     "to": "2026-12-15",
-    "approximate": true
+    "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Accepting through ~Dec 15, 2026"
+   "fee": {
+    "amount": 125,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Narrative Feature, Documentary Feature"
+  },
+  {
+   "festival": "cleveland",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "animation",
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-15",
+    "to": "2026-12-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 100,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Narrative Short, Documentary Short, Animated Short"
   },
   {
    "festival": "emaf",
@@ -9872,6 +10093,27 @@
    },
    "fee_unknown": true,
    "note": "Final"
+  },
+  {
+   "festival": "brooklyn",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-23",
+    "to": "2026-12-23",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 80,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline - Features: Narrative Feature, Documentary Feature"
   },
   {
    "festival": "courtisane",
@@ -10356,6 +10598,114 @@
    "note": "Regular Deadline: Narrative Short, Documentary Short, Experimental Short, Animated Short"
   },
   {
+   "festival": "milwaukee",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-04",
+    "to": "2027-01-04",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Short Films"
+  },
+  {
+   "festival": "milwaukee",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-04",
+    "to": "2027-01-04",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 75,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Narrative Feature Films, Documentary Feature Films"
+  },
+  {
+   "festival": "brooklyn",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-05",
+    "to": "2027-01-05",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 80,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline - Shorts: Narrative Feature, Short Narrative, Short Documentary, Experimental, Animation"
+  },
+  {
+   "festival": "cleveland",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-05",
+    "to": "2027-01-05",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 150,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Late Deadline: Narrative Feature, Documentary Feature"
+  },
+  {
+   "festival": "cleveland",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "animation",
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-05",
+    "to": "2027-01-05",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 120,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Late Deadline: Narrative Short, Documentary Short, Animated Short"
+  },
+  {
    "festival": "seattle",
    "cycle": 2027,
    "tier": "final",
@@ -10561,6 +10911,67 @@
    "note": "Late Deadline: Short Film, Animation, Feature Film"
   },
   {
+   "festival": "brooklyn",
+   "cycle": 2027,
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-17",
+    "to": "2027-01-17",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 90,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Advanced Deadline - Features: Narrative Feature, Documentary Feature"
+  },
+  {
+   "festival": "milwaukee",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-19",
+    "to": "2027-01-19",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 90,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Narrative Feature Films, Documentary Feature Films"
+  },
+  {
+   "festival": "milwaukee",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-19",
+    "to": "2027-01-19",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 65,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Short Films"
+  },
+  {
    "festival": "la-shorts-internatio",
    "cycle": 2027,
    "tier": "late",
@@ -10651,6 +11062,29 @@
    },
    "fee_unknown": true,
    "note": "Final (Un)Deadline"
+  },
+  {
+   "festival": "brooklyn",
+   "cycle": 2027,
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-31",
+    "to": "2027-01-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 90,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Advanced Deadline - Shorts: Narrative Feature, Short Narrative, Short Documentary, Experimental, Animation"
   },
   {
    "festival": "doc-edge",
@@ -11008,16 +11442,41 @@
   {
    "festival": "milwaukee",
    "cycle": 2027,
-   "tier": "final",
-   "categories": [],
+   "categories": [
+    "documentary",
+    "feature"
+   ],
    "closes": {
     "precision": "day",
     "from": "2027-02-01",
     "to": "2027-02-01",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "closes Feb 1, 2027"
+   "fee": {
+    "amount": 105,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Last Call!: Narrative Feature Films, Documentary Feature Films"
+  },
+  {
+   "festival": "milwaukee",
+   "cycle": 2027,
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-01",
+    "to": "2027-02-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 80,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Last Call!: Short Films"
   },
   {
    "festival": "tribeca",
@@ -11152,6 +11611,27 @@
    },
    "fee_unknown": true,
    "note": "Regular"
+  },
+  {
+   "festival": "brooklyn",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-10",
+    "to": "2027-02-10",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 100,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline - Features: Narrative Feature, Documentary Feature"
   },
   {
    "festival": "voyage-in-time-fest",
@@ -11410,6 +11890,30 @@
    },
    "fee_unknown": true,
    "note": "Feb 20, 2027"
+  },
+  {
+   "festival": "brooklyn",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-25",
+    "to": "2027-02-25",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 95,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline - Shorts: Narrative Feature, Short Narrative, Short Documentary, Experimental, Animation"
   },
   {
    "festival": "sydney",
@@ -11740,16 +12244,46 @@
   {
    "festival": "brooklyn",
    "cycle": 2027,
-   "tier": "final",
-   "categories": [],
+   "tier": "extended",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
    "closes": {
     "precision": "day",
     "from": "2027-03-13",
     "to": "2027-03-13",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Closes Mar 13, 2027 (notify by May 4, 2027)"
+   "fee": {
+    "amount": 100,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: Short Narrative, Short Documentary, Experimental, Animation"
+  },
+  {
+   "festival": "brooklyn",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-03-13",
+    "to": "2027-03-13",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 110,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: Narrative Feature, Documentary Feature"
   },
   {
    "festival": "sidewalk",
@@ -13268,6 +13802,34 @@
    },
    "fee_unknown": false,
    "note": "Extended Deadline: Narrative Features"
+  },
+  {
+   "festival": "deauville-green-awards",
+   "cycle": 2026,
+   "ordinal": 15,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-31",
+    "to": "2026-03-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Registration form deadline"
+  },
+  {
+   "festival": "deauville-green-awards",
+   "cycle": 2026,
+   "ordinal": 15,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-15",
+    "to": "2026-04-15",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Registration form, fee and video files deadline"
   },
   {
    "festival": "directors-notes",
@@ -17309,16 +17871,6 @@
    }
   },
   {
-   "festival": "cleveland",
-   "cycle": 2027,
-   "runs": {
-    "precision": "season",
-    "from": "2027-03-01",
-    "to": "2027-05-31",
-    "approximate": false
-   }
-  },
-  {
    "festival": "george-lindsey-una",
    "cycle": 2027,
    "ordinal": 30,
@@ -17328,16 +17880,6 @@
     "to": "2027-03-10",
     "approximate": true,
     "label": "~early Mar 2027"
-   }
-  },
-  {
-   "festival": "milwaukee",
-   "cycle": 2027,
-   "runs": {
-    "precision": "season",
-    "from": "2027-03-01",
-    "to": "2027-05-31",
-    "approximate": false
    }
   },
   {
@@ -17397,6 +17939,16 @@
     "precision": "day",
     "from": "2027-03-23",
     "to": "2027-03-28",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "cleveland",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-01",
+    "to": "2027-04-30",
     "approximate": false
    }
   },
@@ -17532,6 +18084,16 @@
    }
   },
   {
+   "festival": "milwaukee",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-29",
+    "to": "2027-05-13",
+    "approximate": false
+   }
+  },
+  {
    "festival": "cannes",
    "cycle": 2027,
    "runs": {
@@ -17548,6 +18110,16 @@
     "precision": "day",
     "from": "2027-05-13",
     "to": "2027-05-23",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "brooklyn",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-05-20",
+    "to": "2027-06-03",
     "approximate": false
    }
   },
@@ -17578,16 +18150,6 @@
     "precision": "day",
     "from": "2027-06-01",
     "to": "2027-06-07",
-    "approximate": false
-   }
-  },
-  {
-   "festival": "brooklyn",
-   "cycle": 2027,
-   "runs": {
-    "precision": "month",
-    "from": "2027-06-01",
-    "to": "2027-06-30",
     "approximate": false
    }
   },
