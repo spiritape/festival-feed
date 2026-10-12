@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-10-08",
+ "generated_on": "2026-10-11",
  "festivals": [
   {
    "id": "25fps-zagreb",
@@ -10,7 +10,7 @@
    "website": "https://www.25fps.hr/en",
    "city": "Zagreb",
    "country": "Croatia",
-   "logo": "logos/25fps-zagreb.png"
+   "logo": "https://www.25fps.hr/img/favicon.png?v=1.0"
   },
   {
    "id": "academy-canadian-cinema",
@@ -28,7 +28,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/academy-canadian-cinema.png"
+   "logo": "https://www.academy.ca/wp-content/uploads/2019/02/academy-sharing-image.jpg"
   },
   {
    "id": "adelaide",
@@ -38,7 +38,7 @@
    "website": "https://www.adelaidefilmfestival.org/",
    "city": "Adelaide",
    "country": "Australia",
-   "logo": "logos/adelaide.png"
+   "logo": "https://www.adelaidefilmfestival.org/favicon.ico"
   },
   {
    "id": "afi",
@@ -57,7 +57,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/afi.png"
+   "logo": "https://prdaficalmjediwestussa.blob.core.windows.net/images/2019/09/favicon-5d79ca94a7e27.ico"
   },
   {
    "id": "alchemy",
@@ -69,7 +69,7 @@
    "portal": "filmfreeway",
    "city": "Hawick",
    "country": "United Kingdom",
-   "logo": "logos/alchemy.png"
+   "logo": "https://alchemyfilmandarts.org.uk/wp-content/uploads/2026/02/cropped-Alchemy-favicon-192x192.png"
   },
   {
    "id": "alcine-cine-alcala",
@@ -89,7 +89,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/alcine-cine-alcala.png"
+   "logo": "https://alcine.org/favicon-96x96.png"
   },
   {
    "id": "alexandria",
@@ -106,7 +106,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/alexandria.png"
+   "logo": "https://alex-sff.com/wp-content/uploads/cropped-283750229_3180413372213359_779781232309254291_n-192x192.jpg"
   },
   {
    "id": "amdocs-american-documentary",
@@ -126,7 +126,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/amdocs-american-documentary.png"
+   "logo": "https://public.readdy.ai/ai/img_res/bdb8eadc038f3ec0f189204aa46a678e.webp"
   },
   {
    "id": "american-black",
@@ -145,7 +145,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/american-black.png"
+   "logo": "https://www.abff.com/wp-content/uploads/2026/08/cropped-favicon-blue-192x192.png?ver=1788891303"
   },
   {
    "id": "anca-animation",
@@ -162,7 +162,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/anca-animation.png"
+   "logo": "https://studiotem-space.ams3.cdn.digitaloceanspaces.com/festanca/cropped-favicon-192x192.png"
   },
   {
    "id": "angeles-asian-pacific",
@@ -181,7 +181,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/angeles-asian-pacific.png"
+   "logo": "https://images.squarespace-cdn.com/content/v1/565478b7e4b0d39ff6af76e5/1449795108173-EZVBQH6EI9F7XLHZBKAF/favicon.ico?format=100w"
   },
   {
    "id": "angeles-latino",
@@ -200,7 +200,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/angeles-latino.png"
+   "logo": "https://laliff.org/wp-content/uploads/2024/04/cropped-LALIFF_favicon-03-1-192x192.png"
   },
   {
    "id": "anifilm-animated",
@@ -217,7 +217,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/anifilm-animated.png"
+   "logo": "https://www.anifilm.cz/files/responsive/196/0/anifilm-2027.png"
   },
   {
    "id": "anima-brussels-animation",
@@ -234,7 +234,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/anima-brussels-animation.png"
+   "logo": "https://animafestival.be/animafestival/img/favicons/apple-touch-icon.png"
   },
   {
    "id": "animation-dingle",
@@ -253,7 +253,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/animation-dingle.png"
+   "logo": "https://animationdingle.com/wp-content/uploads/2021/09/AD-Sticker-2018-01.png"
   },
   {
    "id": "animator-animated",
@@ -270,7 +270,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/animator-animated.png"
+   "logo": "https://animator-festival.com/content/themes/animatorv3/assets/img/favicon2023-32x32.png?v=4.0"
   },
   {
    "id": "animayo-summit-animation",
@@ -301,7 +301,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/animest-animation.png"
+   "logo": "https://www.animest.ro/image/catalog/logo/icon.png"
   },
   {
    "id": "ann-arbor",
@@ -322,7 +322,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/ann-arbor.png"
+   "logo": "https://www.google.com/s2/favicons?domain=aafilmfest.org&sz=128"
   },
   {
    "id": "annecy-animation",
@@ -338,7 +338,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/annecy-animation.png"
+   "logo": "https://www.annecyfestival.com/sites/default/files/2025-02/partage_2025.jpg"
   },
   {
    "id": "ashland-independent",
@@ -351,7 +351,7 @@
    "city": "Ashland",
    "region": "OR",
    "country": "United States",
-   "logo": "logos/ashland-independent.png"
+   "logo": "https://images.squarespace-cdn.com/content/v1/64decd438e34591aec4be69e/04ea0593-d8fa-4dc3-ae7b-0bd55fb2a276/favicon.ico?format=100w"
   },
   {
    "id": "aspen",
@@ -373,7 +373,7 @@
     "year": 2027
    },
    "moviemaker_year": 2026,
-   "logo": "logos/aspen.png"
+   "logo": "https://aspenfilm.org/favicon.ico"
   },
   {
    "id": "athens-aiff",
@@ -383,7 +383,7 @@
    "website": "https://aiff.gr/",
    "city": "Athens",
    "country": "Greece",
-   "logo": "logos/athens-aiff.png"
+   "logo": "https://www.aiff.gr/images/aiff_logo.jpg"
   },
   {
    "id": "athens-video",
@@ -401,7 +401,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/athens-video.png"
+   "logo": "https://athensfilmfest.org/wp-content/uploads/2026/07/AIFVF_logo_2026-300x141.png"
   },
   {
    "id": "atlanta",
@@ -423,7 +423,7 @@
     "year": 2027
    },
    "moviemaker_year": 2026,
-   "logo": "logos/atlanta.png"
+   "logo": "https://images.squarespace-cdn.com/content/v1/517ebeaae4b01eeb7ae91027/1430352568058-70MKSJ8S4WO0VFYPR3TQ/favicon.ico?format=100w"
   },
   {
    "id": "austin",
@@ -445,7 +445,7 @@
     "year": 2027
    },
    "moviemaker_year": 2026,
-   "logo": "logos/austin.png"
+   "logo": "https://austinfilmfestival.com/wp-content/uploads/2024/10/Untitled-design-8-215x215.png"
   },
   {
    "id": "bafici",
@@ -456,7 +456,7 @@
    "portal": "own",
    "city": "Buenos Aires",
    "country": "Argentina",
-   "logo": "logos/bafici.png"
+   "logo": "https://bafici.org/wp-content/uploads/2024/01/cropped-logo-BAFICI-png-1-180x180.png"
   },
   {
    "id": "bafta",
@@ -474,7 +474,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/bafta.png"
+   "logo": "https://www.bafta.org/wp-content/themes/bafta/img/framework/apple-touch-icon.png"
   },
   {
    "id": "bali",
@@ -495,7 +495,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/bali.png"
+   "logo": "https://balinale.com/wp-content/uploads/2026/08/balinale-icon.jpg"
   },
   {
    "id": "beirut",
@@ -515,7 +515,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/beirut.png"
+   "logo": "https://img1.wsimg.com/isteam/ip/5377fd6d-f9fa-404d-ade0-a39ed8e260d9/BeirutShorts%20Logo%20Black.jpg/:/rs=w:180,h:180,m"
   },
   {
    "id": "bengaluru",
@@ -533,7 +533,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/bengaluru.png"
+   "logo": "https://www.google.com/s2/favicons?domain=www.bisff.in&sz=128"
   },
   {
    "id": "berlin-gate",
@@ -544,7 +544,7 @@
    "portal": "own",
    "city": "Berlin",
    "country": "Germany",
-   "logo": "logos/berlin-gate.png"
+   "logo": "https://bgiff.com/apple-icon.png?apple-icon.0f8__fee5ghje.png?dpl=dpl_98jeP419teJSF9yLcMWHrsNTqpMA"
   },
   {
    "id": "berlin-independent",
@@ -554,7 +554,7 @@
    "website": "https://www.berlinfest.com/",
    "city": "Berlin",
    "country": "Germany",
-   "logo": "logos/berlin-independent.png"
+   "logo": "https://www.berlinfest.com/wp-content/uploads/2022/09/cropped-Berlin-Logo-2-1-192x192.png"
   },
   {
    "id": "berlinale",
@@ -573,7 +573,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/berlinale.png"
+   "logo": "https://www.google.com/s2/favicons?domain=berlinale.de&sz=128"
   },
   {
    "id": "bfi-london",
@@ -583,7 +583,7 @@
    "website": "https://www.bfi.org.uk/london-film-festival",
    "city": "London",
    "country": "United Kingdom",
-   "logo": "logos/bfi-london.png"
+   "logo": "https://www.bfi.org.uk/favicon.ico"
   },
   {
    "id": "big-sky-documentary",
@@ -602,7 +602,7 @@
     "year": 2027
    },
    "moviemaker_year": 2026,
-   "logo": "logos/big-sky-documentary.png"
+   "logo": "https://www.bigskyfilmfest.org/favicon.ico"
   },
   {
    "id": "bitbang-animation",
@@ -618,7 +618,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/bitbang-animation.png"
+   "logo": "https://bitbangclub.com/wp-content/uploads/2022/09/favicon.png"
   },
   {
    "id": "blackstar",
@@ -638,7 +638,7 @@
     "year": 2027
    },
    "moviemaker_year": 2026,
-   "logo": "logos/blackstar.png"
+   "logo": "https://blackstarprojects.org/favicon.ico"
   },
   {
    "id": "bogoshorts-bogota",
@@ -656,7 +656,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/bogoshorts-bogota.png"
+   "logo": "https://festival.bogoshorts.com/bogF-images/site/favicon.ico"
   },
   {
    "id": "bronzelens",
@@ -677,7 +677,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/bronzelens.png"
+   "logo": "https://bronzelens.com/wp-content/uploads/2022/05/cropped-Bronzelens_logo-192x192.jpg"
   },
   {
    "id": "brooklyn",
@@ -690,7 +690,7 @@
    "city": "Brooklyn",
    "region": "NY",
    "country": "United States",
-   "logo": "logos/brooklyn.png"
+   "logo": "https://www.brooklynfilmfestival.org/wp-content/uploads/2019/04/favicon.png"
   },
   {
    "id": "brussels",
@@ -708,7 +708,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/brussels.png"
+   "logo": "https://bsff.be/wp-content/uploads/2022/02/cropped-Favicon-sans-fond-192x192.png"
   },
   {
    "id": "brussels-independent",
@@ -718,7 +718,7 @@
    "website": "https://www.brusselsfilmfestival.org/",
    "city": "Brussels",
    "country": "Belgium",
-   "logo": "logos/brussels-independent.png"
+   "logo": "https://static.wixstatic.com/media/b3ca3c_490629a72f2042d4a9fcc3c20a2b515f%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/b3ca3c_490629a72f2042d4a9fcc3c20a2b515f%7Emv2.png"
   },
   {
    "id": "bucheon-animation",
@@ -734,7 +734,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/bucheon-animation.png"
+   "logo": "https://www.bifan.kr/favicon.png"
   },
   {
    "id": "busan",
@@ -745,7 +745,7 @@
    "portal": "own",
    "city": "Busan",
    "country": "South Korea",
-   "logo": "logos/busan.png"
+   "logo": "https://biff.kr/kor/img/favicon.ico"
   },
   {
    "id": "busan-10",
@@ -766,7 +766,7 @@
     "year": 2027
    },
    "moviemaker_year": 2026,
-   "logo": "logos/busan-10.png"
+   "logo": "https://www.bisff.org/img/android-chrome-512x512.png"
   },
   {
    "id": "cairo",
@@ -784,7 +784,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/cairo.png"
+   "logo": "https://www.ciff.org.eg/storage/branding/01KNZD4182W4ZYNRDSDSF3PHDQ.png"
   },
   {
    "id": "calgary",
@@ -805,7 +805,7 @@
     "year": 2027
    },
    "moviemaker_year": 2026,
-   "logo": "logos/calgary.png"
+   "logo": "https://www.ciffcalgary.ca/public/favicon.ico"
   },
   {
    "id": "calgary-underground",
@@ -818,7 +818,7 @@
    "region": "Alberta",
    "country": "Canada",
    "moviemaker_year": 2026,
-   "logo": "logos/calgary-underground.png"
+   "logo": "https://www.calgaryundergroundfilm.org/design/favicon/apple-touch-icon-precomposed-180x180.png"
   },
   {
    "id": "cambridge-uk",
@@ -828,7 +828,7 @@
    "website": "https://www.cambridgefilmfestival.org.uk/",
    "city": "Cambridge",
    "country": "United Kingdom",
-   "logo": "logos/cambridge-uk.png"
+   "logo": "https://www.cambridgefilmfestival.org.uk/dist/images/16.png"
   },
   {
    "id": "camden",
@@ -847,7 +847,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/camden.png"
+   "logo": "https://pointsnorthinstitute.org/wp-content/uploads/2016/06/PNI-Icon_Black-Apple-iPhone.png"
   },
   {
    "id": "canberra",
@@ -857,7 +857,7 @@
    "website": "https://ciff.com.au/",
    "city": "Canberra",
    "country": "Australia",
-   "logo": "logos/canberra.png"
+   "logo": "https://ciff.com.au/wp-content/uploads/2016/08/cropped-theme463_logo-192x192.jpg"
   },
   {
    "id": "cannes",
@@ -876,7 +876,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/cannes.png"
+   "logo": "https://img.festival-cannes.com/eyJidWNrZXQiOiJtZWRpYSIsImtleSI6InVwbG9hZHNcLzIwMjNcLzA1XC9jcm9wcGVkLWRlZmF1bHQtaWNvbi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjE4MCwiaGVpZ2h0IjoxODAsImZpdCI6ImNvdmVyIn19fQ=="
   },
   {
    "id": "champs-elysees",
@@ -886,7 +886,7 @@
    "website": "https://www.champselyseesfilmfestival.com/",
    "city": "Paris",
    "country": "France",
-   "logo": "logos/champs-elysees.png"
+   "logo": "https://www.champselyseesfilmfestival.com/2025/wp-content/themes/ceff2025/assets/img/favicon/apple-touch-icon.png"
   },
   {
    "id": "chicago",
@@ -908,7 +908,7 @@
     "year": 2027
    },
    "moviemaker_year": 2026,
-   "logo": "logos/chicago.png"
+   "logo": "https://cinemachicago.wpenginepowered.com/wp-content/uploads/2026/02/cropped-favicon-192x192.jpg"
   },
   {
    "id": "chicago-childrens",
@@ -926,7 +926,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/chicago-childrens.png"
+   "logo": "https://facets.org/wp-content/uploads/2025/01/cropped-android-chrome-512x512-1-192x192.png"
   },
   {
    "id": "chicago-underground",
@@ -939,7 +939,7 @@
    "city": "Chicago",
    "region": "IL",
    "country": "United States",
-   "logo": "logos/chicago-underground.png"
+   "logo": "https://freight.cargo.site/t/original/i/d61afb56622927d27fe6d06600ba95b0e82ddea757466ca4ecc0e4915c1bbcec/CUFFlogoweb.png"
   },
   {
    "id": "chilemonos-animation",
@@ -955,7 +955,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/chilemonos-animation.png"
+   "logo": "https://chilemonos.cl/web2026/wp-content/uploads/2024/11/cropped-Avatar2-YT-192x192.png"
   },
   {
    "id": "cinanima-animated-espinho",
@@ -973,7 +973,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/cinanima-animated-espinho.png"
+   "logo": "https://cinanima.pt/wp-content/uploads/2024/03/golfinho25-04-1-300x298.png"
   },
   {
    "id": "cinequest",
@@ -993,7 +993,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/cinequest.png"
+   "logo": "https://www.cinequest.org/sites/default/files/theme/favicon.ico"
   },
   {
    "id": "clermont-ferrand",
@@ -1011,7 +1011,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/clermont-ferrand.png"
+   "logo": "https://www.lecourt-clermont.org/wp-content/uploads/2024/11/cropped-favicon-192x192.png"
   },
   {
    "id": "cleveland",
@@ -1032,7 +1032,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/cleveland.png"
+   "logo": "https://bunny-wp-pullzone-rkqbps8qsi.b-cdn.net/wp-content/uploads/2026/01/favicon-ciff.png"
   },
   {
    "id": "cork",
@@ -1052,7 +1052,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/cork.png"
+   "logo": "https://corkfilmfest.org/app/uploads/2017/06/cropped-cff_logo_favicon-1-180x180.png"
   },
   {
    "id": "coronado-island",
@@ -1065,7 +1065,7 @@
    "region": "California",
    "country": "United States",
    "moviemaker_year": 2026,
-   "logo": "logos/coronado-island.png"
+   "logo": "https://coronadofilmfest.com/wp-content/uploads/elementor/thumbs/23_CIFF_LogoUpdate_FNLLogos_CIFF_Logo_FullColor-q4msvstou7jtz5h2dn8c11a5gv9w9kgqqhugxtyeus.jpg"
   },
   {
    "id": "courtisane",
@@ -1076,7 +1076,7 @@
    "website": "https://www.courtisane.be/",
    "city": "Ghent",
    "country": "Belgium",
-   "logo": "logos/courtisane.png"
+   "logo": "https://www.courtisane.be/themes/zurb_foundation/images/favicon-courtisane.png"
   },
   {
    "id": "cph-dox",
@@ -1086,7 +1086,7 @@
    "website": "https://cphdox.dk/",
    "city": "Copenhagen",
    "country": "Denmark",
-   "logo": "logos/cph-dox.png"
+   "logo": "https://cphdox.dk/wp-content/themes/CPHDOX/css/favicon/favicon.png"
   },
   {
    "id": "crossroads-sf",
@@ -1097,7 +1097,7 @@
    "city": "San Francisco",
    "region": "CA",
    "country": "United States",
-   "logo": "logos/crossroads-sf.png"
+   "logo": "https://www.sfcinematheque.org/wp-content/uploads/2023/07/cropped-sfc-512-x-512-px-192x192.png"
   },
   {
    "id": "cucalorus",
@@ -1111,7 +1111,7 @@
    "region": "NC",
    "country": "United States",
    "moviemaker_year": 2026,
-   "logo": "logos/cucalorus.png"
+   "logo": "https://cdn.prod.website-files.com/68dc0f3f20f082d48251f6f9/692097f85328fcf394eb98dd_CucalorusLogo-webicon-trans.png"
   },
   {
    "id": "curtas-vila-doconde",
@@ -1127,7 +1127,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/curtas-vila-doconde.png"
+   "logo": "https://cdn.bndlyr.com/ng7qnspwq2/_assets/curtas_2024-05-24_thumbnail.png"
   },
   {
    "id": "dallas",
@@ -1146,7 +1146,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/dallas.png"
+   "logo": "https://dallasfilm.org/favicon.png"
   },
   {
    "id": "dances-with-films",
@@ -1158,7 +1158,7 @@
    "city": "Los Angeles and New York City",
    "country": "United States",
    "moviemaker_year": 2026,
-   "logo": "logos/dances-with-films.png"
+   "logo": "https://danceswithfilms.com/wp-content/uploads/2026/02/cropped-SITE-LOGO-1-192x192.png"
   },
   {
    "id": "deadcenter",
@@ -1179,7 +1179,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/deadcenter.png"
+   "logo": "https://images.squarespace-cdn.com/content/v1/642c7d92e3cc0828779201cb/162ff5ff-b126-4dd5-83cd-c5e39239a7ba/favicon.ico"
   },
   {
    "id": "deauville-american",
@@ -1190,7 +1190,7 @@
    "portal": "own",
    "city": "Deauville",
    "country": "France",
-   "logo": "logos/deauville-american.png"
+   "logo": "https://www.festival-deauville.com/apple-touch-icon.png"
   },
   {
    "id": "deauville-green-awards",
@@ -1202,7 +1202,7 @@
    "portal": "filmfreeway",
    "city": "Deauville",
    "country": "France",
-   "logo": "logos/deauville-green-awards.png"
+   "logo": "https://deauvillegreenawards.com/images/favicon.png"
   },
   {
    "id": "diametrale-experimental",
@@ -1214,7 +1214,7 @@
    "portal": "filmfreeway",
    "city": "Innsbruck",
    "country": "Austria",
-   "logo": "logos/diametrale-experimental.png"
+   "logo": "https://www.diametrale.at/favicon.ico"
   },
   {
    "id": "directors-notes",
@@ -1226,7 +1226,7 @@
    "portal": "filmfreeway",
    "city": "Brighton",
    "country": "UK",
-   "logo": "logos/directors-notes.png"
+   "logo": "https://directorsnotes.com/wp-content/uploads/2021/12/Directors-Notes-Favicon.png"
   },
   {
    "id": "doc-edge",
@@ -1244,7 +1244,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/doc-edge.png"
+   "logo": "https://docedge.nz/wp-content/uploads/2025/02/doc-edge-logo.webp"
   },
   {
    "id": "doc-nyc",
@@ -1264,7 +1264,7 @@
     "year": 2027
    },
    "moviemaker_year": 2026,
-   "logo": "logos/doc-nyc.png"
+   "logo": "https://images.amcnetworks.com/docnyc.net/wp-content/uploads/2021/02/Logo_Blue-Gradient.png"
   },
   {
    "id": "docaviv-documentary",
@@ -1280,7 +1280,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/docaviv-documentary.png"
+   "logo": "https://www.docaviv.co.il/wp-content/uploads/2026/07/Wordpress-Logo-DOCAVIV-300x300.png"
   },
   {
    "id": "doclisboa",
@@ -1296,7 +1296,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/doclisboa.png"
+   "logo": "https://doclisboa.org/main/wp-content/uploads/2025/02/cropped-doclisboa-site-logo-1-192x192.png"
   },
   {
    "id": "documentaries-bilbao-zinebi",
@@ -1312,7 +1312,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/documentaries-bilbao-zinebi.png"
+   "logo": "https://zinebi.eus/assets/themes/core-base-child/assets/images/apple-touch-icon-114x114.png"
   },
   {
    "id": "documentary-kerala",
@@ -1328,7 +1328,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/documentary-kerala.png"
+   "logo": "https://idsffk.in/favicon.png"
   },
   {
    "id": "documentary-sheffield",
@@ -1344,7 +1344,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/documentary-sheffield.png"
+   "logo": "https://cdn.sheffdocfest.com/themes/custom/docfest/favicon.ico"
   },
   {
    "id": "downtown-nyc",
@@ -1374,7 +1374,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/drama.png"
+   "logo": "https://www.dramafilmfestival.gr/wp-content/uploads/2021/07/cropped-icon-601-180x180.png"
   },
   {
    "id": "dublin",
@@ -1384,7 +1384,7 @@
    "website": "https://www.diff.ie/",
    "city": "Dublin",
    "country": "Ireland",
-   "logo": "logos/dublin.png"
+   "logo": "https://static.wixstatic.com/media/e8f3c7_be5cecee5abb4509a674616a2a17c15a%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/e8f3c7_be5cecee5abb4509a674616a2a17c15a%7Emv2.png"
   },
   {
    "id": "durban",
@@ -1404,7 +1404,7 @@
     "year": 2027
    },
    "moviemaker_year": 2026,
-   "logo": "logos/durban.png"
+   "logo": "https://ccadiff.ukzn.ac.za/wp-content/uploads/cropped-DIFF-WHITE-1-192x192.png"
   },
   {
    "id": "edinburgh",
@@ -1416,7 +1416,7 @@
    "portal": "filmfreeway",
    "city": "Edinburgh",
    "country": "Scotland",
-   "logo": "logos/edinburgh.png"
+   "logo": "https://www.edfilmfest.org/wp-content/uploads/2024/07/cropped-cropped-EIFF-Site-Logo-180x180-1-180x180.png"
   },
   {
    "id": "edmonton",
@@ -1434,7 +1434,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/edmonton.png"
+   "logo": "https://edmontonfilmfest.com/wp-content/uploads/2024/05/favicon.jpeg"
   },
   {
    "id": "el-dorado",
@@ -1459,7 +1459,7 @@
    "region": "Texas",
    "country": "United States",
    "moviemaker_year": 2026,
-   "logo": "logos/el-paso.png"
+   "logo": "https://elpasofilmfestival.org/epfilm_logo.png"
   },
   {
    "id": "emaf",
@@ -1471,7 +1471,7 @@
    "portal": "own",
    "city": "Osnabrück",
    "country": "Germany",
-   "logo": "logos/emaf.png"
+   "logo": "https://www.emaf.de/apple-touch-icon.png"
   },
   {
    "id": "energacamerimage",
@@ -1489,7 +1489,7 @@
     "year": 2027
    },
    "moviemaker_year": 2026,
-   "logo": "logos/energacamerimage.png"
+   "logo": "https://camerimage.pl/pl/opengraph-image-1t0pst?2dbf8f0d459c9e6a"
   },
   {
    "id": "evolution-mallorca",
@@ -1501,7 +1501,7 @@
    "city": "Palma de Mallorca",
    "country": "Spain",
    "moviemaker_year": 2026,
-   "logo": "logos/evolution-mallorca.png"
+   "logo": "https://static.wixstatic.com/media/79e464_116bfdaf016243aa937091d28f08d54f%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/79e464_116bfdaf016243aa937091d28f08d54f%7Emv2.png"
   },
   {
    "id": "fantasia",
@@ -1514,7 +1514,7 @@
    "region": "Quebec",
    "country": "Canada",
    "moviemaker_year": 2026,
-   "logo": "logos/fantasia.png"
+   "logo": "https://fantasiafestival.com/assets/images/favicons/android-icon-192x192.png"
   },
   {
    "id": "fantaspoa",
@@ -1526,7 +1526,7 @@
    "city": "Porto Alegre",
    "country": "Brazil",
    "moviemaker_year": 2026,
-   "logo": "logos/fantaspoa.png"
+   "logo": "https://fantaspoa.com/favicon.ico"
   },
   {
    "id": "fantastic-fest",
@@ -1539,7 +1539,7 @@
    "region": "Texas",
    "country": "United States",
    "moviemaker_year": 2026,
-   "logo": "logos/fantastic-fest.png"
+   "logo": "https://cdn.prod.website-files.com/675b4e68b5a6d0bb0bfa7ac3/6994cf2f42d26c60ace66e47_FF_2026_Favicon_Black_32x32.png"
   },
   {
    "id": "fantoche-animation",
@@ -1555,7 +1555,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/fantoche-animation.png"
+   "logo": "https://www.fantoche.ch/static/images/favicon/android-icon-192x192.png"
   },
   {
    "id": "fespaco-pan-african",
@@ -1571,7 +1571,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/fespaco-pan-african.png"
+   "logo": "https://fespaco.bf/wp-content/uploads/2021/03/cropped-fespaco-logo-icon-192x192.png"
   },
   {
    "id": "fest-belgrade",
@@ -1581,7 +1581,7 @@
    "website": "https://fest.rs/",
    "city": "Belgrade",
    "country": "Serbia",
-   "logo": "logos/fest-belgrade.png"
+   "logo": "https://fest.rs/wp-content/uploads/2026/02/cropped-apple-icon-152x152-1-192x192.png"
   },
   {
    "id": "fest-new-directors-new-films",
@@ -1593,7 +1593,7 @@
    "portal": "filmfreeway",
    "city": "Espinho",
    "country": "Portugal",
-   "logo": "logos/fest-new-directors-new-films.png"
+   "logo": "https://site.fest.pt/Content/Images/cropped-favicon-32x32.png"
   },
   {
    "id": "festival-do-rio",
@@ -1603,7 +1603,7 @@
    "website": "https://www.festivaldorio.com.br/",
    "city": "Rio de Janeiro",
    "country": "Brazil",
-   "logo": "logos/festival-do-rio.png"
+   "logo": "https://www.festivaldorio.com.br/apple-touch-icon.png"
   },
   {
    "id": "ficci-cartagena",
@@ -1622,7 +1622,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/ficci-cartagena.png"
+   "logo": "https://ficcifestival.com/sites/default/files/ficci-ico.png"
   },
   {
    "id": "ficunam",
@@ -1632,7 +1632,7 @@
    "website": "https://ficunam.unam.mx/",
    "city": "Mexico City",
    "country": "Mexico",
-   "logo": "logos/ficunam.png"
+   "logo": "https://www.google.com/s2/favicons?domain=ficunam.unam.mx&sz=128"
   },
   {
    "id": "ficvaldivia",
@@ -1643,7 +1643,7 @@
    "portal": "festhome",
    "city": "Valdivia",
    "country": "Chile",
-   "logo": "logos/ficvaldivia.png"
+   "logo": "https://www.google.com/s2/favicons?domain=ficvaldivia.cl&sz=128"
   },
   {
    "id": "ficx-gijon",
@@ -1661,7 +1661,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/ficx-gijon.png"
+   "logo": "https://www.gijon.es/favicon.ico"
   },
   {
    "id": "film-fest-knox",
@@ -1674,7 +1674,7 @@
    "region": "Tennessee",
    "country": "United States",
    "moviemaker_year": 2026,
-   "logo": "logos/film-fest-knox.png"
+   "logo": "https://www.filmfestknox.com/wp-content/uploads/cropped-ffkicon-192x192.gif"
   },
   {
    "id": "filmfest-hamburg",
@@ -1684,7 +1684,7 @@
    "website": "https://www.filmfesthamburg.de/en/",
    "city": "Hamburg",
    "country": "Germany",
-   "logo": "logos/filmfest-hamburg.png"
+   "logo": "https://www.filmfesthamburg.de/wp-content/uploads/2026/07/favicon_new_512.webp"
   },
   {
    "id": "filmfest-munchen",
@@ -1694,7 +1694,7 @@
    "website": "https://www.filmfest-muenchen.de/en/",
    "city": "Munich",
    "country": "Germany",
-   "logo": "logos/filmfest-munchen.png"
+   "logo": "https://www.filmfest-muenchen.de/assets/images/favicon.ico"
   },
   {
    "id": "filmquest",
@@ -1707,7 +1707,7 @@
    "region": "Utah",
    "country": "United States",
    "moviemaker_year": 2026,
-   "logo": "logos/filmquest.png"
+   "logo": "https://www.filmquestfest.com/wp-content/uploads/2016/06/Favicon2016.png"
   },
   {
    "id": "flickerfest",
@@ -1725,7 +1725,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/flickerfest.png"
+   "logo": "https://flickerfest.com.au/wp-content/themes/flickerfest_com_au/img/icons/apple-touch-icon-152x152-precomposed.png"
   },
   {
    "id": "florida",
@@ -1747,7 +1747,7 @@
     "year": 2027
    },
    "moviemaker_year": 2026,
-   "logo": "logos/florida.png"
+   "logo": "https://floridafilmfestival.com/apple-touch-icon.png"
   },
   {
    "id": "foyle",
@@ -1767,7 +1767,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/foyle.png"
+   "logo": "https://foylefilmfestival.org/build/images/favicon/apple-icon-152x152.png"
   },
   {
    "id": "french-academy-cinema",
@@ -1786,7 +1786,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/french-academy-cinema.png"
+   "logo": "https://www.academie-cinema.org/wp-content/themes/cesar/favicon.ico"
   },
   {
    "id": "friss-hus-budapest",
@@ -1805,7 +1805,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/friss-hus-budapest.png"
+   "logo": "https://www.frisshusbudapest.com/2025/images/apple-touch-icon.png"
   },
   {
    "id": "full-frame-documentary",
@@ -1822,7 +1822,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/full-frame-documentary.png"
+   "logo": "https://www.fullframefest.org/favicon.ico"
   },
   {
    "id": "galway-fleadh",
@@ -1840,7 +1840,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/galway-fleadh.png"
+   "logo": "https://www.galwayfilmfleadh.com/wp-content/uploads/2020/06/cropped-gff-new-green-192x192.png"
   },
   {
    "id": "george-lindsey-una",
@@ -1852,7 +1852,7 @@
    "city": "Florence",
    "region": "AL",
    "country": "United States",
-   "logo": "logos/george-lindsey-una.png"
+   "logo": "https://images.squarespace-cdn.com/content/v1/698b5d35957d8b2a08a2265c/f81aa01c-e405-418f-9706-2e34123d0cc7/2026_glunaff_logo_header+copy5.png?format=1500w"
   },
   {
    "id": "german-award",
@@ -1870,7 +1870,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/german-award.png"
+   "logo": "https://deutscher-kurzfilmpreis.de/_assets/6666cd76f96956469e7be39d750cc7d9/Favicons/apple-touch-icon-1024x1024.png"
   },
   {
    "id": "goshort-nijmegen",
@@ -1888,7 +1888,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/goshort-nijmegen.png"
+   "logo": "https://www.goshort.nl/apple-touch-icon.png"
   },
   {
    "id": "goteborg",
@@ -1906,7 +1906,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/goteborg.png"
+   "logo": "https://www.goteborgfilmfestival.se/favicon.png"
   },
   {
    "id": "goya-awards",
@@ -1924,7 +1924,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/goya-awards.png"
+   "logo": "https://www.premiosgoya.com/wp-content/themes/goya/icons/android-icon-192x192.png"
   },
   {
    "id": "guadalajara",
@@ -1942,7 +1942,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/guadalajara.png"
+   "logo": "https://ficg.mx/wp-content/uploads/2024/02/FAVICON-FICG.webp"
   },
   {
    "id": "guanajuato",
@@ -1960,7 +1960,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/guanajuato.png"
+   "logo": "https://giff.mx/wp-content/uploads/2025/01/cropped-cropped-Logoweb28-192x192.jpg"
   },
   {
    "id": "haifa",
@@ -1978,7 +1978,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/haifa.png"
+   "logo": "https://www.haifaff.co.il/images/defaults/logo.jpg?1788968107"
   },
   {
    "id": "hamptons",
@@ -1998,7 +1998,7 @@
     "year": 2027
    },
    "moviemaker_year": 2026,
-   "logo": "logos/hamptons.png"
+   "logo": "https://i0.wp.com/hamptonsfilmfest.org/site/wp-content/uploads/2019/11/cropped-0.jpeg?fit=192%2C192&ssl=1"
   },
   {
    "id": "havana",
@@ -2008,7 +2008,7 @@
    "website": "https://habanafilmfestival.com/",
    "city": "Havana",
    "country": "Cuba",
-   "logo": "logos/havana.png"
+   "logo": "https://habanafilmfestival.com/favicon.ico"
   },
   {
    "id": "hawaii",
@@ -2027,7 +2027,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/hawaii.png"
+   "logo": "https://hiff.org/wp-content/uploads/2026/02/cropped-HIFF-Favicon-512-x-512-px-1-192x192.png"
   },
   {
    "id": "heartland",
@@ -2041,7 +2041,7 @@
    "region": "IN",
    "country": "United States",
    "moviemaker_year": 2026,
-   "logo": "logos/heartland.png"
+   "logo": "https://heartlandfilm.org/img/asset/dXBsb2Fkcy9pY29uLnBuZw/icon.png?w=100&h=100&s=5888fb3b389fd99b76c5c426e142bfce"
   },
   {
    "id": "helsinki-love-anarchy",
@@ -2051,7 +2051,7 @@
    "website": "https://hiff.fi/",
    "city": "Helsinki",
    "country": "Finland",
-   "logo": "logos/helsinki-love-anarchy.png"
+   "logo": "https://hiff.fi/wp-content/uploads/2026/06/favicon-512-200x200.png"
   },
   {
    "id": "hiro-shima-animation",
@@ -2067,7 +2067,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/hiro-shima-animation.png"
+   "logo": "https://animation.hiroshimafest.org/favicon.ico"
   },
   {
    "id": "hollyshorts",
@@ -2088,7 +2088,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/hollyshorts.png"
+   "logo": "https://images.squarespace-cdn.com/content/v1/65df9b1dbbf6253a86277a4d/068c5025-2679-4184-92af-af6497a20510/favicon.ico?format=100w"
   },
   {
    "id": "hong-kong",
@@ -2106,7 +2106,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/hong-kong.png"
+   "logo": "https://www.hkiff.org.hk/favicon.ico"
   },
   {
    "id": "hot-docs-canadian",
@@ -2122,7 +2122,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/hot-docs-canadian.png"
+   "logo": "https://apos-aka-hotdocs-prod.s3.ca-central-1.amazonaws.com/attachments/yukyrmycgjpk82cw2pxmwi0b-android-chrome-192x192.0.0.192.192.one-third.png"
   },
   {
    "id": "hot-springs-documentary",
@@ -2141,7 +2141,7 @@
     "year": 2027
    },
    "moviemaker_year": 2026,
-   "logo": "logos/hot-springs-documentary.png"
+   "logo": "https://hsdfi.org/wp-content/uploads/2023/08/cropped-favicon-192x192.png"
   },
   {
    "id": "huelva",
@@ -2151,7 +2151,7 @@
    "website": "https://festicinehuelva.com/",
    "city": "Huelva",
    "country": "Spain",
-   "logo": "logos/huelva.png"
+   "logo": "https://festicinehuelva.com/wp-content/uploads/2018/09/cropped-logo_ico2-192x192.jpg"
   },
   {
    "id": "huesca",
@@ -2169,7 +2169,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/huesca.png"
+   "logo": "https://www.huesca-filmfestival.com/wp-content/uploads/2017/03/avatar-festival-cine-huesca-152px.png"
   },
   {
    "id": "idfa-documentary-amsterdam",
@@ -2185,7 +2185,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/idfa-documentary-amsterdam.png"
+   "logo": "https://www.idfa.nl/favicon.ico"
   },
   {
    "id": "iff-art-film",
@@ -2195,7 +2195,7 @@
    "website": "https://iffartfilm.com/en/",
    "city": "Košice",
    "country": "Slovakia",
-   "logo": "logos/iff-art-film.png"
+   "logo": "https://iffartfilm.com/wp-content/uploads/2018/11/favicon-32x32.png"
   },
   {
    "id": "iff-boston",
@@ -2206,7 +2206,7 @@
    "city": "Boston",
    "region": "MA",
    "country": "United States",
-   "logo": "logos/iff-boston.png"
+   "logo": "https://iffboston.org/favicon.png"
   },
   {
    "id": "iffi-goa",
@@ -2216,7 +2216,7 @@
    "website": "https://www.iffigoa.org/",
    "city": "Panaji",
    "country": "India",
-   "logo": "logos/iffi-goa.png"
+   "logo": "https://www.iffigoa.org/images/multi-use/iffigoa.jpg"
   },
   {
    "id": "iffr-rotterdam",
@@ -2227,7 +2227,7 @@
    "portal": "own",
    "city": "Rotterdam",
    "country": "Netherlands",
-   "logo": "logos/iffr-rotterdam.png"
+   "logo": "https://iffr.com/nl/wp-content/uploads/2024/08/cropped-icon512_maskable-180x180.png?image-crop-positioner-ts=1724329322"
   },
   {
    "id": "images-toronto",
@@ -2238,7 +2238,7 @@
    "website": "https://imagesfestival.com/",
    "city": "Toronto",
    "country": "Canada",
-   "logo": "logos/images-toronto.png"
+   "logo": "https://imagesfestival.com/apple-touch-icon.png"
   },
   {
    "id": "imaginaria",
@@ -2254,7 +2254,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/imaginaria.png"
+   "logo": "https://imaginaria.eu/wp-content/uploads/2026/08/cropped-logo_imaginaria_web-192x192.png"
   },
   {
    "id": "imaginenative-media-arts",
@@ -2270,7 +2270,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/imaginenative-media-arts.png"
+   "logo": "https://www.google.com/s2/favicons?domain=imaginenative.org&sz=128"
   },
   {
    "id": "in-palace",
@@ -2288,7 +2288,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/in-palace.png"
+   "logo": "https://www.inthepalace.com/frontend/images/favicon/apple-touch-icon.png"
   },
   {
    "id": "indie-memphis",
@@ -2299,7 +2299,7 @@
    "city": "Memphis",
    "region": "TN",
    "country": "United States",
-   "logo": "logos/indie-memphis.png"
+   "logo": "https://indiememphis.org/wp-content/uploads/2026/08/cropped-IM_Favicn-192x192.png"
   },
   {
    "id": "indielisboa",
@@ -2309,7 +2309,7 @@
    "website": "https://indielisboa.com/",
    "city": "Lisbon",
    "country": "Portugal",
-   "logo": "logos/indielisboa.png"
+   "logo": "https://indielisboa.com/wp-content/uploads/2025/02/cropped-faviconindie-192x192.png"
   },
   {
    "id": "indy-presented-by",
@@ -2331,7 +2331,7 @@
     "year": 2027
    },
    "moviemaker_year": 2026,
-   "logo": "logos/indy-presented-by.png"
+   "logo": "https://heartlandfilm.org/img/asset/dXBsb2Fkcy9pY29uLnBuZw/icon.png?w=32&h=32&s=0ded7c091d33a3dd624486197e487be8"
   },
   {
    "id": "interfilm-berlin",
@@ -2348,7 +2348,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/interfilm-berlin.png"
+   "logo": "https://www.interfilm.de/android-icon-192x192.png"
   },
   {
    "id": "internacional-cine-lebu",
@@ -2376,7 +2376,7 @@
    "city": "Cardiff",
    "country": "Wales",
    "moviemaker_year": 2026,
-   "logo": "logos/iris-prize.png"
+   "logo": "https://irisprize.org/wp-content/uploads/2022/10/cropped-Iris-Prize-Logo-Dark--192x192.png"
   },
   {
    "id": "irish-television-awards",
@@ -2393,7 +2393,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/irish-television-awards.png"
+   "logo": "https://www.ifta.ie/img/favicon.ico"
   },
   {
    "id": "israel-academy-ophir",
@@ -2411,7 +2411,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/israel-academy-ophir.png"
+   "logo": "https://israelfilmacademy.co.il/templates/t8130/images/footer_logo.png"
   },
   {
    "id": "istanbul",
@@ -2421,7 +2421,7 @@
    "website": "https://film.iksv.org/en",
    "city": "Istanbul",
    "country": "Turkey",
-   "logo": "logos/istanbul.png"
+   "logo": "https://film.iksv.org/i/assets/iksv/images/site/favicon.png"
   },
   {
    "id": "its-all-true",
@@ -2437,7 +2437,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/its-all-true.png"
+   "logo": "https://etudoverdade.com.br/_img/logo.png"
   },
   {
    "id": "izmir",
@@ -2454,7 +2454,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/izmir.png"
+   "logo": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=192,h=192,fit=crop,f=png/YanJQwg4BBiNWPEP/logo-Yg2yoGrLWnup1jrM.png"
   },
   {
    "id": "jerusalem",
@@ -2470,7 +2470,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/jerusalem.png"
+   "logo": "https://jff.org.il/sites/all/themes/cinemateque/favicon/apple-touch-icon.png"
   },
   {
    "id": "jiiff-jose-ignacio",
@@ -2488,7 +2488,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/jiiff-jose-ignacio.png"
+   "logo": "https://www.joseignaciofilmfestival.com/apple-touch-icon.png?v=23797202645458787"
   },
   {
    "id": "kaboom-animation",
@@ -2504,7 +2504,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/kaboom-animation.png"
+   "logo": "https://www.kaboomfestival.nl/wp-content/uploads/2025/12/cropped-KABOOM-LOGO-geel-192x192.png"
   },
   {
    "id": "karlovy-vary",
@@ -2515,7 +2515,7 @@
    "portal": "own",
    "city": "Karlovy Vary",
    "country": "Czech Republic",
-   "logo": "logos/karlovy-vary.png"
+   "logo": "https://www.kviff.com/apple-touch-icon.png"
   },
   {
    "id": "kasseler-dokfest",
@@ -2525,7 +2525,7 @@
    "website": "https://www.kasselerdokfest.de/en/",
    "city": "Kassel",
    "country": "Germany",
-   "logo": "logos/kasseler-dokfest.png"
+   "logo": "https://www.kasselerdokfest.de/public/images/apple-touch-icon.png?v=2021.1"
   },
   {
    "id": "krakow",
@@ -2543,7 +2543,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/krakow.png"
+   "logo": "https://www.krakowfilmfestival.pl/wp-content/uploads/2016/04/cropped-kff_logo_male_e-mail_bez-nr-192x192.jpg"
   },
   {
    "id": "kurzfilmtage-winterthur",
@@ -2561,7 +2561,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/kurzfilmtage-winterthur.png"
+   "logo": "https://www.kurzfilmtage.ch/webzen/cms/templates/kurzfilmtage.ch/favicons/favicon-192x192.png?v=53"
   },
   {
    "id": "la-shorts-internatio",
@@ -2580,7 +2580,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/la-shorts-internatio.png"
+   "logo": "https://static.parastorage.com/client/pfavico.ico"
   },
   {
    "id": "lalternativa-barcelona",
@@ -2590,7 +2590,7 @@
    "website": "https://alternativa.cccb.org/",
    "city": "Barcelona",
    "country": "Spain",
-   "logo": "logos/lalternativa-barcelona.png"
+   "logo": "https://alternativa.cccb.org/favicon.ico"
   },
   {
    "id": "leeds",
@@ -2608,7 +2608,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/leeds.png"
+   "logo": "https://www.leedsfilm.com/favicon.ico"
   },
   {
    "id": "leipzig-documentary-animated",
@@ -2625,7 +2625,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/leipzig-documentary-animated.png"
+   "logo": "https://www.dok-leipzig.de/sites/default/files/2025-10/20250508_DOK_Motiv-WEB-HD-DE.jpg"
   },
   {
    "id": "leuven",
@@ -2645,7 +2645,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/leuven.png"
+   "logo": "https://www.kortfilmfestival.be/wp-content/uploads/2022/11/cropped-Ikl-man-oranje-profiel-website-192x192.png"
   },
   {
    "id": "lima",
@@ -2674,7 +2674,7 @@
     "year": 2027
    },
    "moviemaker_year": 2026,
-   "logo": "logos/locarno.png"
+   "logo": "https://www.google.com/s2/favicons?domain=locarnofestival.ch&sz=128"
   },
   {
    "id": "london-independent",
@@ -2684,7 +2684,7 @@
    "website": "https://liff.org/",
    "city": "London",
    "country": "United Kingdom",
-   "logo": "logos/london-independent.png"
+   "logo": "https://liff.org/wp-content/uploads/2023/06/cropped-LIFF-icon-180x180-1.png"
   },
   {
    "id": "louisiana-film-prize",
@@ -2697,7 +2697,7 @@
    "region": "Louisiana",
    "country": "United States",
    "moviemaker_year": 2026,
-   "logo": "logos/louisiana-film-prize.png"
+   "logo": "https://prizefest.com/wp-content/uploads/2025/01/cropped-favico.webp"
   },
   {
    "id": "malaga",
@@ -2708,7 +2708,7 @@
    "portal": "festhome",
    "city": "Malaga",
    "country": "Spain",
-   "logo": "logos/malaga.png"
+   "logo": "https://www.google.com/s2/favicons?domain=festivaldemalaga.com&sz=128"
   },
   {
    "id": "mami-mumbai",
@@ -2718,7 +2718,7 @@
    "website": "https://www.mumbaifilmfestival.com/",
    "city": "Mumbai",
    "country": "India",
-   "logo": "logos/mami-mumbai.png"
+   "logo": "https://www.mumbaifilmfestival.com/images/favicon.ico"
   },
   {
    "id": "mammoth-lakes",
@@ -2747,7 +2747,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/manchester-animation.png"
+   "logo": "https://www.manchesteranimationfestival.co.uk/favicons/apple-touch-icon.png"
   },
   {
    "id": "mannheim-heidelberg",
@@ -2757,7 +2757,7 @@
    "website": "https://www.iffmh.de/",
    "city": "Mannheim",
    "country": "Germany",
-   "logo": "logos/mannheim-heidelberg.png"
+   "logo": "https://cdn.iffmh.de/icons/apple-touch-icon.png"
   },
   {
    "id": "mar-del-plata",
@@ -2768,7 +2768,7 @@
    "portal": "own",
    "city": "Mar del Plata",
    "country": "Argentina",
-   "logo": "logos/mar-del-plata.png"
+   "logo": "https://mardelplatafilmfest.com/41/wp-content/uploads/2026/03/cropped-icono_web_mdqff41_35x35-02-180x180.png"
   },
   {
    "id": "mcminnville-short",
@@ -2781,7 +2781,7 @@
    "region": "Oregon",
    "country": "United States",
    "moviemaker_year": 2026,
-   "logo": "logos/mcminnville-short.png"
+   "logo": "https://images.squarespace-cdn.com/content/v1/606361a5f47da247df6a4397/a9c55b1a-f719-4d97-bcfa-6a5ccdac240a/favicon.ico"
   },
   {
    "id": "media-city",
@@ -2791,7 +2791,7 @@
    "website": "https://www.mediacityfilmfestival.com/",
    "city": "Windsor",
    "country": "Canada",
-   "logo": "logos/media-city.png"
+   "logo": "https://mediacityfilmfestival.com/favicon.ico"
   },
   {
    "id": "melbourne",
@@ -2809,7 +2809,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/melbourne.png"
+   "logo": "https://miff.com.au/storage/assets/2023/page-image.jpg"
   },
   {
    "id": "midnight-sun",
@@ -2819,7 +2819,7 @@
    "website": "https://msfilmfestival.fi/",
    "city": "Sodankylä",
    "country": "Finland",
-   "logo": "logos/midnight-sun.png"
+   "logo": "https://msfilmfestival.fi/wp-content/uploads/2017/06/cropped-MSFF-favicon-300x300.png"
   },
   {
    "id": "milano-film-fest",
@@ -2829,7 +2829,7 @@
    "website": "https://milanofilmfest.it/",
    "city": "Milan",
    "country": "Italy",
-   "logo": "logos/milano-film-fest.png"
+   "logo": "https://milanofilmfest.it/wp-content/uploads/2025/04/favicon-mff.png"
   },
   {
    "id": "milwaukee",
@@ -2842,7 +2842,7 @@
    "city": "Milwaukee",
    "region": "WI",
    "country": "United States",
-   "logo": "logos/milwaukee.png"
+   "logo": "https://mkefilm.org/wp-content/themes/default/images/favicon/apple-touch-icon.png"
   },
   {
    "id": "molodist-kyiv",
@@ -2852,7 +2852,7 @@
    "website": "https://www.molodist.com/",
    "city": "Kyiv",
    "country": "Ukraine",
-   "logo": "logos/molodist-kyiv.png"
+   "logo": "https://cdn.prod.website-files.com/68d592a6985472942e26d2c9/68dcee42fcc8278f173ce1b1_logo3.png"
   },
   {
    "id": "mono-no-aware",
@@ -2864,7 +2864,7 @@
    "city": "Brooklyn",
    "region": "NY",
    "country": "United States",
-   "logo": "logos/mono-no-aware.png"
+   "logo": "https://images.squarespace-cdn.com/content/v1/5790488dbe65943e37169f37/1470771220651-BFR1N4SDC1ZETEVBDOBY/favicon.ico?format=100w"
   },
   {
    "id": "montclair",
@@ -2875,7 +2875,7 @@
    "city": "Montclair",
    "region": "NJ",
    "country": "United States",
-   "logo": "logos/montclair.png"
+   "logo": "https://www.montclairfilm.org/apple-touch-icon.png"
   },
   {
    "id": "morelia",
@@ -2893,7 +2893,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/morelia.png"
+   "logo": "https://www.moreliafilmfest.com/themes/custom/ficm/favicon.png"
   },
   {
    "id": "mostra-sao-paulo",
@@ -2903,7 +2903,7 @@
    "website": "https://mostra.org/",
    "city": "São Paulo",
    "country": "Brazil",
-   "logo": "logos/mostra-sao-paulo.png"
+   "logo": "https://mostra.org/android-icon-192x192.png"
   },
   {
    "id": "motelx-lisbon",
@@ -2915,7 +2915,7 @@
    "city": "Lisbon",
    "country": "Portugal",
    "moviemaker_year": 2026,
-   "logo": "logos/motelx-lisbon.png"
+   "logo": "https://www.google.com/s2/favicons?domain=motelx.org&sz=128"
   },
   {
    "id": "mountainfilm",
@@ -2934,7 +2934,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/mountainfilm.png"
+   "logo": "https://www.mountainfilm.org/favicons/apple-touch-icon.png"
   },
   {
    "id": "mpumalanga",
@@ -2945,7 +2945,7 @@
    "portal": "own",
    "city": "Mbombela",
    "country": "South Africa",
-   "logo": "logos/mpumalanga.png"
+   "logo": "https://www.miff.co.za/wp-content/uploads/miff-assets/miff-icon-white.png"
   },
   {
    "id": "nashville",
@@ -2966,7 +2966,7 @@
     "year": 2027
    },
    "moviemaker_year": 2026,
-   "logo": "logos/nashville.png"
+   "logo": "https://nashvillefilmfestival.org/wp-content/uploads/2026/05/cropped-primary-alt-fullcolor-500x500-1-192x192.png"
   },
   {
    "id": "nevada-city",
@@ -2979,7 +2979,7 @@
    "region": "California",
    "country": "United States",
    "moviemaker_year": 2026,
-   "logo": "logos/nevada-city.png"
+   "logo": "https://i0.wp.com/nevadacityfilmfestival.com/wp-content/uploads/2026/03/cropped-NCFF26_Logo_RD.png?fit=192%2C192&ssl=1"
   },
   {
    "id": "new-hampshire",
@@ -3000,7 +3000,7 @@
     "year": 2027
    },
    "moviemaker_year": 2026,
-   "logo": "logos/new-hampshire.png"
+   "logo": "https://nhfilmfestival.com/wp-content/uploads/2016/09/nhff-favicon.png"
   },
   {
    "id": "new-media",
@@ -3013,7 +3013,7 @@
    "city": "Los Angeles",
    "region": "CA",
    "country": "United States",
-   "logo": "logos/new-media.png"
+   "logo": "https://www.newmediafilmfestival.com/wp-content/uploads/2021/07/logo.png"
   },
   {
    "id": "new-next",
@@ -3025,7 +3025,7 @@
    "city": "Baltimore",
    "region": "MD",
    "country": "United States",
-   "logo": "logos/new-next.png"
+   "logo": "https://newnextfilmfest.com/wp-content/uploads/2023/05/N180.jpg"
   },
   {
    "id": "new-orleans",
@@ -3046,7 +3046,7 @@
     "year": 2027
    },
    "moviemaker_year": 2026,
-   "logo": "logos/new-orleans.png"
+   "logo": "https://neworleansfilmsociety.org/app/uploads/2025/08/cropped-NOFF_keyimage_blackbackground-1-192x192.jpg"
   },
   {
    "id": "new-york-childrens",
@@ -3064,7 +3064,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/new-york-childrens.png"
+   "logo": "https://i0.wp.com/nyicff.org/wp-content/uploads/2018/06/cropped-siteicon.png?fit=192%2C192&ssl=1"
   },
   {
    "id": "new-york-screening",
@@ -3076,7 +3076,7 @@
    "city": "New York",
    "region": "NY",
    "country": "United States",
-   "logo": "logos/new-york-screening.png"
+   "logo": "https://i0.wp.com/nyfilmscreeningfest.com/wp-content/uploads/2025/01/250121LOGO.png?fit=180%2C180&#038;ssl=1"
   },
   {
    "id": "newfilmmakers-la",
@@ -3089,7 +3089,7 @@
    "region": "California",
    "country": "United States",
    "moviemaker_year": 2026,
-   "logo": "logos/newfilmmakers-la.png"
+   "logo": "https://www.newfilmmakersla.com/wp-content/uploads/2022/12/cropped-site-icon-192x192.png"
   },
   {
    "id": "newport-beach",
@@ -3100,7 +3100,7 @@
    "city": "Newport Beach",
    "region": "CA",
    "country": "United States",
-   "logo": "logos/newport-beach.png"
+   "logo": "https://newportbeachfilmfest.com/wp-content/uploads/2020/01/cropped-NBFF-192x192.png"
   },
   {
    "id": "nordisk-panorama",
@@ -3118,7 +3118,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/nordisk-panorama.png"
+   "logo": "https://nordiskpanorama.com/wp-content/uploads/2024/10/cropped-Nordisk-Panorama_SoMe-profile-picture_2-192x192.jpg"
   },
   {
    "id": "norwegian",
@@ -3136,7 +3136,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/norwegian.png"
+   "logo": "https://kortfilmfestivalen.no/wp-content/uploads/2020/12/cropped-KF15_logo_CMYK_negativ-2-01-1-192x192.png"
   },
   {
    "id": "nouveau-cinema",
@@ -3154,7 +3154,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/nouveau-cinema.png"
+   "logo": "https://www.google.com/s2/favicons?domain=www.nouveaucinema.ca&sz=128"
   },
   {
    "id": "nziff",
@@ -3164,7 +3164,7 @@
    "website": "https://www.nziff.co.nz/",
    "city": "Auckland",
    "country": "New Zealand",
-   "logo": "logos/nziff.png"
+   "logo": "https://www.nziff.co.nz/static/img/favicons/favicon.207c3c10.ico"
   },
   {
    "id": "oberhausen",
@@ -3182,7 +3182,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/oberhausen.png"
+   "logo": "https://www.kurzfilmtage.de/typo3conf/ext/sitetemplate/Resources/Public/favicons/favicon-196x196.png"
   },
   {
    "id": "odesa",
@@ -3192,7 +3192,7 @@
    "website": "https://oiff.com.ua/",
    "city": "Odesa",
    "country": "Ukraine",
-   "logo": "logos/odesa.png"
+   "logo": "https://static.wixstatic.com/media/c476e2_836c0314b5bf44f4b9e37997ff3165ae%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/c476e2_836c0314b5bf44f4b9e37997ff3165ae%7Emv2.png"
   },
   {
    "id": "off-odense",
@@ -3210,7 +3210,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/off-odense.png"
+   "logo": "https://filmfestival.dk/wp-content/uploads/2025/11/cropped-Perlen-2-1-192x192.png"
   },
   {
    "id": "ojai",
@@ -3223,7 +3223,7 @@
    "city": "Ojai",
    "region": "CA",
    "country": "United States",
-   "logo": "logos/ojai.png"
+   "logo": "https://ojaifilmfestival.com/wp-content/uploads/2025/09/favicon88.png"
   },
   {
    "id": "omaha",
@@ -3237,7 +3237,7 @@
    "region": "NE",
    "country": "United States",
    "moviemaker_year": 2026,
-   "logo": "logos/omaha.png"
+   "logo": "https://omahafilmfestival.org/wp-content/uploads/2024/12/cropped-filmsiteicon-180x180.webp"
   },
   {
    "id": "oregon-independent",
@@ -3250,7 +3250,7 @@
    "city": "Oregon",
    "region": "OR",
    "country": "United States",
-   "logo": "logos/oregon-independent.png"
+   "logo": "https://filmfreeway-production-storage-01-connector.filmfreeway.com/festivals/logos/000/003/689/large/OR_FF_LOGO.jpg?1476081016"
   },
   {
    "id": "ottawa-animation",
@@ -3266,7 +3266,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/ottawa-animation.png"
+   "logo": "https://www.animationfestival.ca/wp-content/uploads/2021/05/cropped-OIAF-mark-favicon-192x192.jpg"
   },
   {
    "id": "ouray",
@@ -3279,7 +3279,7 @@
    "region": "CO",
    "country": "United States",
    "moviemaker_year": 2026,
-   "logo": "logos/ouray.png"
+   "logo": "https://images.squarespace-cdn.com/content/v1/5e1667102a7c6f4a43e695ed/d521e952-70a7-4e83-8915-7e014f291157/favicon.ico?format=100w"
   },
   {
    "id": "out-on-atlanta",
@@ -3296,7 +3296,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/out-on-atlanta.png"
+   "logo": "https://images.squarespace-cdn.com/content/v1/6334ad5a92216022656b3476/e3ae1640-da13-40f7-b7df-4fc0d7795269/favicon.ico?format=100w"
   },
   {
    "id": "overlook",
@@ -3307,7 +3307,7 @@
    "city": "New Orleans",
    "region": "LA",
    "country": "United States",
-   "logo": "logos/overlook.png"
+   "logo": "https://www.overlookfilmfest.com/wp-content/uploads/2017/03/Profile3-e1620193607990.jpg"
   },
   {
    "id": "oxford-ms",
@@ -3318,7 +3318,7 @@
    "city": "Oxford",
    "region": "MS",
    "country": "United States",
-   "logo": "logos/oxford-ms.png"
+   "logo": "https://images.squarespace-cdn.com/content/v1/60186ab2f6d4492a8192dc46/d06f34e3-49fd-4854-878d-1608c8fb29ea/favicon.ico?format=100w"
   },
   {
    "id": "palm-springs-shortfest",
@@ -3339,7 +3339,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/palm-springs-shortfest.png"
+   "logo": "https://www.google.com/s2/favicons?domain=www.psfilmfest.org&sz=128"
   },
   {
    "id": "pan-african-arts",
@@ -3360,7 +3360,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/pan-african-arts.png"
+   "logo": "https://www.paff.org/wp-content/uploads/2022/03/cropped-paff-35-icon-300x300.png"
   },
   {
    "id": "phoenix",
@@ -3373,7 +3373,7 @@
    "city": "Phoenix",
    "region": "AZ",
    "country": "United States",
-   "logo": "logos/phoenix.png"
+   "logo": "https://images.squarespace-cdn.com/content/v1/56047552e4b00047c4e83900/1444009843141-70EUE3PY6U665RZK5XOC/favicon.ico?format=100w"
   },
   {
    "id": "poff-tallinn-black-nights",
@@ -3393,7 +3393,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/poff-tallinn-black-nights.png"
+   "logo": "https://www.google.com/s2/favicons?domain=poff.ee&sz=128"
   },
   {
    "id": "portland",
@@ -3406,7 +3406,7 @@
    "city": "Portland",
    "region": "OR",
    "country": "United States",
-   "logo": "logos/portland.png"
+   "logo": "https://portlandfilm.org/wp-content/uploads/2024/11/pdxff_logo_sq_512x512-300x300.png"
   },
   {
    "id": "pov",
@@ -3418,7 +3418,7 @@
    "portal": "filmfreeway",
    "city": "United States (broadcast)",
    "country": "United States",
-   "logo": "logos/pov.png"
+   "logo": "https://www.pbs.org/favicons/favicon-180x180.png"
   },
   {
    "id": "prague-independent",
@@ -3428,7 +3428,7 @@
    "website": "https://www.prague-film-festival.com/",
    "city": "Prague",
    "country": "Czech Republic",
-   "logo": "logos/prague-independent.png"
+   "logo": "https://www.prague-film-festival.com/favicon.ico"
   },
   {
    "id": "premi-david-donatello",
@@ -3446,7 +3446,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/premi-david-donatello.png"
+   "logo": "https://www.daviddidonatello.it/images/favicon/apple-touch-icon-114x114.png"
   },
   {
    "id": "prismatic-ground",
@@ -3457,7 +3457,7 @@
    "city": "New York",
    "region": "NY",
    "country": "United States",
-   "logo": "logos/prismatic-ground.png"
+   "logo": "https://images.squarespace-cdn.com/content/v1/69a889125cee131f0b716964/b3f76038-1209-4198-b2f9-6f87053d7972/favicon.ico?format=1500w"
   },
   {
    "id": "provincetown",
@@ -3478,7 +3478,7 @@
     "year": 2027
    },
    "moviemaker_year": 2026,
-   "logo": "logos/provincetown.png"
+   "logo": "https://www.provincetownfilm.org/wp-content/uploads/2022/09/cropped-siteicon-192x192.png"
   },
   {
    "id": "raindance",
@@ -3496,7 +3496,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/raindance.png"
+   "logo": "https://raindance.org/wp-content/uploads/2020/06/cropped-browser-logo-2-32x32-1.png"
   },
   {
    "id": "reelsisters-diaspora",
@@ -3513,7 +3513,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/reelsisters-diaspora.png"
+   "logo": "https://reelsisters.org/wp-content/uploads/2020/08/cropped-RSlogo2-192x192.jpg"
   },
   {
    "id": "regard-saguenay",
@@ -3531,7 +3531,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/regard-saguenay.png"
+   "logo": "https://www.festivalregard.com/assets/favicon-3bcf693f6214d778c4a781e910b7d69f5c6f1295c1fd6003a671a7156a4e3f58.png?v=2"
   },
   {
    "id": "rhode-island",
@@ -3542,7 +3542,7 @@
    "city": "Providence",
    "region": "RI",
    "country": "United States",
-   "logo": "logos/rhode-island.png"
+   "logo": "https://film-festival.org/wp-content/uploads/2026/04/cropped-cropped-cropped-Flickers-Logo-192x192.png"
   },
   {
    "id": "riga",
@@ -3552,7 +3552,7 @@
    "website": "https://rigaiff.lv/en/",
    "city": "Riga",
    "country": "Latvia",
-   "logo": "logos/riga.png"
+   "logo": "https://rigaiff.lv/apple-touch-icon.png"
   },
   {
    "id": "rio-janeiro-curta",
@@ -3570,7 +3570,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/rio-janeiro-curta.png"
+   "logo": "https://curtacinema.com.br/wp-content/uploads/2024/03/cropped-logo-festival-curta-cinema-laranja-192x192.png"
   },
   {
    "id": "riverrun",
@@ -3591,7 +3591,7 @@
     "year": 2027
    },
    "moviemaker_year": 2026,
-   "logo": "logos/riverrun.png"
+   "logo": "https://riverrunfilm.com/wp-content/uploads/2026/02/riverrun-logo.png"
   },
   {
    "id": "rome-independent",
@@ -3601,7 +3601,7 @@
    "website": "https://riff.it/en/",
    "city": "Rome",
    "country": "Italy",
-   "logo": "logos/rome-independent.png"
+   "logo": "https://riff.it/wp-content/uploads/2020/09/logo_RIFF-500x500.png"
   },
   {
    "id": "rooftop-films",
@@ -3613,7 +3613,7 @@
    "city": "New York",
    "region": "NY",
    "country": "United States",
-   "logo": "logos/rooftop-films.png"
+   "logo": "https://rooftopfilms.com/favicon/icon-180x180.png"
   },
   {
    "id": "run-shoot-filmworks",
@@ -3634,7 +3634,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/run-shoot-filmworks.png"
+   "logo": "https://www.mvaaff.com/wp-content/uploads/2024/08/cropped-mvaaff-lighthouse-favicon-192x192.png"
   },
   {
    "id": "salute-your-shorts",
@@ -3647,7 +3647,7 @@
    "region": "California",
    "country": "United States",
    "moviemaker_year": 2026,
-   "logo": "logos/salute-your-shorts.png"
+   "logo": "https://static.wixstatic.com/media/556b28_2a7b091aca414a73982b68e7a440440b%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/556b28_2a7b091aca414a73982b68e7a440440b%7Emv2.png"
   },
   {
    "id": "san-francisco-jewish",
@@ -3664,7 +3664,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/san-francisco-jewish.png"
+   "logo": "https://jfi.org/images/JFI%20Logos%202026/JFI%202026%20logo%20-%20short%20white%20on%20black.png"
   },
   {
    "id": "san-jose",
@@ -3683,7 +3683,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/san-jose.png"
+   "logo": "https://sjsff.com/wp-content/uploads/2023/07/cropped-SJSFF-bug-192x192.png"
   },
   {
    "id": "san-luis-obispo",
@@ -3700,7 +3700,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/san-luis-obispo.png"
+   "logo": "https://www.slofilmfest.org/wp-content/uploads/2022/08/SFF-FINAL-LOGOS-BLACK-02-scaled.png"
   },
   {
    "id": "san-sebastian",
@@ -3711,7 +3711,7 @@
    "portal": "own",
    "city": "San Sebastian",
    "country": "Spain",
-   "logo": "logos/san-sebastian.png"
+   "logo": "https://www.google.com/s2/favicons?domain=sansebastianfestival.com&sz=128"
   },
   {
    "id": "santa-barbara",
@@ -3732,7 +3732,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/santa-barbara.png"
+   "logo": "https://filmfreeway-production-storage-01-connector.filmfreeway.com/festivals/logos/000/001/857/large/santa_barbara_film_festival.jpg?1397073352"
   },
   {
    "id": "santa-fe",
@@ -3753,7 +3753,7 @@
     "year": 2027
    },
    "moviemaker_year": 2026,
-   "logo": "logos/santa-fe.png"
+   "logo": "https://images.squarespace-cdn.com/content/v1/5cb2801c8155128d8a8051e7/382f295b-7978-490a-80f5-e42230552efc/favicon.ico?format=100w"
   },
   {
    "id": "sarajevo",
@@ -3772,7 +3772,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/sarajevo.png"
+   "logo": "https://www.google.com/s2/favicons?domain=sff.ba&sz=128"
   },
   {
    "id": "sarasota",
@@ -3785,7 +3785,7 @@
    "city": "Sarasota",
    "region": "FL",
    "country": "United States",
-   "logo": "logos/sarasota.png"
+   "logo": "https://sarasotafilmfestival.com/apple-icon.png?apple-icon.d2da3a08.png"
   },
   {
    "id": "scad-savannah",
@@ -3798,7 +3798,7 @@
    "region": "Georgia",
    "country": "United States",
    "moviemaker_year": 2026,
-   "logo": "logos/scad-savannah.png"
+   "logo": "https://www.google.com/s2/favicons?domain=filmfest.scad.edu&sz=128"
   },
   {
    "id": "seattle",
@@ -3819,7 +3819,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/seattle.png"
+   "logo": "https://www.siff.net/images/site/SC_SIFFlogo_165x92.png"
   },
   {
    "id": "sebastopol-documentary",
@@ -3838,7 +3838,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/sebastopol-documentary.png"
+   "logo": "https://images.squarespace-cdn.com/content/v1/68768cefb5fc330421f14c2a/87f7207b-5c4e-4a06-87c7-000b8b059296/favicon.ico?format=100w"
   },
   {
    "id": "sedona",
@@ -3851,7 +3851,7 @@
    "region": "Arizona",
    "country": "United States",
    "moviemaker_year": 2026,
-   "logo": "logos/sedona.png"
+   "logo": "https://sedonafilmfestival.com/wp-content/uploads/2018/08/cropped-SIFF-logo-text-192x192.jpg"
   },
   {
    "id": "sffilm",
@@ -3873,7 +3873,7 @@
     "year": 2027
    },
    "moviemaker_year": 2026,
-   "logo": "logos/sffilm.png"
+   "logo": "https://images.sffilm.org/2026/02/2025SFFILM_Logo_White-300x300.png"
   },
   {
    "id": "shanghai",
@@ -3883,7 +3883,7 @@
    "website": "https://www.siff.com/",
    "city": "Shanghai",
    "country": "China",
-   "logo": "logos/shanghai.png"
+   "logo": "https://www.siff.com/static/siff-new/favicon.ico"
   },
   {
    "id": "short-shorts-film-fe",
@@ -3901,7 +3901,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/short-shorts-film-fe.png"
+   "logo": "https://www.shortshorts.org/favicon.ico"
   },
   {
    "id": "show-me",
@@ -3919,7 +3919,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/show-me.png"
+   "logo": "https://images.squarespace-cdn.com/content/v1/668dd36a7730f76abd4ab1ec/461fb96c-0bd2-4626-85c8-efee82d211d6/favicon.ico?format=100w"
   },
   {
    "id": "sidewalk",
@@ -3933,7 +3933,7 @@
    "region": "AL",
    "country": "United States",
    "moviemaker_year": 2026,
-   "logo": "logos/sidewalk.png"
+   "logo": "https://sidewalkfest.com/wp-content/uploads/2025/12/cropped-4x4-on-yellow-01-180x180.png"
   },
   {
    "id": "siggraph",
@@ -3951,7 +3951,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/siggraph.png"
+   "logo": "https://www.siggraph.org/wp-content/uploads/2021/11/cropped-favicon-192x192.png"
   },
   {
    "id": "singapore",
@@ -3969,7 +3969,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/singapore.png"
+   "logo": "https://sgiff.com/wp-content/uploads/2024/10/cropped-favicon-2024-2-192x192.jpg"
   },
   {
    "id": "sitges-fantastic-catalonia",
@@ -3987,7 +3987,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/sitges-fantastic-catalonia.png"
+   "logo": "https://sitgesfilmfestival.com/themes/custom/sitges_barrio/sitges.png"
   },
   {
    "id": "skopje",
@@ -3997,7 +3997,7 @@
    "website": "https://www.skopjefilmfestival.com.mk/",
    "city": "Skopje",
    "country": "North Macedonia",
-   "logo": "logos/skopje.png"
+   "logo": "https://www.skopjefilmfestival.com.mk/Websites/115/favicon.png"
   },
   {
    "id": "slamdance",
@@ -4017,7 +4017,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/slamdance.png"
+   "logo": "https://slamdance.com/wp-content/uploads/2020/05/cropped-SLAM_circle-180x180.png"
   },
   {
    "id": "sofia",
@@ -4027,7 +4027,7 @@
    "website": "https://siff.bg/",
    "city": "Sofia",
    "country": "Bulgaria",
-   "logo": "logos/sofia.png"
+   "logo": "https://siff.bg/images/nice-highres.png"
   },
   {
    "id": "spark-animation",
@@ -4046,7 +4046,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/spark-animation.png"
+   "logo": "https://www.sparkcg.org/favicon.ico"
   },
   {
    "id": "st-kilda",
@@ -4064,7 +4064,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/st-kilda.png"
+   "logo": "https://www.stkildafilmfestival.com.au/media/rpdp1xxg/favicon-2020.png"
   },
   {
    "id": "st-louis",
@@ -4083,7 +4083,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/st-louis.png"
+   "logo": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/368/2025/01/27121314/Cinema-St.-Louis-favicon-300x300.jpeg"
   },
   {
    "id": "stockholm",
@@ -4093,7 +4093,7 @@
    "website": "https://www.stockholmfilmfestival.se/en",
    "city": "Stockholm",
    "country": "Sweden",
-   "logo": "logos/stockholm.png"
+   "logo": "https://www.stockholmfilmfestival.se/sff-static-assets/sff-icon-white.png"
   },
   {
    "id": "stuttgart-animated",
@@ -4109,7 +4109,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/stuttgart-animated.png"
+   "logo": "https://itfs.de/wp-content/uploads/fbrfg/apple-touch-icon.png"
   },
   {
    "id": "sun-valley",
@@ -4120,7 +4120,7 @@
    "city": "Sun Valley",
    "region": "ID",
    "country": "United States",
-   "logo": "logos/sun-valley.png"
+   "logo": "https://sunvalleyfilmfestival.org/wp-content/uploads/2023/02/svff-favicon.png"
   },
   {
    "id": "sundance",
@@ -4141,7 +4141,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/sundance.png"
+   "logo": "https://www.sundance.org/wp-content/uploads/2021/10/SD-Favicon.png"
   },
   {
    "id": "sxsw",
@@ -4161,7 +4161,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/sxsw.png"
+   "logo": "https://sxsw.com/wp-content/uploads/sites/2/2026/07/cropped-Path.png?quality=99&#038;w=180"
   },
   {
    "id": "sydney",
@@ -4178,7 +4178,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/sydney.png"
+   "logo": "https://cms.sff.org.au/wp-content/uploads/2025/03/favicon-300x300.png"
   },
   {
    "id": "tacoma",
@@ -4189,7 +4189,7 @@
    "city": "Tacoma",
    "region": "WA",
    "country": "United States",
-   "logo": "logos/tacoma.png"
+   "logo": "https://indy-systems.imgix.net/qe4iql1ouvalstylfpdh38pnuhn0?fm=png&w=128&h=128&fit=fill&fill=solid&auto=format,compress"
   },
   {
    "id": "taipei-golden-horse",
@@ -4208,7 +4208,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/taipei-golden-horse.png"
+   "logo": "https://www.goldenhorse.org.tw/favicon.ico"
   },
   {
    "id": "tampere",
@@ -4226,7 +4226,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/tampere.png"
+   "logo": "https://tamperefilmfestival.fi/wp-content/uploads/2025/12/Tampere-FIlm-Festival-FAVICON-2026-300x300.png"
   },
   {
    "id": "tasveer",
@@ -4245,7 +4245,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/tasveer.png"
+   "logo": "https://www.google.com/s2/favicons?domain=tasveer.org&sz=128"
   },
   {
    "id": "tauron-american-in-poland",
@@ -4257,7 +4257,7 @@
    "city": "Wroclaw",
    "country": "Poland",
    "moviemaker_year": 2026,
-   "logo": "logos/tauron-american-in-poland.png"
+   "logo": "https://www.americanfilmfestival.pl/nn/img/ficon25/apple-touch-icon.png"
   },
   {
    "id": "tehran",
@@ -4275,7 +4275,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/tehran.png"
+   "logo": "https://www.tisff.ir/wp-content/uploads/2020/08/05454545454-150x150.png"
   },
   {
    "id": "thessaloniki",
@@ -4285,7 +4285,7 @@
    "website": "https://filmfestival.gr/en/",
    "city": "Thessaloniki",
    "country": "Greece",
-   "logo": "logos/thessaloniki.png"
+   "logo": "https://filmfestival.gr/static/favs/favicon.ef6103f09210.ico"
   },
   {
    "id": "thomas-edison",
@@ -4305,7 +4305,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/thomas-edison.png"
+   "logo": "https://tefilmfest.org/images/logo-TEFF-ICO.png"
   },
   {
    "id": "three-rivers",
@@ -4318,7 +4318,7 @@
    "region": "PA",
    "country": "United States",
    "moviemaker_year": 2026,
-   "logo": "logos/three-rivers.png"
+   "logo": "https://filmpittsburgh.org/favicon/apple-touch-icon.png"
   },
   {
    "id": "tiff",
@@ -4337,7 +4337,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/tiff.png"
+   "logo": "https://www.google.com/s2/favicons?domain=tiff.net&sz=128"
   },
   {
    "id": "tirana",
@@ -4355,7 +4355,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/tirana.png"
+   "logo": "https://www.google.com/s2/favicons?domain=tiranafilmfest.org&sz=128"
   },
   {
    "id": "tokyo",
@@ -4366,7 +4366,7 @@
    "portal": "own",
    "city": "Tokyo",
    "country": "Japan",
-   "logo": "logos/tokyo.png"
+   "logo": "https://www.google.com/s2/favicons?domain=www.tiff-jp.net&sz=128"
   },
   {
    "id": "torino",
@@ -4376,7 +4376,7 @@
    "website": "https://www.torinofilmfest.org/en/",
    "city": "Turin",
    "country": "Italy",
-   "logo": "logos/torino.png"
+   "logo": "https://www.torinofilmfest.org/tt-contenuto/uploads/2019/09/favicon.ico"
   },
   {
    "id": "tribeca",
@@ -4397,7 +4397,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/tribeca.png"
+   "logo": "https://www.google.com/s2/favicons?domain=tribecafilm.com&sz=128"
   },
   {
    "id": "trieste",
@@ -4409,7 +4409,7 @@
    "portal": "eventival",
    "city": "Trieste",
    "country": "Italy",
-   "logo": "logos/trieste.png"
+   "logo": "https://triestefilmfestival.it/wp-content/uploads/2023/09/cropped-favicon-180x180.jpg"
   },
   {
    "id": "uppsala",
@@ -4427,7 +4427,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/uppsala.png"
+   "logo": "https://shortfilmfestival.com/wp-content/uploads/2026/07/favicon-shortfilm-festival.webp"
   },
   {
    "id": "urbanworld",
@@ -4446,7 +4446,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/urbanworld.png"
+   "logo": "https://urbanworld.org/wp-content/uploads/2021/06/urbanworld-icon.png"
   },
   {
    "id": "venice",
@@ -4465,7 +4465,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/venice.png"
+   "logo": "https://static.labiennale.org/apple-touch-icon.png"
   },
   {
    "id": "videoex",
@@ -4475,7 +4475,7 @@
    "website": "https://www.videoex.ch/",
    "city": "Zurich",
    "country": "Switzerland",
-   "logo": "logos/videoex.png"
+   "logo": "https://www.videoex.ch/favicon.ico"
   },
   {
    "id": "vienna",
@@ -4493,7 +4493,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/vienna.png"
+   "logo": "https://www.viennashorts.com/favicon.ico"
   },
   {
    "id": "viff-vancouver",
@@ -4503,7 +4503,7 @@
    "website": "https://viff.org/",
    "city": "Vancouver",
    "country": "Canada",
-   "logo": "logos/viff-vancouver.png"
+   "logo": "https://viff.org/themes/childtheme/assets/images/favicon/apple-touch-icon.png"
   },
   {
    "id": "vilnius",
@@ -4521,7 +4521,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/vilnius.png"
+   "logo": "https://filmshorts.lt/wp-content/themes/filmshorts/assets/images/fav/apple-touch-icon.png"
   },
   {
    "id": "vilnius-kino-pavasaris",
@@ -4531,7 +4531,7 @@
    "website": "https://kinopavasaris.lt/en/",
    "city": "Vilnius",
    "country": "Lithuania",
-   "logo": "logos/vilnius-kino-pavasaris.png"
+   "logo": "https://kinopavasaris.lt/wp-content/themes/kinopavasaris/favicon/android-icon-192x192.png"
   },
   {
    "id": "visions-reel",
@@ -4549,7 +4549,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/visions-reel.png"
+   "logo": "https://www.visionsdureel.ch/wp-content/uploads/2026/01/cropped-VdR26_favicon-1-192x192.png"
   },
   {
    "id": "voyage-in-time-andong",
@@ -4561,7 +4561,7 @@
    "portal": "filmfreeway",
    "city": "Andong",
    "country": "South Korea",
-   "logo": "logos/voyage-in-time-andong.png"
+   "logo": "https://filmfreeway-production-storage-01-connector.filmfreeway.com/festivals/logos/000/097/930/large/logo.jpg?1786385573"
   },
   {
    "id": "voyage-in-time-fest",
@@ -4574,7 +4574,7 @@
    "city": "New York",
    "region": "NY",
    "country": "United States",
-   "logo": "logos/voyage-in-time-fest.png"
+   "logo": "https://filmfreeway-production-storage-01-connector.filmfreeway.com/festivals/logos/000/098/582/large/logo.jpg?1788342315"
   },
   {
    "id": "voyage-in-time-fest-tokyo",
@@ -4586,7 +4586,7 @@
    "portal": "filmfreeway",
    "city": "Tokyo",
    "country": "Japan",
-   "logo": "logos/voyage-in-time-fest-tokyo.png"
+   "logo": "https://filmfreeway-production-storage-01-connector.filmfreeway.com/festivals/logos/000/096/697/large/logo.jpg?1786385656"
   },
   {
    "id": "voyage-in-time-kyoto",
@@ -4598,7 +4598,7 @@
    "portal": "filmfreeway",
    "city": "Kyoto",
    "country": "Japan",
-   "logo": "logos/voyage-in-time-kyoto.png"
+   "logo": "https://filmfreeway-production-storage-01-connector.filmfreeway.com/festivals/logos/000/099/110/large/logo.jpg?1788578300"
   },
   {
    "id": "voyage-in-time-paris",
@@ -4610,7 +4610,7 @@
    "portal": "filmfreeway",
    "city": "Paris",
    "country": "France",
-   "logo": "logos/voyage-in-time-paris.png"
+   "logo": "https://filmfreeway-production-storage-01-connector.filmfreeway.com/festivals/logos/000/096/396/large/logo.jpg?1789199714"
   },
   {
    "id": "warsaw",
@@ -4628,7 +4628,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/warsaw.png"
+   "logo": "https://www.wff.pl/fav-512x512.png"
   },
   {
    "id": "whistler",
@@ -4641,7 +4641,7 @@
    "region": "British Columbia",
    "country": "Canada",
    "moviemaker_year": 2026,
-   "logo": "logos/whistler.png"
+   "logo": "https://www.whistlerfilmfestival.com/apple-touch-icon.png"
   },
   {
    "id": "wndx",
@@ -4652,7 +4652,7 @@
    "website": "https://www.wndx.org/",
    "city": "Winnipeg",
    "country": "Canada",
-   "logo": "logos/wndx.png"
+   "logo": "https://wndx.org/wp-content/uploads/2025/05/cropped-WNDX-sq-192x192.png"
   },
   {
    "id": "woodstock",
@@ -4671,7 +4671,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/woodstock.png"
+   "logo": "https://images.squarespace-cdn.com/content/v1/55a3ed01e4b0a90d6d291eb2/e3a82a19-ea77-4843-b4bd-49805fd90945/favicon.ico"
   },
   {
    "id": "world-animated-animafest",
@@ -4687,7 +4687,7 @@
     ],
     "year": 2027
    },
-   "logo": "logos/world-animated-animafest.png"
+   "logo": "https://www.animafest.hr/favicon.ico"
   }
  ],
  "editions": [
@@ -4916,11 +4916,6 @@
   },
   {
    "festival": "diametrale-experimental",
-   "cycle": 2026,
-   "verified_on": "2026-09-03"
-  },
-  {
-   "festival": "directors-notes",
    "cycle": 2026,
    "verified_on": "2026-09-03"
   },
@@ -5319,17 +5314,6 @@
    "verified_on": "2026-10-05"
   },
   {
-   "festival": "thomas-edison",
-   "cycle": 2027,
-   "runs": {
-    "precision": "day",
-    "from": "2027-02-12",
-    "to": "2027-02-12",
-    "approximate": false
-   },
-   "verified_on": "2026-10-07"
-  },
-  {
    "festival": "tribeca",
    "cycle": 2027,
    "runs": {
@@ -5410,170 +5394,6 @@
   }
  ],
  "deadlines": [
-  {
-   "festival": "thomas-edison",
-   "cycle": 2027,
-   "tier": "final",
-   "categories": [
-    "animation",
-    "documentary",
-    "experimental",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-08",
-    "to": "2026-09-08",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 30,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Final Deadline: Animation (under 15 minutes), Documentary (under 15 minutes), Experimental (under 15 minutes)"
-  },
-  {
-   "festival": "thomas-edison",
-   "cycle": 2027,
-   "tier": "final",
-   "categories": [
-    "animation",
-    "documentary",
-    "experimental",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-08",
-    "to": "2026-09-08",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 35,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Final Deadline: Animation (15+ - 30 minutes), Documentary (15+ - 30 minutes), Experimental (15+ - 30 minutes)"
-  },
-  {
-   "festival": "thomas-edison",
-   "cycle": 2027,
-   "tier": "final",
-   "categories": [
-    "animation",
-    "documentary",
-    "experimental",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-08",
-    "to": "2026-09-08",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 45,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Final Deadline: Animation (30+ - 45 minutes), Documentary (30+ - 45 minutes), Experimental (30+ - 45 minutes)"
-  },
-  {
-   "festival": "thomas-edison",
-   "cycle": 2027,
-   "tier": "final",
-   "categories": [
-    "animation",
-    "documentary",
-    "experimental",
-    "short",
-    "student"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-08",
-    "to": "2026-09-08",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 15,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Final Deadline: Student Animation, Student Documentary, Student Experimental, Student Narrative"
-  },
-  {
-   "festival": "directors-notes",
-   "cycle": 2026,
-   "tier": "final",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-09",
-    "to": "2026-09-09",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Sept 9, 2026"
-  },
-  {
-   "festival": "portland",
-   "cycle": 2027,
-   "categories": [
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-09",
-    "to": "2026-09-09",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 50,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Discount Deadline: Narrative Short, Documentary Short, Micro Shorts (1-5m)"
-  },
-  {
-   "festival": "portland",
-   "cycle": 2027,
-   "categories": [
-    "animation",
-    "documentary",
-    "feature",
-    "short",
-    "student"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-09",
-    "to": "2026-09-09",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 55,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Discount Deadline: Narrative Feature, Documentary Feature, Animated Feature, Animated Short, Student"
-  },
-  {
-   "festival": "berlin-independent",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-10",
-    "to": "2026-09-10",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Early"
-  },
   {
    "festival": "atlanta",
    "cycle": 2027,
@@ -13204,6 +13024,20 @@
    "note": "Extended Deadline: Narrative Features"
   },
   {
+   "festival": "directors-notes",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-09",
+    "to": "2026-09-09",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Sept 9, 2026"
+  },
+  {
    "festival": "downtown-nyc",
    "cycle": 2026,
    "tier": "early",
@@ -14434,6 +14268,192 @@
    },
    "fee_unknown": true,
    "note": "Jun 20, 2026 (passed)"
+  },
+  {
+   "festival": "thomas-edison",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-30",
+    "to": "2026-06-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 10,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird Deadline: Student Animation, Student Documentary, Student Experimental, Student Narrative"
+  },
+  {
+   "festival": "thomas-edison",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-30",
+    "to": "2026-06-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 25,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird Deadline: Animation (under 15 minutes), Documentary (under 15 minutes), Experimental (under 15 minutes)"
+  },
+  {
+   "festival": "thomas-edison",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-30",
+    "to": "2026-06-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 30,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird Deadline: Animation (15+ - 30 minutes), Documentary (15+ - 30 minutes), Experimental (15+ - 30 minutes)"
+  },
+  {
+   "festival": "thomas-edison",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-30",
+    "to": "2026-06-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird Deadline: Animation (30+ - 45 minutes), Documentary (30+ - 45 minutes), Experimental (30+ - 45 minutes)"
+  },
+  {
+   "festival": "thomas-edison",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-08",
+    "to": "2026-09-08",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 30,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final Deadline: Animation (under 15 minutes), Documentary (under 15 minutes), Experimental (under 15 minutes)"
+  },
+  {
+   "festival": "thomas-edison",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-08",
+    "to": "2026-09-08",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final Deadline: Animation (15+ - 30 minutes), Documentary (15+ - 30 minutes), Experimental (15+ - 30 minutes)"
+  },
+  {
+   "festival": "thomas-edison",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-08",
+    "to": "2026-09-08",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final Deadline: Animation (30+ - 45 minutes), Documentary (30+ - 45 minutes), Experimental (30+ - 45 minutes)"
+  },
+  {
+   "festival": "thomas-edison",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-08",
+    "to": "2026-09-08",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 15,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final Deadline: Student Animation, Student Documentary, Student Experimental, Student Narrative"
   },
   {
    "festival": "tiff",
