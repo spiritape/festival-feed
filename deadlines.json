@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-10-12",
+ "generated_on": "2026-10-13",
  "festivals": [
   {
    "id": "25fps-zagreb",
@@ -5142,17 +5142,6 @@
    "verified_on": "2026-10-08"
   },
   {
-   "festival": "oregon-independent",
-   "cycle": 2026,
-   "runs": {
-    "precision": "day",
-    "from": "2026-10-06",
-    "to": "2026-10-12",
-    "approximate": false
-   },
-   "verified_on": "2026-10-11"
-  },
-  {
    "festival": "overlook",
    "cycle": 2027,
    "verified_on": "2026-10-06"
@@ -5307,7 +5296,7 @@
   {
    "festival": "stockholm",
    "cycle": 2026,
-   "verified_on": "2026-10-06"
+   "verified_on": "2026-10-13"
   },
   {
    "festival": "sundance",
@@ -5358,7 +5347,7 @@
     "to": "2027-01-23",
     "approximate": false
    },
-   "verified_on": "2026-10-05"
+   "verified_on": "2026-10-13"
   },
   {
    "festival": "voyage-in-time-andong",
@@ -5417,194 +5406,6 @@
   }
  ],
  "deadlines": [
-  {
-   "festival": "oregon-independent",
-   "cycle": 2026,
-   "tier": "final",
-   "categories": [
-    "feature",
-    "student"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-12",
-    "to": "2026-09-12",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 58,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "*FINAL DEADLINE*: OREGON-MADE FILMS - Feature Films, STUDENT PROJECTS - Feature Films"
-  },
-  {
-   "festival": "oregon-independent",
-   "cycle": 2026,
-   "tier": "final",
-   "categories": [
-    "animation",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-12",
-    "to": "2026-09-12",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 56,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "*FINAL DEADLINE*: ANIMATION - Short Films, INTERNATIONAL - Short Films, DRAMA - Short Films, COMEDY - Short Films, GENRE (Horror/SciFi) - Short Films"
-  },
-  {
-   "festival": "oregon-independent",
-   "cycle": 2026,
-   "tier": "final",
-   "categories": [
-    "experimental",
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-12",
-    "to": "2026-09-12",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 68,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "*FINAL DEADLINE*: DRAMA - Feature Films, EXPERIMENTAL FILMS - Feature Films"
-  },
-  {
-   "festival": "oregon-independent",
-   "cycle": 2026,
-   "tier": "final",
-   "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-12",
-    "to": "2026-09-12",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 54,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "*FINAL DEADLINE*: SHORT FILMS, ONLINE FILM FESTIVAL - SHORT FILMS"
-  },
-  {
-   "festival": "oregon-independent",
-   "cycle": 2026,
-   "tier": "final",
-   "categories": [
-    "documentary",
-    "experimental",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-12",
-    "to": "2026-09-12",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 55,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "*FINAL DEADLINE*: DOCUMENTARY - Short Films, EXPERIMENTAL FILMS - Short Films"
-  },
-  {
-   "festival": "oregon-independent",
-   "cycle": 2026,
-   "tier": "final",
-   "categories": [
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-12",
-    "to": "2026-09-12",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 62,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "*FINAL DEADLINE*: FEATURE FILMS, ONLINE FILM FESTIVAL - FEATURE FILMS"
-  },
-  {
-   "festival": "oregon-independent",
-   "cycle": 2026,
-   "tier": "final",
-   "categories": [
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-12",
-    "to": "2026-09-12",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 74,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "*FINAL DEADLINE*: INTERNATIONAL - Feature Films"
-  },
-  {
-   "festival": "oregon-independent",
-   "cycle": 2026,
-   "tier": "final",
-   "categories": [
-    "short",
-    "student"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-12",
-    "to": "2026-09-12",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 52,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "*FINAL DEADLINE*: OREGON-MADE FILMS - Short Films, STUDENT PROJECTS - Short Films"
-  },
-  {
-   "festival": "oregon-independent",
-   "cycle": 2026,
-   "tier": "final",
-   "categories": [
-    "animation",
-    "documentary",
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-12",
-    "to": "2026-09-12",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 70,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "*FINAL DEADLINE*: DOCUMENTARY - Feature Films, ANIMATION - Feature Films, COMEDY - Feature Films, GENRE (Horror/SciFi) - Feature Films"
-  },
   {
    "festival": "diametrale-experimental",
    "cycle": 2027,
@@ -13879,7 +13680,6 @@
    "cycle": 2026,
    "tier": "early",
    "categories": [
-    "feature",
     "short"
    ],
    "closes": {
@@ -13888,15 +13688,58 @@
     "to": "2026-05-15",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Earlybird Deadline"
+   "fee": {
+    "amount": 30,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: Short Films"
+  },
+  {
+   "festival": "downtown-nyc",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-15",
+    "to": "2026-05-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: Feature Films"
   },
   {
    "festival": "downtown-nyc",
    "cycle": 2026,
    "tier": "regular",
    "categories": [
-    "feature",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-15",
+    "to": "2026-06-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Feature Films"
+  },
+  {
+   "festival": "downtown-nyc",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
     "short"
    ],
    "closes": {
@@ -13905,15 +13748,18 @@
     "to": "2026-06-15",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Regular Deadline"
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Short Films"
   },
   {
    "festival": "downtown-nyc",
    "cycle": 2026,
    "tier": "late",
    "categories": [
-    "feature",
     "short"
    ],
    "closes": {
@@ -13922,8 +13768,32 @@
     "to": "2026-07-30",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Late Deadline"
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Short Films"
+  },
+  {
+   "festival": "downtown-nyc",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-30",
+    "to": "2026-07-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Feature Films"
   },
   {
    "festival": "edinburgh",
@@ -14843,6 +14713,1488 @@
    },
    "fee_unknown": false,
    "note": "Extended Deadline: Narrative Feature, Documentary Feature"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2025-11-28",
+    "to": "2025-11-28",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 36,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: DOCUMENTARY - Short Films, DRAMA - Short Films, COMEDY - Short Films, GENRE (Horror/SciFi) - Short Films, EXPERIMENTAL FILMS - Short Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2025-11-28",
+    "to": "2025-11-28",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 34,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: OREGON-MADE FILMS - Short Films, STUDENT PROJECTS - Short Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "feature",
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2025-11-28",
+    "to": "2025-11-28",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 38,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: INTERNATIONAL - Short Films, STUDENT PROJECTS - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2025-11-28",
+    "to": "2025-11-28",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: INTERNATIONAL - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2025-11-28",
+    "to": "2025-11-28",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 39,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: OREGON-MADE FILMS - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2025-11-28",
+    "to": "2025-11-28",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 42,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: DOCUMENTARY - Feature Films, ANIMATION - Feature Films, DRAMA - Feature Films, COMEDY - Feature Films, GENRE (Horror/SciFi) - Feature Films, EXPERIMENTAL FILMS - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "animation",
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2025-11-28",
+    "to": "2025-11-28",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: FEATURE FILMS, ANIMATION - Short Films, ONLINE FILM FESTIVAL - FEATURE FILMS"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2025-11-28",
+    "to": "2025-11-28",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: SHORT FILMS, ONLINE FILM FESTIVAL - SHORT FILMS"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2025-12-26",
+    "to": "2025-12-26",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 44,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*EARLY BIRD DEADLINE*: FEATURE FILMS, ONLINE FILM FESTIVAL - FEATURE FILMS"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2025-12-26",
+    "to": "2025-12-26",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 47,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*EARLY BIRD DEADLINE*: INTERNATIONAL - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2025-12-26",
+    "to": "2025-12-26",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*EARLY BIRD DEADLINE*: DOCUMENTARY - Feature Films, ANIMATION - Feature Films, DRAMA - Feature Films, COMEDY - Feature Films, GENRE (Horror/SciFi) - Feature Films, EXPERIMENTAL FILMS - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "animation",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2025-12-26",
+    "to": "2025-12-26",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 43,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*EARLY BIRD DEADLINE*: ANIMATION - Short Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2025-12-26",
+    "to": "2025-12-26",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 42,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*EARLY BIRD DEADLINE*: DOCUMENTARY - Short Films, INTERNATIONAL - Short Films, DRAMA - Short Films, COMEDY - Short Films, GENRE (Horror/SciFi) - Short Films, EXPERIMENTAL FILMS - Short Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2025-12-26",
+    "to": "2025-12-26",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 36,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*EARLY BIRD DEADLINE*: OREGON-MADE FILMS - Short Films, STUDENT PROJECTS - Short Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "feature",
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2025-12-26",
+    "to": "2025-12-26",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*EARLY BIRD DEADLINE*: SHORT FILMS, OREGON-MADE FILMS - Feature Films, STUDENT PROJECTS - Feature Films, ONLINE FILM FESTIVAL - SHORT FILMS"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-01-16",
+    "to": "2026-01-16",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 36,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: DOCUMENTARY - Short Films, DRAMA - Short Films, COMEDY - Short Films, GENRE (Horror/SciFi) - Short Films, EXPERIMENTAL FILMS - Short Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-01-16",
+    "to": "2026-01-16",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 34,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: OREGON-MADE FILMS - Short Films, STUDENT PROJECTS - Short Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "feature",
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-01-16",
+    "to": "2026-01-16",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 38,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: INTERNATIONAL - Short Films, STUDENT PROJECTS - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-01-16",
+    "to": "2026-01-16",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: INTERNATIONAL - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-01-16",
+    "to": "2026-01-16",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 39,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: OREGON-MADE FILMS - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-01-16",
+    "to": "2026-01-16",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 42,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: DOCUMENTARY - Feature Films, ANIMATION - Feature Films, DRAMA - Feature Films, COMEDY - Feature Films, GENRE (Horror/SciFi) - Feature Films, EXPERIMENTAL FILMS - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "animation",
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-01-16",
+    "to": "2026-01-16",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: FEATURE FILMS, ANIMATION - Short Films, ONLINE FILM FESTIVAL - FEATURE FILMS"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-01-16",
+    "to": "2026-01-16",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: SHORT FILMS, ONLINE FILM FESTIVAL - SHORT FILMS"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "feature",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-02-06",
+    "to": "2026-02-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 44,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*SUBMISSION DEADLINE*: OREGON-MADE FILMS - Feature Films, STUDENT PROJECTS - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-02-06",
+    "to": "2026-02-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*SUBMISSION DEADLINE*: OREGON-MADE FILMS - Short Films, STUDENT PROJECTS - Short Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-02-06",
+    "to": "2026-02-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 48,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*SUBMISSION DEADLINE*: FEATURE FILMS, ONLINE FILM FESTIVAL - FEATURE FILMS"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-02-06",
+    "to": "2026-02-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 49,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*SUBMISSION DEADLINE*: DOCUMENTARY - Feature Films, ANIMATION - Feature Films, INTERNATIONAL - Feature Films, DRAMA - Feature Films, COMEDY - Feature Films, GENRE (Horror/SciFi) - Feature Films, EXPERIMENTAL FILMS - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-02-06",
+    "to": "2026-02-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*SUBMISSION DEADLINE*: SHORT FILMS, DOCUMENTARY - Short Films, ANIMATION - Short Films, INTERNATIONAL - Short Films, DRAMA - Short Films, COMEDY - Short Films, GENRE (Horror/SciFi) - Short Films, EXPERIMENTAL FILMS - Short Films, ONLINE FILM FESTIVAL - SHORT FILMS"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-06",
+    "to": "2026-03-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 36,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: DOCUMENTARY - Short Films, DRAMA - Short Films, COMEDY - Short Films, GENRE (Horror/SciFi) - Short Films, EXPERIMENTAL FILMS - Short Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-06",
+    "to": "2026-03-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 34,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: OREGON-MADE FILMS - Short Films, STUDENT PROJECTS - Short Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "feature",
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-06",
+    "to": "2026-03-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 38,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: INTERNATIONAL - Short Films, STUDENT PROJECTS - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-06",
+    "to": "2026-03-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: INTERNATIONAL - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-06",
+    "to": "2026-03-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 39,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: OREGON-MADE FILMS - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-06",
+    "to": "2026-03-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 42,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: DOCUMENTARY - Feature Films, ANIMATION - Feature Films, DRAMA - Feature Films, COMEDY - Feature Films, GENRE (Horror/SciFi) - Feature Films, EXPERIMENTAL FILMS - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "animation",
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-06",
+    "to": "2026-03-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: FEATURE FILMS, ANIMATION - Short Films, ONLINE FILM FESTIVAL - FEATURE FILMS"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-06",
+    "to": "2026-03-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: SHORT FILMS, ONLINE FILM FESTIVAL - SHORT FILMS"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-24",
+    "to": "2026-04-24",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 49,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*SPRING EXTENSION DEADLINE*: EXPERIMENTAL FILMS - Short Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-24",
+    "to": "2026-04-24",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*SPRING EXTENSION DEADLINE*: OREGON-MADE FILMS - Short Films, STUDENT PROJECTS - Short Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-24",
+    "to": "2026-04-24",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 52,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*SPRING EXTENSION DEADLINE*: FEATURE FILMS, ONLINE FILM FESTIVAL - FEATURE FILMS"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-24",
+    "to": "2026-04-24",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 54,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*SPRING EXTENSION DEADLINE*: DOCUMENTARY - Feature Films, ANIMATION - Feature Films, INTERNATIONAL - Feature Films, DRAMA - Feature Films, COMEDY - Feature Films, GENRE (Horror/SciFi) - Feature Films, EXPERIMENTAL FILMS - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "animation",
+    "documentary",
+    "feature",
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-24",
+    "to": "2026-04-24",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 48,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*SPRING EXTENSION DEADLINE*: SHORT FILMS, DOCUMENTARY - Short Films, ANIMATION - Short Films, INTERNATIONAL - Short Films, DRAMA - Short Films, COMEDY - Short Films, GENRE (Horror/SciFi) - Short Films, OREGON-MADE FILMS - Feature Films, STUDENT PROJECTS - Feature Films, ONLINE FILM FESTIVAL - SHORT FILMS"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-15",
+    "to": "2026-05-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 36,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: DOCUMENTARY - Short Films, DRAMA - Short Films, COMEDY - Short Films, GENRE (Horror/SciFi) - Short Films, EXPERIMENTAL FILMS - Short Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-15",
+    "to": "2026-05-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 34,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: OREGON-MADE FILMS - Short Films, STUDENT PROJECTS - Short Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "feature",
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-15",
+    "to": "2026-05-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 38,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: INTERNATIONAL - Short Films, STUDENT PROJECTS - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-15",
+    "to": "2026-05-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: INTERNATIONAL - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-15",
+    "to": "2026-05-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 39,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: OREGON-MADE FILMS - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-15",
+    "to": "2026-05-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 42,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: DOCUMENTARY - Feature Films, ANIMATION - Feature Films, DRAMA - Feature Films, COMEDY - Feature Films, GENRE (Horror/SciFi) - Feature Films, EXPERIMENTAL FILMS - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "animation",
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-15",
+    "to": "2026-05-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: FEATURE FILMS, ANIMATION - Short Films, ONLINE FILM FESTIVAL - FEATURE FILMS"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-15",
+    "to": "2026-05-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: SHORT FILMS, ONLINE FILM FESTIVAL - SHORT FILMS"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-05",
+    "to": "2026-06-05",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 58,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*LATE SUBMISSION DEADLINE: DOCUMENTARY - Feature Films, ANIMATION - Feature Films, INTERNATIONAL - Feature Films, DRAMA - Feature Films, COMEDY - Feature Films, GENRE (Horror/SciFi) - Feature Films, EXPERIMENTAL FILMS - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-05",
+    "to": "2026-06-05",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 52,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*LATE SUBMISSION DEADLINE: DOCUMENTARY - Short Films, ANIMATION - Short Films, INTERNATIONAL - Short Films, DRAMA - Short Films, COMEDY - Short Films, GENRE (Horror/SciFi) - Short Films, EXPERIMENTAL FILMS - Short Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-05",
+    "to": "2026-06-05",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*LATE SUBMISSION DEADLINE: SHORT FILMS, ONLINE FILM FESTIVAL - SHORT FILMS"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "feature",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-05",
+    "to": "2026-06-05",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 54,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*LATE SUBMISSION DEADLINE: OREGON-MADE FILMS - Feature Films, STUDENT PROJECTS - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-05",
+    "to": "2026-06-05",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 48,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*LATE SUBMISSION DEADLINE: OREGON-MADE FILMS - Short Films, STUDENT PROJECTS - Short Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-05",
+    "to": "2026-06-05",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 56,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*LATE SUBMISSION DEADLINE: FEATURE FILMS, ONLINE FILM FESTIVAL - FEATURE FILMS"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-17",
+    "to": "2026-07-17",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 36,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: DOCUMENTARY - Short Films, DRAMA - Short Films, COMEDY - Short Films, GENRE (Horror/SciFi) - Short Films, EXPERIMENTAL FILMS - Short Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-17",
+    "to": "2026-07-17",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 34,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: OREGON-MADE FILMS - Short Films, STUDENT PROJECTS - Short Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "feature",
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-17",
+    "to": "2026-07-17",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 38,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: INTERNATIONAL - Short Films, STUDENT PROJECTS - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-17",
+    "to": "2026-07-17",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: INTERNATIONAL - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-17",
+    "to": "2026-07-17",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 39,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: OREGON-MADE FILMS - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-17",
+    "to": "2026-07-17",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 42,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: DOCUMENTARY - Feature Films, ANIMATION - Feature Films, DRAMA - Feature Films, COMEDY - Feature Films, GENRE (Horror/SciFi) - Feature Films, EXPERIMENTAL FILMS - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "animation",
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-17",
+    "to": "2026-07-17",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: FEATURE FILMS, ANIMATION - Short Films, ONLINE FILM FESTIVAL - FEATURE FILMS"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-17",
+    "to": "2026-07-17",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "CALL TO ENTRY: Discount Deadline: SHORT FILMS, ONLINE FILM FESTIVAL - SHORT FILMS"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [
+    "feature",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-12",
+    "to": "2026-09-12",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 58,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*FINAL DEADLINE*: OREGON-MADE FILMS - Feature Films, STUDENT PROJECTS - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [
+    "animation",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-12",
+    "to": "2026-09-12",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 56,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*FINAL DEADLINE*: ANIMATION - Short Films, INTERNATIONAL - Short Films, DRAMA - Short Films, COMEDY - Short Films, GENRE (Horror/SciFi) - Short Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [
+    "experimental",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-12",
+    "to": "2026-09-12",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 68,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*FINAL DEADLINE*: DRAMA - Feature Films, EXPERIMENTAL FILMS - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-12",
+    "to": "2026-09-12",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 54,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*FINAL DEADLINE*: SHORT FILMS, ONLINE FILM FESTIVAL - SHORT FILMS"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-12",
+    "to": "2026-09-12",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 55,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*FINAL DEADLINE*: DOCUMENTARY - Short Films, EXPERIMENTAL FILMS - Short Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-12",
+    "to": "2026-09-12",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 62,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*FINAL DEADLINE*: FEATURE FILMS, ONLINE FILM FESTIVAL - FEATURE FILMS"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-12",
+    "to": "2026-09-12",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 74,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*FINAL DEADLINE*: INTERNATIONAL - Feature Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-12",
+    "to": "2026-09-12",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 52,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*FINAL DEADLINE*: OREGON-MADE FILMS - Short Films, STUDENT PROJECTS - Short Films"
+  },
+  {
+   "festival": "oregon-independent",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [
+    "animation",
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-12",
+    "to": "2026-09-12",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 70,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "*FINAL DEADLINE*: DOCUMENTARY - Feature Films, ANIMATION - Feature Films, COMEDY - Feature Films, GENRE (Horror/SciFi) - Feature Films"
   },
   {
    "festival": "palm-springs-shortfest",
