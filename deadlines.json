@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-10-13",
+ "generated_on": "2026-10-14",
  "festivals": [
   {
    "id": "25fps-zagreb",
@@ -4928,16 +4928,6 @@
    "verified_on": "2026-10-11"
   },
   {
-   "festival": "diametrale-experimental",
-   "cycle": 2027,
-   "verified_on": "2026-10-11"
-  },
-  {
-   "festival": "diametrale-experimental",
-   "cycle": 2026,
-   "verified_on": "2026-09-03"
-  },
-  {
    "festival": "doc-edge",
    "cycle": 2027,
    "runs": {
@@ -5406,37 +5396,6 @@
   }
  ],
  "deadlines": [
-  {
-   "festival": "diametrale-experimental",
-   "cycle": 2027,
-   "categories": [
-    "experimental"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-13",
-    "to": "2026-09-13",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Deadline für Filmeinreichungen"
-  },
-  {
-   "festival": "diametrale-experimental",
-   "cycle": 2026,
-   "tier": "final",
-   "categories": [
-    "experimental"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-13",
-    "to": "2026-09-13",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Sept 13, 2026 (final)"
-  },
   {
    "festival": "slamdance",
    "cycle": 2027,
@@ -13660,6 +13619,21 @@
    },
    "fee_unknown": true,
    "note": "Registration form, fee and video files deadline"
+  },
+  {
+   "festival": "diametrale-experimental",
+   "cycle": 2027,
+   "categories": [
+    "experimental"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-13",
+    "to": "2026-09-13",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Deadline für Filmeinreichungen"
   },
   {
    "festival": "directors-notes",
