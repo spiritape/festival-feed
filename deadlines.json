@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-10-14",
+ "generated_on": "2026-10-15",
  "festivals": [
   {
    "id": "25fps-zagreb",
@@ -5396,50 +5396,6 @@
   }
  ],
  "deadlines": [
-  {
-   "festival": "slamdance",
-   "cycle": 2027,
-   "tier": "late",
-   "categories": [
-    "documentary",
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-14",
-    "to": "2026-09-14",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 110,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Late Deadline: First Narrative Features, First Documentary Features, Breakouts (not First Features) - Narrative and Documentary, Unstoppable Features"
-  },
-  {
-   "festival": "slamdance",
-   "cycle": 2027,
-   "tier": "late",
-   "categories": [
-    "animation",
-    "documentary",
-    "experimental",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-14",
-    "to": "2026-09-14",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 70,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Late Deadline: Narrative Shorts, Documentary Shorts, Animation Shorts, Experimental Shorts, Unstoppable Shorts"
-  },
   {
    "festival": "iffr-rotterdam",
    "cycle": 2027,
