@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-10-15",
+ "generated_on": "2026-10-16",
  "festivals": [
   {
    "id": "25fps-zagreb",
@@ -5031,17 +5031,6 @@
    "verified_on": "2026-10-06"
   },
   {
-   "festival": "iffr-rotterdam",
-   "cycle": 2027,
-   "runs": {
-    "precision": "month",
-    "from": "2027-02-01",
-    "to": "2027-02-28",
-    "approximate": false
-   },
-   "verified_on": "2026-09-12"
-  },
-  {
    "festival": "in-palace",
    "cycle": 2027,
    "verified_on": "2026-10-12"
@@ -5284,11 +5273,6 @@
    "verified_on": "2026-10-05"
   },
   {
-   "festival": "stockholm",
-   "cycle": 2026,
-   "verified_on": "2026-10-13"
-  },
-  {
    "festival": "sundance",
    "cycle": 2027,
    "runs": {
@@ -5396,132 +5380,6 @@
   }
  ],
  "deadlines": [
-  {
-   "festival": "iffr-rotterdam",
-   "cycle": 2027,
-   "tier": "late",
-   "categories": [
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-15",
-    "to": "2026-09-15",
-    "approximate": false,
-    "time": "17:00",
-    "tz": "CEST"
-   },
-   "fee": {
-    "amount": 110,
-    "currency": "EUR",
-    "note": "ex. VAT"
-   },
-   "fee_unknown": false,
-   "note": "Late fee; final submission deadline; features from 64 minutes"
-  },
-  {
-   "festival": "iffr-rotterdam",
-   "cycle": 2027,
-   "tier": "late",
-   "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-15",
-    "to": "2026-09-15",
-    "approximate": false,
-    "time": "17:00",
-    "tz": "CEST"
-   },
-   "fee": {
-    "amount": 70,
-    "currency": "EUR",
-    "note": "ex. VAT"
-   },
-   "fee_unknown": false,
-   "note": "Late fee; final submission deadline; short and mid-length, under 64 minutes"
-  },
-  {
-   "festival": "stockholm",
-   "cycle": 2026,
-   "tier": "final",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-15",
-    "to": "2026-09-15",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Final Deadline"
-  },
-  {
-   "festival": "sxsw",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-15",
-    "to": "2026-09-15",
-    "approximate": false,
-    "time": "23:59",
-    "tz": "PT"
-   },
-   "fee": {
-    "amount": 95,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Second Deadline; narrative or documentary feature"
-  },
-  {
-   "festival": "sxsw",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-15",
-    "to": "2026-09-15",
-    "approximate": false,
-    "time": "23:59",
-    "tz": "PT"
-   },
-   "fee": {
-    "amount": 70,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Second Deadline; narrative, documentary or animated short"
-  },
-  {
-   "festival": "voyage-in-time-andong",
-   "cycle": 2026,
-   "tier": "regular",
-   "categories": [
-    "animation",
-    "feature",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-15",
-    "to": "2026-09-15",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 12,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Feature Film, Short Film, Animation"
-  },
   {
    "festival": "pan-african-arts",
    "cycle": 2027,
@@ -12715,6 +12573,48 @@
  ],
  "previous": [
   {
+   "festival": "anca-animation",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2025-11-30",
+    "to": "2025-11-30",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Earlybird (free)"
+  },
+  {
+   "festival": "anca-animation",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2025-12-31",
+    "to": "2025-12-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular (EUR 5)"
+  },
+  {
+   "festival": "anca-animation",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-01-31",
+    "to": "2026-01-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Deadline (EUR 10)"
+  },
+  {
    "festival": "austin",
    "cycle": 2026,
    "tier": "early",
@@ -13949,6 +13849,144 @@
    },
    "fee_unknown": true,
    "note": "deadline for receiving applications and preview material"
+  },
+  {
+   "festival": "iffr-rotterdam",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-15",
+    "to": "2026-06-15",
+    "approximate": false,
+    "time": "17:00",
+    "tz": "CEST"
+   },
+   "fee": {
+    "amount": 65,
+    "currency": "EUR",
+    "note": "ex. VAT"
+   },
+   "fee_unknown": false,
+   "note": "Early fee; features from 64 minutes"
+  },
+  {
+   "festival": "iffr-rotterdam",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-15",
+    "to": "2026-06-15",
+    "approximate": false,
+    "time": "17:00",
+    "tz": "CEST"
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "EUR",
+    "note": "ex. VAT"
+   },
+   "fee_unknown": false,
+   "note": "Early fee; short and mid-length, under 64 minutes"
+  },
+  {
+   "festival": "iffr-rotterdam",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-31",
+    "to": "2026-08-31",
+    "approximate": false,
+    "time": "17:00",
+    "tz": "CEST"
+   },
+   "fee": {
+    "amount": 85,
+    "currency": "EUR",
+    "note": "ex. VAT"
+   },
+   "fee_unknown": false,
+   "note": "Standard fee; features from 64 minutes"
+  },
+  {
+   "festival": "iffr-rotterdam",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-31",
+    "to": "2026-08-31",
+    "approximate": false,
+    "time": "17:00",
+    "tz": "CEST"
+   },
+   "fee": {
+    "amount": 55,
+    "currency": "EUR",
+    "note": "ex. VAT"
+   },
+   "fee_unknown": false,
+   "note": "Standard fee; short and mid-length, under 64 minutes"
+  },
+  {
+   "festival": "iffr-rotterdam",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-15",
+    "to": "2026-09-15",
+    "approximate": false,
+    "time": "17:00",
+    "tz": "CEST"
+   },
+   "fee": {
+    "amount": 110,
+    "currency": "EUR",
+    "note": "ex. VAT"
+   },
+   "fee_unknown": false,
+   "note": "Late fee; final submission deadline; features from 64 minutes"
+  },
+  {
+   "festival": "iffr-rotterdam",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-15",
+    "to": "2026-09-15",
+    "approximate": false,
+    "time": "17:00",
+    "tz": "CEST"
+   },
+   "fee": {
+    "amount": 70,
+    "currency": "EUR",
+    "note": "ex. VAT"
+   },
+   "fee_unknown": false,
+   "note": "Late fee; final submission deadline; short and mid-length, under 64 minutes"
   },
   {
    "festival": "karlovy-vary",
@@ -16393,6 +16431,62 @@
    },
    "fee_unknown": false,
    "note": "Submission Deadline: Animated Feature Films"
+  },
+  {
+   "festival": "stockholm",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-23",
+    "to": "2026-03-23",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Earlybird Deadline"
+  },
+  {
+   "festival": "stockholm",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-09",
+    "to": "2026-07-09",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Deadline"
+  },
+  {
+   "festival": "stockholm",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-18",
+    "to": "2026-08-18",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Deadline"
+  },
+  {
+   "festival": "stockholm",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-15",
+    "to": "2026-09-15",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Final Deadline"
   },
   {
    "festival": "tauron-american-in-poland",
