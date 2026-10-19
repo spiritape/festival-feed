@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-10-18",
+ "generated_on": "2026-10-19",
  "festivals": [
   {
    "id": "25fps-zagreb",
@@ -4801,7 +4801,7 @@
     "to": "2026-11-06",
     "approximate": false
    },
-   "verified_on": "2026-10-11"
+   "verified_on": "2026-10-19"
   },
   {
    "festival": "berlin-gate",
@@ -4827,12 +4827,12 @@
     "to": "2027-02-28",
     "approximate": false
    },
-   "verified_on": "2026-09-03"
+   "verified_on": "2026-10-19"
   },
   {
    "festival": "big-sky-documentary",
    "cycle": 2027,
-   "verified_on": "2026-10-12"
+   "verified_on": "2026-10-19"
   },
   {
    "festival": "bronzelens",
@@ -4934,17 +4934,6 @@
     "precision": "day",
     "from": "2027-05-26",
     "to": "2027-07-04",
-    "approximate": false
-   },
-   "verified_on": "2026-10-11"
-  },
-  {
-   "festival": "doc-nyc",
-   "cycle": 2026,
-   "runs": {
-    "precision": "day",
-    "from": "2026-11-11",
-    "to": "2026-11-29",
     "approximate": false
    },
    "verified_on": "2026-10-11"
@@ -5292,7 +5281,7 @@
     "to": "2027-03-21",
     "approximate": false
    },
-   "verified_on": "2026-10-12"
+   "verified_on": "2026-10-19"
   },
   {
    "festival": "sydney",
@@ -5380,91 +5369,6 @@
   }
  ],
  "deadlines": [
-  {
-   "festival": "doc-nyc",
-   "cycle": 2026,
-   "tier": "regular",
-   "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-18",
-    "to": "2026-09-18",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 75,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Short List: Shorts"
-  },
-  {
-   "festival": "doc-nyc",
-   "cycle": 2026,
-   "tier": "regular",
-   "categories": [
-    "feature",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-18",
-    "to": "2026-09-18",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 100,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Short List: Features, Winner's Circle (Features Only)"
-  },
-  {
-   "festival": "santa-barbara",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "animation",
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-18",
-    "to": "2026-09-18",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 60,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Official Deadline: Short: Fiction, Short: Documentary, Short: Animation, Short: Nature, Short: Santa Barbara Filmmaker"
-  },
-  {
-   "festival": "santa-barbara",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "animation",
-    "documentary",
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-18",
-    "to": "2026-09-18",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 90,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Official Deadline: Feature: Fiction, Feature: Documentary, Feature: Animation, Feature: Santa Barbara Filmmaker"
-  },
   {
    "festival": "sedona",
    "cycle": 2027,
@@ -13439,6 +13343,215 @@
    },
    "fee_unknown": true,
    "note": "Sept 9, 2026"
+  },
+  {
+   "festival": "doc-nyc",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-02",
+    "to": "2026-03-02",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Deadline: Shorts (Main Slate)"
+  },
+  {
+   "festival": "doc-nyc",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-02",
+    "to": "2026-03-02",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 70,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Deadline: Features (Main Slate)"
+  },
+  {
+   "festival": "doc-nyc",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-03",
+    "to": "2026-04-03",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 65,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Spring Deadline: Shorts (Main Slate)"
+  },
+  {
+   "festival": "doc-nyc",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-03",
+    "to": "2026-04-03",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 85,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Spring Deadline: Features (Main Slate)"
+  },
+  {
+   "festival": "doc-nyc",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-08",
+    "to": "2026-05-08",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 105,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Features (Main Slate)"
+  },
+  {
+   "festival": "doc-nyc",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-08",
+    "to": "2026-05-08",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 75,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Shorts (Main Slate)"
+  },
+  {
+   "festival": "doc-nyc",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-18",
+    "to": "2026-06-18",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 80,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "FINAL DEADLINE: Shorts (Main Slate)"
+  },
+  {
+   "festival": "doc-nyc",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-18",
+    "to": "2026-06-18",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 120,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "FINAL DEADLINE: Features (Main Slate)"
+  },
+  {
+   "festival": "doc-nyc",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-18",
+    "to": "2026-09-18",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 75,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Short List: Shorts"
+  },
+  {
+   "festival": "doc-nyc",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-18",
+    "to": "2026-09-18",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 100,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Short List: Features, Winner's Circle (Features Only)"
   },
   {
    "festival": "downtown-nyc",
