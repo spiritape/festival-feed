@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-10-16",
+ "generated_on": "2026-10-18",
  "festivals": [
   {
    "id": "25fps-zagreb",
@@ -4745,7 +4745,7 @@
     "to": "2027-03-28",
     "approximate": false
    },
-   "verified_on": "2026-10-11"
+   "verified_on": "2026-10-18"
   },
   {
    "festival": "ashland-independent",
@@ -5260,7 +5260,7 @@
     "to": "2027-02-24",
     "approximate": false
    },
-   "verified_on": "2026-10-11"
+   "verified_on": "2026-10-18"
   },
   {
    "festival": "sofia",
@@ -5281,7 +5281,7 @@
     "to": "2027-01-31",
     "approximate": false
    },
-   "verified_on": "2026-10-11"
+   "verified_on": "2026-10-18"
   },
   {
    "festival": "sxsw",
@@ -5380,71 +5380,6 @@
   }
  ],
  "deadlines": [
-  {
-   "festival": "pan-african-arts",
-   "cycle": 2027,
-   "tier": "extended",
-   "categories": [
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-16",
-    "to": "2026-09-16",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 175,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Extended (August 17-Sept 16): Features"
-  },
-  {
-   "festival": "portland",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-16",
-    "to": "2026-09-16",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 55,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Early Bird Deadline: Narrative Short, Documentary Short, Micro Shorts (1-5m)"
-  },
-  {
-   "festival": "portland",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "animation",
-    "documentary",
-    "feature",
-    "short",
-    "student"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-16",
-    "to": "2026-09-16",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 60,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Early Bird Deadline: Narrative Feature, Documentary Feature, Animated Feature, Animated Short, Student"
-  },
   {
    "festival": "doc-nyc",
    "cycle": 2026,
