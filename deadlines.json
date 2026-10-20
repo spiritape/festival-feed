@@ -3418,7 +3418,8 @@
    "id": "new-orleans",
    "name": "New Orleans Film Festival",
    "entry": "open",
-   "page": "https://www.neworleansfilmfestival.org",
+   "page": "https://filmfreeway.com/NewOrleansFilmFestival",
+   "submit": "https://filmfreeway.com/NewOrleansFilmFestival",
    "website": "https://www.neworleansfilmfestival.org",
    "portal": "own",
    "city": "New Orleans",
@@ -16755,57 +16756,497 @@
    "festival": "new-orleans",
    "cycle": 2026,
    "tier": "early",
-   "categories": [],
+   "categories": [
+    "documentary",
+    "feature"
+   ],
    "closes": {
     "precision": "day",
     "from": "2026-01-09",
     "to": "2026-01-09",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Early Bird Deadline"
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird Deadline: Documentary Feature (40 min or longer)"
+  },
+  {
+   "festival": "new-orleans",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-01-09",
+    "to": "2026-01-09",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 41,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird Deadline: Documentary Short (under 40 min)"
+  },
+  {
+   "festival": "new-orleans",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-01-09",
+    "to": "2026-01-09",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 41,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird Deadline: Narrative Short (under 40 min)"
+  },
+  {
+   "festival": "new-orleans",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-01-09",
+    "to": "2026-01-09",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 39,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird Deadline: Experimental Short (30 min or less)"
+  },
+  {
+   "festival": "new-orleans",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "animation",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-01-09",
+    "to": "2026-01-09",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird Deadline: Animated Short (under 40 min)"
+  },
+  {
+   "festival": "new-orleans",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-01-09",
+    "to": "2026-01-09",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird Deadline: Narrative Feature (40 min or longer)"
   },
   {
    "festival": "new-orleans",
    "cycle": 2026,
    "tier": "regular",
-   "categories": [],
+   "categories": [
+    "short"
+   ],
    "closes": {
     "precision": "day",
     "from": "2026-03-06",
     "to": "2026-03-06",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Regular Deadline"
+   "fee": {
+    "amount": 51,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Narrative Short (under 40 min)"
+  },
+  {
+   "festival": "new-orleans",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-06",
+    "to": "2026-03-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Experimental Short (30 min or less)"
+  },
+  {
+   "festival": "new-orleans",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-06",
+    "to": "2026-03-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 51,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Documentary Short (under 40 min)"
+  },
+  {
+   "festival": "new-orleans",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-06",
+    "to": "2026-03-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Narrative Feature (40 min or longer)"
+  },
+  {
+   "festival": "new-orleans",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "animation",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-06",
+    "to": "2026-03-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 42,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Animated Short (under 40 min)"
+  },
+  {
+   "festival": "new-orleans",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-06",
+    "to": "2026-03-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Documentary Feature (40 min or longer)"
   },
   {
    "festival": "new-orleans",
    "cycle": 2026,
    "tier": "late",
-   "categories": [],
+   "categories": [
+    "short"
+   ],
    "closes": {
     "precision": "day",
     "from": "2026-04-24",
     "to": "2026-04-24",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Late Deadline"
+   "fee": {
+    "amount": 65,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Narrative Short (under 40 min)"
+  },
+  {
+   "festival": "new-orleans",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-24",
+    "to": "2026-04-24",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 55,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Experimental Short (30 min or less)"
+  },
+  {
+   "festival": "new-orleans",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-24",
+    "to": "2026-04-24",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 65,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Documentary Short (under 40 min)"
+  },
+  {
+   "festival": "new-orleans",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-24",
+    "to": "2026-04-24",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 75,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Narrative Feature (40 min or longer)"
+  },
+  {
+   "festival": "new-orleans",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "animation",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-24",
+    "to": "2026-04-24",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 53,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Animated Short (under 40 min)"
+  },
+  {
+   "festival": "new-orleans",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-24",
+    "to": "2026-04-24",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 75,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Documentary Feature (40 min or longer)"
   },
   {
    "festival": "new-orleans",
    "cycle": 2026,
    "tier": "extended",
-   "categories": [],
+   "categories": [
+    "documentary",
+    "short"
+   ],
    "closes": {
     "precision": "day",
     "from": "2026-05-29",
     "to": "2026-05-29",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Extended Deadline"
+   "fee": {
+    "amount": 75,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: Documentary Short (under 40 min)"
+  },
+  {
+   "festival": "new-orleans",
+   "cycle": 2026,
+   "tier": "extended",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-29",
+    "to": "2026-05-29",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 75,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: Narrative Short (under 40 min)"
+  },
+  {
+   "festival": "new-orleans",
+   "cycle": 2026,
+   "tier": "extended",
+   "categories": [
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-29",
+    "to": "2026-05-29",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: Experimental Short (30 min or less)"
+  },
+  {
+   "festival": "new-orleans",
+   "cycle": 2026,
+   "tier": "extended",
+   "categories": [
+    "animation",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-29",
+    "to": "2026-05-29",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 63,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: Animated Short (under 40 min)"
+  },
+  {
+   "festival": "new-orleans",
+   "cycle": 2026,
+   "tier": "extended",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-29",
+    "to": "2026-05-29",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 85,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: Narrative Feature (40 min or longer)"
+  },
+  {
+   "festival": "new-orleans",
+   "cycle": 2026,
+   "tier": "extended",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-29",
+    "to": "2026-05-29",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 85,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: Documentary Feature (40 min or longer)"
   },
   {
    "festival": "norwich",
