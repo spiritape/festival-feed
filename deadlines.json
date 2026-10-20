@@ -5841,6 +5841,17 @@
    "verified_on": "2026-10-06"
   },
   {
+   "festival": "palm-springs-shortfest",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-06-22",
+    "to": "2027-06-28",
+    "approximate": false
+   },
+   "verified_on": "2026-10-20"
+  },
+  {
    "festival": "pan-african-arts",
    "cycle": 2027,
    "runs": {
@@ -8657,6 +8668,22 @@
    "note": "Earlybird deadline is 11:59pm"
   },
   {
+   "festival": "palm-springs-shortfest",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-01",
+    "to": "2026-11-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Earlybird Deadline"
+  },
+  {
    "festival": "sedona",
    "cycle": 2027,
    "tier": "late",
@@ -10897,6 +10924,22 @@
    "note": "Regular Deadline: New Zealand Tertiary Student Documentary"
   },
   {
+   "festival": "palm-springs-shortfest",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-31",
+    "to": "2026-12-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Deadline"
+  },
+  {
    "festival": "sarasota",
    "cycle": 2027,
    "tier": "late",
@@ -12325,6 +12368,22 @@
    },
    "fee_unknown": true,
    "note": "Regular"
+  },
+  {
+   "festival": "palm-springs-shortfest",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-07",
+    "to": "2027-02-07",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Deadline"
   },
   {
    "festival": "brooklyn",
@@ -18627,69 +18686,6 @@
    "note": "*FINAL DEADLINE*: DOCUMENTARY - Feature Films, ANIMATION - Feature Films, COMEDY - Feature Films, GENRE (Horror/SciFi) - Feature Films"
   },
   {
-   "festival": "palm-springs-shortfest",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "documentary",
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-06-06",
-    "to": "2026-06-06",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 75,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Early Bird Deadline: International Feature, Documentary Feature, American Feature, After Dark Feature, Local Feature"
-  },
-  {
-   "festival": "palm-springs-shortfest",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "documentary",
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-07-31",
-    "to": "2026-07-31",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 95,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: International Feature, Documentary Feature, American Feature, After Dark Feature, Local Feature"
-  },
-  {
-   "festival": "palm-springs-shortfest",
-   "cycle": 2027,
-   "tier": "final",
-   "categories": [
-    "documentary",
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-08-31",
-    "to": "2026-08-31",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 115,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Final Deadline: International Feature, Documentary Feature, American Feature, After Dark Feature, Local Feature"
-  },
-  {
    "festival": "poff-tallinn-black-nights",
    "cycle": 2026,
    "tier": "regular",
@@ -22053,16 +22049,6 @@
    }
   },
   {
-   "festival": "palm-springs-shortfest",
-   "cycle": 2027,
-   "runs": {
-    "precision": "day",
-    "from": "2027-01-07",
-    "to": "2027-01-18",
-    "approximate": false
-   }
-  },
-  {
    "festival": "trieste",
    "cycle": 2027,
    "ordinal": 38,
@@ -22581,6 +22567,16 @@
     "precision": "day",
     "from": "2027-06-09",
     "to": "2027-06-13",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "palm-springs-shortfest",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-06-22",
+    "to": "2027-06-28",
     "approximate": false
    }
   },
