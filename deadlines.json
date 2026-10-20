@@ -5752,6 +5752,17 @@
    "verified_on": "2026-10-05"
   },
   {
+   "festival": "london-independent",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-09",
+    "to": "2027-04-18",
+    "approximate": false
+   },
+   "verified_on": "2026-10-20"
+  },
+  {
    "festival": "malaga",
    "cycle": 2027,
    "runs": {
@@ -5861,7 +5872,7 @@
     "to": "2027-02-21",
     "approximate": false
    },
-   "verified_on": "2026-10-12"
+   "verified_on": "2026-10-20"
   },
   {
    "festival": "phoenix",
@@ -5961,7 +5972,7 @@
     "to": "2027-04-18",
     "approximate": false
    },
-   "verified_on": "2026-10-11"
+   "verified_on": "2026-10-20"
   },
   {
    "festival": "sedona",
@@ -8919,6 +8930,20 @@
    "note": "Extended Deadline: Narrative Feature, Documentary Feature, Animated Feature, Animated Short, Student"
   },
   {
+   "festival": "london-independent",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-05",
+    "to": "2026-11-05",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Earlybird Deadline"
+  },
+  {
    "festival": "phoenix",
    "cycle": 2027,
    "tier": "late",
@@ -10131,6 +10156,20 @@
    },
    "fee_unknown": true,
    "note": "Shorts & Music Videos Official Deadline"
+  },
+  {
+   "festival": "london-independent",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-03",
+    "to": "2026-12-03",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Deadline"
   },
   {
    "festival": "bfi-flare",
@@ -11502,6 +11541,20 @@
    "note": "Final deadline: Korean Competition"
   },
   {
+   "festival": "london-independent",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-14",
+    "to": "2027-01-14",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Deadline"
+  },
+  {
    "festival": "doc-edge",
    "cycle": 2027,
    "tier": "late",
@@ -12427,6 +12480,20 @@
    },
    "fee_unknown": false,
    "note": "Extended Deadline: Short Film, Animation, Feature Film"
+  },
+  {
+   "festival": "london-independent",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-11",
+    "to": "2027-02-11",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Final Deadline"
   },
   {
    "festival": "deadcenter",
@@ -22790,6 +22857,16 @@
   },
   {
    "festival": "florida",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-09",
+    "to": "2027-04-18",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "london-independent",
    "cycle": 2027,
    "runs": {
     "precision": "day",
