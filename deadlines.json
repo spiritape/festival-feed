@@ -1882,7 +1882,8 @@
    "id": "goshort-nijmegen",
    "name": "Goshort International Short Film Festival Nijmegen",
    "entry": "open",
-   "page": "https://www.goshort.nl",
+   "page": "https://goshort.filmchief.com/",
+   "submit": "https://goshort.filmchief.com/",
    "website": "https://www.goshort.nl",
    "portal": "own",
    "country": "The Netherlands",
@@ -1900,7 +1901,8 @@
    "id": "goteborg",
    "name": "Göteborg Film Festival",
    "entry": "open",
-   "page": "https://www.goteborgfilmfestival.se",
+   "page": "https://goteborgfilmfestival.se/en/submissions",
+   "submit": "https://goteborgfilmfestival.se/en/submissions",
    "website": "https://www.goteborgfilmfestival.se",
    "portal": "own",
    "country": "Sweden",
@@ -1936,9 +1938,10 @@
    "id": "guadalajara",
    "name": "Guadalajara International Film Festival",
    "entry": "open",
-   "page": "https://www.ficg.mx",
+   "page": "https://vp.eventival.com/ficg/2027",
+   "submit": "https://vp.eventival.com/ficg/2027",
    "website": "https://www.ficg.mx",
-   "portal": "own",
+   "portal": "eventival",
    "country": "Mexico",
    "academy": {
     "lists": [
@@ -1954,9 +1957,10 @@
    "id": "guanajuato",
    "name": "Guanajuato International Film Festival",
    "entry": "open",
-   "page": "https://www.giff.mx",
+   "page": "https://filmfreeway.com/GIFFMX",
+   "submit": "https://filmfreeway.com/GIFFMX",
    "website": "https://www.giff.mx",
-   "portal": "own",
+   "portal": "filmfreeway",
    "country": "Mexico",
    "academy": {
     "lists": [
@@ -1972,7 +1976,8 @@
    "id": "haifa",
    "name": "Haifa International Film Festival",
    "entry": "open",
-   "page": "https://www.haifaff.co.il",
+   "page": "https://www.haifaff.co.il/%D7%AA%D7%A7%D7%A0%D7%95%D7%A0%D7%99%D7%9D",
+   "submit": "https://www.haifaff.co.il/%D7%AA%D7%A7%D7%A0%D7%95%D7%A0%D7%99%D7%9D",
    "website": "https://www.haifaff.co.il",
    "portal": "own",
    "country": "Israel",
@@ -1990,9 +1995,10 @@
    "id": "hamptons",
    "name": "Hamptons International Film Festival",
    "entry": "open",
-   "page": "https://www.hamptonsfilmfest.org",
+   "page": "https://filmfreeway.com/HamptonsFilm",
+   "submit": "https://filmfreeway.com/HamptonsFilm",
    "website": "https://www.hamptonsfilmfest.org",
-   "portal": "own",
+   "portal": "filmfreeway",
    "city": "East Hampton",
    "region": "New York",
    "country": "United States",
@@ -2020,9 +2026,10 @@
    "id": "hawaii",
    "name": "Hawaii International Film Festival",
    "entry": "open",
-   "page": "https://www.hiff.org",
+   "page": "https://filmfreeway.com/HIFF",
+   "submit": "https://filmfreeway.com/HIFF",
    "website": "https://www.hiff.org",
-   "portal": "own",
+   "portal": "filmfreeway",
    "region": "Hawaii",
    "country": "United States",
    "academy": {
@@ -3162,9 +3169,10 @@
    "id": "nouveau-cinema",
    "name": "Festival du Nouveau Cinéma",
    "entry": "open",
-   "page": "https://www.nouveaucinema.ca",
+   "page": "https://filmfreeway.com/NouveauCinema",
+   "submit": "https://filmfreeway.com/NouveauCinema",
    "website": "https://www.nouveaucinema.ca",
-   "portal": "own",
+   "portal": "filmfreeway",
    "country": "Canada",
    "academy": {
     "lists": [
@@ -5032,6 +5040,42 @@
     "precision": "day",
     "from": "2027-07-06",
     "to": "2027-07-11",
+    "approximate": false
+   },
+   "verified_on": "2026-10-19"
+  },
+  {
+   "festival": "goshort-nijmegen",
+   "cycle": 2027,
+   "ordinal": 19,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-06",
+    "to": "2027-04-11",
+    "approximate": false
+   },
+   "verified_on": "2026-10-19"
+  },
+  {
+   "festival": "goteborg",
+   "cycle": 2027,
+   "ordinal": 50,
+   "runs": {
+    "precision": "day",
+    "from": "2027-01-29",
+    "to": "2027-02-07",
+    "approximate": false
+   },
+   "verified_on": "2026-10-19"
+  },
+  {
+   "festival": "guadalajara",
+   "cycle": 2027,
+   "ordinal": 42,
+   "runs": {
+    "precision": "day",
+    "from": "2027-03-06",
+    "to": "2027-03-13",
     "approximate": false
    },
    "verified_on": "2026-10-19"
@@ -6931,6 +6975,43 @@
    "note": "Earlybird Deadline: New Zealand Short Documentary"
   },
   {
+   "festival": "goteborg",
+   "cycle": 2027,
+   "ordinal": 50,
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-15",
+    "to": "2026-10-15",
+    "approximate": false
+   },
+   "fee_unknown": false,
+   "note": "Swedish films only (Startsladden, up to 15 minutes; Swedish Shorts, any length); free of charge. Non-Swedish shorts aren't accepted"
+  },
+  {
+   "festival": "goteborg",
+   "cycle": 2027,
+   "ordinal": 50,
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-15",
+    "to": "2026-10-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "EUR",
+    "note": "non-Swedish films; Swedish films free"
+   },
+   "fee_unknown": false,
+   "note": "Non-Swedish films, 50 minutes or longer (International Competition, International Documentary Competition from 55 minutes, Ingmar Bergman Competition, Nordic Competition); Swedish films free"
+  },
+  {
    "festival": "mono-no-aware",
    "cycle": 2026,
    "categories": [
@@ -7084,6 +7165,29 @@
    },
    "fee_unknown": false,
    "note": "Late Deadline: Documentary Short, Animated Short"
+  },
+  {
+   "festival": "guadalajara",
+   "cycle": 2027,
+   "ordinal": 42,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-16",
+    "to": "2026-10-16",
+    "approximate": false,
+    "time": "18:00:00",
+    "tz": "GMT-6"
+   },
+   "fee": {
+    "amount": 200,
+    "currency": "MXN"
+   },
+   "fee_unknown": false,
+   "note": "Cortometrajes (up to 30 minutes): call closes 16 October 2026 at 18:00 central Mexico time"
   },
   {
    "festival": "ashland-independent",
@@ -7513,6 +7617,27 @@
    },
    "fee_unknown": false,
    "note": "Extended Deadline: International Competition - ANIMATION"
+  },
+  {
+   "festival": "guadalajara",
+   "cycle": 2027,
+   "ordinal": 42,
+   "tier": "regular",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-31",
+    "to": "2026-10-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 400,
+    "currency": "MXN"
+   },
+   "fee_unknown": false,
+   "note": "Largometrajes (60 minutes or more): call closes 31 October 2026, central Mexico time (GMT-6)"
   },
   {
    "festival": "mpumalanga",
@@ -8569,6 +8694,27 @@
    },
    "fee_unknown": false,
    "note": "Late Shorts Deadline (the Final Deadline)"
+  },
+  {
+   "festival": "goshort-nijmegen",
+   "cycle": 2027,
+   "ordinal": 19,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-15",
+    "to": "2026-11-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 15,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Reguliere deadline"
   },
   {
    "festival": "chicago-underground",
@@ -9687,6 +9833,27 @@
    },
    "fee_unknown": false,
    "note": "Call for entries closes (or at 2,200 entries)"
+  },
+  {
+   "festival": "goshort-nijmegen",
+   "cycle": 2027,
+   "ordinal": 19,
+   "tier": "late",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-15",
+    "to": "2026-12-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 20,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Late deadline"
   },
   {
    "festival": "mpumalanga",
@@ -14277,6 +14444,224 @@
    "note": "Bewerbungsfrist (application deadline) via the Bundesportal"
   },
   {
+   "festival": "guanajuato",
+   "cycle": 2026,
+   "ordinal": 29,
+   "tier": "early",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-01",
+    "to": "2026-03-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 25,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Pronto registro (Mexican shorts free in this period)"
+  },
+  {
+   "festival": "guanajuato",
+   "cycle": 2026,
+   "ordinal": 29,
+   "tier": "early",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-01",
+    "to": "2026-03-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 30,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Pronto registro"
+  },
+  {
+   "festival": "guanajuato",
+   "cycle": 2026,
+   "ordinal": 29,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-01",
+    "to": "2026-04-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 30,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Periodo regular"
+  },
+  {
+   "festival": "guanajuato",
+   "cycle": 2026,
+   "ordinal": 29,
+   "tier": "regular",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-01",
+    "to": "2026-04-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Periodo regular"
+  },
+  {
+   "festival": "guanajuato",
+   "cycle": 2026,
+   "ordinal": 29,
+   "tier": "late",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-15",
+    "to": "2026-04-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Periodo tardío; final date for entries and materials"
+  },
+  {
+   "festival": "guanajuato",
+   "cycle": 2026,
+   "ordinal": 29,
+   "tier": "late",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-15",
+    "to": "2026-04-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Periodo tardío; final date for entries and materials"
+  },
+  {
+   "festival": "haifa",
+   "cycle": 2026,
+   "ordinal": 42,
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-20",
+    "to": "2026-06-20",
+    "approximate": false
+   },
+   "fee_unknown": false,
+   "note": "Israeli Film Competition (Israeli fiction and documentary films over 60 minutes); registration 26 April to 20 June 2026, midnight; no fee stated"
+  },
+  {
+   "festival": "haifa",
+   "cycle": 2026,
+   "ordinal": 42,
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-20",
+    "to": "2026-06-20",
+    "approximate": false
+   },
+   "fee_unknown": false,
+   "note": "Israeli Short Film Competition (Israeli films up to 30 minutes, fiction, documentary, animation; independent or film-school entries); registration 26 April to 20 June 2026, midnight; no fee stated"
+  },
+  {
+   "festival": "hamptons",
+   "cycle": 2026,
+   "ordinal": 34,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-16",
+    "to": "2026-03-16",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Earlybird Deadline"
+  },
+  {
+   "festival": "hamptons",
+   "cycle": 2026,
+   "ordinal": 34,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-02",
+    "to": "2026-04-02",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Deadline"
+  },
+  {
+   "festival": "hamptons",
+   "cycle": 2026,
+   "ordinal": 34,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-23",
+    "to": "2026-04-23",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Deadline"
+  },
+  {
+   "festival": "hamptons",
+   "cycle": 2026,
+   "ordinal": 34,
+   "tier": "extended",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-14",
+    "to": "2026-05-14",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Extended Deadline"
+  },
+  {
    "festival": "havana",
    "cycle": 2026,
    "categories": [],
@@ -14288,6 +14673,132 @@
    },
    "fee_unknown": true,
    "note": "Inscripciones"
+  },
+  {
+   "festival": "hawaii",
+   "cycle": 2026,
+   "ordinal": 46,
+   "tier": "early",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-02-06",
+    "to": "2026-02-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 65,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline, Narrative Feature and Documentary Feature (40 minutes or longer); Pacific Islander Showcase and Made in Hawai'i features USD 35"
+  },
+  {
+   "festival": "hawaii",
+   "cycle": 2026,
+   "ordinal": 46,
+   "tier": "early",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-02-06",
+    "to": "2026-02-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline, Narrative Shorts and Documentary Shorts (39 minutes or less); Pacific Islander Showcase and Made in Hawai'i shorts USD 25"
+  },
+  {
+   "festival": "hawaii",
+   "cycle": 2026,
+   "ordinal": 46,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-10",
+    "to": "2026-04-10",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 55,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline, shorts; Pacific Islander Showcase and Made in Hawai'i shorts USD 35"
+  },
+  {
+   "festival": "hawaii",
+   "cycle": 2026,
+   "ordinal": 46,
+   "tier": "regular",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-10",
+    "to": "2026-04-10",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 75,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline, features; Pacific Islander Showcase and Made in Hawai'i features USD 45"
+  },
+  {
+   "festival": "hawaii",
+   "cycle": 2026,
+   "ordinal": 46,
+   "tier": "late",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-05",
+    "to": "2026-06-05",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 65,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline, shorts; Pacific Islander Showcase and Made in Hawai'i shorts USD 45"
+  },
+  {
+   "festival": "hawaii",
+   "cycle": 2026,
+   "ordinal": 46,
+   "tier": "late",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-05",
+    "to": "2026-06-05",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 85,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline, features; Pacific Islander Showcase and Made in Hawai'i features USD 55"
   },
   {
    "festival": "heartland",
@@ -15118,6 +15629,174 @@
    },
    "fee_unknown": true,
    "note": "Extended Deadline"
+  },
+  {
+   "festival": "nouveau-cinema",
+   "cycle": 2026,
+   "ordinal": 55,
+   "tier": "early",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-29",
+    "to": "2026-03-29",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline (Gold USD 35)"
+  },
+  {
+   "festival": "nouveau-cinema",
+   "cycle": 2026,
+   "ordinal": 55,
+   "tier": "early",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-29",
+    "to": "2026-03-29",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline (FilmFreeway Gold USD 40)"
+  },
+  {
+   "festival": "nouveau-cinema",
+   "cycle": 2026,
+   "ordinal": 55,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-29",
+    "to": "2026-04-29",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline (Gold USD 40)"
+  },
+  {
+   "festival": "nouveau-cinema",
+   "cycle": 2026,
+   "ordinal": 55,
+   "tier": "regular",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-29",
+    "to": "2026-04-29",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline (Gold USD 45)"
+  },
+  {
+   "festival": "nouveau-cinema",
+   "cycle": 2026,
+   "ordinal": 55,
+   "tier": "late",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-14",
+    "to": "2026-05-14",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 55,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Last minute Deadline (Gold USD 49.50)"
+  },
+  {
+   "festival": "nouveau-cinema",
+   "cycle": 2026,
+   "ordinal": 55,
+   "tier": "late",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-14",
+    "to": "2026-05-14",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Last minute Deadline (Gold USD 54)"
+  },
+  {
+   "festival": "nouveau-cinema",
+   "cycle": 2026,
+   "ordinal": 55,
+   "tier": "extended",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-31",
+    "to": "2026-05-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline (Gold USD 54)"
+  },
+  {
+   "festival": "nouveau-cinema",
+   "cycle": 2026,
+   "ordinal": 55,
+   "tier": "extended",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-31",
+    "to": "2026-05-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 65,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline (Gold USD 58)"
   },
   {
    "festival": "ojai",
@@ -19417,6 +20096,7 @@
   {
    "festival": "guanajuato",
    "cycle": 2026,
+   "ordinal": 29,
    "runs": {
     "precision": "day",
     "from": "2026-07-24",
@@ -19589,6 +20269,17 @@
    }
   },
   {
+   "festival": "haifa",
+   "cycle": 2026,
+   "ordinal": 42,
+   "runs": {
+    "precision": "day",
+    "from": "2026-09-26",
+    "to": "2026-10-03",
+    "approximate": false
+   }
+  },
+  {
    "festival": "portland",
    "cycle": 2026,
    "runs": {
@@ -19631,6 +20322,17 @@
    }
   },
   {
+   "festival": "hamptons",
+   "cycle": 2026,
+   "ordinal": 34,
+   "runs": {
+    "precision": "day",
+    "from": "2026-10-02",
+    "to": "2026-10-12",
+    "approximate": false
+   }
+  },
+  {
    "festival": "busan",
    "cycle": 2026,
    "runs": {
@@ -19654,6 +20356,17 @@
    "festival": "heartland",
    "cycle": 2026,
    "ordinal": 35,
+   "runs": {
+    "precision": "day",
+    "from": "2026-10-08",
+    "to": "2026-10-18",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "nouveau-cinema",
+   "cycle": 2026,
+   "ordinal": 55,
    "runs": {
     "precision": "day",
     "from": "2026-10-08",
@@ -19708,6 +20421,17 @@
     "precision": "day",
     "from": "2026-10-16",
     "to": "2026-10-25",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "hawaii",
+   "cycle": 2026,
+   "ordinal": 46,
+   "runs": {
+    "precision": "day",
+    "from": "2026-10-22",
+    "to": "2026-11-01",
     "approximate": false
    }
   },
@@ -19967,6 +20691,17 @@
    }
   },
   {
+   "festival": "goteborg",
+   "cycle": 2027,
+   "ordinal": 50,
+   "runs": {
+    "precision": "day",
+    "from": "2027-01-29",
+    "to": "2027-02-07",
+    "approximate": false
+   }
+  },
+  {
    "festival": "berlinale",
    "cycle": 2027,
    "runs": {
@@ -20056,6 +20791,17 @@
     "to": "2027-03-10",
     "approximate": true,
     "label": "~early Mar 2027"
+   }
+  },
+  {
+   "festival": "guadalajara",
+   "cycle": 2027,
+   "ordinal": 42,
+   "runs": {
+    "precision": "day",
+    "from": "2027-03-06",
+    "to": "2027-03-13",
+    "approximate": false
    }
   },
   {
@@ -20161,6 +20907,17 @@
   {
    "festival": "ficci-cartagena",
    "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-06",
+    "to": "2027-04-11",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "goshort-nijmegen",
+   "cycle": 2027,
+   "ordinal": 19,
    "runs": {
     "precision": "day",
     "from": "2027-04-06",
