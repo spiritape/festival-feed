@@ -14547,8 +14547,42 @@
   {
    "festival": "foyle",
    "cycle": 2026,
-   "tier": "final",
-   "categories": [],
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-08",
+    "to": "2026-06-08",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Light In Motion: Regular deadline"
+  },
+  {
+   "festival": "foyle",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-10",
+    "to": "2026-08-10",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Light In Motion: Late deadline"
+  },
+  {
+   "festival": "foyle",
+   "cycle": 2026,
+   "tier": "extended",
+   "categories": [
+    "short"
+   ],
    "closes": {
     "precision": "day",
     "from": "2026-09-07",
@@ -14556,7 +14590,7 @@
     "approximate": false
    },
    "fee_unknown": true,
-   "note": "Sept 7, 2026 (final)"
+   "note": "Light In Motion: Extended deadline"
   },
   {
    "festival": "french-academy-cinema",
@@ -15695,16 +15729,42 @@
   {
    "festival": "mar-del-plata",
    "cycle": 2026,
-   "tier": "extended",
-   "categories": [],
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
    "closes": {
     "precision": "day",
-    "from": "2026-07-15",
-    "to": "2026-07-15",
+    "from": "2026-06-30",
+    "to": "2026-06-30",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Closed (extended to Jul 15, 2026)"
+   "fee": {
+    "amount": 30,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "International shorts and mid-length films (Argentine ARS 30,000)"
+  },
+  {
+   "festival": "mar-del-plata",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-30",
+    "to": "2026-06-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "International features (Argentine features ARS 60,000)"
   },
   {
    "festival": "new-next",
@@ -18500,6 +18560,49 @@
    "festival": "venice",
    "cycle": 2026,
    "ordinal": 83,
+   "tier": "early",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-29",
+    "to": "2026-04-29",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 80,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Short films, before the fee rises"
+  },
+  {
+   "festival": "venice",
+   "cycle": 2026,
+   "ordinal": 83,
+   "tier": "early",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-14",
+    "to": "2026-05-14",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 200,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Features, series and miniseries, before the fee rises"
+  },
+  {
+   "festival": "venice",
+   "cycle": 2026,
+   "ordinal": 83,
+   "tier": "regular",
    "categories": [
     "short"
    ],
@@ -18509,13 +18612,18 @@
     "to": "2026-05-28",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "shorts: May 28, 2026)"
+   "fee": {
+    "amount": 100,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Short films"
   },
   {
    "festival": "venice",
    "cycle": 2026,
    "ordinal": 83,
+   "tier": "regular",
    "categories": [
     "feature"
    ],
@@ -18525,8 +18633,12 @@
     "to": "2026-06-04",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "2026 ed. closed (features: Jun 4, 2026"
+   "fee": {
+    "amount": 250,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Features, series and miniseries"
   }
  ],
  "events": [
@@ -20796,6 +20908,16 @@
     "precision": "day",
     "from": "2026-11-18",
     "to": "2026-11-22",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "foyle",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-11-18",
+    "to": "2026-11-29",
     "approximate": false
    }
   },
