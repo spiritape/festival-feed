@@ -5714,7 +5714,7 @@
     "to": "2026-11-15",
     "approximate": false
    },
-   "verified_on": "2026-10-13"
+   "verified_on": "2026-10-20"
   },
   {
    "festival": "iff-boston",
@@ -6120,14 +6120,14 @@
   },
   {
    "festival": "voyage-in-time-paris",
-   "cycle": 2027,
+   "cycle": 2026,
    "runs": {
     "precision": "day",
-    "from": "2027-04-15",
-    "to": "2027-04-15",
+    "from": "2026-12-05",
+    "to": "2026-12-05",
     "approximate": false
    },
-   "verified_on": "2026-09-12"
+   "verified_on": "2026-10-20"
   }
  ],
  "deadlines": [
@@ -6740,6 +6740,20 @@
    },
    "fee_unknown": false,
    "note": "Earlybird Deadline: Short Film, Animation, Feature Film"
+  },
+  {
+   "festival": "voyage-in-time-paris",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-30",
+    "to": "2026-09-30",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Deadline"
   },
   {
    "festival": "ashland-independent",
@@ -8483,6 +8497,20 @@
    "note": "🔸 Regular Deadline for Foreign Entries >"
   },
   {
+   "festival": "voyage-in-time-paris",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-31",
+    "to": "2026-10-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Deadline"
+  },
+  {
    "festival": "bali",
    "cycle": 2027,
    "tier": "early",
@@ -9948,6 +9976,20 @@
    "note": "Regular (Un)Deadline"
   },
   {
+   "festival": "voyage-in-time-paris",
+   "cycle": 2026,
+   "tier": "extended",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-28",
+    "to": "2026-11-28",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Extended Deadline"
+  },
+  {
    "festival": "ficci-cartagena",
    "cycle": 2027,
    "tier": "final",
@@ -11294,20 +11336,6 @@
    },
    "fee_unknown": true,
    "note": "Early-bird deadline"
-  },
-  {
-   "festival": "voyage-in-time-paris",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-12-31",
-    "to": "2026-12-31",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Regular Deadline"
   },
   {
    "festival": "bali",
@@ -13384,20 +13412,6 @@
    "note": "Regular Deadline"
   },
   {
-   "festival": "voyage-in-time-paris",
-   "cycle": 2027,
-   "tier": "late",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2027-02-28",
-    "to": "2027-02-28",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Late Deadline"
-  },
-  {
    "festival": "bali",
    "cycle": 2027,
    "tier": "final",
@@ -13937,20 +13951,6 @@
    },
    "fee_unknown": true,
    "note": "Submissions close"
-  },
-  {
-   "festival": "voyage-in-time-paris",
-   "cycle": 2027,
-   "tier": "extended",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2027-03-31",
-    "to": "2027-03-31",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Extended Deadline"
   },
   {
    "festival": "bronzelens",
@@ -23068,6 +23068,16 @@
    }
   },
   {
+   "festival": "voyage-in-time-paris",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-12-05",
+    "to": "2026-12-05",
+    "approximate": false
+   }
+  },
+  {
    "festival": "pov",
    "cycle": 2027,
    "runs": {
@@ -23434,16 +23444,6 @@
     "precision": "day",
     "from": "2027-04-15",
     "to": "2027-04-18",
-    "approximate": false
-   }
-  },
-  {
-   "festival": "voyage-in-time-paris",
-   "cycle": 2027,
-   "runs": {
-    "precision": "day",
-    "from": "2027-04-15",
-    "to": "2027-04-15",
     "approximate": false
    }
   },
