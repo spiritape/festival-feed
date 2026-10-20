@@ -3033,7 +3033,8 @@
    "id": "london-independent",
    "name": "London Independent Film Festival",
    "entry": "open",
-   "page": "https://liff.org/",
+   "page": "https://filmfreeway.com/LIFF",
+   "submit": "https://filmfreeway.com/LIFF",
    "website": "https://liff.org/",
    "city": "London",
    "country": "United Kingdom",
@@ -8933,15 +8934,145 @@
    "festival": "london-independent",
    "cycle": 2027,
    "tier": "early",
-   "categories": [],
+   "categories": [
+    "animation",
+    "short"
+   ],
    "closes": {
     "precision": "day",
     "from": "2026-11-05",
     "to": "2026-11-05",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Earlybird Deadline"
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: Animated Short (under 50 min)"
+  },
+  {
+   "festival": "london-independent",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-05",
+    "to": "2026-11-05",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 80,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: Documentary Feature (over 30 min)"
+  },
+  {
+   "festival": "london-independent",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-05",
+    "to": "2026-11-05",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 80,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: Features (no/micro/low budget, UK, sci-fi/horror, LGBT, female director, AI, American Spotlight)"
+  },
+  {
+   "festival": "london-independent",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-05",
+    "to": "2026-11-05",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: Short Film (under 50 min; also UK, sci-fi/horror, AI, American Spotlight shorts)"
+  },
+  {
+   "festival": "london-independent",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-05",
+    "to": "2026-11-05",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: Short Short (under 5 min)"
+  },
+  {
+   "festival": "london-independent",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-05",
+    "to": "2026-11-05",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: Experimental Short (under 50 min)"
+  },
+  {
+   "festival": "london-independent",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-05",
+    "to": "2026-11-05",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: Short Documentary (under 30 min)"
   },
   {
    "festival": "phoenix",
@@ -10161,15 +10292,145 @@
    "festival": "london-independent",
    "cycle": 2027,
    "tier": "regular",
-   "categories": [],
+   "categories": [
+    "documentary",
+    "feature"
+   ],
    "closes": {
     "precision": "day",
     "from": "2026-12-03",
     "to": "2026-12-03",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Regular Deadline"
+   "fee": {
+    "amount": 85,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Documentary Feature (over 30 min)"
+  },
+  {
+   "festival": "london-independent",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-03",
+    "to": "2026-12-03",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 85,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Features (no/micro/low budget, UK, sci-fi/horror, LGBT, female director, AI, American Spotlight)"
+  },
+  {
+   "festival": "london-independent",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-03",
+    "to": "2026-12-03",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Short Film (under 50 min; also UK, sci-fi/horror, AI, American Spotlight shorts)"
+  },
+  {
+   "festival": "london-independent",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-03",
+    "to": "2026-12-03",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Short Short (under 5 min)"
+  },
+  {
+   "festival": "london-independent",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-03",
+    "to": "2026-12-03",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Experimental Short (under 50 min)"
+  },
+  {
+   "festival": "london-independent",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-03",
+    "to": "2026-12-03",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Short Documentary (under 30 min)"
+  },
+  {
+   "festival": "london-independent",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "animation",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-03",
+    "to": "2026-12-03",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Animated Short (under 50 min)"
   },
   {
    "festival": "bfi-flare",
@@ -11544,15 +11805,145 @@
    "festival": "london-independent",
    "cycle": 2027,
    "tier": "late",
-   "categories": [],
+   "categories": [
+    "documentary",
+    "short"
+   ],
    "closes": {
     "precision": "day",
     "from": "2027-01-14",
     "to": "2027-01-14",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Late Deadline"
+   "fee": {
+    "amount": 55,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Short Documentary (under 30 min)"
+  },
+  {
+   "festival": "london-independent",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-14",
+    "to": "2027-01-14",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 95,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Documentary Feature (over 30 min)"
+  },
+  {
+   "festival": "london-independent",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "animation",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-14",
+    "to": "2027-01-14",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 55,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Animated Short (under 50 min)"
+  },
+  {
+   "festival": "london-independent",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-14",
+    "to": "2027-01-14",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 95,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Features (no/micro/low budget, UK, sci-fi/horror, LGBT, female director, AI, American Spotlight)"
+  },
+  {
+   "festival": "london-independent",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-14",
+    "to": "2027-01-14",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 55,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Experimental Short (under 50 min)"
+  },
+  {
+   "festival": "london-independent",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-14",
+    "to": "2027-01-14",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 55,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Short Film (under 50 min; also UK, sci-fi/horror, AI, American Spotlight shorts)"
+  },
+  {
+   "festival": "london-independent",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-14",
+    "to": "2027-01-14",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Short Short (under 5 min)"
   },
   {
    "festival": "doc-edge",
@@ -12485,15 +12876,145 @@
    "festival": "london-independent",
    "cycle": 2027,
    "tier": "final",
-   "categories": [],
+   "categories": [
+    "documentary",
+    "feature"
+   ],
    "closes": {
     "precision": "day",
     "from": "2027-02-11",
     "to": "2027-02-11",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Final Deadline"
+   "fee": {
+    "amount": 99,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final Deadline: Documentary Feature (over 30 min)"
+  },
+  {
+   "festival": "london-independent",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-11",
+    "to": "2027-02-11",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 99,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final Deadline: Features (no/micro/low budget, UK, sci-fi/horror, LGBT, female director, AI, American Spotlight)"
+  },
+  {
+   "festival": "london-independent",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-11",
+    "to": "2027-02-11",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final Deadline: Experimental Short (under 50 min)"
+  },
+  {
+   "festival": "london-independent",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-11",
+    "to": "2027-02-11",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final Deadline: Short Film (under 50 min; also UK, sci-fi/horror, AI, American Spotlight shorts)"
+  },
+  {
+   "festival": "london-independent",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-11",
+    "to": "2027-02-11",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final Deadline: Short Short (under 5 min)"
+  },
+  {
+   "festival": "london-independent",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-11",
+    "to": "2027-02-11",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final Deadline: Short Documentary (under 30 min)"
+  },
+  {
+   "festival": "london-independent",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "animation",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-11",
+    "to": "2027-02-11",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final Deadline: Animated Short (under 50 min)"
   },
   {
    "festival": "deadcenter",
