@@ -5304,7 +5304,7 @@
     "to": "2027-03-21",
     "approximate": false
    },
-   "verified_on": "2026-10-05"
+   "verified_on": "2026-10-20"
   },
   {
    "festival": "anifilm-animated",
@@ -5447,7 +5447,7 @@
     "to": "2027-08-29",
     "approximate": false
    },
-   "verified_on": "2026-09-20"
+   "verified_on": "2026-10-20"
   },
   {
    "festival": "brooklyn",
@@ -5458,7 +5458,7 @@
     "to": "2027-06-03",
     "approximate": false
    },
-   "verified_on": "2026-10-11"
+   "verified_on": "2026-10-20"
   },
   {
    "festival": "busan-10",
@@ -5987,7 +5987,7 @@
     "to": "2027-02-24",
     "approximate": false
    },
-   "verified_on": "2026-10-18"
+   "verified_on": "2026-10-20"
   },
   {
    "festival": "sofia",
@@ -6059,7 +6059,7 @@
     "to": "2026-11-20",
     "approximate": false
    },
-   "verified_on": "2026-10-12"
+   "verified_on": "2026-10-20"
   },
   {
    "festival": "voyage-in-time-fest",
@@ -6070,7 +6070,7 @@
     "to": "2027-02-24",
     "approximate": false
    },
-   "verified_on": "2026-09-27"
+   "verified_on": "2026-10-20"
   },
   {
    "festival": "voyage-in-time-fest-tokyo",
@@ -6081,7 +6081,7 @@
     "to": "2027-09-08",
     "approximate": false
    },
-   "verified_on": "2026-09-12"
+   "verified_on": "2026-10-20"
   },
   {
    "festival": "voyage-in-time-kyoto",
@@ -6092,7 +6092,7 @@
     "to": "2027-09-17",
     "approximate": false
    },
-   "verified_on": "2026-09-13"
+   "verified_on": "2026-10-20"
   },
   {
    "festival": "voyage-in-time-paris",
@@ -8182,27 +8182,6 @@
    "note": "Call for Entries"
   },
   {
-   "festival": "brooklyn",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "documentary",
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-30",
-    "to": "2026-10-30",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 65,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Early-bird Deadline - Features: Narrative Feature, Documentary Feature"
-  },
-  {
    "festival": "iff-boston",
    "cycle": 2027,
    "tier": "regular",
@@ -8272,6 +8251,23 @@
    },
    "fee_unknown": false,
    "note": "Late Deadline: Feature: Fiction, Feature: Documentary, Feature: Animation, Feature: Santa Barbara Filmmaker"
+  },
+  {
+   "festival": "brooklyn",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-31",
+    "to": "2026-10-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Early-bird Deadline – Feature Narrative & Feature Documentary"
   },
   {
    "festival": "ficci-cartagena",
@@ -9822,30 +9818,6 @@
    },
    "fee_unknown": false,
    "note": "Early Bird Deadline: Horror Short, Indiana Spotlight Narrative Short, Indiana Spotlight Documentary Short, Indiana Spotlight Animated Short"
-  },
-  {
-   "festival": "brooklyn",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "animation",
-    "documentary",
-    "experimental",
-    "feature",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-11-30",
-    "to": "2026-11-30",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 65,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Early-bird Deadline - Shorts: Narrative Feature, Short Narrative, Short Documentary, Experimental, Animation"
   },
   {
    "festival": "sarasota",
@@ -13903,8 +13875,8 @@
    "categories": [],
    "closes": {
     "precision": "day",
-    "from": "2027-09-01",
-    "to": "2027-09-01",
+    "from": "2027-08-31",
+    "to": "2027-08-31",
     "approximate": false
    },
    "fee_unknown": true,
@@ -18851,6 +18823,62 @@
    },
    "fee_unknown": true,
    "note": "Extended Deadline"
+  },
+  {
+   "festival": "san-jose",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-01",
+    "to": "2026-03-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Earlybird Deadline"
+  },
+  {
+   "festival": "san-jose",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-01",
+    "to": "2026-06-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Deadline"
+  },
+  {
+   "festival": "san-jose",
+   "cycle": 2026,
+   "tier": "extended",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-20",
+    "to": "2026-07-20",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Extended Deadline"
+  },
+  {
+   "festival": "san-jose",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-28",
+    "to": "2026-07-28",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Deadline"
   },
   {
    "festival": "san-sebastian",
