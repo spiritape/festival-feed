@@ -539,7 +539,8 @@
    "id": "berlin-gate",
    "name": "Berlin Gate International Film Festival (BGIFF)",
    "entry": "open",
-   "page": "https://bgiff.com",
+   "page": "https://bgiff.com/submit",
+   "submit": "https://bgiff.com/submit",
    "website": "https://bgiff.com",
    "portal": "own",
    "city": "Berlin",
@@ -1650,8 +1651,8 @@
    "id": "ficx-gijon",
    "name": "Ficx – Gijon International Film Festival",
    "entry": "open",
-   "page": "https://www.gijonfilmfestival.com",
-   "website": "https://www.gijonfilmfestival.com",
+   "page": "https://ficx.tv/",
+   "website": "https://ficx.tv/",
    "portal": "own",
    "country": "Spain",
    "academy": {
@@ -1714,7 +1715,8 @@
    "id": "flickerfest",
    "name": "Flickerfest International Short Film Festival",
    "entry": "open",
-   "page": "https://www.flickerfest.com.au",
+   "page": "https://filmfreeway.com/flickerfest",
+   "submit": "https://filmfreeway.com/flickerfest",
    "website": "https://www.flickerfest.com.au",
    "portal": "own",
    "country": "Australia",
@@ -1812,7 +1814,8 @@
    "id": "full-frame-documentary",
    "name": "Full Frame Documentary Film Festival",
    "entry": "open",
-   "page": "https://www.fullframefest.org",
+   "page": "https://tickets.duke.edu/fullframe/online/article/entry27",
+   "submit": "https://tickets.duke.edu/fullframe/online/article/entry27",
    "website": "https://www.fullframefest.org",
    "portal": "own",
    "region": "North Carolina",
@@ -1829,7 +1832,8 @@
    "id": "galway-fleadh",
    "name": "Galway Film Fleadh",
    "entry": "open",
-   "page": "https://www.galwayfilmfleadh.com",
+   "page": "https://filmfreeway.com/GalwayFilmFleadh",
+   "submit": "https://filmfreeway.com/GalwayFilmFleadh",
    "website": "https://www.galwayfilmfleadh.com",
    "portal": "own",
    "country": "Ireland",
@@ -1859,7 +1863,8 @@
    "id": "german-award",
    "name": "German Short Film Award",
    "entry": "open",
-   "page": "https://deutscher-kurzfilmpreis.de",
+   "page": "https://deutscher-kurzfilmpreis.de/bewerbung",
+   "submit": "https://deutscher-kurzfilmpreis.de/bewerbung",
    "website": "https://deutscher-kurzfilmpreis.de",
    "portal": "own",
    "country": "Germany",
@@ -2953,7 +2958,8 @@
    "id": "mpumalanga",
    "name": "Mpumalanga International Film Festival",
    "entry": "open",
-   "page": "https://miff.co.za",
+   "page": "https://www.miff.co.za/miff-2027/submit-your-film/",
+   "submit": "https://www.miff.co.za/miff-2027/submit-your-film/",
    "website": "https://miff.co.za",
    "portal": "own",
    "city": "Mbombela",
@@ -3083,7 +3089,8 @@
    "id": "new-york-screening",
    "name": "New York Film Screening Festival",
    "entry": "open",
-   "page": "https://nyfilmscreeningfest.com",
+   "page": "https://filmfreeway.com/NYFilmScreeningFestival",
+   "submit": "https://filmfreeway.com/NYFilmScreeningFestival",
    "website": "https://nyfilmscreeningfest.com",
    "portal": "own",
    "city": "New York",
@@ -3772,7 +3779,8 @@
    "id": "sarajevo",
    "name": "Sarajevo Film Festival",
    "entry": "open",
-   "page": "https://www.sff.ba/",
+   "page": "https://www.sff.ba/en/page/film-submission-rules-and-regulations",
+   "submit": "https://www.sff.ba/en/page/film-submission-rules-and-regulations",
    "website": "https://www.sff.ba/",
    "portal": "own",
    "city": "Sarajevo",
@@ -4806,12 +4814,14 @@
   {
    "festival": "berlin-gate",
    "cycle": 2027,
-   "verified_on": "2026-10-05"
-  },
-  {
-   "festival": "berlin-gate",
-   "cycle": 2026,
-   "verified_on": "2026-09-03"
+   "ordinal": 1,
+   "runs": {
+    "precision": "day",
+    "from": "2027-01-24",
+    "to": "2027-01-24",
+    "approximate": false
+   },
+   "verified_on": "2026-10-13"
   },
   {
    "festival": "berlin-independent",
@@ -4971,6 +4981,18 @@
    "verified_on": "2026-09-03"
   },
   {
+   "festival": "flickerfest",
+   "cycle": 2027,
+   "ordinal": 36,
+   "runs": {
+    "precision": "day",
+    "from": "2027-01-22",
+    "to": "2027-01-31",
+    "approximate": false
+   },
+   "verified_on": "2026-10-19"
+  },
+  {
    "festival": "florida",
    "cycle": 2027,
    "runs": {
@@ -4993,6 +5015,28 @@
    "verified_on": "2026-10-05"
   },
   {
+   "festival": "full-frame-documentary",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-01",
+    "to": "2027-04-04",
+    "approximate": false
+   },
+   "verified_on": "2026-10-19"
+  },
+  {
+   "festival": "galway-fleadh",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-07-06",
+    "to": "2027-07-11",
+    "approximate": false
+   },
+   "verified_on": "2026-10-19"
+  },
+  {
    "festival": "hollyshorts",
    "cycle": 2027,
    "runs": {
@@ -5006,13 +5050,14 @@
   {
    "festival": "hollyshorts-london",
    "cycle": 2026,
+   "ordinal": 3,
    "runs": {
     "precision": "day",
     "from": "2026-11-12",
     "to": "2026-11-15",
     "approximate": false
    },
-   "verified_on": "2026-09-18"
+   "verified_on": "2026-10-13"
   },
   {
    "festival": "iff-boston",
@@ -5087,12 +5132,12 @@
    "festival": "mpumalanga",
    "cycle": 2027,
    "runs": {
-    "precision": "year",
-    "from": "2027-01-01",
-    "to": "2027-12-31",
+    "precision": "day",
+    "from": "2027-08-02",
+    "to": "2027-08-10",
     "approximate": false
    },
-   "verified_on": "2026-09-03"
+   "verified_on": "2026-10-13"
   },
   {
    "festival": "new-media",
@@ -5102,7 +5147,13 @@
   {
    "festival": "new-york-screening",
    "cycle": 2027,
-   "verified_on": "2026-09-03"
+   "runs": {
+    "precision": "day",
+    "from": "2027-12-11",
+    "to": "2027-12-11",
+    "approximate": false
+   },
+   "verified_on": "2026-10-13"
   },
   {
    "festival": "omaha",
@@ -5661,6 +5712,52 @@
    "note": "Earlybird Deadline: Narrative Shorts, Documentary Shorts, International Shorts, Animation Shorts, Experimental Shorts"
   },
   {
+   "festival": "full-frame-documentary",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "short",
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-30",
+    "to": "2026-09-30",
+    "approximate": false,
+    "time": "23:00:00",
+    "tz": "ET"
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Shorts Deadline"
+  },
+  {
+   "festival": "full-frame-documentary",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "feature",
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-30",
+    "to": "2026-09-30",
+    "approximate": false,
+    "time": "23:00:00",
+    "tz": "ET"
+   },
+   "fee": {
+    "amount": 80,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Features Deadline"
+  },
+  {
    "festival": "portland",
    "cycle": 2027,
    "categories": [
@@ -6191,6 +6288,7 @@
   {
    "festival": "hollyshorts-london",
    "cycle": 2026,
+   "ordinal": 3,
    "tier": "extended",
    "categories": [
     "short",
@@ -6320,6 +6418,7 @@
   {
    "festival": "berlin-gate",
    "cycle": 2027,
+   "ordinal": 1,
    "tier": "regular",
    "categories": [],
    "closes": {
@@ -6329,7 +6428,7 @@
     "approximate": false
    },
    "fee_unknown": true,
-   "note": "Regular Deadline"
+   "note": "Regular Deadline. Free via Festhome (bgiff.com FAQ: \"free for this edition\"); FilmFreeway charges its own fees"
   },
   {
    "festival": "slamdance",
@@ -6639,6 +6738,27 @@
    },
    "fee_unknown": false,
    "note": "Extended Deadline: Experimental (Short), Experimental Narrative (Short), Experimental Documentary (Short), Experimental Animation (Short)"
+  },
+  {
+   "festival": "flickerfest",
+   "cycle": 2027,
+   "ordinal": 36,
+   "tier": "late",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-14",
+    "to": "2026-10-14",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late"
   },
   {
    "festival": "deadcenter",
@@ -7395,6 +7515,20 @@
    "note": "Extended Deadline: International Competition - ANIMATION"
   },
   {
+   "festival": "mpumalanga",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-31",
+    "to": "2026-10-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Early Bird. FilmFreeway fees range USD 10-20 by category and tier"
+  },
+  {
    "festival": "sidewalk",
    "cycle": 2027,
    "categories": [
@@ -7578,6 +7712,7 @@
   {
    "festival": "berlin-gate",
    "cycle": 2027,
+   "ordinal": 1,
    "tier": "late",
    "categories": [],
    "closes": {
@@ -7587,7 +7722,7 @@
     "approximate": false
    },
    "fee_unknown": true,
-   "note": "Late Deadline"
+   "note": "Late Deadline. Free via Festhome (bgiff.com FAQ: \"free for this edition\"); FilmFreeway charges its own fees"
   },
   {
    "festival": "cinequest",
@@ -8344,6 +8479,98 @@
    "note": "Final Deadline: Narrative Short, Documentary Short, Animated Short"
   },
   {
+   "festival": "full-frame-documentary",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "feature",
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-15",
+    "to": "2026-11-15",
+    "approximate": false,
+    "time": "23:00:00",
+    "tz": "ET"
+   },
+   "fee": {
+    "amount": 90,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Features Deadline (the Final Deadline)"
+  },
+  {
+   "festival": "full-frame-documentary",
+   "cycle": 2027,
+   "categories": [
+    "short",
+    "documentary",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-15",
+    "to": "2026-11-15",
+    "approximate": false,
+    "time": "23:00:00",
+    "tz": "ET"
+   },
+   "fee": {
+    "amount": 30,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Student Shorts Deadline (one rate, Aug 1 – Nov 15; current undergraduate or graduate students)"
+  },
+  {
+   "festival": "full-frame-documentary",
+   "cycle": 2027,
+   "categories": [
+    "feature",
+    "documentary",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-15",
+    "to": "2026-11-15",
+    "approximate": false,
+    "time": "23:00:00",
+    "tz": "ET"
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Student Features Deadline (one rate, Aug 1 – Nov 15; current undergraduate or graduate students)"
+  },
+  {
+   "festival": "full-frame-documentary",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "short",
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-15",
+    "to": "2026-11-15",
+    "approximate": false,
+    "time": "23:00:00",
+    "tz": "ET"
+   },
+   "fee": {
+    "amount": 70,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Shorts Deadline (the Final Deadline)"
+  },
+  {
    "festival": "chicago-underground",
    "cycle": 2027,
    "tier": "early",
@@ -8586,6 +8813,27 @@
    "note": "Late Deadline: Documentary (short subject), Narrative (short subject)"
   },
   {
+   "festival": "flickerfest",
+   "cycle": 2027,
+   "ordinal": 36,
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-23",
+    "to": "2026-11-23",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 17,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "FlickerUp youth competition (Australian secondary students and under-18s, under 25 minutes); the site says \"midnight PST\", 7pm AEDT the next day"
+  },
+  {
    "festival": "overlook",
    "cycle": 2027,
    "tier": "regular",
@@ -8654,20 +8902,6 @@
    },
    "fee_unknown": false,
    "note": "Early Bird Deadline: Horror Short, Indiana Spotlight Narrative Short, Indiana Spotlight Documentary Short, Indiana Spotlight Animated Short"
-  },
-  {
-   "festival": "berlin-gate",
-   "cycle": 2026,
-   "tier": "final",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-11-30",
-    "to": "2026-11-30",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Nov 30, 2026"
   },
   {
    "festival": "brooklyn",
@@ -8991,6 +9225,26 @@
    },
    "fee_unknown": true,
    "note": "Regular"
+  },
+  {
+   "festival": "galway-fleadh",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-07",
+    "to": "2026-12-07",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 30,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Feature Film Early Bird"
   },
   {
    "festival": "riverrun",
@@ -9433,6 +9687,20 @@
    },
    "fee_unknown": false,
    "note": "Call for entries closes (or at 2,200 entries)"
+  },
+  {
+   "festival": "mpumalanga",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-15",
+    "to": "2026-12-15",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular. FilmFreeway fees range USD 10-20 by category and tier"
   },
   {
    "festival": "seattle",
@@ -10442,6 +10710,26 @@
    "note": "Late (Un)Deadline"
   },
   {
+   "festival": "galway-fleadh",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-25",
+    "to": "2027-01-25",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 25,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Short Film Early Bird"
+  },
+  {
    "festival": "fest-new-directors-new-films",
    "cycle": 2027,
    "tier": "extended",
@@ -10612,6 +10900,20 @@
    },
    "fee_unknown": false,
    "note": "Extended Deadline: International Feature Documentary: non-world premiere, International Feature Documentary: available for world premiere"
+  },
+  {
+   "festival": "mpumalanga",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-31",
+    "to": "2027-01-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late. FilmFreeway fees range USD 10-20 by category and tier"
   },
   {
    "festival": "sidewalk",
@@ -11265,6 +11567,26 @@
    "note": "Regular Deadline: Horror Short, Indiana Spotlight Narrative Short, Indiana Spotlight Documentary Short, Indiana Spotlight Animated Short"
   },
   {
+   "festival": "galway-fleadh",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-15",
+    "to": "2027-02-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Feature Film Regular"
+  },
+  {
    "festival": "documentary-sheffield",
    "cycle": 2027,
    "tier": "late",
@@ -11322,7 +11644,7 @@
   {
    "festival": "mpumalanga",
    "cycle": 2027,
-   "tier": "final",
+   "tier": "extended",
    "categories": [],
    "closes": {
     "precision": "day",
@@ -11331,7 +11653,7 @@
     "approximate": false
    },
    "fee_unknown": true,
-   "note": "Feb 20, 2027"
+   "note": "Extended. Festival site: \"Final deadline being confirmed\". FilmFreeway fees range USD 10-20 by category and tier"
   },
   {
    "festival": "brooklyn",
@@ -11684,6 +12006,26 @@
    "note": "Late Deadline: Horror Short, Indiana Spotlight Narrative Short, Indiana Spotlight Documentary Short, Indiana Spotlight Animated Short"
   },
   {
+   "festival": "galway-fleadh",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-03-08",
+    "to": "2027-03-08",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 30,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Short Film Regular"
+  },
+  {
    "festival": "brooklyn",
    "cycle": 2027,
    "tier": "extended",
@@ -11812,6 +12154,26 @@
    },
    "fee_unknown": false,
    "note": "Late Deadline: Narrative Short, Documentary Short, Animated Short"
+  },
+  {
+   "festival": "galway-fleadh",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-03-15",
+    "to": "2027-03-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "International Feature Film Late Deadline"
   },
   {
    "festival": "run-shoot-filmworks",
@@ -12014,6 +12376,26 @@
    "note": "Regular Deadline: Short Live Action, Animation, Documentary, Student, Bollywood Shorts"
   },
   {
+   "festival": "galway-fleadh",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-04-05",
+    "to": "2027-04-05",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Irish Feature Film Late Deadline (Irish films only)"
+  },
+  {
    "festival": "new-media",
    "cycle": 2027,
    "tier": "final",
@@ -12041,6 +12423,26 @@
    },
    "fee_unknown": true,
    "note": "Call for entries closes"
+  },
+  {
+   "festival": "galway-fleadh",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-04-12",
+    "to": "2027-04-12",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "International Short Film Late Deadline"
   },
   {
    "festival": "run-shoot-filmworks",
@@ -12256,6 +12658,26 @@
    "note": "Extended Deadline: Narrative Short, Documentary Short, Animated Short"
   },
   {
+   "festival": "galway-fleadh",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-05-04",
+    "to": "2027-05-04",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Irish Short Film Late Deadline (Irish films only)"
+  },
+  {
    "festival": "hollyshorts",
    "cycle": 2027,
    "tier": "late",
@@ -12379,7 +12801,7 @@
     "approximate": false
    },
    "fee_unknown": true,
-   "note": "Jul 1, 2027"
+   "note": "Regular Deadline (FilmFreeway), Jul 1, 2027"
   },
   {
    "festival": "voyage-in-time-fest-tokyo",
@@ -13554,6 +13976,48 @@
    "note": "Regular Deadline: Short List: Features, Winner's Circle (Features Only)"
   },
   {
+   "festival": "documentary-kerala",
+   "cycle": 2026,
+   "ordinal": 18,
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-10",
+    "to": "2026-05-10",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 1000,
+    "currency": "INR",
+    "note": "competition sections only"
+   },
+   "fee_unknown": false,
+   "note": "Short fiction (60 min and below) and animation (30 min and below)"
+  },
+  {
+   "festival": "documentary-kerala",
+   "cycle": 2026,
+   "ordinal": 18,
+   "categories": [
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-10",
+    "to": "2026-05-10",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 1000,
+    "currency": "INR",
+    "note": "competition sections only"
+   },
+   "fee_unknown": false,
+   "note": "Long (40 min and above) and short documentary"
+  },
+  {
    "festival": "downtown-nyc",
    "cycle": 2026,
    "tier": "early",
@@ -13702,6 +14166,72 @@
    "note": "Closed (Apr 24, 2026)"
   },
   {
+   "festival": "ficx-gijon",
+   "cycle": 2026,
+   "ordinal": 64,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-21",
+    "to": "2026-08-21",
+    "approximate": false
+   },
+   "fee_unknown": false,
+   "note": "Enfants Terribles section only (children's and youth audience), any length"
+  },
+  {
+   "festival": "ficx-gijon",
+   "cycle": 2026,
+   "ordinal": 64,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-06",
+    "to": "2026-09-06",
+    "approximate": false
+   },
+   "fee_unknown": false,
+   "note": "Shorts, regular period"
+  },
+  {
+   "festival": "ficx-gijon",
+   "cycle": 2026,
+   "ordinal": 64,
+   "tier": "regular",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-06",
+    "to": "2026-09-06",
+    "approximate": false
+   },
+   "fee_unknown": false,
+   "note": "All feature sections (Albar, Retueyos, FICX Premiere and non-competitive)"
+  },
+  {
+   "festival": "ficx-gijon",
+   "cycle": 2026,
+   "ordinal": 64,
+   "tier": "extended",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-13",
+    "to": "2026-09-13",
+    "approximate": false
+   },
+   "fee_unknown": false,
+   "note": "Shorts, extended period (período ampliado)"
+  },
+  {
    "festival": "foyle",
    "cycle": 2026,
    "tier": "final",
@@ -13730,6 +14260,21 @@
    },
    "fee_unknown": true,
    "note": "Online entry for the César 2027 short film awards closed 15 July 2026."
+  },
+  {
+   "festival": "german-award",
+   "cycle": 2026,
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-01",
+    "to": "2026-07-01",
+    "approximate": false
+   },
+   "fee_unknown": false,
+   "note": "Bewerbungsfrist (application deadline) via the Bundesportal"
   },
   {
    "festival": "havana",
@@ -14035,6 +14580,22 @@
    },
    "fee_unknown": false,
    "note": "Late fee; final submission deadline; short and mid-length, under 64 minutes"
+  },
+  {
+   "festival": "internacional-cine-lebu",
+   "cycle": 2026,
+   "ordinal": 26,
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-02-28",
+    "to": "2026-02-28",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Convocatoria close; Festhome's fee isn't stated and the festival's own form is free"
   },
   {
    "festival": "karlovy-vary",
@@ -16422,6 +16983,45 @@
    "note": "Final Deadline"
   },
   {
+   "festival": "sarajevo",
+   "cycle": 2026,
+   "ordinal": 32,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-15",
+    "to": "2026-05-15",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Avant Premiere, Open Air, Kinoscope, Summer Screen, European Shorts, Children's Programme, TeenArena, Dealing with the Past, BH Film. Fees 40 EUR feature/middle-length, 20 EUR short (BH Film free)"
+  },
+  {
+   "festival": "sarajevo",
+   "cycle": 2026,
+   "ordinal": 32,
+   "tier": "regular",
+   "categories": [
+    "feature",
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-25",
+    "to": "2026-05-25",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 0,
+    "currency": "EUR",
+    "note": "free to submit"
+   },
+   "fee_unknown": false,
+   "note": "Competition Programme: Feature, Documentary, Short and Student Film"
+  },
+  {
    "festival": "spark-animation",
    "cycle": 2026,
    "categories": [
@@ -16540,7 +17140,10 @@
    "festival": "tauron-american-in-poland",
    "cycle": 2026,
    "tier": "regular",
-   "categories": [],
+   "categories": [
+    "feature",
+    "documentary"
+   ],
    "closes": {
     "precision": "day",
     "from": "2026-06-20",
@@ -16548,7 +17151,22 @@
     "approximate": false
    },
    "fee_unknown": true,
-   "note": "Jun 20, 2026 (passed)"
+   "note": "Jun 20, 2026 (passed). Breakthrough (narrative features) and American Docs competitions, min. 60 minutes"
+  },
+  {
+   "festival": "tauron-american-in-poland",
+   "cycle": 2026,
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-01",
+    "to": "2026-09-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Short Cuts - Short Film Competition (new in 2026): narrative live-action shorts up to 30 min; submission period July 15 - September 1, 2026. https://www.americanfilmfestival.pl/akt.do?id=5882"
   },
   {
    "festival": "thomas-edison",
@@ -18484,10 +19102,11 @@
   {
    "festival": "internacional-cine-lebu",
    "cycle": 2026,
+   "ordinal": 26,
    "runs": {
     "precision": "day",
     "from": "2026-05-22",
-    "to": "2026-05-29",
+    "to": "2026-05-30",
     "approximate": false
    }
   },
@@ -18856,6 +19475,17 @@
    }
   },
   {
+   "festival": "sarajevo",
+   "cycle": 2026,
+   "ordinal": 32,
+   "runs": {
+    "precision": "day",
+    "from": "2026-08-14",
+    "to": "2026-08-21",
+    "approximate": false
+   }
+  },
+  {
    "festival": "hiro-shima-animation",
    "cycle": 2026,
    "runs": {
@@ -18944,6 +19574,17 @@
     "precision": "day",
     "from": "2026-09-23",
     "to": "2026-09-27",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "documentary-kerala",
+   "cycle": 2026,
+   "ordinal": 18,
+   "runs": {
+    "precision": "day",
+    "from": "2026-09-25",
+    "to": "2026-09-30",
     "approximate": false
    }
   },
@@ -19183,10 +19824,32 @@
   {
    "festival": "hollyshorts-london",
    "cycle": 2026,
+   "ordinal": 3,
    "runs": {
     "precision": "day",
     "from": "2026-11-12",
     "to": "2026-11-15",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "ficx-gijon",
+   "cycle": 2026,
+   "ordinal": 64,
+   "runs": {
+    "precision": "day",
+    "from": "2026-11-13",
+    "to": "2026-11-21",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "german-award",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-11-16",
+    "to": "2026-11-16",
     "approximate": false
    }
   },
@@ -19241,16 +19904,6 @@
    }
   },
   {
-   "festival": "mpumalanga",
-   "cycle": 2027,
-   "runs": {
-    "precision": "year",
-    "from": "2027-01-01",
-    "to": "2027-12-31",
-    "approximate": false
-   }
-  },
-  {
    "festival": "pov",
    "cycle": 2027,
    "runs": {
@@ -19288,6 +19941,28 @@
     "precision": "day",
     "from": "2027-01-21",
     "to": "2027-01-31",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "flickerfest",
+   "cycle": 2027,
+   "ordinal": 36,
+   "runs": {
+    "precision": "day",
+    "from": "2027-01-22",
+    "to": "2027-01-31",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "berlin-gate",
+   "cycle": 2027,
+   "ordinal": 1,
+   "runs": {
+    "precision": "day",
+    "from": "2027-01-24",
+    "to": "2027-01-24",
     "approximate": false
    }
   },
@@ -19450,6 +20125,16 @@
     "precision": "day",
     "from": "2027-04-01",
     "to": "2027-04-30",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "full-frame-documentary",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-01",
+    "to": "2027-04-04",
     "approximate": false
    }
   },
@@ -19719,6 +20404,16 @@
    }
   },
   {
+   "festival": "galway-fleadh",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-07-06",
+    "to": "2027-07-11",
+    "approximate": false
+   }
+  },
+  {
    "festival": "indy-presented-by",
    "cycle": 2027,
    "runs": {
@@ -19749,6 +20444,16 @@
     "to": "2027-09-30",
     "approximate": true,
     "label": "~Aug-Sept 2027"
+   }
+  },
+  {
+   "festival": "mpumalanga",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-08-02",
+    "to": "2027-08-10",
+    "approximate": false
    }
   },
   {
@@ -19828,6 +20533,16 @@
     "precision": "day",
     "from": "2027-10-06",
     "to": "2027-10-10",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "new-york-screening",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-12-11",
+    "to": "2027-12-11",
     "approximate": false
    }
   }
