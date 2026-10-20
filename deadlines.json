@@ -3856,7 +3856,7 @@
    "entry": "open",
    "page": "https://filmfreeway.com/SebastopolDocumentaryFilmFestival",
    "submit": "https://filmfreeway.com/SebastopolDocumentaryFilmFestival",
-   "website": "https://www.sebastopolfilmfestival.org",
+   "website": "https://www.sebastopolfilm.org",
    "portal": "filmfreeway",
    "city": "Sebastopol",
    "region": "California",
@@ -5333,7 +5333,7 @@
     "to": "2027-08-29",
     "approximate": false
    },
-   "verified_on": "2026-10-05"
+   "verified_on": "2026-10-20"
   },
   {
    "festival": "slamdance",
