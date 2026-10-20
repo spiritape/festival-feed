@@ -41,6 +41,17 @@
    "logo": "https://www.adelaidefilmfestival.org/favicon.ico"
   },
   {
+   "id": "aesthetica",
+   "name": "Aesthetica Short Film Festival",
+   "entry": "open",
+   "page": "https://www.asff.co.uk",
+   "website": "https://www.asff.co.uk",
+   "portal": "own",
+   "city": "York",
+   "country": "United Kingdom",
+   "logo": "https://www.asff.co.uk/wp-content/uploads/2022/03/cropped-favicon-192x192.jpg"
+  },
+  {
    "id": "afi",
    "name": "AFI Fest",
    "entry": "open",
@@ -203,6 +214,17 @@
    "logo": "https://laliff.org/wp-content/uploads/2024/04/cropped-LALIFF_favicon-03-1-192x192.png"
   },
   {
+   "id": "angers-premiers-plans",
+   "name": "Premiers Plans Angers Film Festival",
+   "entry": "open",
+   "page": "https://www.premiersplans.org",
+   "website": "https://www.premiersplans.org",
+   "portal": "own",
+   "city": "Angers",
+   "country": "France",
+   "logo": "https://www.premiersplans.org/imgs/icones/android-icon-192x192.png"
+  },
+  {
    "id": "anifilm-animated",
    "name": "Anifilm – International Festival of Animated Films",
    "entry": "open",
@@ -235,6 +257,17 @@
     "year": 2027
    },
    "logo": "https://animafestival.be/animafestival/img/favicons/apple-touch-icon.png"
+  },
+  {
+   "id": "animafilm-baku",
+   "name": "Animafilm International Animation Festival",
+   "entry": "open",
+   "page": "https://anima.az/animafilm/",
+   "website": "https://anima.az/animafilm/",
+   "portal": "own",
+   "city": "Baku",
+   "country": "Azerbaijan",
+   "logo": "https://anima.az/wp-content/uploads/2022/12/cropped-favicon-192x192.png"
   },
   {
    "id": "animation-dingle",
@@ -339,6 +372,17 @@
     "year": 2027
    },
    "logo": "https://www.annecyfestival.com/sites/default/files/2025-02/partage_2025.jpg"
+  },
+  {
+   "id": "antalya-golden-orange",
+   "name": "Antalya Golden Orange Film Festival",
+   "entry": "open",
+   "page": "https://antalyaff.com",
+   "website": "https://antalyaff.com",
+   "portal": "own",
+   "city": "Antalya",
+   "country": "Turkey",
+   "logo": "https://antalyaff.com/assets/images/favicon.png"
   },
   {
    "id": "ashland-independent",
@@ -518,6 +562,17 @@
    "logo": "https://img1.wsimg.com/isteam/ip/5377fd6d-f9fa-404d-ade0-a39ed8e260d9/BeirutShorts%20Logo%20Black.jpg/:/rs=w:180,h:180,m"
   },
   {
+   "id": "belfast",
+   "name": "Belfast Film Festival",
+   "entry": "open",
+   "page": "https://belfastfilmfestival.org",
+   "website": "https://belfastfilmfestival.org",
+   "portal": "own",
+   "city": "Belfast",
+   "country": "United Kingdom",
+   "logo": "https://belfastfilmfestival.org/favicon.ico"
+  },
+  {
    "id": "bengaluru",
    "name": "Bengaluru International Short Film Festival",
    "entry": "open",
@@ -576,6 +631,17 @@
     "year": 2027
    },
    "logo": "https://www.berlinale.de/media/images/logo/logo-berlinale-facebook.png"
+  },
+  {
+   "id": "bfi-flare",
+   "name": "BFI Flare: London LGBTQIA+ Film Festival",
+   "entry": "open",
+   "page": "https://www.bfi.org.uk/flare",
+   "website": "https://www.bfi.org.uk/flare",
+   "portal": "own",
+   "city": "London",
+   "country": "United Kingdom",
+   "logo": "https://whatson.bfi.org.uk/content/Files/BFI-Branding/shortcut_icon.png?_7.90.0"
   },
   {
    "id": "bfi-london",
@@ -643,6 +709,16 @@
    "logo": "https://blackstarprojects.org/favicon.ico"
   },
   {
+   "id": "blon-animation",
+   "name": "BLON Animation and Games Festival",
+   "entry": "open",
+   "page": "https://blon.lt",
+   "website": "https://blon.lt",
+   "portal": "own",
+   "city": "Klaipėda",
+   "country": "Lithuania"
+  },
+  {
    "id": "bogoshorts-bogota",
    "name": "Bogoshorts – Bogotá Short Film Festival",
    "entry": "open",
@@ -659,6 +735,60 @@
     "year": 2027
    },
    "logo": "https://festival.bogoshorts.com/bogF-images/site/favicon.ico"
+  },
+  {
+   "id": "bolton",
+   "name": "Bolton Film Festival",
+   "entry": "open",
+   "page": "https://www.boltonfilmfestival.com",
+   "website": "https://www.boltonfilmfestival.com",
+   "portal": "own",
+   "city": "Bolton",
+   "country": "United Kingdom"
+  },
+  {
+   "id": "brest-short",
+   "name": "Brest European Short Film Festival",
+   "entry": "open",
+   "page": "https://www.filmcourt.fr",
+   "website": "https://www.filmcourt.fr",
+   "portal": "own",
+   "city": "Brest",
+   "country": "France",
+   "logo": "https://www.filmcourt.fr/local/cache-gd2/bb/bf2bca46e65ced068442071b5f9a86.png?1789982533"
+  },
+  {
+   "id": "brighton-animation",
+   "name": "Brighton International Animation Festival",
+   "entry": "open",
+   "page": "https://www.brightoninternationalanimationfestival.com",
+   "website": "https://www.brightoninternationalanimationfestival.com",
+   "portal": "own",
+   "city": "Brighton",
+   "country": "United Kingdom",
+   "logo": "https://static.wixstatic.com/media/d992bf_8ab4344b76b8425bbefc50eff8c555c2%7Emv2.jpg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/d992bf_8ab4344b76b8425bbefc50eff8c555c2%7Emv2.jpg"
+  },
+  {
+   "id": "british-animation-awards",
+   "name": "British Animation Awards",
+   "entry": "open",
+   "page": "https://www.britishanimationawards.com",
+   "website": "https://www.britishanimationawards.com",
+   "portal": "own",
+   "city": "London",
+   "country": "United Kingdom",
+   "logo": "https://www.britishanimationawards.com/wp-content/uploads/2020/08/cropped-baa-icon-192x192.png"
+  },
+  {
+   "id": "british-urban",
+   "name": "BUFF – British Urban Film Festival",
+   "entry": "open",
+   "page": "https://britishurbanfilmfestival.co.uk",
+   "website": "https://britishurbanfilmfestival.co.uk",
+   "portal": "own",
+   "city": "London",
+   "country": "United Kingdom",
+   "logo": "https://britishurbanfilmfestival.co.uk/wp-content/uploads/2022/05/cropped-logo2x-192x192.png"
   },
   {
    "id": "bronzelens",
@@ -881,6 +1011,28 @@
    "logo": "https://img.festival-cannes.com/eyJidWNrZXQiOiJtZWRpYSIsImtleSI6InVwbG9hZHNcLzIwMjNcLzA1XC9jcm9wcGVkLWRlZmF1bHQtaWNvbi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjE4MCwiaGVpZ2h0IjoxODAsImZpdCI6ImNvdmVyIn19fQ=="
   },
   {
+   "id": "cardiff-animation",
+   "name": "Cardiff Animation Festival",
+   "entry": "open",
+   "page": "https://www.cardiffanimation.com",
+   "website": "https://www.cardiffanimation.com",
+   "portal": "own",
+   "city": "Cardiff",
+   "country": "United Kingdom",
+   "logo": "https://static.wixstatic.com/media/7754bf_28cb8c45cdfb43f2a2c64cfcc67614ea%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/7754bf_28cb8c45cdfb43f2a2c64cfcc67614ea%7Emv2.png"
+  },
+  {
+   "id": "carmarthen-bay",
+   "name": "Carmarthen Bay Film Festival",
+   "entry": "open",
+   "page": "https://www.carmarthenbayfilmfestival.co.uk",
+   "website": "https://www.carmarthenbayfilmfestival.co.uk",
+   "portal": "own",
+   "city": "Llanelli",
+   "country": "United Kingdom",
+   "logo": "https://cdn.prod.website-files.com/5dadfe696211861115a45880/5db048927f4d5b667526523c_favicon.png"
+  },
+  {
    "id": "champs-elysees",
    "name": "Champs-Élysées Film Festival",
    "entry": "open",
@@ -976,6 +1128,17 @@
     "year": 2027
    },
    "logo": "https://cinanima.pt/wp-content/uploads/2024/03/golfinho25-04-1-300x298.png"
+  },
+  {
+   "id": "cinema-jove",
+   "name": "Cinema Jove International Film Festival",
+   "entry": "open",
+   "page": "https://www.cinemajove.com",
+   "website": "https://www.cinemajove.com",
+   "portal": "own",
+   "city": "Valencia",
+   "country": "Spain",
+   "logo": "https://www.cinemajove.com/wp-content/uploads/2017/04/favicon.png"
   },
   {
    "id": "cinequest",
@@ -1301,6 +1464,17 @@
    "logo": "https://doclisboa.org/main/wp-content/uploads/2025/02/cropped-doclisboa-site-logo-1-192x192.png"
   },
   {
+   "id": "docs-ireland",
+   "name": "Docs Ireland International Documentary Film Festival",
+   "entry": "open",
+   "page": "https://docsireland.ie",
+   "website": "https://docsireland.ie",
+   "portal": "own",
+   "city": "Belfast",
+   "country": "United Kingdom",
+   "logo": "https://docsireland.ie/favicon.ico"
+  },
+  {
    "id": "documentaries-bilbao-zinebi",
    "name": "International Festival of Documentaries and Short Films of Bilbao – ZINEBI",
    "entry": "open",
@@ -1347,6 +1521,17 @@
     "year": 2027
    },
    "logo": "https://cdn.sheffdocfest.com/themes/custom/docfest/favicon.ico"
+  },
+  {
+   "id": "dokufest",
+   "name": "DokuFest International Documentary and Short Film Festival",
+   "entry": "open",
+   "page": "https://dokufest.com",
+   "website": "https://dokufest.com",
+   "portal": "own",
+   "city": "Prizren",
+   "country": "Kosovo",
+   "logo": "https://dokufest.com/assets/images/favicon-full.ico"
   },
   {
    "id": "downtown-nyc",
@@ -1476,6 +1661,17 @@
    "logo": "https://www.emaf.de/apple-touch-icon.png"
   },
   {
+   "id": "encounters",
+   "name": "Encounters Film Festival",
+   "entry": "open",
+   "page": "https://www.encounters.film",
+   "website": "https://www.encounters.film",
+   "portal": "own",
+   "city": "Bristol",
+   "country": "United Kingdom",
+   "logo": "https://images.squarespace-cdn.com/content/v1/60ae23a8d5a4980185a86703/72c5a258-5772-48a8-98e2-db5a9bc1e97b/favicon.ico"
+  },
+  {
    "id": "energacamerimage",
    "name": "Energacamerimage International Film Festival",
    "entry": "open",
@@ -1504,6 +1700,17 @@
    "country": "Spain",
    "moviemaker_year": 2026,
    "logo": "https://static.wixstatic.com/media/79e464_116bfdaf016243aa937091d28f08d54f%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/79e464_116bfdaf016243aa937091d28f08d54f%7Emv2.png"
+  },
+  {
+   "id": "exit-6",
+   "name": "Exit 6 Film Festival",
+   "entry": "open",
+   "page": "https://www.exit6filmfestival.com",
+   "website": "https://www.exit6filmfestival.com",
+   "portal": "own",
+   "city": "Basingstoke",
+   "country": "United Kingdom",
+   "logo": "https://static.wixstatic.com/media/07ec86_952b11a563fd432cae24280bffdaadb8.jpg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/07ec86_952b11a563fd432cae24280bffdaadb8.jpg"
   },
   {
    "id": "fantasia",
@@ -1712,6 +1919,17 @@
    "logo": "https://www.filmquestfest.com/wp-content/uploads/2016/06/Favicon2016.png"
   },
   {
+   "id": "flatpack",
+   "name": "Flatpack Festival",
+   "entry": "open",
+   "page": "https://flatpackfestival.org.uk",
+   "website": "https://flatpackfestival.org.uk",
+   "portal": "own",
+   "city": "Birmingham",
+   "country": "United Kingdom",
+   "logo": "https://files.baskercdn.com/flatpackfestival/files/favicon.ico"
+  },
+  {
    "id": "flickerfest",
    "name": "Flickerfest International Short Film Festival",
    "entry": "open",
@@ -1771,6 +1989,17 @@
     "year": 2027
    },
    "logo": "https://foylefilmfestival.org/build/images/favicon/apple-icon-152x152.png"
+  },
+  {
+   "id": "frameline",
+   "name": "Frameline San Francisco International LGBTQ+ Film Festival",
+   "entry": "open",
+   "page": "https://www.frameline.org",
+   "website": "https://www.frameline.org",
+   "portal": "own",
+   "city": "San Francisco",
+   "country": "United States",
+   "logo": "https://www.frameline.org/favicon.ico"
   },
   {
    "id": "french-academy-cinema",
@@ -1877,6 +2106,28 @@
     "year": 2027
    },
    "logo": "https://deutscher-kurzfilmpreis.de/_assets/6666cd76f96956469e7be39d750cc7d9/Favicons/apple-touch-icon-1024x1024.png"
+  },
+  {
+   "id": "glasgow-short",
+   "name": "Glasgow Short Film Festival",
+   "entry": "open",
+   "page": "https://glasgowshort.org",
+   "website": "https://glasgowshort.org",
+   "portal": "own",
+   "city": "Glasgow",
+   "country": "United Kingdom",
+   "logo": "https://glasgowshort.org/wp-content/uploads/2024/02/cropped-GSFF-G-WhiteOnPink-192x192.png"
+  },
+  {
+   "id": "golden-apricot",
+   "name": "Golden Apricot Yerevan International Film Festival",
+   "entry": "open",
+   "page": "https://www.gaiff.am",
+   "website": "https://www.gaiff.am",
+   "portal": "own",
+   "city": "Yerevan",
+   "country": "Armenia",
+   "logo": "https://static.tildacdn.net/tild3339-6634-4931-b533-356261633133/pdf.png"
   },
   {
    "id": "goshort-nijmegen",
@@ -2067,6 +2318,17 @@
    "logo": "https://hiff.fi/wp-content/uploads/2026/06/favicon-512-200x200.png"
   },
   {
+   "id": "herceg-novi",
+   "name": "Herceg Novi – Montenegro Film Festival",
+   "entry": "open",
+   "page": "https://filmfestival.me",
+   "website": "https://filmfestival.me",
+   "portal": "own",
+   "city": "Herceg Novi",
+   "country": "Montenegro",
+   "logo": "https://filmfestival.me/wp-content/uploads/2021/07/cropped-film-festival-herceg-novi-icon-192x192.png"
+  },
+  {
    "id": "hiro-shima-animation",
    "name": "Hiro Shima Animation Season",
    "entry": "open",
@@ -2242,6 +2504,17 @@
    "city": "Panaji",
    "country": "India",
    "logo": "https://www.iffigoa.org/images/multi-use/iffigoa.jpg"
+  },
+  {
+   "id": "iffk-kerala",
+   "name": "International Film Festival of Kerala",
+   "entry": "open",
+   "page": "https://iffk.in",
+   "website": "https://iffk.in",
+   "portal": "own",
+   "city": "Thiruvananthapuram",
+   "country": "India",
+   "logo": "https://iffk.in/assets/img/favicon.png"
   },
   {
    "id": "iffr-rotterdam",
@@ -2553,6 +2826,17 @@
    "logo": "https://www.kasselerdokfest.de/public/images/apple-touch-icon.png?v=2021.1"
   },
   {
+   "id": "kolkata",
+   "name": "Kolkata International Film Festival",
+   "entry": "open",
+   "page": "https://kiff.in",
+   "website": "https://kiff.in",
+   "portal": "own",
+   "city": "Kolkata",
+   "country": "India",
+   "logo": "https://kiff.in/uploads/logo_icon/1529044225_fav.png"
+  },
+  {
    "id": "krakow",
    "name": "Krakow Film Festival",
    "entry": "open",
@@ -2569,6 +2853,17 @@
     "year": 2027
    },
    "logo": "https://www.krakowfilmfestival.pl/wp-content/uploads/2016/04/cropped-kff_logo_male_e-mail_bez-nr-192x192.jpg"
+  },
+  {
+   "id": "kurzfilm-hamburg",
+   "name": "Kurzfilm Festival Hamburg",
+   "entry": "open",
+   "page": "https://festival.shortfilm.com",
+   "website": "https://festival.shortfilm.com",
+   "portal": "own",
+   "city": "Hamburg",
+   "country": "Germany",
+   "logo": "https://festival.shortfilm.com/media/pages/medialibrary/f4444e3fd5-1736517104/favicon4.png"
   },
   {
    "id": "kurzfilmtage-winterthur",
@@ -2673,6 +2968,17 @@
    "logo": "https://www.kortfilmfestival.be/wp-content/uploads/2022/11/cropped-Ikl-man-oranje-profiel-website-192x192.png"
   },
   {
+   "id": "liaf",
+   "name": "London International Animation Festival",
+   "entry": "open",
+   "page": "https://liaf.org.uk",
+   "website": "https://liaf.org.uk",
+   "portal": "own",
+   "city": "London",
+   "country": "United Kingdom",
+   "logo": "https://liaf.org.uk/wp-content/uploads/2023/03/cropped-LIAF-Favicon-192x192.jpg"
+  },
+  {
    "id": "lima",
    "name": "Lima Film Festival PUCP",
    "entry": "open",
@@ -2680,6 +2986,17 @@
    "website": "https://festivaldelima.com/",
    "city": "Lima",
    "country": "Peru"
+  },
+  {
+   "id": "linoleum",
+   "name": "Linoleum Contemporary Animation and Media Art Festival",
+   "entry": "open",
+   "page": "https://linoleumfest.com",
+   "website": "https://linoleumfest.com",
+   "portal": "own",
+   "city": "Kyiv",
+   "country": "Ukraine",
+   "logo": "https://linoleumfest.com/favicon.ico"
   },
   {
    "id": "locarno",
@@ -2702,6 +3019,17 @@
    "logo": "https://assets.locarnofestival.ch/data/mgnl/apple-touch-icon.png"
   },
   {
+   "id": "loco-comedy",
+   "name": "LOCO – London Comedy Film Festival",
+   "entry": "open",
+   "page": "https://locofilmfestival.com",
+   "website": "https://locofilmfestival.com",
+   "portal": "own",
+   "city": "London",
+   "country": "United Kingdom",
+   "logo": "https://locofilmfestival.com/wp-content/uploads/2022/10/fav-300x300.png"
+  },
+  {
    "id": "london-independent",
    "name": "London Independent Film Festival",
    "entry": "open",
@@ -2710,6 +3038,17 @@
    "city": "London",
    "country": "United Kingdom",
    "logo": "https://liff.org/wp-content/uploads/2023/06/cropped-LIFF-icon-180x180-1.png"
+  },
+  {
+   "id": "london-short",
+   "name": "London Short Film Festival",
+   "entry": "open",
+   "page": "https://www.shortfilms.org.uk",
+   "website": "https://www.shortfilms.org.uk",
+   "portal": "own",
+   "city": "London",
+   "country": "United Kingdom",
+   "logo": "https://www.shortfilms.org.uk/apple-touch-icon.png"
   },
   {
    "id": "louisiana-film-prize",
@@ -2773,6 +3112,17 @@
     "year": 2027
    },
    "logo": "https://www.manchesteranimationfestival.co.uk/favicons/apple-touch-icon.png"
+  },
+  {
+   "id": "manchester-film-festival",
+   "name": "Manchester Film Festival",
+   "entry": "open",
+   "page": "https://manchesterfilmfestival.com",
+   "website": "https://manchesterfilmfestival.com",
+   "portal": "own",
+   "city": "Manchester",
+   "country": "United Kingdom",
+   "logo": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68e77d1c6a7ac380a932997d/1f0719aca_mancbeecopy.png"
   },
   {
    "id": "mannheim-heidelberg",
@@ -2929,6 +3279,17 @@
    "city": "São Paulo",
    "country": "Brazil",
    "logo": "https://mostra.org/android-icon-192x192.png"
+  },
+  {
+   "id": "mostra-valencia",
+   "name": "Mostra de València – Cinema del Mediterrani",
+   "entry": "open",
+   "page": "https://lamostradevalencia.com",
+   "website": "https://lamostradevalencia.com",
+   "portal": "own",
+   "city": "Valencia",
+   "country": "Spain",
+   "logo": "https://www.google.com/s2/favicons?domain=lamostradevalencia.com&sz=128"
   },
   {
    "id": "motelx-lisbon",
@@ -3166,6 +3527,17 @@
    "logo": "https://kortfilmfestivalen.no/wp-content/uploads/2020/12/cropped-KF15_logo_CMYK_negativ-2-01-1-192x192.png"
   },
   {
+   "id": "norwich",
+   "name": "Norwich Film Festival",
+   "entry": "open",
+   "page": "https://norwichfilmfestival.co.uk",
+   "website": "https://norwichfilmfestival.co.uk",
+   "portal": "own",
+   "city": "Norwich",
+   "country": "United Kingdom",
+   "logo": "https://norwichfilmfestival.co.uk/wp-content/uploads/2025/05/cropped-Icon-on-White-100-192x192.jpg"
+  },
+  {
    "id": "nouveau-cinema",
    "name": "Festival du Nouveau Cinéma",
    "entry": "open",
@@ -3183,6 +3555,17 @@
     "year": 2027
    },
    "logo": "https://www.google.com/s2/favicons?domain=www.nouveaucinema.ca&sz=128"
+  },
+  {
+   "id": "nyff",
+   "name": "New York Film Festival",
+   "entry": "open",
+   "page": "https://www.filmlinc.org/nyff",
+   "website": "https://www.filmlinc.org/nyff",
+   "portal": "own",
+   "city": "New York",
+   "country": "United States",
+   "logo": "https://www.filmlinc.org/apple-icon.png?7b23584e929eeab3"
   },
   {
    "id": "nziff",
@@ -3268,6 +3651,17 @@
    "logo": "https://omahafilmfestival.org/wp-content/uploads/2024/12/cropped-filmsiteicon-180x180.webp"
   },
   {
+   "id": "open-city-docs",
+   "name": "Open City Documentary Festival",
+   "entry": "open",
+   "page": "https://opencitylondon.com",
+   "website": "https://opencitylondon.com",
+   "portal": "own",
+   "city": "London",
+   "country": "United Kingdom",
+   "logo": "https://opencitylondon.com/wp-content/uploads/cropped-favicon-192x192.png"
+  },
+  {
    "id": "oregon-independent",
    "name": "Oregon Independent Film Festival",
    "entry": "open",
@@ -3279,6 +3673,17 @@
    "region": "OR",
    "country": "United States",
    "logo": "https://filmfreeway-production-storage-01-connector.filmfreeway.com/festivals/logos/000/003/689/large/OR_FF_LOGO.jpg?1476081016"
+  },
+  {
+   "id": "oska-bright",
+   "name": "Oska Bright Film Festival",
+   "entry": "open",
+   "page": "https://oskabright.org",
+   "website": "https://oskabright.org",
+   "portal": "own",
+   "city": "Brighton",
+   "country": "United Kingdom",
+   "logo": "https://images.squarespace-cdn.com/content/v1/5b02c752266c071c1adfd828/1572368684064-DPSG5UAAR3QGY91ZRME5/favicon.ico?format=100w"
   },
   {
    "id": "ottawa-animation",
@@ -3325,6 +3730,17 @@
     "year": 2027
    },
    "logo": "https://images.squarespace-cdn.com/content/v1/6334ad5a92216022656b3476/e3ae1640-da13-40f7-b7df-4fc0d7795269/favicon.ico?format=100w"
+  },
+  {
+   "id": "outfest",
+   "name": "Outfest Los Angeles LGBTQ+ Film Festival",
+   "entry": "open",
+   "page": "https://www.outfest.org",
+   "website": "https://www.outfest.org",
+   "portal": "own",
+   "city": "Los Angeles",
+   "country": "United States",
+   "logo": "https://cdn.prod.website-files.com/680bc8fc01dc4d9034ae682c/6834dd7bf369dc4f46d0d248_OUTFESTfavicon.png"
   },
   {
    "id": "overlook",
@@ -3509,6 +3925,17 @@
    "logo": "https://www.provincetownfilm.org/wp-content/uploads/2022/09/cropped-siteicon-192x192.png"
   },
   {
+   "id": "punto-de-vista",
+   "name": "Punto de Vista International Documentary Film Festival",
+   "entry": "open",
+   "page": "https://www.puntodevistafestival.com",
+   "website": "https://www.puntodevistafestival.com",
+   "portal": "own",
+   "city": "Pamplona",
+   "country": "Spain",
+   "logo": "https://www.puntodevistafestival.com/images/apple-touch-icon-180x180.png"
+  },
+  {
    "id": "raindance",
    "name": "Raindance Film Festival",
    "entry": "open",
@@ -3525,6 +3952,17 @@
     "year": 2027
    },
    "logo": "https://raindance.org/wp-content/uploads/2020/06/cropped-browser-logo-2-32x32-1.png"
+  },
+  {
+   "id": "reelabilities",
+   "name": "ReelAbilities Film Festival",
+   "entry": "open",
+   "page": "https://reelabilities.org",
+   "website": "https://reelabilities.org",
+   "portal": "own",
+   "city": "New York",
+   "country": "United States",
+   "logo": "https://www.google.com/s2/favicons?domain=reelabilities.org&sz=128"
   },
   {
    "id": "reelsisters-diaspora",
@@ -3620,6 +4058,17 @@
    },
    "moviemaker_year": 2026,
    "logo": "https://riverrunfilm.com/wp-content/uploads/2026/02/riverrun-logo.png"
+  },
+  {
+   "id": "rome-film-fest",
+   "name": "Rome Film Fest",
+   "entry": "open",
+   "page": "https://www.romacinemafest.it",
+   "website": "https://www.romacinemafest.it",
+   "portal": "own",
+   "city": "Rome",
+   "country": "Italy",
+   "logo": "https://www.romacinemafest.it/wp-content/uploads/2022/08/cropped-favicon-192x192.jpg"
   },
   {
    "id": "rome-independent",
@@ -3883,6 +4332,17 @@
    "logo": "https://sedonafilmfestival.com/wp-content/uploads/2018/08/cropped-SIFF-logo-text-192x192.jpg"
   },
   {
+   "id": "semaine-critique",
+   "name": "La Semaine de la Critique – Cannes",
+   "entry": "open",
+   "page": "https://www.semainedelacritique.com",
+   "website": "https://www.semainedelacritique.com",
+   "portal": "own",
+   "city": "Cannes",
+   "country": "France",
+   "logo": "https://www.semainedelacritique.com/asset/imgs/favicons/apple-touch-icon.png"
+  },
+  {
    "id": "sffilm",
    "name": "SFFILM (San Francisco)",
    "entry": "open",
@@ -3915,6 +4375,17 @@
    "logo": "https://www.siff.com/static/siff-new/favicon.ico"
   },
   {
+   "id": "short-com",
+   "name": "Short Com Film Festival",
+   "entry": "open",
+   "page": "https://www.shortcom.org",
+   "website": "https://www.shortcom.org",
+   "portal": "own",
+   "city": "London",
+   "country": "United Kingdom",
+   "logo": "https://static.wixstatic.com/media/01d94b_50a3f0fae3c34e0cb9a45abc51fd275d%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/01d94b_50a3f0fae3c34e0cb9a45abc51fd275d%7Emv2.png"
+  },
+  {
    "id": "short-shorts-film-fe",
    "name": "Short Shorts Film Festival",
    "entry": "open",
@@ -3931,6 +4402,17 @@
     "year": 2027
    },
    "logo": "https://www.shortshorts.org/favicon.ico"
+  },
+  {
+   "id": "short-up-rouen",
+   "name": "SHORT UP – Rouen British and Irish Short Film Festival",
+   "entry": "open",
+   "page": "https://www.shortuprouen.com",
+   "website": "https://www.shortuprouen.com",
+   "portal": "own",
+   "city": "Rouen",
+   "country": "France",
+   "logo": "https://www.shortuprouen.com/2026/assets/img/oeil.ico"
   },
   {
    "id": "show-me",
@@ -4059,6 +4541,17 @@
    "logo": "https://siff.bg/images/nice-highres.png"
   },
   {
+   "id": "soul-fest",
+   "name": "S.O.U.L. Fest",
+   "entry": "open",
+   "page": "https://www.soulfilm.co.uk",
+   "website": "https://www.soulfilm.co.uk",
+   "portal": "own",
+   "city": "London",
+   "country": "United Kingdom",
+   "logo": "https://images.squarespace-cdn.com/content/v1/5ee7bf3ec8f67308f586c460/743a40b6-a552-4216-9981-32274f063adb/favicon.ico"
+  },
+  {
    "id": "spark-animation",
    "name": "Spark Animation",
    "entry": "open",
@@ -4076,6 +4569,17 @@
     "year": 2027
    },
    "logo": "https://www.sparkcg.org/favicon.ico"
+  },
+  {
+   "id": "sqiff",
+   "name": "SQIFF – Scottish Queer International Film Festival",
+   "entry": "open",
+   "page": "https://www.sqiff.org",
+   "website": "https://www.sqiff.org",
+   "portal": "own",
+   "city": "Glasgow",
+   "country": "United Kingdom",
+   "logo": "https://www.sqiff.org/wp-content/uploads/2019/02/acronym-logo-black-on-white-270x270.jpg"
   },
   {
    "id": "st-kilda",
@@ -4171,6 +4675,17 @@
     "year": 2027
    },
    "logo": "https://www.sundance.org/wp-content/uploads/2021/10/SD-Favicon.png"
+  },
+  {
+   "id": "superfest",
+   "name": "SuperFest Disability Film Festival",
+   "entry": "open",
+   "page": "https://superfestfilm.org",
+   "website": "https://superfestfilm.org",
+   "portal": "own",
+   "city": "San Francisco",
+   "country": "United States",
+   "logo": "https://images.squarespace-cdn.com/content/v1/564cb75ce4b011ef30379c06/9f23c510-a694-4845-b54e-0a2ff96c3497/favicon.ico?format=100w"
   },
   {
    "id": "sxsw",
@@ -4307,6 +4822,17 @@
    "logo": "https://www.tisff.ir/wp-content/uploads/2020/08/05454545454-150x150.png"
   },
   {
+   "id": "telluride",
+   "name": "Telluride Film Festival",
+   "entry": "open",
+   "page": "https://www.telluridefilmfestival.org",
+   "website": "https://www.telluridefilmfestival.org",
+   "portal": "own",
+   "city": "Telluride",
+   "country": "United States",
+   "logo": "https://www.telluridefilmfestival.org/favicon.ico"
+  },
+  {
    "id": "thessaloniki",
    "name": "Thessaloniki International Film Festival",
    "entry": "open",
@@ -4408,6 +4934,17 @@
    "logo": "https://www.torinofilmfest.org/tt-contenuto/uploads/2019/09/favicon.ico"
   },
   {
+   "id": "transilvania",
+   "name": "Transilvania International Film Festival",
+   "entry": "open",
+   "page": "https://tiff.ro",
+   "website": "https://tiff.ro",
+   "portal": "own",
+   "city": "Cluj-Napoca",
+   "country": "Romania",
+   "logo": "https://tiff.ro/themes/custom/tiff/favicon.ico"
+  },
+  {
    "id": "tribeca",
    "name": "Tribeca Festival",
    "entry": "open",
@@ -4497,6 +5034,17 @@
    "logo": "https://static.labiennale.org/apple-touch-icon.png"
   },
   {
+   "id": "viborg-animation",
+   "name": "Viborg Animation Festival",
+   "entry": "open",
+   "page": "https://viborganimationfestival.dk",
+   "website": "https://viborganimationfestival.dk",
+   "portal": "own",
+   "city": "Viborg",
+   "country": "Denmark",
+   "logo": "https://viborganimationfestival.dk/wp-content/uploads/2026/04/cropped-vaf-favicon-pink-192x192.png"
+  },
+  {
    "id": "videoex",
    "name": "VIDEOEX – Experimental Film & Video Festival",
    "entry": "open",
@@ -4523,6 +5071,17 @@
     "year": 2027
    },
    "logo": "https://www.viennashorts.com/favicon.ico"
+  },
+  {
+   "id": "viennale",
+   "name": "Viennale – Vienna International Film Festival",
+   "entry": "open",
+   "page": "https://www.viennale.at",
+   "website": "https://www.viennale.at",
+   "portal": "own",
+   "city": "Vienna",
+   "country": "Austria",
+   "logo": "https://www.google.com/s2/favicons?domain=www.viennale.at&sz=128"
   },
   {
    "id": "viff-vancouver",
@@ -4682,6 +5241,17 @@
    "city": "Winnipeg",
    "country": "Canada",
    "logo": "https://wndx.org/wp-content/uploads/2025/05/cropped-WNDX-sq-192x192.png"
+  },
+  {
+   "id": "women-x",
+   "name": "Women X Film Festival",
+   "entry": "open",
+   "page": "https://www.riannepictures.com/womenx",
+   "website": "https://www.riannepictures.com/womenx",
+   "portal": "own",
+   "city": "Darlington",
+   "country": "United Kingdom",
+   "logo": "https://images.squarespace-cdn.com/content/v1/642db759e29e186b224d70c4/2a634173-cb6c-4eb2-ad86-82ee5ca39aa2/favicon.ico?format=100w"
   },
   {
    "id": "woodstock",
@@ -4848,9 +5418,25 @@
    "verified_on": "2026-10-19"
   },
   {
+   "festival": "bfi-flare",
+   "cycle": 2027,
+   "runs": {
+    "precision": "month",
+    "from": "2027-03-01",
+    "to": "2027-03-31",
+    "approximate": false
+   },
+   "verified_on": "2026-10-20"
+  },
+  {
    "festival": "big-sky-documentary",
    "cycle": 2027,
    "verified_on": "2026-10-19"
+  },
+  {
+   "festival": "bolton",
+   "cycle": 2027,
+   "verified_on": "2026-10-20"
   },
   {
    "festival": "bronzelens",
@@ -4890,6 +5476,11 @@
     "approximate": false
    },
    "verified_on": "2026-09-03"
+  },
+  {
+   "festival": "carmarthen-bay",
+   "cycle": 2027,
+   "verified_on": "2026-10-20"
   },
   {
    "festival": "chicago-underground",
@@ -4973,6 +5564,11 @@
    "verified_on": "2026-10-06"
   },
   {
+   "festival": "exit-6",
+   "cycle": 2027,
+   "verified_on": "2026-10-20"
+  },
+  {
    "festival": "fest-new-directors-new-films",
    "cycle": 2027,
    "verified_on": "2026-10-05"
@@ -4987,6 +5583,11 @@
     "approximate": false
    },
    "verified_on": "2026-09-03"
+  },
+  {
+   "festival": "flatpack",
+   "cycle": 2027,
+   "verified_on": "2026-10-20"
   },
   {
    "festival": "flickerfest",
@@ -5043,6 +5644,16 @@
     "approximate": false
    },
    "verified_on": "2026-10-19"
+  },
+  {
+   "festival": "glasgow-short",
+   "cycle": 2027,
+   "verified_on": "2026-10-20"
+  },
+  {
+   "festival": "golden-apricot",
+   "cycle": 2027,
+   "verified_on": "2026-10-20"
   },
   {
    "festival": "goshort-nijmegen",
@@ -5130,6 +5741,11 @@
    "verified_on": "2026-10-12"
   },
   {
+   "festival": "kurzfilm-hamburg",
+   "cycle": 2027,
+   "verified_on": "2026-10-20"
+  },
+  {
    "festival": "la-shorts-internatio",
    "cycle": 2027,
    "verified_on": "2026-10-05"
@@ -5144,6 +5760,11 @@
     "approximate": false
    },
    "verified_on": "2026-09-03"
+  },
+  {
+   "festival": "manchester-film-festival",
+   "cycle": 2027,
+   "verified_on": "2026-10-20"
   },
   {
    "festival": "media-city",
@@ -5205,6 +5826,16 @@
    "verified_on": "2026-10-08"
   },
   {
+   "festival": "open-city-docs",
+   "cycle": 2026,
+   "verified_on": "2026-10-20"
+  },
+  {
+   "festival": "oska-bright",
+   "cycle": 2028,
+   "verified_on": "2026-10-20"
+  },
+  {
    "festival": "overlook",
    "cycle": 2027,
    "verified_on": "2026-10-06"
@@ -5241,6 +5872,18 @@
     "approximate": false
    },
    "verified_on": "2026-10-07"
+  },
+  {
+   "festival": "punto-de-vista",
+   "cycle": 2027,
+   "ordinal": 21,
+   "runs": {
+    "precision": "day",
+    "from": "2027-03-09",
+    "to": "2027-03-14",
+    "approximate": false
+   },
+   "verified_on": "2026-10-20"
   },
   {
    "festival": "riverrun",
@@ -5500,6 +6143,20 @@
    "note": "Late Deadline Features: U.S. Narrative Feature Films, U.S. Documentary Feature Films, International Narrative Feature Films, International Documentary Feature Films"
   },
   {
+   "festival": "glasgow-short",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-22",
+    "to": "2026-09-22",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Deadline"
+  },
+  {
    "festival": "aspen",
    "cycle": 2027,
    "tier": "regular",
@@ -5563,6 +6220,20 @@
    },
    "fee_unknown": false,
    "note": "Extended Deadline: International Short Live Action (Fiction) Film Competition, International Short Documentary Competition, International Short Animation Competition, International Short Experimental Competition, International Short Web / New Media Competition"
+  },
+  {
+   "festival": "open-city-docs",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-25",
+    "to": "2026-09-25",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "The early deadline for entries"
   },
   {
    "festival": "overlook",
@@ -7027,6 +7698,26 @@
    "note": "Deadline"
   },
   {
+   "festival": "punto-de-vista",
+   "cycle": 2027,
+   "ordinal": 21,
+   "categories": [
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-15",
+    "to": "2026-10-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 5,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Official Section entries close 23:59"
+  },
+  {
    "festival": "sofia",
    "cycle": 2027,
    "tier": "early",
@@ -7297,6 +7988,20 @@
    "fee_unknown": false
   },
   {
+   "festival": "exit-6",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-21",
+    "to": "2026-10-21",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "EARLYBIRD DEADLINE"
+  },
+  {
    "festival": "portland",
    "cycle": 2027,
    "tier": "late",
@@ -7419,6 +8124,33 @@
    },
    "fee_unknown": false,
    "note": "Late Deadline: Comedy, Dramatic, Thriller/Fantasy/Sci-Fi/Horror, New Visions, Global Landscapes and Documentary Feature Competitions"
+  },
+  {
+   "festival": "manchester-film-festival",
+   "cycle": 2027,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-26",
+    "to": "2026-10-26",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Next Deadline"
+  },
+  {
+   "festival": "glasgow-short",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-27",
+    "to": "2026-10-27",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Deadline"
   },
   {
    "festival": "tribeca",
@@ -7913,6 +8645,20 @@
    },
    "fee_unknown": false,
    "note": "Extended Deadline: Short Film Competition (General, Comedy, Dramatic, Animation, Thriller/Fantasy/Sci-Fi/Horror, Documentary, Maverick) and Films for Families"
+  },
+  {
+   "festival": "flatpack",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-01",
+    "to": "2026-11-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Earlybird deadline is 11:59pm"
   },
   {
    "festival": "sedona",
@@ -8980,6 +9726,34 @@
    "note": "FlickerUp youth competition (Australian secondary students and under-18s, under 25 minutes); the site says \"midnight PST\", 7pm AEDT the next day"
   },
   {
+   "festival": "manchester-film-festival",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-23",
+    "to": "2026-11-23",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Final Deadline"
+  },
+  {
+   "festival": "open-city-docs",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-27",
+    "to": "2026-11-27",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "and the final deadline"
+  },
+  {
    "festival": "overlook",
    "cycle": 2027,
    "tier": "regular",
@@ -9357,6 +10131,36 @@
    },
    "fee_unknown": true,
    "note": "Shorts & Music Videos Official Deadline"
+  },
+  {
+   "festival": "bfi-flare",
+   "cycle": 2027,
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-04",
+    "to": "2026-12-04",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "UK and international mid-length (36-60 min) and feature-length films"
+  },
+  {
+   "festival": "bfi-flare",
+   "cycle": 2027,
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-04",
+    "to": "2026-12-04",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "UK and international short films (35 minutes or less)"
   },
   {
    "festival": "new-media",
@@ -10808,6 +11612,20 @@
    "note": "Advanced Deadline - Features: Narrative Feature, Documentary Feature"
   },
   {
+   "festival": "flatpack",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-17",
+    "to": "2027-01-17",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "and the final deadline is 11:59pm"
+  },
+  {
    "festival": "milwaukee",
    "cycle": 2027,
    "tier": "late",
@@ -11067,6 +11885,19 @@
    },
    "fee_unknown": false,
    "note": "Extended Deadline: International Feature Documentary: non-world premiere, International Feature Documentary: available for world premiere"
+  },
+  {
+   "festival": "kurzfilm-hamburg",
+   "cycle": 2027,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-31",
+    "to": "2027-01-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "» Deadline"
   },
   {
    "festival": "mpumalanga",
@@ -12051,6 +12882,19 @@
    "note": "Final: Short Narrative, Short Documentary, Short Animation"
   },
   {
+   "festival": "carmarthen-bay",
+   "cycle": 2027,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-03-02",
+    "to": "2027-03-02",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Film submission deadline"
+  },
+  {
    "festival": "deadcenter",
    "cycle": 2027,
    "categories": [
@@ -12462,6 +13306,19 @@
    "note": "Extended Deadline: Horror Short, Indiana Spotlight Narrative Short, Indiana Spotlight Documentary Short, Indiana Spotlight Animated Short"
   },
   {
+   "festival": "oska-bright",
+   "cycle": 2028,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-03-26",
+    "to": "2027-03-26",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Submissions close"
+  },
+  {
    "festival": "voyage-in-time-paris",
    "cycle": 2027,
    "tier": "extended",
@@ -12610,6 +13467,19 @@
    },
    "fee_unknown": false,
    "note": "International Short Film Late Deadline"
+  },
+  {
+   "festival": "golden-apricot",
+   "cycle": 2027,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-04-15",
+    "to": "2027-04-15",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "The deadline for preselection submission"
   },
   {
    "festival": "run-shoot-filmworks",
@@ -12867,6 +13737,20 @@
    "note": "Late Deadline: Short Live Action, Animation, Documentary, Student, Bollywood Shorts"
   },
   {
+   "festival": "exit-6",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-05-12",
+    "to": "2027-05-12",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "REGULAR DEADLINE"
+  },
+  {
    "festival": "sidewalk",
    "cycle": 2027,
    "categories": [
@@ -12957,6 +13841,34 @@
    "note": "Extended Deadline: Short Live Action, Animation, Documentary, Student, Bollywood Shorts"
   },
   {
+   "festival": "bolton",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-06-08",
+    "to": "2027-06-08",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "final deadline for entries shall be Midnight GMT"
+  },
+  {
+   "festival": "exit-6",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-06-16",
+    "to": "2027-06-16",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "LATE DEADLINE"
+  },
+  {
    "festival": "new-york-screening",
    "cycle": 2027,
    "tier": "final",
@@ -13000,6 +13912,34 @@
   }
  ],
  "previous": [
+  {
+   "festival": "aesthetica",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-31",
+    "to": "2026-05-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Submission Deadline"
+  },
+  {
+   "festival": "aesthetica",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-07",
+    "to": "2026-06-07",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Submission Deadline"
+  },
   {
    "festival": "anca-animation",
    "cycle": 2026,
@@ -15837,6 +16777,62 @@
    "note": "Extended Deadline"
   },
   {
+   "festival": "norwich",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-02-22",
+    "to": "2026-02-22",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Earlybird"
+  },
+  {
+   "festival": "norwich",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-24",
+    "to": "2026-05-24",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular"
+  },
+  {
+   "festival": "norwich",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-21",
+    "to": "2026-06-21",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late"
+  },
+  {
+   "festival": "norwich",
+   "cycle": 2026,
+   "tier": "extended",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-28",
+    "to": "2026-06-28",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Extended"
+  },
+  {
    "festival": "nouveau-cinema",
    "cycle": 2026,
    "ordinal": 55,
@@ -17816,6 +18812,19 @@
    "note": "2027 broadcast season cutoff: STANDARD (completed films & fine cuts)"
   },
   {
+   "festival": "reelabilities",
+   "cycle": 2027,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-13",
+    "to": "2026-09-13",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Submission deadline"
+  },
+  {
    "festival": "san-francisco-jewish",
    "cycle": 2026,
    "tier": "regular",
@@ -17923,6 +18932,25 @@
    },
    "fee_unknown": false,
    "note": "Competition Programme: Feature, Documentary, Short and Student Film"
+  },
+  {
+   "festival": "semaine-critique",
+   "cycle": 2026,
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-13",
+    "to": "2026-03-13",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 150,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Feature films (over 59 minutes); EUR 150 excluding VAT"
   },
   {
    "festival": "spark-animation",
@@ -18040,6 +19068,34 @@
    "note": "Final Deadline"
   },
   {
+   "festival": "superfest",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-01-12",
+    "to": "2026-01-12",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Early Bird Deadline"
+  },
+  {
+   "festival": "superfest",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-02-28",
+    "to": "2026-02-28",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Deadline"
+  },
+  {
    "festival": "tauron-american-in-poland",
    "cycle": 2026,
    "tier": "regular",
@@ -18070,6 +19126,23 @@
    },
    "fee_unknown": true,
    "note": "Short Cuts - Short Film Competition (new in 2026): narrative live-action shorts up to 30 min; submission period July 15 - September 1, 2026. https://www.americanfilmfestival.pl/akt.do?id=5882"
+  },
+  {
+   "festival": "telluride",
+   "cycle": 2026,
+   "categories": [
+    "feature",
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-01",
+    "to": "2026-07-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Features, Shorts and Student Films"
   },
   {
    "festival": "thomas-edison",
@@ -21096,6 +22169,16 @@
    }
   },
   {
+   "festival": "bfi-flare",
+   "cycle": 2027,
+   "runs": {
+    "precision": "month",
+    "from": "2027-03-01",
+    "to": "2027-03-31",
+    "approximate": false
+   }
+  },
+  {
    "festival": "george-lindsey-una",
    "cycle": 2027,
    "ordinal": 30,
@@ -21125,6 +22208,17 @@
     "precision": "day",
     "from": "2027-03-09",
     "to": "2027-03-21",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "punto-de-vista",
+   "cycle": 2027,
+   "ordinal": 21,
+   "runs": {
+    "precision": "day",
+    "from": "2027-03-09",
+    "to": "2027-03-14",
     "approximate": false
    }
   },
