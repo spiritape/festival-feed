@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-10-19",
+ "generated_on": "2026-10-20",
  "festivals": [
   {
    "id": "25fps-zagreb",
@@ -5365,7 +5365,7 @@
     "to": "2027-01-31",
     "approximate": false
    },
-   "verified_on": "2026-10-18"
+   "verified_on": "2026-10-20"
   },
   {
    "festival": "sxsw",
@@ -14307,16 +14307,162 @@
   {
    "festival": "edinburgh",
    "cycle": 2026,
-   "tier": "final",
-   "categories": [],
+   "tier": "early",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-02-06",
+    "to": "2026-02-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 80,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird (features, over 30 minutes)"
+  },
+  {
+   "festival": "edinburgh",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-02-06",
+    "to": "2026-02-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 55,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird (shorts, 30 minutes or under)"
+  },
+  {
+   "festival": "edinburgh",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-13",
+    "to": "2026-03-13",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 100,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular (features, over 30 minutes)"
+  },
+  {
+   "festival": "edinburgh",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-13",
+    "to": "2026-03-13",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 75,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular (shorts, 30 minutes or under)"
+  },
+  {
+   "festival": "edinburgh",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "short"
+   ],
    "closes": {
     "precision": "day",
     "from": "2026-04-17",
     "to": "2026-04-17",
-    "approximate": true
+    "approximate": false
    },
-   "fee_unknown": true,
-   "note": "~Apr 17, 2026 (passed)"
+   "fee": {
+    "amount": 95,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late (shorts, 30 minutes or under)"
+  },
+  {
+   "festival": "edinburgh",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-17",
+    "to": "2026-04-17",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 125,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late (features, over 30 minutes)"
+  },
+  {
+   "festival": "edinburgh",
+   "cycle": 2026,
+   "tier": "extended",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-24",
+    "to": "2026-04-24",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 125,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended (features, over 30 minutes)"
+  },
+  {
+   "festival": "edinburgh",
+   "cycle": 2026,
+   "tier": "extended",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-24",
+    "to": "2026-04-24",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 95,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended (shorts, 30 minutes or under)"
   },
   {
    "festival": "ficvaldivia",
@@ -17519,43 +17665,61 @@
    "festival": "poff-tallinn-black-nights",
    "cycle": 2026,
    "tier": "regular",
-   "categories": [],
+   "categories": [
+    "feature"
+   ],
    "closes": {
     "precision": "day",
     "from": "2026-06-29",
     "to": "2026-06-29",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Jun 29, 2026 (passed)"
+   "fee": {
+    "amount": 69,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Regular deadline, competitive and non-competitive feature film programmes (USD 85)"
   },
   {
    "festival": "poff-tallinn-black-nights",
    "cycle": 2026,
    "tier": "extended",
-   "categories": [],
+   "categories": [
+    "feature"
+   ],
    "closes": {
     "precision": "day",
     "from": "2026-08-17",
     "to": "2026-08-17",
     "approximate": false
    },
+   "fee": {
+    "amount": 85,
+    "currency": "EUR"
+   },
    "fee_unknown": false,
-   "note": "Extended Deadline"
+   "note": "Extended deadline, competitive and non-competitive feature film programmes (USD 100)"
   },
   {
    "festival": "poff-tallinn-black-nights",
    "cycle": 2026,
    "tier": "final",
-   "categories": [],
+   "categories": [
+    "feature"
+   ],
    "closes": {
     "precision": "day",
     "from": "2026-08-24",
     "to": "2026-08-24",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Aug 24, 2026 (passed)"
+   "fee": {
+    "amount": 100,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Final deadline, competitive and non-competitive feature film programmes (USD 120)"
   },
   {
    "festival": "pov",
