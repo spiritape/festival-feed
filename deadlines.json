@@ -49,6 +49,7 @@
    "portal": "own",
    "city": "York",
    "country": "United Kingdom",
+   "bafta": true,
    "logo": "https://www.asff.co.uk/wp-content/uploads/2022/03/cropped-favicon-192x192.jpg"
   },
   {
@@ -68,6 +69,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://prdaficalmjediwestussa.blob.core.windows.net/images/2019/09/favicon-5d79ca94a7e27.ico"
   },
   {
@@ -156,6 +158,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://www.abff.com/wp-content/uploads/2026/08/cropped-favicon-blue-192x192.png?ver=1788891303"
   },
   {
@@ -222,6 +225,7 @@
    "portal": "own",
    "city": "Angers",
    "country": "France",
+   "bafta": true,
    "logo": "https://www.premiersplans.org/imgs/icones/android-icon-192x192.png"
   },
   {
@@ -256,6 +260,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://animafestival.be/animafestival/img/favicons/apple-touch-icon.png"
   },
   {
@@ -267,6 +272,7 @@
    "portal": "own",
    "city": "Baku",
    "country": "Azerbaijan",
+   "bafta": true,
    "logo": "https://anima.az/wp-content/uploads/2022/12/cropped-favicon-192x192.png"
   },
   {
@@ -371,6 +377,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://www.annecyfestival.com/sites/default/files/2025-02/partage_2025.jpg"
   },
   {
@@ -416,6 +423,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "moviemaker_year": 2026,
    "logo": "https://aspenfilm.org/favicon.ico"
   },
@@ -570,6 +578,7 @@
    "portal": "own",
    "city": "Belfast",
    "country": "United Kingdom",
+   "bafta": true,
    "logo": "https://belfastfilmfestival.org/favicon.ico"
   },
   {
@@ -630,6 +639,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://www.berlinale.de/media/images/logo/logo-berlinale-facebook.png"
   },
   {
@@ -641,6 +651,7 @@
    "portal": "own",
    "city": "London",
    "country": "United Kingdom",
+   "bafta": true,
    "logo": "https://whatson.bfi.org.uk/content/Files/BFI-Branding/shortcut_icon.png?_7.90.0"
   },
   {
@@ -651,6 +662,7 @@
    "website": "https://www.bfi.org.uk/london-film-festival",
    "city": "London",
    "country": "United Kingdom",
+   "bafta": true,
    "logo": "https://www.bfi.org.uk/favicon.ico"
   },
   {
@@ -705,6 +717,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "moviemaker_year": 2026,
    "logo": "https://blackstarprojects.org/favicon.ico"
   },
@@ -716,7 +729,8 @@
    "website": "https://blon.lt",
    "portal": "own",
    "city": "Klaipėda",
-   "country": "Lithuania"
+   "country": "Lithuania",
+   "bafta": true
   },
   {
    "id": "bogoshorts-bogota",
@@ -744,7 +758,8 @@
    "website": "https://www.boltonfilmfestival.com",
    "portal": "own",
    "city": "Bolton",
-   "country": "United Kingdom"
+   "country": "United Kingdom",
+   "bafta": true
   },
   {
    "id": "brest-short",
@@ -755,6 +770,7 @@
    "portal": "own",
    "city": "Brest",
    "country": "France",
+   "bafta": true,
    "logo": "https://www.filmcourt.fr/local/cache-gd2/bb/bf2bca46e65ced068442071b5f9a86.png?1789982533"
   },
   {
@@ -766,6 +782,7 @@
    "portal": "own",
    "city": "Brighton",
    "country": "United Kingdom",
+   "bafta": true,
    "logo": "https://static.wixstatic.com/media/d992bf_8ab4344b76b8425bbefc50eff8c555c2%7Emv2.jpg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/d992bf_8ab4344b76b8425bbefc50eff8c555c2%7Emv2.jpg"
   },
   {
@@ -777,6 +794,7 @@
    "portal": "own",
    "city": "London",
    "country": "United Kingdom",
+   "bafta": true,
    "logo": "https://www.britishanimationawards.com/wp-content/uploads/2020/08/cropped-baa-icon-192x192.png"
   },
   {
@@ -788,6 +806,7 @@
    "portal": "own",
    "city": "London",
    "country": "United Kingdom",
+   "bafta": true,
    "logo": "https://britishurbanfilmfestival.co.uk/wp-content/uploads/2022/05/cropped-logo2x-192x192.png"
   },
   {
@@ -840,6 +859,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://bsff.be/wp-content/uploads/2022/02/cropped-Favicon-sans-fond-192x192.png"
   },
   {
@@ -897,6 +917,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "moviemaker_year": 2026,
    "logo": "https://www.bisff.org/img/android-chrome-512x512.png"
   },
@@ -960,6 +981,7 @@
    "website": "https://www.cambridgefilmfestival.org.uk/",
    "city": "Cambridge",
    "country": "United Kingdom",
+   "bafta": true,
    "logo": "https://www.cambridgefilmfestival.org.uk/dist/images/16.png"
   },
   {
@@ -979,6 +1001,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://pointsnorthinstitute.org/wp-content/uploads/2016/06/PNI-Icon_Black-Apple-iPhone.png"
   },
   {
@@ -1008,6 +1031,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://img.festival-cannes.com/eyJidWNrZXQiOiJtZWRpYSIsImtleSI6InVwbG9hZHNcLzIwMjNcLzA1XC9jcm9wcGVkLWRlZmF1bHQtaWNvbi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjE4MCwiaGVpZ2h0IjoxODAsImZpdCI6ImNvdmVyIn19fQ=="
   },
   {
@@ -1019,6 +1043,7 @@
    "portal": "own",
    "city": "Cardiff",
    "country": "United Kingdom",
+   "bafta": true,
    "logo": "https://static.wixstatic.com/media/7754bf_28cb8c45cdfb43f2a2c64cfcc67614ea%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/7754bf_28cb8c45cdfb43f2a2c64cfcc67614ea%7Emv2.png"
   },
   {
@@ -1030,6 +1055,7 @@
    "portal": "own",
    "city": "Llanelli",
    "country": "United Kingdom",
+   "bafta": true,
    "logo": "https://cdn.prod.website-files.com/5dadfe696211861115a45880/5db048927f4d5b667526523c_favicon.png"
   },
   {
@@ -1061,6 +1087,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "moviemaker_year": 2026,
    "logo": "https://cinemachicago.wpenginepowered.com/wp-content/uploads/2026/02/cropped-favicon-192x192.jpg"
   },
@@ -1176,6 +1203,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://www.lecourt-clermont.org/wp-content/uploads/2024/11/cropped-favicon-192x192.png"
   },
   {
@@ -1217,6 +1245,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://corkfilmfest.org/app/uploads/2017/06/cropped-cff_logo_favicon-1-180x180.png"
   },
   {
@@ -1251,6 +1280,7 @@
    "website": "https://cphdox.dk/",
    "city": "Copenhagen",
    "country": "Denmark",
+   "bafta": true,
    "logo": "https://cphdox.dk/wp-content/themes/CPHDOX/css/favicon/favicon.png"
   },
   {
@@ -1292,6 +1322,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://cdn.bndlyr.com/ng7qnspwq2/_assets/curtas_2024-05-24_thumbnail.png"
   },
   {
@@ -1428,6 +1459,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "moviemaker_year": 2026,
    "logo": "https://images.amcnetworks.com/docnyc.net/wp-content/uploads/2021/02/Logo_Blue-Gradient.png"
   },
@@ -1472,6 +1504,7 @@
    "portal": "own",
    "city": "Belfast",
    "country": "United Kingdom",
+   "bafta": true,
    "logo": "https://docsireland.ie/favicon.ico"
   },
   {
@@ -1488,6 +1521,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://zinebi.eus/assets/themes/core-base-child/assets/images/apple-touch-icon-114x114.png"
   },
   {
@@ -1520,6 +1554,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://cdn.sheffdocfest.com/themes/custom/docfest/favicon.ico"
   },
   {
@@ -1531,6 +1566,7 @@
    "portal": "own",
    "city": "Prizren",
    "country": "Kosovo",
+   "bafta": true,
    "logo": "https://dokufest.com/assets/images/favicon-full.ico"
   },
   {
@@ -1561,6 +1597,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://www.dramafilmfestival.gr/wp-content/uploads/2021/07/cropped-icon-601-180x180.png"
   },
   {
@@ -1603,6 +1640,7 @@
    "portal": "filmfreeway",
    "city": "Edinburgh",
    "country": "Scotland",
+   "bafta": true,
    "logo": "https://www.edfilmfest.org/wp-content/uploads/2024/07/cropped-cropped-EIFF-Site-Logo-180x180-1-180x180.png"
   },
   {
@@ -1669,6 +1707,7 @@
    "portal": "own",
    "city": "Bristol",
    "country": "United Kingdom",
+   "bafta": true,
    "logo": "https://images.squarespace-cdn.com/content/v1/60ae23a8d5a4980185a86703/72c5a258-5772-48a8-98e2-db5a9bc1e97b/favicon.ico"
   },
   {
@@ -1710,6 +1749,7 @@
    "portal": "own",
    "city": "Basingstoke",
    "country": "United Kingdom",
+   "bafta": true,
    "logo": "https://static.wixstatic.com/media/07ec86_952b11a563fd432cae24280bffdaadb8.jpg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/07ec86_952b11a563fd432cae24280bffdaadb8.jpg"
   },
   {
@@ -1764,6 +1804,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://www.fantoche.ch/static/images/favicon/android-icon-192x192.png"
   },
   {
@@ -1927,6 +1968,7 @@
    "portal": "own",
    "city": "Birmingham",
    "country": "United Kingdom",
+   "bafta": true,
    "logo": "https://files.baskercdn.com/flatpackfestival/files/favicon.ico"
   },
   {
@@ -1946,6 +1988,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://flickerfest.com.au/wp-content/themes/flickerfest_com_au/img/icons/apple-touch-icon-152x152-precomposed.png"
   },
   {
@@ -1988,6 +2031,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://foylefilmfestival.org/build/images/favicon/apple-icon-152x152.png"
   },
   {
@@ -1999,6 +2043,7 @@
    "portal": "own",
    "city": "San Francisco",
    "country": "United States",
+   "bafta": true,
    "logo": "https://www.frameline.org/favicon.ico"
   },
   {
@@ -2037,6 +2082,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://www.frisshusbudapest.com/2025/images/apple-touch-icon.png"
   },
   {
@@ -2074,6 +2120,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://www.galwayfilmfleadh.com/wp-content/uploads/2020/06/cropped-gff-new-green-192x192.png"
   },
   {
@@ -2116,6 +2163,7 @@
    "portal": "own",
    "city": "Glasgow",
    "country": "United Kingdom",
+   "bafta": true,
    "logo": "https://glasgowshort.org/wp-content/uploads/2024/02/cropped-GSFF-G-WhiteOnPink-192x192.png"
   },
   {
@@ -2146,6 +2194,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://www.goshort.nl/apple-touch-icon.png"
   },
   {
@@ -2260,6 +2309,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "moviemaker_year": 2026,
    "logo": "https://i0.wp.com/hamptonsfilmfest.org/site/wp-content/uploads/2019/11/cropped-0.jpeg?fit=192%2C192&ssl=1"
   },
@@ -2363,6 +2413,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://images.squarespace-cdn.com/content/v1/65df9b1dbbf6253a86277a4d/068c5025-2679-4184-92af-af6497a20510/favicon.ico?format=100w"
   },
   {
@@ -2409,6 +2460,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://apos-aka-hotdocs-prod.s3.ca-central-1.amazonaws.com/attachments/yukyrmycgjpk82cw2pxmwi0b-android-chrome-192x192.0.0.192.192.one-third.png"
   },
   {
@@ -2472,6 +2524,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://www.idfa.nl/favicon.ico"
   },
   {
@@ -2525,6 +2578,7 @@
    "portal": "own",
    "city": "Rotterdam",
    "country": "Netherlands",
+   "bafta": true,
    "logo": "https://iffr.com/nl/wp-content/uploads/2024/08/cropped-icon512_maskable-180x180.png?image-crop-positioner-ts=1724329322"
   },
   {
@@ -2628,6 +2682,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "moviemaker_year": 2026,
    "logo": "https://heartlandfilm.org/img/asset/dXBsb2Fkcy9pY29uLnBuZw/icon.png?w=32&h=32&s=0ded7c091d33a3dd624486197e487be8"
   },
@@ -2673,6 +2728,7 @@
    "portal": "own",
    "city": "Cardiff",
    "country": "Wales",
+   "bafta": true,
    "moviemaker_year": 2026,
    "logo": "https://irisprize.org/wp-content/uploads/2022/10/cropped-Iris-Prize-Logo-Dark--192x192.png"
   },
@@ -2802,6 +2858,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://www.kaboomfestival.nl/wp-content/uploads/2025/12/cropped-KABOOM-LOGO-geel-192x192.png"
   },
   {
@@ -2852,6 +2909,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://www.krakowfilmfestival.pl/wp-content/uploads/2016/04/cropped-kff_logo_male_e-mail_bez-nr-192x192.jpg"
   },
   {
@@ -2863,6 +2921,7 @@
    "portal": "own",
    "city": "Hamburg",
    "country": "Germany",
+   "bafta": true,
    "logo": "https://festival.shortfilm.com/media/pages/medialibrary/f4444e3fd5-1736517104/favicon4.png"
   },
   {
@@ -2881,6 +2940,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://www.kurzfilmtage.ch/webzen/cms/templates/kurzfilmtage.ch/favicons/favicon-192x192.png?v=53"
   },
   {
@@ -2900,6 +2960,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://static.parastorage.com/client/pfavico.ico"
   },
   {
@@ -2928,6 +2989,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://www.leedsfilm.com/favicon.ico"
   },
   {
@@ -2945,6 +3007,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://www.dok-leipzig.de/sites/default/files/2025-10/20250508_DOK_Motiv-WEB-HD-DE.jpg"
   },
   {
@@ -2965,6 +3028,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://www.kortfilmfestival.be/wp-content/uploads/2022/11/cropped-Ikl-man-oranje-profiel-website-192x192.png"
   },
   {
@@ -2976,6 +3040,7 @@
    "portal": "own",
    "city": "London",
    "country": "United Kingdom",
+   "bafta": true,
    "logo": "https://liaf.org.uk/wp-content/uploads/2023/03/cropped-LIAF-Favicon-192x192.jpg"
   },
   {
@@ -2996,6 +3061,7 @@
    "portal": "own",
    "city": "Kyiv",
    "country": "Ukraine",
+   "bafta": true,
    "logo": "https://linoleumfest.com/favicon.ico"
   },
   {
@@ -3015,6 +3081,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "moviemaker_year": 2026,
    "logo": "https://assets.locarnofestival.ch/data/mgnl/apple-touch-icon.png"
   },
@@ -3027,6 +3094,7 @@
    "portal": "own",
    "city": "London",
    "country": "United Kingdom",
+   "bafta": true,
    "logo": "https://locofilmfestival.com/wp-content/uploads/2022/10/fav-300x300.png"
   },
   {
@@ -3049,6 +3117,7 @@
    "portal": "own",
    "city": "London",
    "country": "United Kingdom",
+   "bafta": true,
    "logo": "https://www.shortfilms.org.uk/apple-touch-icon.png"
   },
   {
@@ -3112,6 +3181,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://www.manchesteranimationfestival.co.uk/favicons/apple-touch-icon.png"
   },
   {
@@ -3123,6 +3193,7 @@
    "portal": "own",
    "city": "Manchester",
    "country": "United Kingdom",
+   "bafta": true,
    "logo": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68e77d1c6a7ac380a932997d/1f0719aca_mancbeecopy.png"
   },
   {
@@ -3185,6 +3256,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://miff.com.au/storage/assets/2023/page-image.jpg"
   },
   {
@@ -3228,6 +3300,7 @@
    "website": "https://www.molodist.com/",
    "city": "Kyiv",
    "country": "Ukraine",
+   "bafta": true,
    "logo": "https://cdn.prod.website-files.com/68d592a6985472942e26d2c9/68dcee42fcc8278f173ce1b1_logo3.png"
   },
   {
@@ -3537,6 +3610,7 @@
    "portal": "own",
    "city": "Norwich",
    "country": "United Kingdom",
+   "bafta": true,
    "logo": "https://norwichfilmfestival.co.uk/wp-content/uploads/2025/05/cropped-Icon-on-White-100-192x192.jpg"
   },
   {
@@ -3567,6 +3641,7 @@
    "portal": "own",
    "city": "New York",
    "country": "United States",
+   "bafta": true,
    "logo": "https://www.filmlinc.org/apple-icon.png?7b23584e929eeab3"
   },
   {
@@ -3595,6 +3670,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://www.kurzfilmtage.de/typo3conf/ext/sitetemplate/Resources/Public/favicons/favicon-196x196.png"
   },
   {
@@ -3623,6 +3699,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://filmfestival.dk/wp-content/uploads/2025/11/cropped-Perlen-2-1-192x192.png"
   },
   {
@@ -3661,6 +3738,7 @@
    "portal": "own",
    "city": "London",
    "country": "United Kingdom",
+   "bafta": true,
    "logo": "https://opencitylondon.com/wp-content/uploads/cropped-favicon-192x192.png"
   },
   {
@@ -3685,6 +3763,7 @@
    "portal": "own",
    "city": "Brighton",
    "country": "United Kingdom",
+   "bafta": true,
    "logo": "https://images.squarespace-cdn.com/content/v1/5b02c752266c071c1adfd828/1572368684064-DPSG5UAAR3QGY91ZRME5/favicon.ico?format=100w"
   },
   {
@@ -3731,6 +3810,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://images.squarespace-cdn.com/content/v1/6334ad5a92216022656b3476/e3ae1640-da13-40f7-b7df-4fc0d7795269/favicon.ico?format=100w"
   },
   {
@@ -3742,6 +3822,7 @@
    "portal": "own",
    "city": "Los Angeles",
    "country": "United States",
+   "bafta": true,
    "logo": "https://cdn.prod.website-files.com/680bc8fc01dc4d9034ae682c/6834dd7bf369dc4f46d0d248_OUTFESTfavicon.png"
   },
   {
@@ -3785,6 +3866,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://www.google.com/s2/favicons?domain=www.psfilmfest.org&sz=128"
   },
   {
@@ -3839,6 +3921,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://poff.ee/assets/img/static/favicons/BNFF-192.png"
   },
   {
@@ -3953,6 +4036,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://raindance.org/wp-content/uploads/2020/06/cropped-browser-logo-2-32x32-1.png"
   },
   {
@@ -3964,6 +4048,7 @@
    "portal": "own",
    "city": "New York",
    "country": "United States",
+   "bafta": true,
    "logo": "https://www.google.com/s2/favicons?domain=reelabilities.org&sz=128"
   },
   {
@@ -4010,6 +4095,7 @@
    "city": "Providence",
    "region": "RI",
    "country": "United States",
+   "bafta": true,
    "logo": "https://film-festival.org/wp-content/uploads/2026/04/cropped-cropped-cropped-Flickers-Logo-192x192.png"
   },
   {
@@ -4038,6 +4124,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://curtacinema.com.br/wp-content/uploads/2024/03/cropped-logo-festival-curta-cinema-laranja-192x192.png"
   },
   {
@@ -4211,6 +4298,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://filmfreeway-production-storage-01-connector.filmfreeway.com/festivals/logos/000/001/857/large/santa_barbara_film_festival.jpg?1397073352"
   },
   {
@@ -4342,6 +4430,7 @@
    "portal": "own",
    "city": "Cannes",
    "country": "France",
+   "bafta": true,
    "logo": "https://www.semainedelacritique.com/asset/imgs/favicons/apple-touch-icon.png"
   },
   {
@@ -4385,6 +4474,7 @@
    "portal": "own",
    "city": "London",
    "country": "United Kingdom",
+   "bafta": true,
    "logo": "https://static.wixstatic.com/media/01d94b_50a3f0fae3c34e0cb9a45abc51fd275d%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/01d94b_50a3f0fae3c34e0cb9a45abc51fd275d%7Emv2.png"
   },
   {
@@ -4414,6 +4504,7 @@
    "portal": "own",
    "city": "Rouen",
    "country": "France",
+   "bafta": true,
    "logo": "https://www.shortuprouen.com/2026/assets/img/oeil.ico"
   },
   {
@@ -4432,6 +4523,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://images.squarespace-cdn.com/content/v1/668dd36a7730f76abd4ab1ec/461fb96c-0bd2-4626-85c8-efee82d211d6/favicon.ico?format=100w"
   },
   {
@@ -4530,6 +4622,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://slamdance.com/wp-content/uploads/2020/05/cropped-SLAM_circle-180x180.png"
   },
   {
@@ -4551,6 +4644,7 @@
    "portal": "own",
    "city": "London",
    "country": "United Kingdom",
+   "bafta": true,
    "logo": "https://images.squarespace-cdn.com/content/v1/5ee7bf3ec8f67308f586c460/743a40b6-a552-4216-9981-32274f063adb/favicon.ico"
   },
   {
@@ -4581,6 +4675,7 @@
    "portal": "own",
    "city": "Glasgow",
    "country": "United Kingdom",
+   "bafta": true,
    "logo": "https://www.sqiff.org/wp-content/uploads/2019/02/acronym-logo-black-on-white-270x270.jpg"
   },
   {
@@ -4676,6 +4771,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://www.sundance.org/wp-content/uploads/2021/10/SD-Favicon.png"
   },
   {
@@ -4687,6 +4783,7 @@
    "portal": "own",
    "city": "San Francisco",
    "country": "United States",
+   "bafta": true,
    "logo": "https://images.squarespace-cdn.com/content/v1/564cb75ce4b011ef30379c06/9f23c510-a694-4845-b54e-0a2ff96c3497/favicon.ico?format=100w"
   },
   {
@@ -4707,6 +4804,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://sxsw.com/wp-content/uploads/sites/2/2026/07/cropped-Path.png?quality=99&#038;w=180"
   },
   {
@@ -4724,6 +4822,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://cms.sff.org.au/wp-content/uploads/2025/03/favicon-300x300.png"
   },
   {
@@ -4772,6 +4871,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://tamperefilmfestival.fi/wp-content/uploads/2025/12/Tampere-FIlm-Festival-FAVICON-2026-300x300.png"
   },
   {
@@ -4832,6 +4932,7 @@
    "portal": "own",
    "city": "Telluride",
    "country": "United States",
+   "bafta": true,
    "logo": "https://www.telluridefilmfestival.org/favicon.ico"
   },
   {
@@ -4894,6 +4995,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://www.google.com/s2/favicons?domain=tiff.net&sz=128"
   },
   {
@@ -4965,6 +5067,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://tribecafilm.com/favicon.ico"
   },
   {
@@ -4995,6 +5098,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://shortfilmfestival.com/wp-content/uploads/2026/07/favicon-shortfilm-festival.webp"
   },
   {
@@ -5033,6 +5137,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://static.labiennale.org/apple-touch-icon.png"
   },
   {
@@ -5044,6 +5149,7 @@
    "portal": "own",
    "city": "Viborg",
    "country": "Denmark",
+   "bafta": true,
    "logo": "https://viborganimationfestival.dk/wp-content/uploads/2026/04/cropped-vaf-favicon-pink-192x192.png"
   },
   {
@@ -5072,6 +5178,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://www.viennashorts.com/favicon.ico"
   },
   {
@@ -5139,6 +5246,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://www.visionsdureel.ch/wp-content/uploads/2026/01/cropped-VdR26_favicon-1-192x192.png"
   },
   {
@@ -5253,6 +5361,7 @@
    "portal": "own",
    "city": "Darlington",
    "country": "United Kingdom",
+   "bafta": true,
    "logo": "https://images.squarespace-cdn.com/content/v1/642db759e29e186b224d70c4/2a634173-cb6c-4eb2-ad86-82ee5ca39aa2/favicon.ico?format=100w"
   },
   {
@@ -5288,6 +5397,7 @@
     ],
     "year": 2027
    },
+   "bafta": true,
    "logo": "https://www.animafest.hr/favicon.ico"
   }
  ],
