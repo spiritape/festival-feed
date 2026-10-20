@@ -4795,7 +4795,7 @@
     "to": "2027-05-02",
     "approximate": false
    },
-   "verified_on": "2026-10-05"
+   "verified_on": "2026-10-20"
   },
   {
    "festival": "bali",
@@ -5020,7 +5020,7 @@
     "to": "2027-06-02",
     "approximate": false
    },
-   "verified_on": "2026-10-05"
+   "verified_on": "2026-10-20"
   },
   {
    "festival": "full-frame-documentary",
@@ -5111,7 +5111,7 @@
   {
    "festival": "in-palace",
    "cycle": 2027,
-   "verified_on": "2026-10-12"
+   "verified_on": "2026-10-20"
   },
   {
    "festival": "indy-presented-by",
@@ -5273,7 +5273,7 @@
     "to": "2027-02-13",
     "approximate": false
    },
-   "verified_on": "2026-10-05"
+   "verified_on": "2026-10-20"
   },
   {
    "festival": "sarasota",
@@ -5311,7 +5311,7 @@
   {
    "festival": "sedona",
    "cycle": 2027,
-   "verified_on": "2026-10-05"
+   "verified_on": "2026-10-20"
   },
   {
    "festival": "sffilm",
@@ -18211,6 +18211,34 @@
    },
    "fee_unknown": true,
    "note": "Standard: May 8, 2026 (passed)"
+  },
+  {
+   "festival": "torino",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-31",
+    "to": "2026-07-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular deadline (standard fees)"
+  },
+  {
+   "festival": "torino",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-06",
+    "to": "2026-09-06",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Final deadline (increased fees)"
   },
   {
    "festival": "urbanworld",
