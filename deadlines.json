@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-10-21",
+ "generated_on": "2026-10-24",
  "festivals": [
   {
    "id": "25fps-zagreb",
@@ -5419,6 +5419,11 @@
    "verified_on": "2026-10-20"
   },
   {
+   "festival": "anca-animation",
+   "cycle": 2027,
+   "verified_on": "2026-10-24"
+  },
+  {
    "festival": "anifilm-animated",
    "cycle": 2027,
    "verified_on": "2026-10-05"
@@ -5455,7 +5460,7 @@
     "to": "2027-04-18",
     "approximate": false
    },
-   "verified_on": "2026-10-05"
+   "verified_on": "2026-10-24"
   },
   {
    "festival": "aspen",
@@ -5858,6 +5863,16 @@
    "verified_on": "2026-10-12"
   },
   {
+   "festival": "jiiff-jose-ignacio",
+   "cycle": 2027,
+   "verified_on": "2026-10-24"
+  },
+  {
+   "festival": "kaboom-animation",
+   "cycle": 2027,
+   "verified_on": "2026-10-24"
+  },
+  {
    "festival": "kurzfilm-hamburg",
    "cycle": 2027,
    "verified_on": "2026-10-20"
@@ -5906,6 +5921,11 @@
    "verified_on": "2026-10-06"
   },
   {
+   "festival": "melbourne",
+   "cycle": 2027,
+   "verified_on": "2026-10-24"
+  },
+  {
    "festival": "milwaukee",
    "cycle": 2027,
    "runs": {
@@ -5951,7 +5971,7 @@
   {
    "festival": "omaha",
    "cycle": 2027,
-   "verified_on": "2026-10-08"
+   "verified_on": "2026-10-24"
   },
   {
    "festival": "open-city-docs",
@@ -6139,17 +6159,6 @@
    "verified_on": "2026-10-05"
   },
   {
-   "festival": "sundance",
-   "cycle": 2027,
-   "runs": {
-    "precision": "day",
-    "from": "2027-01-21",
-    "to": "2027-01-31",
-    "approximate": false
-   },
-   "verified_on": "2026-10-20"
-  },
-  {
    "festival": "sxsw",
    "cycle": 2027,
    "runs": {
@@ -6246,41 +6255,6 @@
   }
  ],
  "deadlines": [
-  {
-   "festival": "sundance",
-   "cycle": 2027,
-   "tier": "late",
-   "categories": [
-    "documentary",
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-21",
-    "to": "2026-09-21",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 125,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Late Deadline Features: U.S. Narrative Feature Films, U.S. Documentary Feature Films, International Narrative Feature Films, International Documentary Feature Films"
-  },
-  {
-   "festival": "glasgow-short",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-22",
-    "to": "2026-09-22",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Regular Deadline"
-  },
   {
    "festival": "aspen",
    "cycle": 2027,
@@ -7283,6 +7257,19 @@
    },
    "fee_unknown": true,
    "note": "Regular Deadline. Free via Festhome (bgiff.com FAQ: \"free for this edition\"); FilmFreeway charges its own fees"
+  },
+  {
+   "festival": "kaboom-animation",
+   "cycle": 2027,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-05",
+    "to": "2026-10-05",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "work before our deadline"
   },
   {
    "festival": "slamdance",
@@ -8509,6 +8496,19 @@
    "note": "Largometrajes (60 minutes or more): call closes 31 October 2026, central Mexico time (GMT-6)"
   },
   {
+   "festival": "melbourne",
+   "cycle": 2027,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-31",
+    "to": "2026-10-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Round 1 (October)"
+  },
+  {
    "festival": "mpumalanga",
    "cycle": 2027,
    "tier": "early",
@@ -9519,6 +9519,19 @@
    "note": "Shorts/docs: Nov 8, 2026"
   },
   {
+   "festival": "jiiff-jose-ignacio",
+   "cycle": 2027,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-09",
+    "to": "2026-11-09",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Cierre de convocatoria (Competencia de Cortometrajes)"
+  },
+  {
    "festival": "omaha",
    "cycle": 2027,
    "tier": "late",
@@ -10163,6 +10176,33 @@
    },
    "fee_unknown": false,
    "note": "Early Bird Deadline: Horror Short, Indiana Spotlight Narrative Short, Indiana Spotlight Documentary Short, Indiana Spotlight Animated Short"
+  },
+  {
+   "festival": "anca-animation",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-30",
+    "to": "2026-11-30",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Earlybird (free)"
+  },
+  {
+   "festival": "melbourne",
+   "cycle": 2027,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-30",
+    "to": "2026-11-30",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Round 2 (November)"
   },
   {
    "festival": "sarasota",
@@ -11245,6 +11285,20 @@
    "note": "Deadline for Courtisane festival 2027"
   },
   {
+   "festival": "anca-animation",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-31",
+    "to": "2026-12-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular (EUR 5)"
+  },
+  {
    "festival": "anifilm-animated",
    "cycle": 2027,
    "categories": [],
@@ -11386,6 +11440,19 @@
    },
    "fee_unknown": false,
    "note": "Regular Deadline: New Zealand Tertiary Student Documentary"
+  },
+  {
+   "festival": "melbourne",
+   "cycle": 2027,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-31",
+    "to": "2026-12-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Round 3 (December)"
   },
   {
    "festival": "palm-springs-shortfest",
@@ -12388,6 +12455,20 @@
    "note": "Final (Un)Deadline"
   },
   {
+   "festival": "anca-animation",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-31",
+    "to": "2027-01-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Deadline (EUR 10)"
+  },
+  {
    "festival": "brooklyn",
    "cycle": 2027,
    "categories": [
@@ -12507,6 +12588,19 @@
    },
    "fee_unknown": true,
    "note": "» Deadline"
+  },
+  {
+   "festival": "melbourne",
+   "cycle": 2027,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-31",
+    "to": "2027-01-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Round 4 (January)"
   },
   {
    "festival": "mpumalanga",
@@ -13338,6 +13432,19 @@
    },
    "fee_unknown": false,
    "note": "Feature Film Regular"
+  },
+  {
+   "festival": "melbourne",
+   "cycle": 2027,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-16",
+    "to": "2027-02-16",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Round 5 (February)"
   },
   {
    "festival": "documentary-sheffield",
@@ -14681,48 +14788,6 @@
    "note": "Late Submission Deadline"
   },
   {
-   "festival": "anca-animation",
-   "cycle": 2026,
-   "tier": "early",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2025-11-30",
-    "to": "2025-11-30",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Earlybird (free)"
-  },
-  {
-   "festival": "anca-animation",
-   "cycle": 2026,
-   "tier": "regular",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2025-12-31",
-    "to": "2025-12-31",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Regular (EUR 5)"
-  },
-  {
-   "festival": "anca-animation",
-   "cycle": 2026,
-   "tier": "late",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-01-31",
-    "to": "2026-01-31",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Late Deadline (EUR 10)"
-  },
-  {
    "festival": "austin",
    "cycle": 2026,
    "tier": "early",
@@ -15821,6 +15886,21 @@
    },
    "fee_unknown": false,
    "note": "Regular Deadline: Short List: Features, Winner's Circle (Features Only)"
+  },
+  {
+   "festival": "documentaries-bilbao-zinebi",
+   "cycle": 2026,
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-01",
+    "to": "2026-07-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Short film submission deadline"
   },
   {
    "festival": "documentary-kerala",
@@ -16935,6 +17015,19 @@
    },
    "fee_unknown": false,
    "note": "Late fee; final submission deadline; short and mid-length, under 64 minutes"
+  },
+  {
+   "festival": "interfilm-berlin",
+   "cycle": 2026,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-29",
+    "to": "2026-05-29",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Submission deadline"
   },
   {
    "festival": "internacional-cine-lebu",
@@ -20223,6 +20316,129 @@
    },
    "fee_unknown": true,
    "note": "Final Deadline"
+  },
+  {
+   "festival": "sundance",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-13",
+    "to": "2026-07-13",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 55,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Deadline Shorts: U.S. Short Films, International Short Films"
+  },
+  {
+   "festival": "sundance",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-27",
+    "to": "2026-07-27",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 80,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Deadline Features: U.S. Narrative Feature Films, U.S. Documentary Feature Films, International Narrative Feature Films, International Documentary Feature Films"
+  },
+  {
+   "festival": "sundance",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-03",
+    "to": "2026-08-03",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 75,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Official Deadline Shorts: U.S. Short Films, International Short Films"
+  },
+  {
+   "festival": "sundance",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-28",
+    "to": "2026-08-28",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 100,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Official Deadline Features: U.S. Narrative Feature Films, U.S. Documentary Feature Films, International Narrative Feature Films, International Documentary Feature Films"
+  },
+  {
+   "festival": "sundance",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-31",
+    "to": "2026-08-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 95,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline Shorts: U.S. Short Films, International Short Films"
+  },
+  {
+   "festival": "sundance",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-21",
+    "to": "2026-09-21",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 125,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline Features: U.S. Narrative Feature Films, U.S. Documentary Feature Films, International Narrative Feature Films, International Documentary Feature Films"
   },
   {
    "festival": "superfest",
