@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-10-24",
+ "generated_on": "2026-10-26",
  "festivals": [
   {
    "id": "25fps-zagreb",
@@ -5496,17 +5496,6 @@
    "verified_on": "2026-10-11"
   },
   {
-   "festival": "beirut",
-   "cycle": 2026,
-   "runs": {
-    "precision": "day",
-    "from": "2026-11-01",
-    "to": "2026-11-06",
-    "approximate": false
-   },
-   "verified_on": "2026-10-19"
-  },
-  {
    "festival": "berlin-gate",
    "cycle": 2027,
    "ordinal": 1,
@@ -5548,7 +5537,7 @@
   {
    "festival": "big-sky-documentary",
    "cycle": 2027,
-   "verified_on": "2026-10-19"
+   "verified_on": "2026-10-26"
   },
   {
    "festival": "bolton",
@@ -6019,7 +6008,7 @@
     "to": "2027-04-11",
     "approximate": false
    },
-   "verified_on": "2026-10-11"
+   "verified_on": "2026-10-26"
   },
   {
    "festival": "portland",
@@ -6167,7 +6156,7 @@
     "to": "2027-03-21",
     "approximate": false
    },
-   "verified_on": "2026-10-19"
+   "verified_on": "2026-10-26"
   },
   {
    "festival": "sydney",
@@ -6255,99 +6244,6 @@
   }
  ],
  "deadlines": [
-  {
-   "festival": "aspen",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "documentary",
-    "short",
-    "student"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-25",
-    "to": "2026-09-25",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 80,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Animation, Documentary, Student"
-  },
-  {
-   "festival": "beirut",
-   "cycle": 2026,
-   "tier": "extended",
-   "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-25",
-    "to": "2026-09-25",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 50,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Extended Deadline: WTF Shorts Category"
-  },
-  {
-   "festival": "beirut",
-   "cycle": 2026,
-   "tier": "extended",
-   "categories": [
-    "animation",
-    "documentary",
-    "experimental",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-25",
-    "to": "2026-09-25",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 45,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Extended Deadline: International Short Live Action (Fiction) Film Competition, International Short Documentary Competition, International Short Animation Competition, International Short Experimental Competition, International Short Web / New Media Competition"
-  },
-  {
-   "festival": "open-city-docs",
-   "cycle": 2026,
-   "tier": "early",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-25",
-    "to": "2026-09-25",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "The early deadline for entries"
-  },
-  {
-   "festival": "overlook",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-25",
-    "to": "2026-09-25",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Early (Un)Deadline"
-  },
   {
    "festival": "riverrun",
    "cycle": 2027,
@@ -14856,6 +14752,807 @@
    },
    "fee_unknown": true,
    "note": "Closed (Dec 18, 2025)"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2025-12-22",
+    "to": "2025-12-22",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "New Year Submissions: WTF Shorts Category"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "categories": [
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2025-12-22",
+    "to": "2025-12-22",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 10,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "New Year Submissions: Beirut Seeds Competition - Lebanese Students and Amateurs"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2025-12-22",
+    "to": "2025-12-22",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "New Year Submissions: International Short Live Action (Fiction) Film Competition, International Short Documentary Competition, International Short Animation Competition, International Short Experimental Competition, International Short Web / New Media Competition"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2025-12-22",
+    "to": "2025-12-22",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 20,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "New Year Submissions: Lebanese Independent Short Live Action (Fiction) Film Competition, Lebanese Independent Short Documentary Competition, Lebanese Independent Short Animation Competition, Lebanese Independent Short Experimental Category, Lebanese Independent Short Web / New Media Competition"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-01-22",
+    "to": "2026-01-22",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlier than an Earlybird: WTF Shorts Category"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-01-22",
+    "to": "2026-01-22",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 10,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlier than an Earlybird: Beirut Seeds Competition - Lebanese Students and Amateurs"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-01-22",
+    "to": "2026-01-22",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlier than an Earlybird: International Short Live Action (Fiction) Film Competition, International Short Documentary Competition, International Short Animation Competition, International Short Experimental Competition, International Short Web / New Media Competition"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-01-22",
+    "to": "2026-01-22",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 20,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlier than an Earlybird: Lebanese Independent Short Live Action (Fiction) Film Competition, Lebanese Independent Short Documentary Competition, Lebanese Independent Short Animation Competition, Lebanese Independent Short Experimental Category, Lebanese Independent Short Web / New Media Competition"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-02-20",
+    "to": "2026-02-20",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Submissions: WTF Shorts Category"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-02-20",
+    "to": "2026-02-20",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 10,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Submissions: Beirut Seeds Competition - Lebanese Students and Amateurs"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-02-20",
+    "to": "2026-02-20",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Submissions: International Short Live Action (Fiction) Film Competition, International Short Documentary Competition, International Short Animation Competition, International Short Experimental Competition, International Short Web / New Media Competition"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-02-20",
+    "to": "2026-02-20",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 20,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Submissions: Lebanese Independent Short Live Action (Fiction) Film Competition, Lebanese Independent Short Documentary Competition, Lebanese Independent Short Animation Competition, Lebanese Independent Short Experimental Category, Lebanese Independent Short Web / New Media Competition"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-22",
+    "to": "2026-03-22",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Spring Submissions: WTF Shorts Category"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "categories": [
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-22",
+    "to": "2026-03-22",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 10,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Spring Submissions: Beirut Seeds Competition - Lebanese Students and Amateurs"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-22",
+    "to": "2026-03-22",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Spring Submissions: International Short Live Action (Fiction) Film Competition, International Short Documentary Competition, International Short Animation Competition, International Short Experimental Competition, International Short Web / New Media Competition"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-22",
+    "to": "2026-03-22",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 20,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Spring Submissions: Lebanese Independent Short Live Action (Fiction) Film Competition, Lebanese Independent Short Documentary Competition, Lebanese Independent Short Animation Competition, Lebanese Independent Short Experimental Category, Lebanese Independent Short Web / New Media Competition"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-22",
+    "to": "2026-04-22",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Active Submitters: WTF Shorts Category"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "categories": [
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-22",
+    "to": "2026-04-22",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 10,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Active Submitters: Beirut Seeds Competition - Lebanese Students and Amateurs"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-22",
+    "to": "2026-04-22",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Active Submitters: International Short Live Action (Fiction) Film Competition, International Short Documentary Competition, International Short Animation Competition, International Short Experimental Competition, International Short Web / New Media Competition"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-22",
+    "to": "2026-04-22",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 20,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Active Submitters: Lebanese Independent Short Live Action (Fiction) Film Competition, Lebanese Independent Short Documentary Competition, Lebanese Independent Short Animation Competition, Lebanese Independent Short Experimental Category, Lebanese Independent Short Web / New Media Competition"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-22",
+    "to": "2026-05-22",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Midway to the Festival Deadline: WTF Shorts Category"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "categories": [
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-22",
+    "to": "2026-05-22",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 10,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Midway to the Festival Deadline: Beirut Seeds Competition - Lebanese Students and Amateurs"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-22",
+    "to": "2026-05-22",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Midway to the Festival Deadline: International Short Live Action (Fiction) Film Competition, International Short Documentary Competition, International Short Animation Competition, International Short Experimental Competition, International Short Web / New Media Competition"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-22",
+    "to": "2026-05-22",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 20,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Midway to the Festival Deadline: Lebanese Independent Short Live Action (Fiction) Film Competition, Lebanese Independent Short Documentary Competition, Lebanese Independent Short Animation Competition, Lebanese Independent Short Experimental Category, Lebanese Independent Short Web / New Media Competition"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-22",
+    "to": "2026-06-22",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Summer Submissions: WTF Shorts Category"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-22",
+    "to": "2026-06-22",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 10,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Summer Submissions: Beirut Seeds Competition - Lebanese Students and Amateurs"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-22",
+    "to": "2026-06-22",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Summer Submissions: International Short Live Action (Fiction) Film Competition, International Short Documentary Competition, International Short Animation Competition, International Short Experimental Competition, International Short Web / New Media Competition"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-22",
+    "to": "2026-06-22",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 20,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Summer Submissions: Lebanese Independent Short Live Action (Fiction) Film Competition, Lebanese Independent Short Documentary Competition, Lebanese Independent Short Animation Competition, Lebanese Independent Short Experimental Category, Lebanese Independent Short Web / New Media Competition"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-22",
+    "to": "2026-07-22",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 10,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Beirut Seeds Competition - Lebanese Students and Amateurs"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-22",
+    "to": "2026-07-22",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: WTF Shorts Category"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-22",
+    "to": "2026-07-22",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: International Short Live Action (Fiction) Film Competition, International Short Documentary Competition, International Short Animation Competition, International Short Experimental Competition, International Short Web / New Media Competition"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-22",
+    "to": "2026-07-22",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 20,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Lebanese Independent Short Live Action (Fiction) Film Competition, Lebanese Independent Short Documentary Competition, Lebanese Independent Short Animation Competition, Lebanese Independent Short Experimental Category, Lebanese Independent Short Web / New Media Competition"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-21",
+    "to": "2026-08-21",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: WTF Shorts Category"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-21",
+    "to": "2026-08-21",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 10,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Beirut Seeds Competition - Lebanese Students and Amateurs"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-21",
+    "to": "2026-08-21",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: International Short Live Action (Fiction) Film Competition, International Short Documentary Competition, International Short Animation Competition, International Short Experimental Competition, International Short Web / New Media Competition"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-21",
+    "to": "2026-08-21",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 20,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Lebanese Independent Short Live Action (Fiction) Film Competition, Lebanese Independent Short Documentary Competition, Lebanese Independent Short Animation Competition, Lebanese Independent Short Experimental Category, Lebanese Independent Short Web / New Media Competition"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "tier": "extended",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-25",
+    "to": "2026-09-25",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: WTF Shorts Category"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "tier": "extended",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-25",
+    "to": "2026-09-25",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: International Short Live Action (Fiction) Film Competition, International Short Documentary Competition, International Short Animation Competition, International Short Experimental Competition, International Short Web / New Media Competition"
   },
   {
    "festival": "busan",
