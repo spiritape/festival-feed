@@ -182,9 +182,10 @@
    "id": "angeles-asian-pacific",
    "name": "Los Angeles Asian Pacific Film Festival",
    "entry": "open",
-   "page": "https://www.vcmedia.org/festival",
+   "page": "https://filmfreeway.com/laapff",
+   "submit": "https://filmfreeway.com/laapff",
    "website": "https://www.vcmedia.org/festival",
-   "portal": "own",
+   "portal": "filmfreeway",
    "city": "Los Angeles",
    "region": "California",
    "country": "United States",
@@ -201,9 +202,10 @@
    "id": "angeles-latino",
    "name": "Los Angeles Latino International Film Festival (LALIFF)",
    "entry": "open",
-   "page": "https://www.laliff.org",
+   "page": "https://filmfreeway.com/festivals/46236",
+   "submit": "https://filmfreeway.com/festivals/46236",
    "website": "https://www.laliff.org",
-   "portal": "own",
+   "portal": "filmfreeway",
    "city": "Los Angeles",
    "region": "CA",
    "country": "United States",
@@ -1939,7 +1941,7 @@
   {
    "id": "filmfest-munchen",
    "name": "Filmfest München",
-   "entry": "open",
+   "entry": "none",
    "page": "https://www.filmfest-muenchen.de/en/",
    "website": "https://www.filmfest-muenchen.de/en/",
    "city": "Munich",
@@ -2384,7 +2386,7 @@
    "entry": "open",
    "page": "https://www.animation.hiroshimafest.org/en",
    "website": "https://www.animation.hiroshimafest.org/en",
-   "portal": "own",
+   "portal": "filmfreeway",
    "country": "Japan",
    "academy": {
     "lists": [
@@ -2432,7 +2434,8 @@
    "id": "hong-kong",
    "name": "The Hong Kong International Film Festival",
    "entry": "open",
-   "page": "https://www.hkiff.org.hk",
+   "page": "https://www.hkiff.org.hk/society/CallForEntries/?lang=en",
+   "submit": "https://www.hkiff.org.hk/society/CallForEntries/?lang=en",
    "website": "https://www.hkiff.org.hk",
    "portal": "own",
    "country": "Hong Kong",
@@ -2450,7 +2453,8 @@
    "id": "hot-docs-canadian",
    "name": "Hot Docs Canadian International Documentary Festival",
    "entry": "open",
-   "page": "https://www.hotdocs.ca",
+   "page": "https://hotdocs.tfaforms.net/5210661",
+   "submit": "https://hotdocs.tfaforms.net/5210661",
    "website": "https://www.hotdocs.ca",
    "portal": "own",
    "country": "Canada",
@@ -2496,9 +2500,10 @@
    "id": "huesca",
    "name": "Huesca International Film Festival",
    "entry": "open",
-   "page": "https://www.huesca-filmfestival.com",
+   "page": "https://festhome.com/f/huesca",
+   "submit": "https://festhome.com/f/huesca",
    "website": "https://www.huesca-filmfestival.com",
-   "portal": "own",
+   "portal": "festhome",
    "country": "Spain",
    "academy": {
     "lists": [
@@ -2514,7 +2519,8 @@
    "id": "idfa-documentary-amsterdam",
    "name": "IDFA – International Documentary Film Festival Amsterdam",
    "entry": "open",
-   "page": "https://www.idfa.nl",
+   "page": "https://professionals.idfa.nl/program/festival-entries/",
+   "submit": "https://professionals.idfa.nl/program/festival-entries/",
    "website": "https://www.idfa.nl",
    "portal": "own",
    "country": "Netherlands",
@@ -2598,7 +2604,7 @@
    "entry": "open",
    "page": "https://www.imaginaria.eu",
    "website": "https://www.imaginaria.eu",
-   "portal": "own",
+   "portal": "filmfreeway",
    "country": "Italy",
    "academy": {
     "lists": [
@@ -2612,9 +2618,10 @@
    "id": "imaginenative-media-arts",
    "name": "Imaginenative Film + Media Arts Festival",
    "entry": "open",
-   "page": "https://www.imaginenative.org",
+   "page": "https://filmfreeway.com/imagineNATIVE",
+   "submit": "https://filmfreeway.com/imagineNATIVE",
    "website": "https://www.imaginenative.org",
-   "portal": "own",
+   "portal": "filmfreeway",
    "country": "Canada",
    "academy": {
     "lists": [
@@ -5196,8 +5203,10 @@
    "id": "viff-vancouver",
    "name": "Vancouver International Film Festival (VIFF)",
    "entry": "open",
-   "page": "https://viff.org/",
+   "page": "https://filmfreeway.com/VIFF",
+   "submit": "https://filmfreeway.com/VIFF",
    "website": "https://viff.org/",
+   "portal": "filmfreeway",
    "city": "Vancouver",
    "country": "Canada",
    "logo": "https://viff.org/themes/childtheme/assets/images/favicon/apple-touch-icon.png"
@@ -5826,9 +5835,56 @@
    "verified_on": "2026-10-20"
   },
   {
+   "festival": "hong-kong",
+   "cycle": 2027,
+   "ordinal": 51,
+   "runs": {
+    "precision": "day",
+    "from": "2027-03-16",
+    "to": "2027-03-29",
+    "approximate": false
+   },
+   "verified_on": "2026-10-26"
+  },
+  {
+   "festival": "hot-docs-canadian",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-23",
+    "to": "2027-05-02",
+    "approximate": false
+   },
+   "verified_on": "2026-10-26"
+  },
+  {
    "festival": "iff-boston",
    "cycle": 2027,
    "verified_on": "2026-10-21"
+  },
+  {
+   "festival": "imaginaria",
+   "cycle": 2027,
+   "ordinal": 25,
+   "runs": {
+    "precision": "day",
+    "from": "2027-08-22",
+    "to": "2027-08-29",
+    "approximate": false
+   },
+   "verified_on": "2026-10-26"
+  },
+  {
+   "festival": "imaginenative-media-arts",
+   "cycle": 2027,
+   "ordinal": 27,
+   "runs": {
+    "precision": "day",
+    "from": "2027-06-01",
+    "to": "2027-06-06",
+    "approximate": false
+   },
+   "verified_on": "2026-10-26"
   },
   {
    "festival": "in-palace",
@@ -7903,6 +7959,25 @@
    "note": "Cortometrajes (up to 30 minutes): call closes 16 October 2026 at 18:00 central Mexico time"
   },
   {
+   "festival": "imaginenative-media-arts",
+   "cycle": 2027,
+   "ordinal": 27,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-16",
+    "to": "2026-10-16",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 0,
+    "currency": "CAD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird Submission Period, no fee"
+  },
+  {
    "festival": "ashland-independent",
    "cycle": 2027,
    "ordinal": 26,
@@ -8189,6 +8264,50 @@
    },
    "fee_unknown": true,
    "note": "Late Deadline"
+  },
+  {
+   "festival": "hot-docs-canadian",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "feature",
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-29",
+    "to": "2026-10-29",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 70,
+    "currency": "CAD",
+    "note": "plus 13% HST within Canada"
+   },
+   "fee_unknown": false,
+   "note": "Early Deadline (mid-length, feature and episodic series)"
+  },
+  {
+   "festival": "hot-docs-canadian",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "short",
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-29",
+    "to": "2026-10-29",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "CAD",
+    "note": "plus 13% HST within Canada"
+   },
+   "fee_unknown": false,
+   "note": "Early Deadline"
   },
   {
    "festival": "alchemy",
@@ -8851,6 +8970,73 @@
    },
    "fee_unknown": true,
    "note": "FILMS: Submission deadline"
+  },
+  {
+   "festival": "hong-kong",
+   "cycle": 2027,
+   "ordinal": 51,
+   "tier": "early",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-03",
+    "to": "2026-11-03",
+    "approximate": false,
+    "time": "23:59:00",
+    "tz": "HKT"
+   },
+   "fee": {
+    "amount": 70,
+    "currency": "USD",
+    "note": "non-local; local entries waived"
+   },
+   "fee_unknown": false,
+   "note": "Early-bird Entries, online before 24:00 Hong Kong time (recorded as 23:59), or postmarked"
+  },
+  {
+   "festival": "hong-kong",
+   "cycle": 2027,
+   "ordinal": 51,
+   "tier": "early",
+   "categories": [
+    "feature",
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-03",
+    "to": "2026-11-03",
+    "approximate": false,
+    "time": "23:59:00",
+    "tz": "HKT"
+   },
+   "fee_unknown": true,
+   "note": "Documentary features (60 minutes or more), early-bird"
+  },
+  {
+   "festival": "hong-kong",
+   "cycle": 2027,
+   "ordinal": 51,
+   "tier": "early",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-03",
+    "to": "2026-11-03",
+    "approximate": false,
+    "time": "23:59:00",
+    "tz": "HKT"
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Short Film Competition (under 20 minutes), early-bird"
   },
   {
    "festival": "animation-dingle",
@@ -10773,6 +10959,50 @@
    "note": "Final Deadline: International Competition - ANIMATION"
   },
   {
+   "festival": "hot-docs-canadian",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "short",
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-10",
+    "to": "2026-12-10",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "CAD",
+    "note": "plus 13% HST within Canada"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline"
+  },
+  {
+   "festival": "hot-docs-canadian",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "feature",
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-10",
+    "to": "2026-12-10",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 120,
+    "currency": "CAD",
+    "note": "plus 13% HST within Canada"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline (mid-length, feature and episodic series)"
+  },
+  {
    "festival": "phoenix",
    "cycle": 2027,
    "tier": "extended",
@@ -11338,6 +11568,72 @@
    "note": "Regular Deadline: New Zealand Tertiary Student Documentary"
   },
   {
+   "festival": "hong-kong",
+   "cycle": 2027,
+   "ordinal": 51,
+   "tier": "late",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-31",
+    "to": "2026-12-31",
+    "approximate": false,
+    "time": "23:59:00",
+    "tz": "HKT"
+   },
+   "fee": {
+    "amount": 80,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Entries, online before 24:00 Hong Kong time (recorded as 23:59), or postmarked"
+  },
+  {
+   "festival": "hong-kong",
+   "cycle": 2027,
+   "ordinal": 51,
+   "tier": "late",
+   "categories": [
+    "feature",
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-31",
+    "to": "2026-12-31",
+    "approximate": false,
+    "time": "23:59:00",
+    "tz": "HKT"
+   },
+   "fee_unknown": true,
+   "note": "Documentary features (60 minutes or more), late entries"
+  },
+  {
+   "festival": "hong-kong",
+   "cycle": 2027,
+   "ordinal": 51,
+   "tier": "late",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-31",
+    "to": "2026-12-31",
+    "approximate": false,
+    "time": "23:59:00",
+    "tz": "HKT"
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Short Film Competition (under 20 minutes), late entries"
+  },
+  {
    "festival": "melbourne",
    "cycle": 2027,
    "categories": [],
@@ -11632,6 +11928,25 @@
    "note": "Regular Deadline: Indigenous Feature, Live Action Short, Animated Short, Documentary Short, Indigenous Short"
   },
   {
+   "festival": "imaginenative-media-arts",
+   "cycle": 2027,
+   "ordinal": 27,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-03",
+    "to": "2027-01-03",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 5,
+    "currency": "CAD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Submission Period"
+  },
+  {
    "festival": "chicago-underground",
    "cycle": 2027,
    "tier": "regular",
@@ -11675,6 +11990,50 @@
    },
    "fee_unknown": false,
    "note": "Regular Deadline: Narrative Short, Documentary Short, Experimental Short, Animated Short"
+  },
+  {
+   "festival": "hot-docs-canadian",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "feature",
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-04",
+    "to": "2027-01-04",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 165,
+    "currency": "CAD",
+    "note": "plus 13% HST within Canada"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline (mid-length, feature and episodic series)"
+  },
+  {
+   "festival": "hot-docs-canadian",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "short",
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-04",
+    "to": "2027-01-04",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 70,
+    "currency": "CAD",
+    "note": "plus 13% HST within Canada"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline"
   },
   {
    "festival": "milwaukee",
@@ -14481,6 +14840,27 @@
    "note": "REGULAR DEADLINE"
   },
   {
+   "festival": "imaginaria",
+   "cycle": 2027,
+   "ordinal": 25,
+   "categories": [
+    "short",
+    "animation"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-05-15",
+    "to": "2027-05-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 0,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Submission deadline"
+  },
+  {
    "festival": "sidewalk",
    "cycle": 2027,
    "categories": [
@@ -14679,6 +15059,163 @@
     "from": "2026-06-07",
     "to": "2026-06-07",
     "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Submission Deadline"
+  },
+  {
+   "festival": "angeles-asian-pacific",
+   "cycle": 2026,
+   "ordinal": 42,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2025-10-01",
+    "to": "2025-10-01",
+    "approximate": false,
+    "time": "23:59:00",
+    "tz": "PST"
+   },
+   "fee_unknown": true,
+   "note": "Early Deadline"
+  },
+  {
+   "festival": "angeles-asian-pacific",
+   "cycle": 2026,
+   "ordinal": 42,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2025-11-01",
+    "to": "2025-11-01",
+    "approximate": false,
+    "time": "23:59:00",
+    "tz": "PST"
+   },
+   "fee_unknown": true,
+   "note": "Regular Deadline"
+  },
+  {
+   "festival": "angeles-asian-pacific",
+   "cycle": 2026,
+   "ordinal": 42,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2025-12-01",
+    "to": "2025-12-01",
+    "approximate": false,
+    "time": "23:59:00",
+    "tz": "PST"
+   },
+   "fee_unknown": true,
+   "note": "Final Deadline"
+  },
+  {
+   "festival": "angeles-latino",
+   "cycle": 2026,
+   "ordinal": 25,
+   "tier": "early",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2025-12-15",
+    "to": "2025-12-15",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Early Submission Deadline"
+  },
+  {
+   "festival": "angeles-latino",
+   "cycle": 2026,
+   "ordinal": 25,
+   "tier": "early",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2025-12-15",
+    "to": "2025-12-15",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Early Submission Deadline"
+  },
+  {
+   "festival": "angeles-latino",
+   "cycle": 2026,
+   "ordinal": 25,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-01-15",
+    "to": "2026-01-15",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Submission Deadline"
+  },
+  {
+   "festival": "angeles-latino",
+   "cycle": 2026,
+   "ordinal": 25,
+   "tier": "regular",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-01-15",
+    "to": "2026-01-15",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Submission Deadline"
+  },
+  {
+   "festival": "angeles-latino",
+   "cycle": 2026,
+   "ordinal": 25,
+   "tier": "late",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-02-07",
+    "to": "2026-02-07",
+    "approximate": false,
+    "time": "23:59:00",
+    "tz": "PT"
+   },
+   "fee_unknown": true,
+   "note": "Late Submission Deadline"
+  },
+  {
+   "festival": "angeles-latino",
+   "cycle": 2026,
+   "ordinal": 25,
+   "tier": "late",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-02-07",
+    "to": "2026-02-07",
+    "approximate": false,
+    "time": "23:59:00",
+    "tz": "PT"
    },
    "fee_unknown": true,
    "note": "Late Submission Deadline"
@@ -17494,6 +18031,90 @@
    "note": "Extended Deadline"
   },
   {
+   "festival": "hiro-shima-animation",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "feature",
+    "animation"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-22",
+    "to": "2026-03-22",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 0,
+    "currency": "JPY"
+   },
+   "fee_unknown": false,
+   "note": "Free submission period (until March 22)"
+  },
+  {
+   "festival": "hiro-shima-animation",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [
+    "short",
+    "animation"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-22",
+    "to": "2026-03-22",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 0,
+    "currency": "JPY"
+   },
+   "fee_unknown": false,
+   "note": "Free submission period (until March 22)"
+  },
+  {
+   "festival": "hiro-shima-animation",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "feature",
+    "animation"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-12",
+    "to": "2026-04-12",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 5000,
+    "currency": "JPY"
+   },
+   "fee_unknown": false,
+   "note": "Submission period ends at 11:59 pm (no time zone stated; fee from March 23)"
+  },
+  {
+   "festival": "hiro-shima-animation",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "short",
+    "animation"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-12",
+    "to": "2026-04-12",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 5000,
+    "currency": "JPY"
+   },
+   "fee_unknown": false,
+   "note": "Submission period ends at 11:59 pm (no time zone stated; fee from March 23)"
+  },
+  {
    "festival": "hot-springs-documentary",
    "cycle": 2026,
    "tier": "early",
@@ -17548,6 +18169,167 @@
    },
    "fee_unknown": true,
    "note": "Extended Deadline"
+  },
+  {
+   "festival": "huesca",
+   "cycle": 2026,
+   "ordinal": 54,
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-02-12",
+    "to": "2026-02-12",
+    "approximate": false,
+    "time": "23:59:00",
+    "tz": "CET"
+   },
+   "fee": {
+    "amount": 3,
+    "currency": "EUR",
+    "note": "plus Festhome's own charge"
+   },
+   "fee_unknown": false,
+   "note": "Fecha límite de inscripción"
+  },
+  {
+   "festival": "idfa-documentary-amsterdam",
+   "cycle": 2026,
+   "ordinal": 39,
+   "tier": "early",
+   "categories": [
+    "feature",
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-23",
+    "to": "2026-04-23",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "EUR",
+    "note": "student films EUR 25 at every deadline"
+   },
+   "fee_unknown": false,
+   "note": "Early deadline for films (40 minutes or longer)"
+  },
+  {
+   "festival": "idfa-documentary-amsterdam",
+   "cycle": 2026,
+   "ordinal": 39,
+   "tier": "early",
+   "categories": [
+    "short",
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-23",
+    "to": "2026-04-23",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 25,
+    "currency": "EUR",
+    "note": "student films EUR 25 at every deadline"
+   },
+   "fee_unknown": false,
+   "note": "Early deadline for films"
+  },
+  {
+   "festival": "idfa-documentary-amsterdam",
+   "cycle": 2026,
+   "ordinal": 39,
+   "tier": "regular",
+   "categories": [
+    "feature",
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-28",
+    "to": "2026-05-28",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 65,
+    "currency": "EUR",
+    "note": "student films EUR 25 at every deadline"
+   },
+   "fee_unknown": false,
+   "note": "Second deadline for films (40 minutes or longer)"
+  },
+  {
+   "festival": "idfa-documentary-amsterdam",
+   "cycle": 2026,
+   "ordinal": 39,
+   "tier": "regular",
+   "categories": [
+    "short",
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-28",
+    "to": "2026-05-28",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "EUR",
+    "note": "student films EUR 25 at every deadline"
+   },
+   "fee_unknown": false,
+   "note": "Second deadline for films"
+  },
+  {
+   "festival": "idfa-documentary-amsterdam",
+   "cycle": 2026,
+   "ordinal": 39,
+   "tier": "late",
+   "categories": [
+    "feature",
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-09",
+    "to": "2026-07-09",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 85,
+    "currency": "EUR",
+    "note": "student films EUR 25 at every deadline"
+   },
+   "fee_unknown": false,
+   "note": "Final deadline for films (40 minutes or longer)"
+  },
+  {
+   "festival": "idfa-documentary-amsterdam",
+   "cycle": 2026,
+   "ordinal": 39,
+   "tier": "late",
+   "categories": [
+    "short",
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-09",
+    "to": "2026-07-09",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "EUR",
+    "note": "student films EUR 25 at every deadline"
+   },
+   "fee_unknown": false,
+   "note": "Final deadline for films"
   },
   {
    "festival": "iff-art-film",
@@ -20900,6 +21682,119 @@
    "note": "Feature films (over 59 minutes); EUR 150 excluding VAT"
   },
   {
+   "festival": "shanghai",
+   "cycle": 2026,
+   "ordinal": 28,
+   "tier": "early",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-01-31",
+    "to": "2026-01-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 25,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Short Film, Early Bird"
+  },
+  {
+   "festival": "shanghai",
+   "cycle": 2026,
+   "ordinal": 28,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-10",
+    "to": "2026-03-10",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Short Film, Regular"
+  },
+  {
+   "festival": "shanghai",
+   "cycle": 2026,
+   "ordinal": 28,
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-31",
+    "to": "2026-03-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Golden Goblet Main Competition, Asian New Talent and International Panorama"
+  },
+  {
+   "festival": "shanghai",
+   "cycle": 2026,
+   "ordinal": 28,
+   "categories": [
+    "feature",
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-31",
+    "to": "2026-03-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Golden Goblet Documentary competition (70 minutes or more)"
+  },
+  {
+   "festival": "shanghai",
+   "cycle": 2026,
+   "ordinal": 28,
+   "categories": [
+    "feature",
+    "animation"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-31",
+    "to": "2026-03-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Golden Goblet Animation competition (60 minutes or more)"
+  },
+  {
+   "festival": "shanghai",
+   "cycle": 2026,
+   "ordinal": 28,
+   "tier": "late",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-31",
+    "to": "2026-03-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Short Film, Final"
+  },
+  {
    "festival": "spark-animation",
    "cycle": 2026,
    "categories": [
@@ -21213,6 +22108,48 @@
    },
    "fee_unknown": true,
    "note": "Features, Shorts and Student Films"
+  },
+  {
+   "festival": "thessaloniki",
+   "cycle": 2026,
+   "ordinal": 67,
+   "tier": "early",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-31",
+    "to": "2026-05-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Early-bird submissions"
+  },
+  {
+   "festival": "thessaloniki",
+   "cycle": 2026,
+   "ordinal": 67,
+   "tier": "regular",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-17",
+    "to": "2026-07-17",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Submissions deadline"
   },
   {
    "festival": "thomas-edison",
@@ -21782,6 +22719,138 @@
    },
    "fee_unknown": false,
    "note": "Features, series and miniseries"
+  },
+  {
+   "festival": "viff-vancouver",
+   "cycle": 2026,
+   "ordinal": 45,
+   "tier": "early",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-17",
+    "to": "2026-04-17",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD",
+    "note": "International fee; Canadian submissions pay USD 30"
+   },
+   "fee_unknown": false,
+   "note": "Early Deadline"
+  },
+  {
+   "festival": "viff-vancouver",
+   "cycle": 2026,
+   "ordinal": 45,
+   "tier": "early",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-17",
+    "to": "2026-04-17",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 55,
+    "currency": "USD",
+    "note": "International fee; Canadian submissions pay USD 45"
+   },
+   "fee_unknown": false,
+   "note": "Early Deadline"
+  },
+  {
+   "festival": "viff-vancouver",
+   "cycle": 2026,
+   "ordinal": 45,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-15",
+    "to": "2026-05-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD",
+    "note": "International fee; Canadian submissions pay USD 35"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline"
+  },
+  {
+   "festival": "viff-vancouver",
+   "cycle": 2026,
+   "ordinal": 45,
+   "tier": "regular",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-15",
+    "to": "2026-05-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 65,
+    "currency": "USD",
+    "note": "International fee; Canadian submissions pay USD 50"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline"
+  },
+  {
+   "festival": "viff-vancouver",
+   "cycle": 2026,
+   "ordinal": 45,
+   "tier": "late",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-05",
+    "to": "2026-06-05",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 75,
+    "currency": "USD",
+    "note": "International fee; Canadian submissions pay USD 55"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline"
+  },
+  {
+   "festival": "viff-vancouver",
+   "cycle": 2026,
+   "ordinal": 45,
+   "tier": "late",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-05",
+    "to": "2026-06-05",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD",
+    "note": "International fee; Canadian submissions pay USD 40"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline"
   }
  ],
  "events": [
@@ -23136,8 +24205,9 @@
    }
   },
   {
-   "festival": "prismatic-ground",
+   "festival": "angeles-asian-pacific",
    "cycle": 2026,
+   "ordinal": 42,
    "runs": {
     "precision": "day",
     "from": "2026-04-29",
@@ -23146,12 +24216,12 @@
    }
   },
   {
-   "festival": "angeles-asian-pacific",
+   "festival": "prismatic-ground",
    "cycle": 2026,
    "runs": {
     "precision": "day",
-    "from": "2026-04-30",
-    "to": "2026-05-07",
+    "from": "2026-04-29",
+    "to": "2026-05-03",
     "approximate": false
    }
   },
@@ -23279,6 +24349,7 @@
   {
    "festival": "angeles-latino",
    "cycle": 2026,
+   "ordinal": 25,
    "runs": {
     "precision": "day",
     "from": "2026-05-27",
@@ -23352,6 +24423,7 @@
   {
    "festival": "huesca",
    "cycle": 2026,
+   "ordinal": 54,
    "runs": {
     "precision": "day",
     "from": "2026-06-05",
@@ -23402,6 +24474,7 @@
   {
    "festival": "shanghai",
    "cycle": 2026,
+   "ordinal": 28,
    "runs": {
     "precision": "day",
     "from": "2026-06-12",
@@ -23613,6 +24686,17 @@
    }
   },
   {
+   "festival": "imaginaria",
+   "cycle": 2026,
+   "ordinal": 24,
+   "runs": {
+    "precision": "day",
+    "from": "2026-08-16",
+    "to": "2026-08-23",
+    "approximate": false
+   }
+  },
+  {
    "festival": "hiro-shima-animation",
    "cycle": 2026,
    "runs": {
@@ -23650,6 +24734,16 @@
     "precision": "day",
     "from": "2026-09-04",
     "to": "2026-09-13",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "israel-academy-ophir",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-09-09",
+    "to": "2026-09-09",
     "approximate": false
    }
   },
@@ -23759,6 +24853,17 @@
    }
   },
   {
+   "festival": "viff-vancouver",
+   "cycle": 2026,
+   "ordinal": 45,
+   "runs": {
+    "precision": "day",
+    "from": "2026-10-01",
+    "to": "2026-10-11",
+    "approximate": false
+   }
+  },
+  {
    "festival": "fest-belgrade",
    "cycle": 2026,
    "runs": {
@@ -23796,6 +24901,17 @@
     "precision": "day",
     "from": "2026-10-06",
     "to": "2026-10-12",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "bfi-london",
+   "cycle": 2026,
+   "ordinal": 70,
+   "runs": {
+    "precision": "day",
+    "from": "2026-10-07",
+    "to": "2026-10-18",
     "approximate": false
    }
   },
@@ -23943,6 +25059,17 @@
    }
   },
   {
+   "festival": "thessaloniki",
+   "cycle": 2026,
+   "ordinal": 67,
+   "runs": {
+    "precision": "day",
+    "from": "2026-11-05",
+    "to": "2026-11-15",
+    "approximate": false
+   }
+  },
+  {
    "festival": "cinanima-animated-espinho",
    "cycle": 2026,
    "runs": {
@@ -24000,6 +25127,17 @@
     "precision": "day",
     "from": "2026-11-12",
     "to": "2026-11-15",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "idfa-documentary-amsterdam",
+   "cycle": 2026,
+   "ordinal": 39,
+   "runs": {
+    "precision": "day",
+    "from": "2026-11-12",
+    "to": "2026-11-22",
     "approximate": false
    }
   },
@@ -24303,6 +25441,17 @@
    }
   },
   {
+   "festival": "hong-kong",
+   "cycle": 2027,
+   "ordinal": 51,
+   "runs": {
+    "precision": "day",
+    "from": "2027-03-16",
+    "to": "2027-03-29",
+    "approximate": false
+   }
+  },
+  {
    "festival": "amdocs-american-documentary",
    "cycle": 2027,
    "runs": {
@@ -24505,6 +25654,16 @@
    }
   },
   {
+   "festival": "hot-docs-canadian",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-23",
+    "to": "2027-05-02",
+    "approximate": false
+   }
+  },
+  {
    "festival": "milwaukee",
    "cycle": 2027,
    "runs": {
@@ -24575,6 +25734,17 @@
    }
   },
   {
+   "festival": "imaginenative-media-arts",
+   "cycle": 2027,
+   "ordinal": 27,
+   "runs": {
+    "precision": "day",
+    "from": "2027-06-01",
+    "to": "2027-06-06",
+    "approximate": false
+   }
+  },
+  {
    "festival": "ouray",
    "cycle": 2027,
    "runs": {
@@ -24607,6 +25777,17 @@
    }
   },
   {
+   "festival": "huesca",
+   "cycle": 2027,
+   "ordinal": 55,
+   "runs": {
+    "precision": "day",
+    "from": "2027-06-04",
+    "to": "2027-06-12",
+    "approximate": false
+   }
+  },
+  {
    "festival": "chicago-underground",
    "cycle": 2027,
    "runs": {
@@ -24633,6 +25814,16 @@
     "precision": "day",
     "from": "2027-06-22",
     "to": "2027-06-28",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "filmfest-munchen",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-06-25",
+    "to": "2027-07-04",
     "approximate": false
    }
   },
@@ -24727,6 +25918,17 @@
    "runs": {
     "precision": "day",
     "from": "2027-08-20",
+    "to": "2027-08-29",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "imaginaria",
+   "cycle": 2027,
+   "ordinal": 25,
+   "runs": {
+    "precision": "day",
+    "from": "2027-08-22",
     "to": "2027-08-29",
     "approximate": false
    }
