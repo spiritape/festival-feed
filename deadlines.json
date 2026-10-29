@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-10-26",
+ "generated_on": "2026-10-29",
  "festivals": [
   {
    "id": "25fps-zagreb",
@@ -5697,7 +5697,7 @@
     "to": "2027-04-11",
     "approximate": false
    },
-   "verified_on": "2026-09-03"
+   "verified_on": "2026-10-29"
   },
   {
    "festival": "flatpack",
@@ -5892,6 +5892,11 @@
    "verified_on": "2026-10-20"
   },
   {
+   "festival": "indielisboa",
+   "cycle": 2027,
+   "verified_on": "2026-10-29"
+  },
+  {
    "festival": "indy-presented-by",
    "cycle": 2027,
    "runs": {
@@ -5995,7 +6000,7 @@
     "to": "2027-08-10",
     "approximate": false
    },
-   "verified_on": "2026-10-13"
+   "verified_on": "2026-10-29"
   },
   {
    "festival": "new-media",
@@ -6191,7 +6196,7 @@
     "to": "2027-02-24",
     "approximate": false
    },
-   "verified_on": "2026-10-20"
+   "verified_on": "2026-10-29"
   },
   {
    "festival": "sofia",
@@ -6300,49 +6305,6 @@
   }
  ],
  "deadlines": [
-  {
-   "festival": "riverrun",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "documentary",
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-28",
-    "to": "2026-09-28",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 55,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Narrative Feature, Documentary Feature"
-  },
-  {
-   "festival": "riverrun",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "animation",
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-28",
-    "to": "2026-09-28",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 40,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Narrative Short, Documentary Short, Animated Short"
-  },
   {
    "festival": "ann-arbor",
    "cycle": 2027,
@@ -9914,6 +9876,20 @@
    "note": "Early Bird Deadline: Narrative Short, Documentary Short, Experimental Short, Animated Short"
   },
   {
+   "festival": "indielisboa",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-18",
+    "to": "2026-11-18",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Deadline"
+  },
+  {
    "festival": "portland",
    "cycle": 2027,
    "tier": "final",
@@ -11345,6 +11321,20 @@
    },
    "fee_unknown": false,
    "note": "Regular: Features (41 minutes or more)"
+  },
+  {
+   "festival": "indielisboa",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-18",
+    "to": "2026-12-18",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Deadline"
   },
   {
    "festival": "la-shorts-internatio",
