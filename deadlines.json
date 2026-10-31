@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-10-30",
+ "generated_on": "2026-10-31",
  "festivals": [
   {
    "id": "25fps-zagreb",
@@ -5899,7 +5899,7 @@
   {
    "festival": "in-palace",
    "cycle": 2027,
-   "verified_on": "2026-10-20"
+   "verified_on": "2026-10-31"
   },
   {
    "festival": "indielisboa",
@@ -5930,7 +5930,7 @@
   {
    "festival": "kaboom-animation",
    "cycle": 2027,
-   "verified_on": "2026-10-24"
+   "verified_on": "2026-10-31"
   },
   {
    "festival": "kurzfilm-hamburg",
@@ -6002,6 +6002,11 @@
    "verified_on": "2026-10-06"
   },
   {
+   "festival": "mountainfilm",
+   "cycle": 2027,
+   "verified_on": "2026-10-31"
+  },
+  {
    "festival": "mpumalanga",
    "cycle": 2027,
    "runs": {
@@ -6027,6 +6032,11 @@
     "approximate": false
    },
    "verified_on": "2026-10-13"
+  },
+  {
+   "festival": "oberhausen",
+   "cycle": 2027,
+   "verified_on": "2026-10-31"
   },
   {
    "festival": "omaha",
@@ -6160,17 +6170,6 @@
    "verified_on": "2026-10-11"
   },
   {
-   "festival": "sebastopol-documentary",
-   "cycle": 2027,
-   "runs": {
-    "precision": "day",
-    "from": "2027-04-15",
-    "to": "2027-04-18",
-    "approximate": false
-   },
-   "verified_on": "2026-10-20"
-  },
-  {
    "festival": "sedona",
    "cycle": 2027,
    "verified_on": "2026-10-20"
@@ -6247,18 +6246,6 @@
    "verified_on": "2026-10-21"
   },
   {
-   "festival": "trieste",
-   "cycle": 2027,
-   "ordinal": 38,
-   "runs": {
-    "precision": "day",
-    "from": "2027-01-15",
-    "to": "2027-01-23",
-    "approximate": false
-   },
-   "verified_on": "2026-10-13"
-  },
-  {
    "festival": "voyage-in-time-andong",
    "cycle": 2026,
    "runs": {
@@ -6315,445 +6302,6 @@
   }
  ],
  "deadlines": [
-  {
-   "festival": "ann-arbor",
-   "cycle": 2027,
-   "tier": "late",
-   "categories": [
-    "animation",
-    "documentary",
-    "experimental",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-30",
-    "to": "2026-09-30",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 80,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Late Deadline: Experimental (Short), Experimental Narrative (Short), Experimental Documentary (Short), Experimental Animation (Short)"
-  },
-  {
-   "festival": "ann-arbor",
-   "cycle": 2027,
-   "tier": "late",
-   "categories": [
-    "animation",
-    "documentary",
-    "experimental",
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-30",
-    "to": "2026-09-30",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 100,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Late Deadline: Experimental (Feature), Experimental Narrative (Feature), Experimental Documentary (Feature), Experimental Animation (Feature)"
-  },
-  {
-   "festival": "cleveland",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "animation",
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-30",
-    "to": "2026-09-30",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 65,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Narrative Short, Documentary Short, Animated Short"
-  },
-  {
-   "festival": "cleveland",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "documentary",
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-30",
-    "to": "2026-09-30",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 85,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Narrative Feature, Documentary Feature"
-  },
-  {
-   "festival": "florida",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "animation",
-    "documentary",
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-30",
-    "to": "2026-09-30",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 50,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Earlybird Deadline: Narrative Features, Documentary Features, International Features, Animation Features"
-  },
-  {
-   "festival": "florida",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "animation",
-    "documentary",
-    "experimental",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-30",
-    "to": "2026-09-30",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 35,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Earlybird Deadline: Narrative Shorts, Documentary Shorts, International Shorts, Animation Shorts, Experimental Shorts"
-  },
-  {
-   "festival": "full-frame-documentary",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "short",
-    "documentary"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-30",
-    "to": "2026-09-30",
-    "approximate": false,
-    "time": "23:00:00",
-    "tz": "ET"
-   },
-   "fee": {
-    "amount": 60,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Shorts Deadline"
-  },
-  {
-   "festival": "full-frame-documentary",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "feature",
-    "documentary"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-30",
-    "to": "2026-09-30",
-    "approximate": false,
-    "time": "23:00:00",
-    "tz": "ET"
-   },
-   "fee": {
-    "amount": 80,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Features Deadline"
-  },
-  {
-   "festival": "portland",
-   "cycle": 2027,
-   "categories": [
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-30",
-    "to": "2026-09-30",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 60,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Advance Deadline: Narrative Short, Documentary Short, Micro Shorts (1-5m)"
-  },
-  {
-   "festival": "portland",
-   "cycle": 2027,
-   "categories": [
-    "animation",
-    "documentary",
-    "feature",
-    "short",
-    "student"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-30",
-    "to": "2026-09-30",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 65,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Advance Deadline: Narrative Feature, Documentary Feature, Animated Feature, Animated Short, Student"
-  },
-  {
-   "festival": "sarasota",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-30",
-    "to": "2026-09-30",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 35,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Earlybird Deadline: Shorts"
-  },
-  {
-   "festival": "sarasota",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "documentary",
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-30",
-    "to": "2026-09-30",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 60,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Earlybird Deadline: Documentary Feature, Narrative Feature"
-  },
-  {
-   "festival": "sarasota",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "student"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-30",
-    "to": "2026-09-30",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Earlybird Deadline: NYU Students, Hollywood Nights Young Filmmaker Competition"
-  },
-  {
-   "festival": "sebastopol-documentary",
-   "cycle": 2027,
-   "tier": "late",
-   "categories": [
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-30",
-    "to": "2026-09-30",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 55,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Late Deadline: Documentary Short"
-  },
-  {
-   "festival": "sebastopol-documentary",
-   "cycle": 2027,
-   "tier": "late",
-   "categories": [
-    "documentary"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-30",
-    "to": "2026-09-30",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 45,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Late Deadline: Documentary Mini- Doc"
-  },
-  {
-   "festival": "sebastopol-documentary",
-   "cycle": 2027,
-   "tier": "late",
-   "categories": [
-    "documentary",
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-30",
-    "to": "2026-09-30",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 65,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Late Deadline: Documentary Feature"
-  },
-  {
-   "festival": "sffilm",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "animation",
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-30",
-    "to": "2026-09-30",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 55,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "EARLY - All films: shorts"
-  },
-  {
-   "festival": "sffilm",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "animation",
-    "documentary",
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-30",
-    "to": "2026-09-30",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 70,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "EARLY - All films: features"
-  },
-  {
-   "festival": "trieste",
-   "cycle": 2027,
-   "ordinal": 38,
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-30",
-    "to": "2026-09-30",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 0,
-    "currency": "EUR",
-    "note": "no entry fee"
-   },
-   "fee_unknown": false
-  },
-  {
-   "festival": "voyage-in-time-fest",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "feature",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-30",
-    "to": "2026-09-30",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 9,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Earlybird Deadline: Short Film, Animation, Feature Film"
-  },
-  {
-   "festival": "voyage-in-time-paris",
-   "cycle": 2026,
-   "tier": "regular",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-30",
-    "to": "2026-09-30",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Regular Deadline"
-  },
   {
    "festival": "ashland-independent",
    "cycle": 2027,
@@ -10162,6 +9710,20 @@
    "note": "Final Deadline"
   },
   {
+   "festival": "mountainfilm",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-24",
+    "to": "2026-11-24",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Early"
+  },
+  {
    "festival": "open-city-docs",
    "cycle": 2026,
    "tier": "final",
@@ -11389,6 +10951,20 @@
    "note": "Final"
   },
   {
+   "festival": "mountainfilm",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-22",
+    "to": "2026-12-22",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Official"
+  },
+  {
    "festival": "brooklyn",
    "cycle": 2027,
    "tier": "regular",
@@ -12431,6 +12007,20 @@
    "note": "Late Deadline: Short Short (under 5 min)"
   },
   {
+   "festival": "mountainfilm",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-14",
+    "to": "2027-01-14",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late"
+  },
+  {
    "festival": "doc-edge",
    "cycle": 2027,
    "tier": "late",
@@ -12569,6 +12159,19 @@
    },
    "fee_unknown": true,
    "note": "and the final deadline is 11:59pm"
+  },
+  {
+   "festival": "oberhausen",
+   "cycle": 2027,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-18",
+    "to": "2027-01-18",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "All competitions"
   },
   {
    "festival": "milwaukee",
@@ -13811,6 +13414,19 @@
    },
    "fee_unknown": true,
    "note": "Extended. Festival site: \"Final deadline being confirmed\". FilmFreeway fees range USD 10-20 by category and tier"
+  },
+  {
+   "festival": "oberhausen",
+   "cycle": 2027,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-22",
+    "to": "2027-02-22",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "MuVi (music videos)"
   },
   {
    "festival": "brooklyn",
@@ -19072,6 +18688,75 @@
    "note": "International features (Argentine features ARS 60,000)"
   },
   {
+   "festival": "morelia",
+   "cycle": 2026,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-19",
+    "to": "2026-06-19",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Submission deadline (all competitive sections)"
+  },
+  {
+   "festival": "new-hampshire",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-01",
+    "to": "2026-05-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Early Submission Deadline"
+  },
+  {
+   "festival": "new-hampshire",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-01",
+    "to": "2026-06-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Submission Deadline"
+  },
+  {
+   "festival": "new-hampshire",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-01",
+    "to": "2026-07-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Submission Deadline"
+  },
+  {
+   "festival": "new-hampshire",
+   "cycle": 2026,
+   "tier": "extended",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-15",
+    "to": "2026-07-15",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Extended Submission Deadline"
+  },
+  {
    "festival": "new-next",
    "cycle": 2026,
    "tier": "final",
@@ -21732,6 +21417,192 @@
    "note": "Competition Programme: Feature, Documentary, Short and Student Film"
   },
   {
+   "festival": "sebastopol-documentary",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-15",
+    "to": "2026-07-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird Deadline: Documentary Feature"
+  },
+  {
+   "festival": "sebastopol-documentary",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-15",
+    "to": "2026-07-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 30,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird Deadline: Documentary Mini- Doc"
+  },
+  {
+   "festival": "sebastopol-documentary",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-15",
+    "to": "2026-07-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird Deadline: Documentary Short"
+  },
+  {
+   "festival": "sebastopol-documentary",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-31",
+    "to": "2026-08-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Documentary Feature"
+  },
+  {
+   "festival": "sebastopol-documentary",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-31",
+    "to": "2026-08-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Documentary Short"
+  },
+  {
+   "festival": "sebastopol-documentary",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-31",
+    "to": "2026-08-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Documentary Mini- Doc"
+  },
+  {
+   "festival": "sebastopol-documentary",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-30",
+    "to": "2026-09-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 55,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Documentary Short"
+  },
+  {
+   "festival": "sebastopol-documentary",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-30",
+    "to": "2026-09-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Documentary Mini- Doc"
+  },
+  {
+   "festival": "sebastopol-documentary",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-30",
+    "to": "2026-09-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 65,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Documentary Feature"
+  },
+  {
    "festival": "semaine-critique",
    "cycle": 2026,
    "categories": [
@@ -22448,6 +22319,24 @@
    },
    "fee_unknown": true,
    "note": "Final deadline (increased fees)"
+  },
+  {
+   "festival": "trieste",
+   "cycle": 2027,
+   "ordinal": 38,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-30",
+    "to": "2026-09-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 0,
+    "currency": "EUR",
+    "note": "no entry fee"
+   },
+   "fee_unknown": false
   },
   {
    "festival": "urbanworld",
