@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-10-29",
+ "generated_on": "2026-10-30",
  "festivals": [
   {
    "id": "25fps-zagreb",
@@ -5428,6 +5428,11 @@
    "verified_on": "2026-10-20"
   },
   {
+   "festival": "american-black",
+   "cycle": 2027,
+   "verified_on": "2026-10-30"
+  },
+  {
    "festival": "anca-animation",
    "cycle": 2027,
    "verified_on": "2026-10-24"
@@ -5641,6 +5646,11 @@
    "verified_on": "2026-10-21"
   },
   {
+   "festival": "curtas-vila-doconde",
+   "cycle": 2027,
+   "verified_on": "2026-10-30"
+  },
+  {
    "festival": "deadcenter",
    "cycle": 2027,
    "runs": {
@@ -5797,7 +5807,7 @@
     "to": "2027-02-07",
     "approximate": false
    },
-   "verified_on": "2026-10-19"
+   "verified_on": "2026-10-30"
   },
   {
    "festival": "guadalajara",
@@ -8373,6 +8383,20 @@
    },
    "fee_unknown": true,
    "note": "Early-bird Deadline – Feature Narrative & Feature Documentary"
+  },
+  {
+   "festival": "curtas-vila-doconde",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-31",
+    "to": "2026-10-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Early deadline"
   },
   {
    "festival": "ficci-cartagena",
@@ -12602,6 +12626,20 @@
    "note": "Late Deadline"
   },
   {
+   "festival": "american-black",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-24",
+    "to": "2027-01-24",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "later than the deadline"
+  },
+  {
    "festival": "overlook",
    "cycle": 2027,
    "tier": "late",
@@ -12735,6 +12773,20 @@
    },
    "fee_unknown": false,
    "note": "Advanced Deadline - Shorts: Narrative Feature, Short Narrative, Short Documentary, Experimental, Animation"
+  },
+  {
+   "festival": "curtas-vila-doconde",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-31",
+    "to": "2027-01-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular deadline"
   },
   {
    "festival": "doc-edge",
@@ -14688,6 +14740,20 @@
    "note": "Late Deadline: Feature: Standard, Short Film: Standard, Documentary: Standard, Short Documentary: Standard, International Feature"
   },
   {
+   "festival": "curtas-vila-doconde",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-04-30",
+    "to": "2027-04-30",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Final deadline"
+  },
+  {
    "festival": "sidewalk",
    "cycle": 2027,
    "tier": "extended",
@@ -15052,6 +15118,19 @@
    },
    "fee_unknown": true,
    "note": "Late Submission Deadline"
+  },
+  {
+   "festival": "alcine-cine-alcala",
+   "cycle": 2026,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-20",
+    "to": "2026-07-20",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Certamen Nacional y Certamen Europeo de Cortometrajes"
   },
   {
    "festival": "angeles-asian-pacific",
