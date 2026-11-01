@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-10-31",
+ "generated_on": "2026-11-01",
  "festivals": [
   {
    "id": "25fps-zagreb",
@@ -5819,7 +5819,7 @@
     "to": "2027-03-13",
     "approximate": false
    },
-   "verified_on": "2026-10-19"
+   "verified_on": "2026-11-01"
   },
   {
    "festival": "hollyshorts",
@@ -5895,11 +5895,6 @@
     "approximate": false
    },
    "verified_on": "2026-10-26"
-  },
-  {
-   "festival": "in-palace",
-   "cycle": 2027,
-   "verified_on": "2026-10-31"
   },
   {
    "festival": "indielisboa",
@@ -6023,6 +6018,11 @@
    "verified_on": "2026-10-11"
   },
   {
+   "festival": "new-york-childrens",
+   "cycle": 2027,
+   "verified_on": "2026-11-01"
+  },
+  {
    "festival": "new-york-screening",
    "cycle": 2027,
    "runs": {
@@ -6103,6 +6103,11 @@
    "verified_on": "2026-10-07"
   },
   {
+   "festival": "premi-david-donatello",
+   "cycle": 2027,
+   "verified_on": "2026-11-01"
+  },
+  {
    "festival": "punto-de-vista",
    "cycle": 2027,
    "ordinal": 21,
@@ -6137,6 +6142,16 @@
    "verified_on": "2026-09-20"
   },
   {
+   "festival": "san-francisco-jewish",
+   "cycle": 2027,
+   "verified_on": "2026-11-01"
+  },
+  {
+   "festival": "san-luis-obispo",
+   "cycle": 2027,
+   "verified_on": "2026-11-01"
+  },
+  {
    "festival": "santa-barbara",
    "cycle": 2027,
    "runs": {
@@ -6146,6 +6161,11 @@
     "approximate": false
    },
    "verified_on": "2026-10-20"
+  },
+  {
+   "festival": "santa-fe",
+   "cycle": 2027,
+   "verified_on": "2026-11-01"
   },
   {
    "festival": "sarasota",
@@ -6216,17 +6236,6 @@
    "festival": "st-kilda",
    "cycle": 2027,
    "verified_on": "2026-10-05"
-  },
-  {
-   "festival": "sxsw",
-   "cycle": 2027,
-   "runs": {
-    "precision": "day",
-    "from": "2027-03-15",
-    "to": "2027-03-21",
-    "approximate": false
-   },
-   "verified_on": "2026-10-26"
   },
   {
    "festival": "sydney",
@@ -6302,275 +6311,6 @@
   }
  ],
  "deadlines": [
-  {
-   "festival": "ashland-independent",
-   "cycle": 2027,
-   "ordinal": 26,
-   "tier": "early",
-   "categories": [
-    "documentary",
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-01",
-    "to": "2026-10-01",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 45,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Earlybird Deadline: Documentary (feature length), Narrative (feature length)"
-  },
-  {
-   "festival": "ashland-independent",
-   "cycle": 2027,
-   "ordinal": 26,
-   "tier": "early",
-   "categories": [
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-01",
-    "to": "2026-10-01",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 35,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Earlybird Deadline: Documentary (short subject), Narrative (short subject)"
-  },
-  {
-   "festival": "in-palace",
-   "cycle": 2027,
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-01",
-    "to": "2026-10-01",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "DEADLINE"
-  },
-  {
-   "festival": "phoenix",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-01",
-    "to": "2026-10-01",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 40,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: College Short Films - US Made"
-  },
-  {
-   "festival": "phoenix",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-01",
-    "to": "2026-10-01",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 35,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: African American Directed Shorts - US Made, Asian American Pacific Islander Directed Short Films - US Made, Native American Directed Shorts, Latinx Directed Shorts - US Made, LGBTQIA+ Directed Shorts - US Made, Deaf Filmmaker Directed Shorts"
-  },
-  {
-   "festival": "phoenix",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "documentary"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-01",
-    "to": "2026-10-01",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 55,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Medium Length Documentaries - US Made"
-  },
-  {
-   "festival": "phoenix",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "documentary",
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-01",
-    "to": "2026-10-01",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 65,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Feature Films - US Made, Documentary Feature - US Made, World Cinema Features - Made Outside US, Arizona Features - Made in Arizona"
-  },
-  {
-   "festival": "phoenix",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-01",
-    "to": "2026-10-01",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 45,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: African American Directed Features - US Made, Asian American Pacific Islander Directed Features - US Made, Native American Directed Features, Latinx Directed Features - US Made, LGBTQIA+ Directed Features - US Made"
-  },
-  {
-   "festival": "phoenix",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "animation",
-    "documentary",
-    "experimental",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-01",
-    "to": "2026-10-01",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 50,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Short Documentary - US Made, World Cinema Shorts - Made Outside US, Live Action Short Films - US Made, Animated Shorts, Experimental Shorts - US Made, Arizona Shorts - Made in Arizona"
-  },
-  {
-   "festival": "seattle",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "animation",
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-01",
-    "to": "2026-10-01",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 60,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Early: Shorts (40 minutes or less)"
-  },
-  {
-   "festival": "seattle",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "animation",
-    "documentary",
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-01",
-    "to": "2026-10-01",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 75,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Early: Features (41 minutes or more)"
-  },
-  {
-   "festival": "sxsw",
-   "cycle": 2027,
-   "tier": "final",
-   "categories": [
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-01",
-    "to": "2026-10-01",
-    "approximate": false,
-    "time": "23:59",
-    "tz": "PT"
-   },
-   "fee": {
-    "amount": 125,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Final Deadline; narrative or documentary feature"
-  },
-  {
-   "festival": "sxsw",
-   "cycle": 2027,
-   "tier": "final",
-   "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-01",
-    "to": "2026-10-01",
-    "approximate": false,
-    "time": "23:59",
-    "tz": "PT"
-   },
-   "fee": {
-    "amount": 90,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Final Deadline; narrative, documentary or animated short"
-  },
   {
    "festival": "big-sky-documentary",
    "cycle": 2027,
@@ -7294,6 +7034,20 @@
    },
    "fee_unknown": true,
    "note": "Deadline"
+  },
+  {
+   "festival": "new-york-childrens",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-15",
+    "to": "2026-10-15",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Deadline"
   },
   {
    "festival": "punto-de-vista",
@@ -8070,6 +7824,20 @@
    },
    "fee_unknown": true,
    "note": "Early Bird. FilmFreeway fees range USD 10-20 by category and tier"
+  },
+  {
+   "festival": "san-luis-obispo",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-31",
+    "to": "2026-10-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular"
   },
   {
    "festival": "sidewalk",
@@ -9403,6 +9171,20 @@
    "note": "Reguliere deadline"
   },
   {
+   "festival": "new-york-childrens",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-15",
+    "to": "2026-11-15",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Deadline"
+  },
+  {
    "festival": "chicago-underground",
    "cycle": 2027,
    "tier": "early",
@@ -9849,6 +9631,50 @@
    "note": "Round 2 (November)"
   },
   {
+   "festival": "premi-david-donatello",
+   "cycle": 2027,
+   "categories": [
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-30",
+    "to": "2026-11-30",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Documentary (Premio David Cecilia Mangini)"
+  },
+  {
+   "festival": "premi-david-donatello",
+   "cycle": 2027,
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-30",
+    "to": "2026-11-30",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Italian short film"
+  },
+  {
+   "festival": "san-luis-obispo",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-30",
+    "to": "2026-11-30",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Extended"
+  },
+  {
    "festival": "sarasota",
    "cycle": 2027,
    "tier": "regular",
@@ -10037,6 +9863,20 @@
    },
    "fee_unknown": true,
    "note": "LOCAL LENS DEADLINE"
+  },
+  {
+   "festival": "new-york-childrens",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-01",
+    "to": "2026-12-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Extended Deadline"
   },
   {
    "festival": "malaga",
@@ -11734,6 +11574,34 @@
    "note": "Extended Late Deadline: Narrative Short, Documentary Short, Animated Short"
   },
   {
+   "festival": "premi-david-donatello",
+   "cycle": 2027,
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-07",
+    "to": "2027-01-07",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Italian feature films"
+  },
+  {
+   "festival": "premi-david-donatello",
+   "cycle": 2027,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-07",
+    "to": "2027-01-07",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "International film"
+  },
+  {
    "festival": "seattle",
    "cycle": 2027,
    "tier": "late",
@@ -12515,6 +12383,20 @@
    },
    "fee_unknown": true,
    "note": "Late. FilmFreeway fees range USD 10-20 by category and tier"
+  },
+  {
+   "festival": "san-francisco-jewish",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-31",
+    "to": "2027-01-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Deadline"
   },
   {
    "festival": "sidewalk",
@@ -13511,6 +13393,20 @@
    "note": "Extended Deadline: Narrative Short, Documentary Short, Experimental Short, Animated Short"
   },
   {
+   "festival": "san-francisco-jewish",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-28",
+    "to": "2027-02-28",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Extended Deadline"
+  },
+  {
    "festival": "voyage-in-time-fest-tokyo",
    "cycle": 2027,
    "tier": "regular",
@@ -14476,6 +14372,20 @@
    "note": "Irish Short Film Late Deadline (Irish films only)"
   },
   {
+   "festival": "santa-fe",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-05-06",
+    "to": "2027-05-06",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Deadline"
+  },
+  {
    "festival": "hollyshorts",
    "cycle": 2027,
    "tier": "late",
@@ -14623,6 +14533,20 @@
    "note": "Extended Deadline: Short Live Action, Animation, Documentary, Student, Bollywood Shorts"
   },
   {
+   "festival": "santa-fe",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-06-03",
+    "to": "2027-06-03",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Deadline"
+  },
+  {
    "festival": "bolton",
    "cycle": 2027,
    "tier": "final",
@@ -14663,6 +14587,20 @@
    },
    "fee_unknown": true,
    "note": "Regular Deadline (FilmFreeway), Jul 1, 2027"
+  },
+  {
+   "festival": "santa-fe",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-07-01",
+    "to": "2027-07-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Final Deadline"
   },
   {
    "festival": "french-academy-cinema",
@@ -14734,6 +14672,20 @@
    },
    "fee_unknown": true,
    "note": "Late Submission Deadline"
+  },
+  {
+   "festival": "afi",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-01",
+    "to": "2026-03-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Early Deadline"
   },
   {
    "festival": "alcine-cine-alcala",
@@ -18181,6 +18133,19 @@
    "note": "Late fee; final submission deadline; short and mid-length, under 64 minutes"
   },
   {
+   "festival": "in-palace",
+   "cycle": 2027,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-01",
+    "to": "2026-10-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "DEADLINE"
+  },
+  {
    "festival": "interfilm-berlin",
    "cycle": 2026,
    "categories": [],
@@ -21252,34 +21217,6 @@
    "note": "Submission deadline"
   },
   {
-   "festival": "san-francisco-jewish",
-   "cycle": 2026,
-   "tier": "regular",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-01-31",
-    "to": "2026-01-31",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Regular Deadline"
-  },
-  {
-   "festival": "san-francisco-jewish",
-   "cycle": 2026,
-   "tier": "extended",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-02-28",
-    "to": "2026-02-28",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Extended Deadline"
-  },
-  {
    "festival": "san-jose",
    "cycle": 2026,
    "tier": "early",
@@ -21348,34 +21285,6 @@
    },
    "fee_unknown": true,
    "note": "Preselection: Jun 16, 2026 (passed)"
-  },
-  {
-   "festival": "santa-fe",
-   "cycle": 2026,
-   "tier": "late",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-06-03",
-    "to": "2026-06-03",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Late Deadline"
-  },
-  {
-   "festival": "santa-fe",
-   "cycle": 2026,
-   "tier": "final",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-07-09",
-    "to": "2026-07-09",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Final Deadline"
   },
   {
    "festival": "sarajevo",
@@ -21999,6 +21908,110 @@
    },
    "fee_unknown": true,
    "note": "Regular Deadline"
+  },
+  {
+   "festival": "sxsw",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-25",
+    "to": "2026-08-25",
+    "approximate": false,
+    "time": "23:59",
+    "tz": "PT"
+   },
+   "fee_unknown": true,
+   "note": "First Deadline"
+  },
+  {
+   "festival": "sxsw",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-15",
+    "to": "2026-09-15",
+    "approximate": false,
+    "time": "23:59",
+    "tz": "PT"
+   },
+   "fee": {
+    "amount": 95,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Second Deadline; narrative or documentary feature"
+  },
+  {
+   "festival": "sxsw",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-15",
+    "to": "2026-09-15",
+    "approximate": false,
+    "time": "23:59",
+    "tz": "PT"
+   },
+   "fee": {
+    "amount": 70,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Second Deadline; narrative, documentary or animated short"
+  },
+  {
+   "festival": "sxsw",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-01",
+    "to": "2026-10-01",
+    "approximate": false,
+    "time": "23:59",
+    "tz": "PT"
+   },
+   "fee": {
+    "amount": 125,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final Deadline; narrative or documentary feature"
+  },
+  {
+   "festival": "sxsw",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-01",
+    "to": "2026-10-01",
+    "approximate": false,
+    "time": "23:59",
+    "tz": "PT"
+   },
+   "fee": {
+    "amount": 90,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final Deadline; narrative, documentary or animated short"
   },
   {
    "festival": "tauron-american-in-poland",
