@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-11-01",
+ "generated_on": "2026-11-02",
  "festivals": [
   {
    "id": "25fps-zagreb",
@@ -5438,6 +5438,11 @@
    "verified_on": "2026-10-24"
   },
   {
+   "festival": "angeles-latino",
+   "cycle": 2027,
+   "verified_on": "2026-11-02"
+  },
+  {
    "festival": "anifilm-animated",
    "cycle": 2027,
    "verified_on": "2026-10-05"
@@ -5547,11 +5552,6 @@
     "approximate": false
    },
    "verified_on": "2026-10-20"
-  },
-  {
-   "festival": "big-sky-documentary",
-   "cycle": 2027,
-   "verified_on": "2026-10-26"
   },
   {
    "festival": "bolton",
@@ -5676,6 +5676,11 @@
    "festival": "documentary-sheffield",
    "cycle": 2027,
    "verified_on": "2026-10-21"
+  },
+  {
+   "festival": "durban",
+   "cycle": 2027,
+   "verified_on": "2026-11-02"
   },
   {
    "festival": "emaf",
@@ -5831,18 +5836,6 @@
     "approximate": false
    },
    "verified_on": "2026-10-11"
-  },
-  {
-   "festival": "hollyshorts-london",
-   "cycle": 2026,
-   "ordinal": 3,
-   "runs": {
-    "precision": "day",
-    "from": "2026-11-12",
-    "to": "2026-11-15",
-    "approximate": false
-   },
-   "verified_on": "2026-10-20"
   },
   {
    "festival": "hong-kong",
@@ -6311,42 +6304,6 @@
   }
  ],
  "deadlines": [
-  {
-   "festival": "big-sky-documentary",
-   "cycle": 2027,
-   "tier": "late",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-02",
-    "to": "2026-10-02",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Late Deadline"
-  },
-  {
-   "festival": "hollyshorts-london",
-   "cycle": 2026,
-   "ordinal": 3,
-   "tier": "extended",
-   "categories": [
-    "short",
-    "student"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-02",
-    "to": "2026-10-02",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 60,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Extended Deadline: UK short films, International Short Films, Student Short Films, Sports short films"
-  },
   {
    "festival": "friss-hus-budapest",
    "cycle": 2027,
@@ -9457,6 +9414,20 @@
    "note": "Late Deadline: Documentary (short subject), Narrative (short subject)"
   },
   {
+   "festival": "durban",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-23",
+    "to": "2026-11-23",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Early Bird Deadline"
+  },
+  {
    "festival": "flickerfest",
    "cycle": 2027,
    "ordinal": 36,
@@ -10527,6 +10498,20 @@
    },
    "fee_unknown": false,
    "note": "Extended Deadline: Short Documentary - US Made, World Cinema Shorts - Made Outside US, Live Action Short Films - US Made, Animated Shorts, Experimental Shorts - US Made, Arizona Shorts - Made in Arizona"
+  },
+  {
+   "festival": "angeles-latino",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-11",
+    "to": "2026-12-11",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Early Submission Deadline"
   },
   {
    "festival": "amdocs-american-documentary",
@@ -11889,6 +11874,20 @@
    "note": "Late"
   },
   {
+   "festival": "angeles-latino",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-15",
+    "to": "2027-01-15",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Submission Deadline"
+  },
+  {
    "festival": "doc-edge",
    "cycle": 2027,
    "tier": "late",
@@ -11972,6 +11971,20 @@
    },
    "fee_unknown": false,
    "note": "Late Deadline: International Feature Documentary: non-world premiere, International Feature Documentary: available for world premiere"
+  },
+  {
+   "festival": "durban",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-15",
+    "to": "2027-01-15",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Deadline"
   },
   {
    "festival": "voyage-in-time-fest",
@@ -12824,6 +12837,20 @@
    },
    "fee_unknown": true,
    "note": "Regular"
+  },
+  {
+   "festival": "angeles-latino",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-07",
+    "to": "2027-02-07",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Submission Deadline"
   },
   {
    "festival": "palm-springs-shortfest",
@@ -14752,112 +14779,6 @@
    "note": "Final Deadline"
   },
   {
-   "festival": "angeles-latino",
-   "cycle": 2026,
-   "ordinal": 25,
-   "tier": "early",
-   "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2025-12-15",
-    "to": "2025-12-15",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Early Submission Deadline"
-  },
-  {
-   "festival": "angeles-latino",
-   "cycle": 2026,
-   "ordinal": 25,
-   "tier": "early",
-   "categories": [
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2025-12-15",
-    "to": "2025-12-15",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Early Submission Deadline"
-  },
-  {
-   "festival": "angeles-latino",
-   "cycle": 2026,
-   "ordinal": 25,
-   "tier": "regular",
-   "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-01-15",
-    "to": "2026-01-15",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Regular Submission Deadline"
-  },
-  {
-   "festival": "angeles-latino",
-   "cycle": 2026,
-   "ordinal": 25,
-   "tier": "regular",
-   "categories": [
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-01-15",
-    "to": "2026-01-15",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Regular Submission Deadline"
-  },
-  {
-   "festival": "angeles-latino",
-   "cycle": 2026,
-   "ordinal": 25,
-   "tier": "late",
-   "categories": [
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-02-07",
-    "to": "2026-02-07",
-    "approximate": false,
-    "time": "23:59:00",
-    "tz": "PT"
-   },
-   "fee_unknown": true,
-   "note": "Late Submission Deadline"
-  },
-  {
-   "festival": "angeles-latino",
-   "cycle": 2026,
-   "ordinal": 25,
-   "tier": "late",
-   "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-02-07",
-    "to": "2026-02-07",
-    "approximate": false,
-    "time": "23:59:00",
-    "tz": "PT"
-   },
-   "fee_unknown": true,
-   "note": "Late Submission Deadline"
-  },
-  {
    "festival": "austin",
    "cycle": 2026,
    "tier": "early",
@@ -15727,6 +15648,48 @@
    },
    "fee_unknown": false,
    "note": "Extended Deadline: International Short Live Action (Fiction) Film Competition, International Short Documentary Competition, International Short Animation Competition, International Short Experimental Competition, International Short Web / New Media Competition"
+  },
+  {
+   "festival": "big-sky-documentary",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-12",
+    "to": "2026-06-12",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Early Bird Deadline"
+  },
+  {
+   "festival": "big-sky-documentary",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-14",
+    "to": "2026-08-14",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Deadline"
+  },
+  {
+   "festival": "big-sky-documentary",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-02",
+    "to": "2026-10-02",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Deadline"
   },
   {
    "festival": "busan",
@@ -17750,6 +17713,94 @@
    },
    "fee_unknown": false,
    "note": "Submission period ends at 11:59 pm (no time zone stated; fee from March 23)"
+  },
+  {
+   "festival": "hollyshorts-london",
+   "cycle": 2026,
+   "ordinal": 3,
+   "tier": "early",
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-17",
+    "to": "2026-04-17",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: UK short films, International Short Films, Student Short Films, Sports short films"
+  },
+  {
+   "festival": "hollyshorts-london",
+   "cycle": 2026,
+   "ordinal": 3,
+   "tier": "regular",
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-07",
+    "to": "2026-08-07",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: UK short films, International Short Films, Student Short Films, Sports short films"
+  },
+  {
+   "festival": "hollyshorts-london",
+   "cycle": 2026,
+   "ordinal": 3,
+   "tier": "late",
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-11",
+    "to": "2026-09-11",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: UK short films, International Short Films, Student Short Films, Sports short films"
+  },
+  {
+   "festival": "hollyshorts-london",
+   "cycle": 2026,
+   "ordinal": 3,
+   "tier": "extended",
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-02",
+    "to": "2026-10-02",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: UK short films, International Short Films, Student Short Films, Sports short films"
   },
   {
    "festival": "hot-springs-documentary",
