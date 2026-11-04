@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-11-02",
+ "generated_on": "2026-11-04",
  "festivals": [
   {
    "id": "25fps-zagreb",
@@ -5501,7 +5501,7 @@
     "to": "2027-05-02",
     "approximate": false
    },
-   "verified_on": "2026-10-20"
+   "verified_on": "2026-11-04"
   },
   {
    "festival": "bali",
@@ -5540,7 +5540,7 @@
     "to": "2027-02-28",
     "approximate": false
    },
-   "verified_on": "2026-10-19"
+   "verified_on": "2026-11-04"
   },
   {
    "festival": "bfi-flare",
@@ -5729,7 +5729,7 @@
     "to": "2027-01-31",
     "approximate": false
    },
-   "verified_on": "2026-10-19"
+   "verified_on": "2026-11-04"
   },
   {
    "festival": "florida",
@@ -5767,7 +5767,7 @@
     "to": "2027-04-04",
     "approximate": false
    },
-   "verified_on": "2026-10-19"
+   "verified_on": "2026-11-04"
   },
   {
    "festival": "galway-fleadh",
@@ -5800,7 +5800,7 @@
     "to": "2027-04-11",
     "approximate": false
    },
-   "verified_on": "2026-10-19"
+   "verified_on": "2026-11-04"
   },
   {
    "festival": "goteborg",
@@ -5955,7 +5955,7 @@
   {
    "festival": "manchester-film-festival",
    "cycle": 2027,
-   "verified_on": "2026-10-20"
+   "verified_on": "2026-11-04"
   },
   {
    "festival": "media-city",
@@ -6039,7 +6039,7 @@
   {
    "festival": "open-city-docs",
    "cycle": 2026,
-   "verified_on": "2026-10-20"
+   "verified_on": "2026-11-04"
   },
   {
    "festival": "oska-bright",
@@ -6256,7 +6256,7 @@
     "to": "2026-11-20",
     "approximate": false
    },
-   "verified_on": "2026-10-20"
+   "verified_on": "2026-11-04"
   },
   {
    "festival": "voyage-in-time-fest",
@@ -6267,7 +6267,7 @@
     "to": "2027-02-24",
     "approximate": false
    },
-   "verified_on": "2026-10-20"
+   "verified_on": "2026-11-04"
   },
   {
    "festival": "voyage-in-time-fest-tokyo",
@@ -6300,118 +6300,10 @@
     "to": "2026-12-05",
     "approximate": false
    },
-   "verified_on": "2026-10-20"
+   "verified_on": "2026-11-04"
   }
  ],
  "deadlines": [
-  {
-   "festival": "friss-hus-budapest",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-03",
-    "to": "2026-10-03",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 15,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: LGBTQ Shorts, Horror Shorts"
-  },
-  {
-   "festival": "friss-hus-budapest",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "animation",
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-03",
-    "to": "2026-10-03",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 23,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Hungarian Competition - ANIMATION, International Competition - DOCUMENTARY, Hungarian Competition - DOCUMENTARY"
-  },
-  {
-   "festival": "friss-hus-budapest",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "animation",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-03",
-    "to": "2026-10-03",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 17,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: International Competition - ANIMATION"
-  },
-  {
-   "festival": "bronzelens",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "documentary",
-    "feature",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-04",
-    "to": "2026-10-04",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 40,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Pre Earlybird Deadline: Feature: Standard, Short Film: Standard, Documentary: Standard, Short Documentary: Standard, International Feature"
-  },
-  {
-   "festival": "bronzelens",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "documentary",
-    "feature",
-    "short",
-    "student"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-04",
-    "to": "2026-10-04",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 30,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Pre Earlybird Deadline: Feature: Georgia Production, Short Film: Georgia Production, Short Film: Student, Documentary: Georgia Production, Short Documentary: Georgia Production"
-  },
   {
    "festival": "berlin-gate",
    "cycle": 2027,
