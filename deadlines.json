@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-11-04",
+ "generated_on": "2026-11-05",
  "festivals": [
   {
    "id": "25fps-zagreb",
@@ -5529,7 +5529,7 @@
   {
    "festival": "berlin-independent",
    "cycle": 2027,
-   "verified_on": "2026-10-21"
+   "verified_on": "2026-11-05"
   },
   {
    "festival": "berlinale",
@@ -5643,7 +5643,7 @@
   {
    "festival": "cph-dox",
    "cycle": 2027,
-   "verified_on": "2026-10-21"
+   "verified_on": "2026-11-05"
   },
   {
    "festival": "curtas-vila-doconde",
@@ -5675,7 +5675,7 @@
   {
    "festival": "documentary-sheffield",
    "cycle": 2027,
-   "verified_on": "2026-10-21"
+   "verified_on": "2026-11-05"
   },
   {
    "festival": "durban",
@@ -5916,11 +5916,6 @@
    "verified_on": "2026-10-24"
   },
   {
-   "festival": "kaboom-animation",
-   "cycle": 2027,
-   "verified_on": "2026-10-31"
-  },
-  {
    "festival": "kurzfilm-hamburg",
    "cycle": 2027,
    "verified_on": "2026-10-20"
@@ -5928,7 +5923,7 @@
   {
    "festival": "la-shorts-internatio",
    "cycle": 2027,
-   "verified_on": "2026-10-21"
+   "verified_on": "2026-11-05"
   },
   {
    "festival": "london-independent",
@@ -6049,7 +6044,7 @@
   {
    "festival": "overlook",
    "cycle": 2027,
-   "verified_on": "2026-10-21"
+   "verified_on": "2026-11-05"
   },
   {
    "festival": "palm-springs-shortfest",
@@ -6153,7 +6148,7 @@
     "to": "2027-02-13",
     "approximate": false
    },
-   "verified_on": "2026-10-20"
+   "verified_on": "2026-11-05"
   },
   {
    "festival": "santa-fe",
@@ -6245,7 +6240,7 @@
     "approximate": true,
     "label": "~June 2027"
    },
-   "verified_on": "2026-10-21"
+   "verified_on": "2026-11-05"
   },
   {
    "festival": "voyage-in-time-andong",
@@ -6278,7 +6273,7 @@
     "to": "2027-09-08",
     "approximate": false
    },
-   "verified_on": "2026-10-20"
+   "verified_on": "2026-11-05"
   },
   {
    "festival": "voyage-in-time-kyoto",
@@ -6289,7 +6284,7 @@
     "to": "2027-09-17",
     "approximate": false
    },
-   "verified_on": "2026-10-20"
+   "verified_on": "2026-11-05"
   },
   {
    "festival": "voyage-in-time-paris",
@@ -6304,34 +6299,6 @@
   }
  ],
  "deadlines": [
-  {
-   "festival": "berlin-gate",
-   "cycle": 2027,
-   "ordinal": 1,
-   "tier": "regular",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-05",
-    "to": "2026-10-05",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Regular Deadline. Free via Festhome (bgiff.com FAQ: \"free for this edition\"); FilmFreeway charges its own fees"
-  },
-  {
-   "festival": "kaboom-animation",
-   "cycle": 2027,
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-05",
-    "to": "2026-10-05",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "work before our deadline"
-  },
   {
    "festival": "slamdance",
    "cycle": 2027,
@@ -7267,22 +7234,6 @@
    "note": "Late Deadline: Narrative Feature, Documentary Feature, Animated Feature, Animated Short, Student"
   },
   {
-   "festival": "tribeca",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-21",
-    "to": "2026-10-21",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Features Early Deadline"
-  },
-  {
    "festival": "berlin-independent",
    "cycle": 2027,
    "tier": "regular",
@@ -7387,6 +7338,20 @@
    },
    "fee_unknown": true,
    "note": "Late Deadline"
+  },
+  {
+   "festival": "tribeca",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-28",
+    "to": "2026-10-28",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Shorts & Music Videos Early Deadline"
   },
   {
    "festival": "hot-docs-canadian",
@@ -9159,22 +9124,6 @@
    "note": "Final Deadline: Animated Feature, Animated Short, Student"
   },
   {
-   "festival": "tribeca",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-11-18",
-    "to": "2026-11-18",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Features Official Deadline"
-  },
-  {
    "festival": "berlin-independent",
    "cycle": 2027,
    "tier": "late",
@@ -9821,6 +9770,20 @@
    },
    "fee_unknown": false,
    "note": "FINAL - Feature, Mid-Length, Youth: features only, no shorts"
+  },
+  {
+   "festival": "tribeca",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-02",
+    "to": "2026-12-02",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Shorts & Music Videos Official Deadline"
   },
   {
    "festival": "london-independent",
@@ -10564,22 +10527,6 @@
    },
    "fee_unknown": true,
    "note": "Regular. FilmFreeway fees range USD 10-20 by category and tier"
-  },
-  {
-   "festival": "tribeca",
-   "cycle": 2027,
-   "tier": "extended",
-   "categories": [
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-12-16",
-    "to": "2026-12-16",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Features Extended Deadline"
   },
   {
    "festival": "seattle",
@@ -11384,6 +11331,20 @@
    "note": "Regular Deadline: Narrative Feature Films, Documentary Feature Films"
   },
   {
+   "festival": "overlook",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-04",
+    "to": "2027-01-04",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late (Un)Deadline"
+  },
+  {
    "festival": "brooklyn",
    "cycle": 2027,
    "tier": "regular",
@@ -12016,20 +11977,6 @@
    "note": "later than the deadline"
   },
   {
-   "festival": "overlook",
-   "cycle": 2027,
-   "tier": "late",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2027-01-24",
-    "to": "2027-01-24",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Late (Un)Deadline"
-  },
-  {
    "festival": "galway-fleadh",
    "cycle": 2027,
    "tier": "early",
@@ -12609,6 +12556,20 @@
    },
    "fee_unknown": false,
    "note": "Last Call!: Short Films"
+  },
+  {
+   "festival": "tribeca",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-03",
+    "to": "2027-02-03",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Shorts & Music Videos Extended Deadline"
   },
   {
    "festival": "deadcenter",
@@ -18116,6 +18077,19 @@
    },
    "fee_unknown": true,
    "note": "Convocatoria close; Festhome's fee isn't stated and the festival's own form is free"
+  },
+  {
+   "festival": "kaboom-animation",
+   "cycle": 2027,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-05",
+    "to": "2026-10-05",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "work before our deadline"
   },
   {
    "festival": "karlovy-vary",
