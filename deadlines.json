@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-11-05",
+ "generated_on": "2026-11-06",
  "festivals": [
   {
    "id": "25fps-zagreb",
@@ -5812,7 +5812,7 @@
     "to": "2027-02-07",
     "approximate": false
    },
-   "verified_on": "2026-10-30"
+   "verified_on": "2026-11-06"
   },
   {
    "festival": "guadalajara",
@@ -6003,7 +6003,7 @@
   {
    "festival": "new-media",
    "cycle": 2027,
-   "verified_on": "2026-10-11"
+   "verified_on": "2026-11-06"
   },
   {
    "festival": "new-york-childrens",
@@ -6205,17 +6205,6 @@
    "verified_on": "2026-10-20"
   },
   {
-   "festival": "slamdance",
-   "cycle": 2027,
-   "runs": {
-    "precision": "day",
-    "from": "2027-02-18",
-    "to": "2027-02-24",
-    "approximate": false
-   },
-   "verified_on": "2026-10-29"
-  },
-  {
    "festival": "sofia",
    "cycle": 2027,
    "verified_on": "2026-10-21"
@@ -6299,50 +6288,6 @@
   }
  ],
  "deadlines": [
-  {
-   "festival": "slamdance",
-   "cycle": 2027,
-   "tier": "extended",
-   "categories": [
-    "documentary",
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-06",
-    "to": "2026-10-06",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 130,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Extended Deadline: First Narrative Features, First Documentary Features, Breakouts (not First Features) - Narrative and Documentary, Unstoppable Features"
-  },
-  {
-   "festival": "slamdance",
-   "cycle": 2027,
-   "tier": "extended",
-   "categories": [
-    "animation",
-    "documentary",
-    "experimental",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-06",
-    "to": "2026-10-06",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 90,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Extended Deadline: Narrative Shorts, Documentary Shorts, Animation Shorts, Experimental Shorts, Unstoppable Shorts"
-  },
   {
    "festival": "pan-african-arts",
    "cycle": 2027,
@@ -21559,6 +21504,182 @@
    },
    "fee_unknown": false,
    "note": "Short Film, Final"
+  },
+  {
+   "festival": "slamdance",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-06",
+    "to": "2026-07-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 70,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: First Narrative Features, First Documentary Features, Breakouts (not First Features) - Narrative and Documentary, Unstoppable Features"
+  },
+  {
+   "festival": "slamdance",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-06",
+    "to": "2026-07-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: Narrative Shorts, Documentary Shorts, Animation Shorts, Experimental Shorts, Unstoppable Shorts"
+  },
+  {
+   "festival": "slamdance",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-10",
+    "to": "2026-08-10",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 90,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: First Narrative Features, First Documentary Features, Breakouts (not First Features) - Narrative and Documentary, Unstoppable Features"
+  },
+  {
+   "festival": "slamdance",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-10",
+    "to": "2026-08-10",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Narrative Shorts, Documentary Shorts, Animation Shorts, Experimental Shorts, Unstoppable Shorts"
+  },
+  {
+   "festival": "slamdance",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-14",
+    "to": "2026-09-14",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 110,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: First Narrative Features, First Documentary Features, Breakouts (not First Features) - Narrative and Documentary, Unstoppable Features"
+  },
+  {
+   "festival": "slamdance",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-14",
+    "to": "2026-09-14",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 70,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Narrative Shorts, Documentary Shorts, Animation Shorts, Experimental Shorts, Unstoppable Shorts"
+  },
+  {
+   "festival": "slamdance",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-06",
+    "to": "2026-10-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 130,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: First Narrative Features, First Documentary Features, Breakouts (not First Features) - Narrative and Documentary, Unstoppable Features"
+  },
+  {
+   "festival": "slamdance",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-06",
+    "to": "2026-10-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 90,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: Narrative Shorts, Documentary Shorts, Animation Shorts, Experimental Shorts, Unstoppable Shorts"
   },
   {
    "festival": "spark-animation",
