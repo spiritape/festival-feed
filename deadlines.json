@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-11-07",
+ "generated_on": "2026-11-08",
  "festivals": [
   {
    "id": "25fps-zagreb",
@@ -5435,7 +5435,7 @@
   {
    "festival": "anca-animation",
    "cycle": 2027,
-   "verified_on": "2026-10-24"
+   "verified_on": "2026-11-08"
   },
   {
    "festival": "angeles-latino",
@@ -5479,7 +5479,7 @@
     "to": "2027-04-18",
     "approximate": false
    },
-   "verified_on": "2026-10-24"
+   "verified_on": "2026-11-08"
   },
   {
    "festival": "aspen",
@@ -5824,7 +5824,7 @@
     "to": "2027-03-13",
     "approximate": false
    },
-   "verified_on": "2026-11-01"
+   "verified_on": "2026-11-08"
   },
   {
    "festival": "hollyshorts",
@@ -5913,7 +5913,7 @@
   {
    "festival": "jiiff-jose-ignacio",
    "cycle": 2027,
-   "verified_on": "2026-10-24"
+   "verified_on": "2026-11-08"
   },
   {
    "festival": "kurzfilm-hamburg",
@@ -5971,7 +5971,7 @@
   {
    "festival": "melbourne",
    "cycle": 2027,
-   "verified_on": "2026-10-24"
+   "verified_on": "2026-11-08"
   },
   {
    "festival": "milwaukee",
@@ -6034,7 +6034,7 @@
   {
    "festival": "omaha",
    "cycle": 2027,
-   "verified_on": "2026-10-24"
+   "verified_on": "2026-11-08"
   },
   {
    "festival": "open-city-docs",
@@ -6207,6 +6207,11 @@
    "festival": "st-kilda",
    "cycle": 2027,
    "verified_on": "2026-10-05"
+  },
+  {
+   "festival": "stuttgart-animated",
+   "cycle": 2027,
+   "verified_on": "2026-11-08"
   },
   {
    "festival": "sydney",
@@ -8874,6 +8879,21 @@
    "note": "Late Deadline"
   },
   {
+   "festival": "stuttgart-animated",
+   "cycle": 2027,
+   "categories": [
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-15",
+    "to": "2026-11-15",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Kurzfilm-Wettbewerbe (International, Student, Tricks for Kids, Trickstar Nature Award)"
+  },
+  {
    "festival": "chicago-underground",
    "cycle": 2027,
    "tier": "early",
@@ -9303,6 +9323,19 @@
    },
    "fee_unknown": true,
    "note": "Earlybird (free)"
+  },
+  {
+   "festival": "jiiff-jose-ignacio",
+   "cycle": 2027,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-30",
+    "to": "2026-11-30",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Cierre de convocatoria"
   },
   {
    "festival": "melbourne",
@@ -11713,6 +11746,21 @@
    },
    "fee_unknown": true,
    "note": "Regular Deadline"
+  },
+  {
+   "festival": "stuttgart-animated",
+   "cycle": 2027,
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-15",
+    "to": "2027-01-15",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "ITFS AniMovie Competition (feature films)"
   },
   {
    "festival": "voyage-in-time-fest",
@@ -21426,6 +21474,62 @@
    },
    "fee_unknown": false,
    "note": "Short Film, Final"
+  },
+  {
+   "festival": "show-me",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-01",
+    "to": "2026-04-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Earlybird Deadline"
+  },
+  {
+   "festival": "show-me",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-01",
+    "to": "2026-05-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Deadline"
+  },
+  {
+   "festival": "show-me",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-01",
+    "to": "2026-06-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Deadline"
+  },
+  {
+   "festival": "show-me",
+   "cycle": 2026,
+   "tier": "extended",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-01",
+    "to": "2026-07-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Extended Deadline"
   },
   {
    "festival": "slamdance",
