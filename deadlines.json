@@ -1350,14 +1350,25 @@
   },
   {
    "id": "dances-with-films",
-   "name": "Dances With Films",
+   "name": "Dances With Films — Los Angeles",
    "entry": "open",
    "page": "https://danceswithfilms.com",
    "website": "https://danceswithfilms.com",
    "portal": "own",
-   "city": "Los Angeles and New York City",
+   "city": "Los Angeles",
    "country": "United States",
    "moviemaker_year": 2026,
+   "logo": "https://danceswithfilms.com/wp-content/uploads/2026/02/cropped-SITE-LOGO-1-192x192.png"
+  },
+  {
+   "id": "dances-with-films-ny",
+   "name": "Dances With Films — New York",
+   "entry": "open",
+   "page": "https://danceswithfilms.com",
+   "website": "https://danceswithfilms.com",
+   "portal": "own",
+   "city": "New York",
+   "country": "United States",
    "logo": "https://danceswithfilms.com/wp-content/uploads/2026/02/cropped-SITE-LOGO-1-192x192.png"
   },
   {
@@ -5665,6 +5676,11 @@
    "verified_on": "2026-10-30"
   },
   {
+   "festival": "dances-with-films-ny",
+   "cycle": 2027,
+   "verified_on": "2026-11-10"
+  },
+  {
    "festival": "deadcenter",
    "cycle": 2027,
    "runs": {
@@ -7299,6 +7315,46 @@
    },
    "fee_unknown": true,
    "note": "Call for Entries"
+  },
+  {
+   "festival": "dances-with-films-ny",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-30",
+    "to": "2026-10-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 105,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final deadline: narrative features and docs over 40 minutes"
+  },
+  {
+   "festival": "dances-with-films-ny",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-30",
+    "to": "2026-10-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 85,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final deadline: narrative shorts and docs under 40 minutes"
   },
   {
    "festival": "iff-boston",
