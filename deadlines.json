@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-11-08",
+ "generated_on": "2026-11-10",
  "festivals": [
   {
    "id": "25fps-zagreb",
@@ -5756,7 +5756,7 @@
     "to": "2027-06-02",
     "approximate": false
    },
-   "verified_on": "2026-10-20"
+   "verified_on": "2026-11-10"
   },
   {
    "festival": "full-frame-documentary",
@@ -5858,7 +5858,7 @@
     "to": "2027-05-02",
     "approximate": false
    },
-   "verified_on": "2026-10-26"
+   "verified_on": "2026-11-10"
   },
   {
    "festival": "iff-boston",
@@ -5904,11 +5904,6 @@
     "approximate": false
    },
    "verified_on": "2026-10-11"
-  },
-  {
-   "festival": "irish-television-awards",
-   "cycle": 2027,
-   "verified_on": "2026-10-12"
   },
   {
    "festival": "jiiff-jose-ignacio",
@@ -6071,7 +6066,7 @@
     "to": "2027-04-11",
     "approximate": false
    },
-   "verified_on": "2026-10-26"
+   "verified_on": "2026-11-10"
   },
   {
    "festival": "portland",
@@ -6287,19 +6282,6 @@
   }
  ],
  "deadlines": [
-  {
-   "festival": "irish-television-awards",
-   "cycle": 2027,
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-09",
-    "to": "2026-10-09",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "SUBMISSIONS DEADLINE"
-  },
   {
    "festival": "amdocs-american-documentary",
    "cycle": 2027,
@@ -18013,6 +17995,19 @@
    },
    "fee_unknown": true,
    "note": "Convocatoria close; Festhome's fee isn't stated and the festival's own form is free"
+  },
+  {
+   "festival": "irish-television-awards",
+   "cycle": 2027,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-09",
+    "to": "2026-10-09",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "SUBMISSIONS DEADLINE"
   },
   {
    "festival": "kaboom-animation",
