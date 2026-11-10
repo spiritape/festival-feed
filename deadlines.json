@@ -505,7 +505,8 @@
    "id": "bafici",
    "name": "BAFICI (Buenos Aires Festival Internacional de Cine Independiente)",
    "entry": "open",
-   "page": "https://bafici.org",
+   "page": "https://forms.festivalesba.org/f/inscripcion_bafici_2027_en",
+   "submit": "https://forms.festivalesba.org/f/inscripcion_bafici_2027_en",
    "website": "https://bafici.org",
    "portal": "own",
    "city": "Buenos Aires",
@@ -648,7 +649,8 @@
    "id": "bfi-flare",
    "name": "BFI Flare: London LGBTQIA+ Film Festival",
    "entry": "open",
-   "page": "https://www.bfi.org.uk/flare",
+   "page": "https://bfifestivals.fillout.com/t/pa2Y53A9Ljus",
+   "submit": "https://bfifestivals.fillout.com/t/pa2Y53A9Ljus",
    "website": "https://www.bfi.org.uk/flare",
    "portal": "own",
    "city": "London",
@@ -2872,8 +2874,8 @@
    "id": "karlovy-vary",
    "name": "Karlovy Vary International Film Festival (KVIFF)",
    "entry": "open",
-   "page": "https://kviff.com/en/film-entry",
-   "website": "https://kviff.com/en/film-entry",
+   "page": "https://www.kviff.com",
+   "website": "https://www.kviff.com",
    "portal": "own",
    "city": "Karlovy Vary",
    "country": "Czech Republic",
@@ -5504,6 +5506,18 @@
    "verified_on": "2026-11-04"
   },
   {
+   "festival": "bafici",
+   "cycle": 2027,
+   "ordinal": 28,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-07",
+    "to": "2027-04-18",
+    "approximate": false
+   },
+   "verified_on": "2026-11-10"
+  },
+  {
    "festival": "bali",
    "cycle": 2027,
    "runs": {
@@ -5551,7 +5565,7 @@
     "to": "2027-03-31",
     "approximate": false
    },
-   "verified_on": "2026-10-20"
+   "verified_on": "2026-11-10"
   },
   {
    "festival": "bolton",
@@ -5904,6 +5918,18 @@
     "approximate": false
    },
    "verified_on": "2026-10-11"
+  },
+  {
+   "festival": "istanbul",
+   "cycle": 2027,
+   "ordinal": 46,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-08",
+    "to": "2027-04-18",
+    "approximate": false
+   },
+   "verified_on": "2026-11-10"
   },
   {
    "festival": "jiiff-jose-ignacio",
@@ -9829,7 +9855,9 @@
     "precision": "day",
     "from": "2026-12-04",
     "to": "2026-12-04",
-    "approximate": false
+    "approximate": false,
+    "time": "17:00:00",
+    "tz": "GMT"
    },
    "fee_unknown": true,
    "note": "UK and international mid-length (36-60 min) and feature-length films"
@@ -9844,7 +9872,9 @@
     "precision": "day",
     "from": "2026-12-04",
     "to": "2026-12-04",
-    "approximate": false
+    "approximate": false,
+    "time": "17:00:00",
+    "tz": "GMT"
    },
    "fee_unknown": true,
    "note": "UK and international short films (35 minutes or less)"
@@ -10461,6 +10491,24 @@
    },
    "fee_unknown": false,
    "note": "Regular: Features (41 minutes or more)"
+  },
+  {
+   "festival": "bafici",
+   "cycle": 2027,
+   "ordinal": 28,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-18",
+    "to": "2026-12-18",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 0,
+    "currency": "ARS"
+   },
+   "fee_unknown": false,
+   "note": "Application deadline, foreign and Argentine films (free)"
   },
   {
    "festival": "indielisboa",
@@ -11415,6 +11463,20 @@
    },
    "fee_unknown": false,
    "note": "Extended Deadline: Documentary Short, Animated Work"
+  },
+  {
+   "festival": "istanbul",
+   "cycle": 2027,
+   "ordinal": 46,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-10",
+    "to": "2027-01-10",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Online submission deadline, films from Turkiye only (international films by invitation)"
   },
   {
    "festival": "busan-10",
@@ -14604,20 +14666,6 @@
    },
    "fee_unknown": true,
    "note": "Online extended deadline. Fees by tier: features $65-95, shorts $60-90. Ranges, so no single amount recorded."
-  },
-  {
-   "festival": "bafici",
-   "cycle": 2026,
-   "tier": "final",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2025-12-18",
-    "to": "2025-12-18",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Closed (Dec 18, 2025)"
   },
   {
    "festival": "beirut",
@@ -22365,6 +22413,50 @@
    "note": "Standard: May 8, 2026 (passed)"
   },
   {
+   "festival": "tokyo",
+   "cycle": 2026,
+   "ordinal": 39,
+   "tier": "early",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-26",
+    "to": "2026-05-26",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 3300,
+    "currency": "JPY"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird Submission"
+  },
+  {
+   "festival": "tokyo",
+   "cycle": 2026,
+   "ordinal": 39,
+   "tier": "regular",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-07",
+    "to": "2026-07-07",
+    "approximate": false,
+    "time": "12:00:00",
+    "tz": "JST"
+   },
+   "fee": {
+    "amount": 5500,
+    "currency": "JPY"
+   },
+   "fee_unknown": false,
+   "note": "Regular Submission"
+  },
+  {
    "festival": "torino",
    "cycle": 2026,
    "tier": "regular",
@@ -24861,6 +24953,17 @@
    }
   },
   {
+   "festival": "festival-do-rio",
+   "cycle": 2026,
+   "ordinal": 28,
+   "runs": {
+    "precision": "day",
+    "from": "2026-10-01",
+    "to": "2026-10-11",
+    "approximate": false
+   }
+  },
+  {
    "festival": "new-next",
    "cycle": 2026,
    "runs": {
@@ -24868,18 +24971,6 @@
     "from": "2026-10-01",
     "to": "2026-10-04",
     "approximate": false
-   }
-  },
-  {
-   "festival": "tokyo",
-   "cycle": 2026,
-   "ordinal": 39,
-   "runs": {
-    "precision": "month",
-    "from": "2026-10-01",
-    "to": "2026-11-30",
-    "approximate": true,
-    "label": "Oct/Nov 2026"
    }
   },
   {
@@ -25008,6 +25099,17 @@
    }
   },
   {
+   "festival": "mostra-sao-paulo",
+   "cycle": 2026,
+   "ordinal": 50,
+   "runs": {
+    "precision": "day",
+    "from": "2026-10-15",
+    "to": "2026-10-29",
+    "approximate": false
+   }
+  },
+  {
    "festival": "montclair",
    "cycle": 2026,
    "runs": {
@@ -25039,6 +25141,17 @@
    }
   },
   {
+   "festival": "tokyo",
+   "cycle": 2026,
+   "ordinal": 39,
+   "runs": {
+    "precision": "day",
+    "from": "2026-10-26",
+    "to": "2026-11-04",
+    "approximate": false
+   }
+  },
+  {
    "festival": "austin",
    "cycle": 2026,
    "runs": {
@@ -25065,6 +25178,17 @@
     "precision": "day",
     "from": "2026-11-04",
     "to": "2026-11-09",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "ficunam",
+   "cycle": 2026,
+   "ordinal": 16,
+   "runs": {
+    "precision": "day",
+    "from": "2026-11-05",
+    "to": "2026-11-15",
     "approximate": false
    }
   },
@@ -25583,6 +25707,28 @@
    }
   },
   {
+   "festival": "bafici",
+   "cycle": 2027,
+   "ordinal": 28,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-07",
+    "to": "2027-04-18",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "istanbul",
+   "cycle": 2027,
+   "ordinal": 46,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-08",
+    "to": "2027-04-18",
+    "approximate": false
+   }
+  },
+  {
    "festival": "florida",
    "cycle": 2027,
    "runs": {
@@ -25862,11 +26008,10 @@
    "cycle": 2027,
    "ordinal": 61,
    "runs": {
-    "precision": "month",
-    "from": "2027-07-01",
-    "to": "2027-07-31",
-    "approximate": true,
-    "label": "~Jul 2027"
+    "precision": "day",
+    "from": "2027-07-02",
+    "to": "2027-07-10",
+    "approximate": false
    }
   },
   {
@@ -26010,6 +26155,17 @@
     "precision": "day",
     "from": "2027-10-06",
     "to": "2027-10-10",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "ficvaldivia",
+   "cycle": 2027,
+   "ordinal": 34,
+   "runs": {
+    "precision": "day",
+    "from": "2027-10-11",
+    "to": "2027-10-17",
     "approximate": false
    }
   },
