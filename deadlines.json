@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-11-10",
+ "generated_on": "2026-11-11",
  "festivals": [
   {
    "id": "25fps-zagreb",
@@ -5565,7 +5565,7 @@
     "to": "2027-02-28",
     "approximate": false
    },
-   "verified_on": "2026-11-04"
+   "verified_on": "2026-11-11"
   },
   {
    "festival": "bfi-flare",
@@ -6256,6 +6256,16 @@
    "verified_on": "2026-10-05"
   },
   {
+   "festival": "tampere",
+   "cycle": 2027,
+   "verified_on": "2026-11-11"
+  },
+  {
+   "festival": "tirana",
+   "cycle": 2027,
+   "verified_on": "2026-11-11"
+  },
+  {
    "festival": "tribeca",
    "cycle": 2027,
    "runs": {
@@ -6266,6 +6276,22 @@
     "label": "~June 2027"
    },
    "verified_on": "2026-11-05"
+  },
+  {
+   "festival": "vienna",
+   "cycle": 2027,
+   "verified_on": "2026-11-11"
+  },
+  {
+   "festival": "visions-reel",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-09",
+    "to": "2027-04-18",
+    "approximate": false
+   },
+   "verified_on": "2026-11-11"
   },
   {
    "festival": "voyage-in-time-andong",
@@ -6324,69 +6350,6 @@
   }
  ],
  "deadlines": [
-  {
-   "festival": "amdocs-american-documentary",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "documentary"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-11",
-    "to": "2026-10-11",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 50,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Documentary Film Fund"
-  },
-  {
-   "festival": "amdocs-american-documentary",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "documentary",
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-11",
-    "to": "2026-10-11",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 55,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Documentary Feature"
-  },
-  {
-   "festival": "amdocs-american-documentary",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [
-    "animation",
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-11",
-    "to": "2026-10-11",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 40,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Documentary Short, Animated Work"
-  },
   {
    "festival": "cinequest",
    "cycle": 2027,
@@ -7675,6 +7638,20 @@
    "note": "🔸 Regular Deadline for Foreign Entries >"
   },
   {
+   "festival": "tirana",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-31",
+    "to": "2026-10-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Earlybird deadline"
+  },
+  {
    "festival": "voyage-in-time-paris",
    "cycle": 2026,
    "tier": "late",
@@ -8017,6 +7994,19 @@
    "note": "Late Deadline: Narrative Short, Documentary Short, Animated Short"
   },
   {
+   "festival": "visions-reel",
+   "cycle": 2027,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-02",
+    "to": "2026-11-02",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Première deadline"
+  },
+  {
    "festival": "cph-dox",
    "cycle": 2027,
    "categories": [
@@ -8097,6 +8087,32 @@
    },
    "fee_unknown": false,
    "note": "Short Film Competition (under 20 minutes), early-bird"
+  },
+  {
+   "festival": "tampere",
+   "cycle": 2027,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-03",
+    "to": "2026-11-03",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "International Competition"
+  },
+  {
+   "festival": "tampere",
+   "cycle": 2027,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-03",
+    "to": "2026-11-03",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Genre Competition"
   },
   {
    "festival": "animation-dingle",
@@ -9663,6 +9679,19 @@
    "note": "Extended Deadline"
   },
   {
+   "festival": "tampere",
+   "cycle": 2027,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-01",
+    "to": "2026-12-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "National Competition"
+  },
+  {
    "festival": "malaga",
    "cycle": 2027,
    "categories": [
@@ -10503,6 +10532,20 @@
    },
    "fee_unknown": true,
    "note": "Regular. FilmFreeway fees range USD 10-20 by category and tier"
+  },
+  {
+   "festival": "visions-reel",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-15",
+    "to": "2026-12-15",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Deadline finale"
   },
   {
    "festival": "seattle",
@@ -11404,6 +11447,20 @@
    },
    "fee_unknown": false,
    "note": "Extended Late Deadline: Narrative Short, Documentary Short, Animated Short"
+  },
+  {
+   "festival": "vienna",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-05",
+    "to": "2027-01-05",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular deadline"
   },
   {
    "festival": "premi-david-donatello",
@@ -12371,6 +12428,20 @@
    },
    "fee_unknown": true,
    "note": "Submissions close"
+  },
+  {
+   "festival": "vienna",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-31",
+    "to": "2027-01-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late deadline (competitions only)"
   },
   {
    "festival": "bali",
@@ -14155,6 +14226,20 @@
    "note": "Late Deadline: Feature: Standard, Short Film: Standard, Documentary: Standard, Short Documentary: Standard, International Feature"
   },
   {
+   "festival": "tirana",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-04-28",
+    "to": "2027-04-28",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular deadline"
+  },
+  {
    "festival": "curtas-vila-doconde",
    "cycle": 2027,
    "tier": "final",
@@ -14384,6 +14469,20 @@
    },
    "fee_unknown": false,
    "note": "Special Student Deadline: Collegiate+ Student Short"
+  },
+  {
+   "festival": "tirana",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-05-22",
+    "to": "2027-05-22",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Extended deadline"
   },
   {
    "festival": "voyage-in-time-fest-tokyo",
@@ -22175,6 +22274,40 @@
    },
    "fee_unknown": false,
    "note": "Final Deadline; narrative, documentary or animated short"
+  },
+  {
+   "festival": "taipei-golden-horse",
+   "cycle": 2026,
+   "categories": [
+    "animation",
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-30",
+    "to": "2026-06-30",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Short fiction, documentary and animation submissions"
+  },
+  {
+   "festival": "taipei-golden-horse",
+   "cycle": 2026,
+   "categories": [
+    "animation",
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-31",
+    "to": "2026-07-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Feature fiction, documentary and animation submissions"
   },
   {
    "festival": "tauron-american-in-poland",
