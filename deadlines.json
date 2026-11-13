@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-11-12",
+ "generated_on": "2026-11-13",
  "festivals": [
   {
    "id": "25fps-zagreb",
@@ -5443,7 +5443,7 @@
     "to": "2027-03-21",
     "approximate": false
    },
-   "verified_on": "2026-10-20"
+   "verified_on": "2026-11-13"
   },
   {
    "festival": "american-black",
@@ -5757,7 +5757,7 @@
     "to": "2027-04-11",
     "approximate": false
    },
-   "verified_on": "2026-10-29"
+   "verified_on": "2026-11-13"
   },
   {
    "festival": "flatpack",
@@ -5937,7 +5937,7 @@
   {
    "festival": "indielisboa",
    "cycle": 2027,
-   "verified_on": "2026-10-29"
+   "verified_on": "2026-11-13"
   },
   {
    "festival": "indy-presented-by",
@@ -6375,20 +6375,6 @@
   }
  ],
  "deadlines": [
-  {
-   "festival": "fest-new-directors-new-films",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-13",
-    "to": "2026-10-13",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Regular Deadline"
-  },
   {
    "festival": "ann-arbor",
    "cycle": 2027,
