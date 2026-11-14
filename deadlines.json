@@ -5430,6 +5430,11 @@
    "verified_on": "2026-11-12"
   },
   {
+   "festival": "aesthetica",
+   "cycle": 2027,
+   "verified_on": "2026-11-14"
+  },
+  {
    "festival": "alchemy",
    "cycle": 2027,
    "verified_on": "2026-10-21"
@@ -5817,7 +5822,7 @@
   {
    "festival": "glasgow-short",
    "cycle": 2027,
-   "verified_on": "2026-10-20"
+   "verified_on": "2026-11-14"
   },
   {
    "festival": "golden-apricot",
@@ -6175,6 +6180,11 @@
    "verified_on": "2026-09-20"
   },
   {
+   "festival": "salute-your-shorts",
+   "cycle": 2027,
+   "verified_on": "2026-11-14"
+  },
+  {
    "festival": "san-francisco-jewish",
    "cycle": 2027,
    "verified_on": "2026-11-01"
@@ -6225,7 +6235,7 @@
   {
    "festival": "sedona",
    "cycle": 2027,
-   "verified_on": "2026-10-20"
+   "verified_on": "2026-11-14"
   },
   {
    "festival": "sffilm",
@@ -14342,6 +14352,19 @@
    "note": "Irish Short Film Late Deadline (Irish films only)"
   },
   {
+   "festival": "salute-your-shorts",
+   "cycle": 2027,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-05-05",
+    "to": "2027-05-05",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Submission deadline"
+  },
+  {
    "festival": "santa-fe",
    "cycle": 2027,
    "tier": "regular",
@@ -14467,6 +14490,20 @@
    "note": "Extended deadline"
   },
   {
+   "festival": "aesthetica",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-05-31",
+    "to": "2027-05-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Submission Deadline"
+  },
+  {
    "festival": "motelx-lisbon",
    "cycle": 2027,
    "categories": [],
@@ -14542,6 +14579,20 @@
    },
    "fee_unknown": true,
    "note": "Late Deadline"
+  },
+  {
+   "festival": "aesthetica",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-06-07",
+    "to": "2027-06-07",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Submission Deadline"
   },
   {
    "festival": "bolton",
@@ -14655,34 +14706,6 @@
   }
  ],
  "previous": [
-  {
-   "festival": "aesthetica",
-   "cycle": 2026,
-   "tier": "regular",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-05-31",
-    "to": "2026-05-31",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Regular Submission Deadline"
-  },
-  {
-   "festival": "aesthetica",
-   "cycle": 2026,
-   "tier": "late",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-06-07",
-    "to": "2026-06-07",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Late Submission Deadline"
-  },
   {
    "festival": "afi",
    "cycle": 2026,
@@ -21527,6 +21550,62 @@
    },
    "fee_unknown": false,
    "note": "Competition Programme: Feature, Documentary, Short and Student Film"
+  },
+  {
+   "festival": "scad-savannah",
+   "cycle": 2026,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-15",
+    "to": "2026-03-15",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Early bird deadline"
+  },
+  {
+   "festival": "scad-savannah",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-01",
+    "to": "2026-06-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular deadline"
+  },
+  {
+   "festival": "scad-savannah",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-15",
+    "to": "2026-06-15",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late deadline"
+  },
+  {
+   "festival": "scad-savannah",
+   "cycle": 2026,
+   "tier": "extended",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-30",
+    "to": "2026-06-30",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Extended deadline"
   },
   {
    "festival": "sebastopol-documentary",
