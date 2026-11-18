@@ -2792,7 +2792,7 @@
   {
    "id": "istanbul",
    "name": "Istanbul Film Festival",
-   "entry": "open",
+   "entry": "invitation",
    "page": "https://film.iksv.org/en",
    "website": "https://film.iksv.org/en",
    "city": "Istanbul",
@@ -5986,6 +5986,18 @@
    "festival": "jiiff-jose-ignacio",
    "cycle": 2027,
    "verified_on": "2026-11-08"
+  },
+  {
+   "festival": "karlovy-vary",
+   "cycle": 2027,
+   "ordinal": 61,
+   "runs": {
+    "precision": "day",
+    "from": "2027-07-02",
+    "to": "2027-07-10",
+    "approximate": false
+   },
+   "verified_on": "2026-11-18"
   },
   {
    "festival": "kurzfilm-hamburg",
@@ -10035,6 +10047,28 @@
    "note": "Late deadline"
   },
   {
+   "festival": "karlovy-vary",
+   "cycle": 2027,
+   "ordinal": 61,
+   "tier": "early",
+   "categories": [
+    "feature",
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-15",
+    "to": "2026-12-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Early deadline, films of 60 minutes or more"
+  },
+  {
    "festival": "mpumalanga",
    "cycle": 2027,
    "tier": "regular",
@@ -12849,6 +12883,28 @@
    "note": "Feature Film Regular"
   },
   {
+   "festival": "karlovy-vary",
+   "cycle": 2027,
+   "ordinal": 61,
+   "tier": "regular",
+   "categories": [
+    "feature",
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-15",
+    "to": "2027-02-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 80,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Regular deadline, films of 60 minutes or more"
+  },
+  {
    "festival": "melbourne",
    "cycle": 2027,
    "categories": [],
@@ -13520,6 +13576,28 @@
    },
    "fee_unknown": false,
    "note": "International Feature Film Late Deadline"
+  },
+  {
+   "festival": "karlovy-vary",
+   "cycle": 2027,
+   "ordinal": 61,
+   "tier": "late",
+   "categories": [
+    "feature",
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-03-15",
+    "to": "2027-03-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 100,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Late deadline, films of 60 minutes or more"
   },
   {
    "festival": "run-shoot-filmworks",
@@ -18222,38 +18300,6 @@
    },
    "fee_unknown": true,
    "note": "work before our deadline"
-  },
-  {
-   "festival": "karlovy-vary",
-   "cycle": 2026,
-   "ordinal": 60,
-   "tier": "regular",
-   "categories": [],
-   "closes": {
-    "precision": "month",
-    "from": "2026-02-01",
-    "to": "2026-02-28",
-    "approximate": true,
-    "label": "~Feb 2026"
-   },
-   "fee_unknown": true,
-   "note": "per prior-year pattern, not a published date"
-  },
-  {
-   "festival": "karlovy-vary",
-   "cycle": 2026,
-   "ordinal": 60,
-   "tier": "late",
-   "categories": [],
-   "closes": {
-    "precision": "month",
-    "from": "2026-03-01",
-    "to": "2026-03-31",
-    "approximate": true,
-    "label": "~Mar 2026"
-   },
-   "fee_unknown": true,
-   "note": "per prior-year pattern, not a published date"
   },
   {
    "festival": "kasseler-dokfest",
