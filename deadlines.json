@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-11-14",
+ "generated_on": "2026-11-18",
  "festivals": [
   {
    "id": "25fps-zagreb",
@@ -5463,7 +5463,7 @@
   {
    "festival": "angeles-latino",
    "cycle": 2027,
-   "verified_on": "2026-11-02"
+   "verified_on": "2026-11-18"
   },
   {
    "festival": "anifilm-animated",
@@ -5719,7 +5719,7 @@
   {
    "festival": "durban",
    "cycle": 2027,
-   "verified_on": "2026-11-02"
+   "verified_on": "2026-11-18"
   },
   {
    "festival": "emaf",
@@ -5730,7 +5730,7 @@
     "to": "2027-04-25",
     "approximate": false
    },
-   "verified_on": "2026-10-06"
+   "verified_on": "2026-11-18"
   },
   {
    "festival": "exit-6",
@@ -5840,18 +5840,6 @@
     "approximate": false
    },
    "verified_on": "2026-11-04"
-  },
-  {
-   "festival": "goteborg",
-   "cycle": 2027,
-   "ordinal": 50,
-   "runs": {
-    "precision": "day",
-    "from": "2027-01-29",
-    "to": "2027-02-07",
-    "approximate": false
-   },
-   "verified_on": "2026-11-14"
   },
   {
    "festival": "guadalajara",
@@ -5972,6 +5960,11 @@
    "verified_on": "2026-11-05"
   },
   {
+   "festival": "locarno",
+   "cycle": 2027,
+   "verified_on": "2026-11-18"
+  },
+  {
    "festival": "london-independent",
    "cycle": 2027,
    "runs": {
@@ -6036,11 +6029,6 @@
    "verified_on": "2026-10-11"
   },
   {
-   "festival": "mono-no-aware",
-   "cycle": 2026,
-   "verified_on": "2026-10-06"
-  },
-  {
    "festival": "motelx-lisbon",
    "cycle": 2027,
    "verified_on": "2026-11-12"
@@ -6048,7 +6036,7 @@
   {
    "festival": "mountainfilm",
    "cycle": 2027,
-   "verified_on": "2026-10-31"
+   "verified_on": "2026-11-18"
   },
   {
    "festival": "mpumalanga",
@@ -6059,7 +6047,7 @@
     "to": "2027-08-10",
     "approximate": false
    },
-   "verified_on": "2026-10-29"
+   "verified_on": "2026-11-18"
   },
   {
    "festival": "new-media",
@@ -6069,7 +6057,7 @@
   {
    "festival": "new-york-childrens",
    "cycle": 2027,
-   "verified_on": "2026-11-01"
+   "verified_on": "2026-11-18"
   },
   {
    "festival": "new-york-screening",
@@ -6143,19 +6131,7 @@
   {
    "festival": "premi-david-donatello",
    "cycle": 2027,
-   "verified_on": "2026-11-01"
-  },
-  {
-   "festival": "punto-de-vista",
-   "cycle": 2027,
-   "ordinal": 21,
-   "runs": {
-    "precision": "day",
-    "from": "2027-03-09",
-    "to": "2027-03-14",
-    "approximate": false
-   },
-   "verified_on": "2026-10-20"
+   "verified_on": "2026-11-18"
   },
   {
    "festival": "riverrun",
@@ -6192,7 +6168,7 @@
   {
    "festival": "san-luis-obispo",
    "cycle": 2027,
-   "verified_on": "2026-11-01"
+   "verified_on": "2026-11-18"
   },
   {
    "festival": "santa-barbara",
@@ -6230,7 +6206,7 @@
     "to": "2027-05-23",
     "approximate": false
    },
-   "verified_on": "2026-10-11"
+   "verified_on": "2026-11-18"
   },
   {
    "festival": "sedona",
@@ -6374,444 +6350,6 @@
   }
  ],
  "deadlines": [
-  {
-   "festival": "deadcenter",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "animation",
-    "documentary",
-    "feature",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-15",
-    "to": "2026-10-15",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 40,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Earlybird Deadline: Indigenous Feature, Live Action Short, Animated Short, Documentary Short"
-  },
-  {
-   "festival": "deadcenter",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "documentary",
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-15",
-    "to": "2026-10-15",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 50,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Earlybird Deadline: Narrative Feature, Documentary Feature"
-  },
-  {
-   "festival": "deadcenter",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-15",
-    "to": "2026-10-15",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 25,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Earlybird Deadline: Indigenous Short"
-  },
-  {
-   "festival": "deadcenter",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "short",
-    "student"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-15",
-    "to": "2026-10-15",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 5,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Earlybird Deadline: High School Short"
-  },
-  {
-   "festival": "doc-edge",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "documentary",
-    "feature",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-15",
-    "to": "2026-10-15",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 30,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Earlybird Deadline: International Short Documentary: non-world premiere, International Short Documentary: available for world premiere, New Zealand Feature Documentary"
-  },
-  {
-   "festival": "doc-edge",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "documentary",
-    "student"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-15",
-    "to": "2026-10-15",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 10,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Earlybird Deadline: New Zealand Tertiary Student Documentary"
-  },
-  {
-   "festival": "doc-edge",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "documentary",
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-15",
-    "to": "2026-10-15",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 50,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Earlybird Deadline: International Feature Documentary: non-world premiere, International Feature Documentary: available for world premiere"
-  },
-  {
-   "festival": "doc-edge",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-15",
-    "to": "2026-10-15",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 20,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Earlybird Deadline: New Zealand Short Documentary"
-  },
-  {
-   "festival": "goteborg",
-   "cycle": 2027,
-   "ordinal": 50,
-   "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-15",
-    "to": "2026-10-15",
-    "approximate": false
-   },
-   "fee_unknown": false,
-   "note": "Swedish films only (Startsladden, up to 15 minutes; Swedish Shorts, any length); free of charge. Non-Swedish shorts aren't accepted"
-  },
-  {
-   "festival": "goteborg",
-   "cycle": 2027,
-   "ordinal": 50,
-   "categories": [
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-15",
-    "to": "2026-10-15",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 35,
-    "currency": "EUR",
-    "note": "non-Swedish films; Swedish films free"
-   },
-   "fee_unknown": false,
-   "note": "Non-Swedish films, 50 minutes or longer (International Competition, International Documentary Competition from 55 minutes, Ingmar Bergman Competition, Nordic Competition); Swedish films free"
-  },
-  {
-   "festival": "mono-no-aware",
-   "cycle": 2026,
-   "categories": [
-    "experimental"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-15",
-    "to": "2026-10-15",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Deadline"
-  },
-  {
-   "festival": "new-york-childrens",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-15",
-    "to": "2026-10-15",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Regular Deadline"
-  },
-  {
-   "festival": "punto-de-vista",
-   "cycle": 2027,
-   "ordinal": 21,
-   "categories": [
-    "documentary"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-15",
-    "to": "2026-10-15",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 5,
-    "currency": "EUR"
-   },
-   "fee_unknown": false,
-   "note": "Official Section entries close 23:59"
-  },
-  {
-   "festival": "sofia",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-15",
-    "to": "2026-10-15",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "🔹 Early Bird Deadline for Foreign Entries >"
-  },
-  {
-   "festival": "voyage-in-time-andong",
-   "cycle": 2026,
-   "tier": "late",
-   "categories": [
-    "animation",
-    "feature",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-15",
-    "to": "2026-10-15",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 15,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Late Deadline: Feature Film, Short Film, Animation"
-  },
-  {
-   "festival": "atlanta",
-   "cycle": 2027,
-   "tier": "late",
-   "categories": [
-    "documentary",
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-16",
-    "to": "2026-10-16",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 80,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Late Deadline: Documentary Feature"
-  },
-  {
-   "festival": "atlanta",
-   "cycle": 2027,
-   "tier": "late",
-   "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-16",
-    "to": "2026-10-16",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 70,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Late Deadline: Narrative Short"
-  },
-  {
-   "festival": "atlanta",
-   "cycle": 2027,
-   "tier": "late",
-   "categories": [
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-16",
-    "to": "2026-10-16",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 85,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Late Deadline: Narrative Feature"
-  },
-  {
-   "festival": "atlanta",
-   "cycle": 2027,
-   "tier": "late",
-   "categories": [
-    "experimental",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-16",
-    "to": "2026-10-16",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 35,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Late Deadline: Experimental Short"
-  },
-  {
-   "festival": "atlanta",
-   "cycle": 2027,
-   "tier": "late",
-   "categories": [
-    "animation",
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-16",
-    "to": "2026-10-16",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 65,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Late Deadline: Documentary Short, Animated Short"
-  },
-  {
-   "festival": "guadalajara",
-   "cycle": 2027,
-   "ordinal": 42,
-   "tier": "regular",
-   "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-16",
-    "to": "2026-10-16",
-    "approximate": false,
-    "time": "18:00:00",
-    "tz": "GMT-6"
-   },
-   "fee": {
-    "amount": 200,
-    "currency": "MXN"
-   },
-   "fee_unknown": false,
-   "note": "Cortometrajes (up to 30 minutes): call closes 16 October 2026 at 18:00 central Mexico time"
-  },
-  {
-   "festival": "imaginenative-media-arts",
-   "cycle": 2027,
-   "ordinal": 27,
-   "tier": "early",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-16",
-    "to": "2026-10-16",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 0,
-    "currency": "CAD"
-   },
-   "fee_unknown": false,
-   "note": "Early Bird Submission Period, no fee"
-  },
   {
    "festival": "ashland-independent",
    "cycle": 2027,
@@ -14218,6 +13756,19 @@
    "note": "Late Deadline: Feature: Standard, Short Film: Standard, Documentary: Standard, Short Documentary: Standard, International Feature"
   },
   {
+   "festival": "locarno",
+   "cycle": 2027,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-04-22",
+    "to": "2027-04-22",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "the last possible deadline (on"
+  },
+  {
    "festival": "tirana",
    "cycle": 2027,
    "tier": "regular",
@@ -17372,6 +16923,43 @@
    "note": "Bewerbungsfrist (application deadline) via the Bundesportal"
   },
   {
+   "festival": "goteborg",
+   "cycle": 2027,
+   "ordinal": 50,
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-15",
+    "to": "2026-10-15",
+    "approximate": false
+   },
+   "fee_unknown": false,
+   "note": "Swedish films only (Startsladden, up to 15 minutes; Swedish Shorts, any length); free of charge. Non-Swedish shorts aren't accepted"
+  },
+  {
+   "festival": "goteborg",
+   "cycle": 2027,
+   "ordinal": 50,
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-15",
+    "to": "2026-10-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "EUR",
+    "note": "non-Swedish films; Swedish films free"
+   },
+   "fee_unknown": false,
+   "note": "Non-Swedish films, 50 minutes or longer (International Competition, International Documentary Competition from 55 minutes, Ingmar Bergman Competition, Nordic Competition); Swedish films free"
+  },
+  {
    "festival": "guanajuato",
    "cycle": 2026,
    "ordinal": 29,
@@ -18535,138 +18123,6 @@
    "note": "Late (European) Deadline: European Competition: ANIMATION, European Competition: DOCUMENTARY"
   },
   {
-   "festival": "locarno",
-   "cycle": 2026,
-   "tier": "early",
-   "categories": [
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-02-19",
-    "to": "2026-02-19",
-    "approximate": false,
-    "time": "14:00",
-    "tz": "CET"
-   },
-   "fee": {
-    "amount": 100,
-    "currency": "CHF"
-   },
-   "fee_unknown": false,
-   "note": "Early; feature and medium length, from 41 minutes"
-  },
-  {
-   "festival": "locarno",
-   "cycle": 2026,
-   "tier": "early",
-   "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-02-19",
-    "to": "2026-02-19",
-    "approximate": false,
-    "time": "14:00",
-    "tz": "CET"
-   },
-   "fee": {
-    "amount": 35,
-    "currency": "CHF"
-   },
-   "fee_unknown": false,
-   "note": "Early; short, up to 40 minutes"
-  },
-  {
-   "festival": "locarno",
-   "cycle": 2026,
-   "tier": "regular",
-   "categories": [
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-04-09",
-    "to": "2026-04-09",
-    "approximate": false,
-    "time": "14:00",
-    "tz": "CEST"
-   },
-   "fee": {
-    "amount": 130,
-    "currency": "CHF"
-   },
-   "fee_unknown": false,
-   "note": "Regular; feature and medium length, from 41 minutes"
-  },
-  {
-   "festival": "locarno",
-   "cycle": 2026,
-   "tier": "regular",
-   "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-04-09",
-    "to": "2026-04-09",
-    "approximate": false,
-    "time": "14:00",
-    "tz": "CEST"
-   },
-   "fee": {
-    "amount": 55,
-    "currency": "CHF"
-   },
-   "fee_unknown": false,
-   "note": "Regular; short, up to 40 minutes"
-  },
-  {
-   "festival": "locarno",
-   "cycle": 2026,
-   "tier": "late",
-   "categories": [
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-04-23",
-    "to": "2026-04-23",
-    "approximate": false,
-    "time": "14:00",
-    "tz": "CEST"
-   },
-   "fee": {
-    "amount": 200,
-    "currency": "CHF"
-   },
-   "fee_unknown": false,
-   "note": "Late; feature and medium length, from 41 minutes"
-  },
-  {
-   "festival": "locarno",
-   "cycle": 2026,
-   "tier": "late",
-   "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-04-23",
-    "to": "2026-04-23",
-    "approximate": false,
-    "time": "14:00",
-    "tz": "CEST"
-   },
-   "fee": {
-    "amount": 75,
-    "currency": "CHF"
-   },
-   "fee_unknown": false,
-   "note": "Late; short, up to 40 minutes"
-  },
-  {
    "festival": "mannheim-heidelberg",
    "cycle": 2026,
    "categories": [],
@@ -18718,6 +18174,21 @@
    },
    "fee_unknown": false,
    "note": "International features (Argentine features ARS 60,000)"
+  },
+  {
+   "festival": "mono-no-aware",
+   "cycle": 2026,
+   "categories": [
+    "experimental"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-15",
+    "to": "2026-10-15",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Deadline"
   },
   {
    "festival": "morelia",
@@ -21428,6 +20899,26 @@
    },
    "fee_unknown": false,
    "note": "2027 broadcast season cutoff: STANDARD (completed films & fine cuts)"
+  },
+  {
+   "festival": "punto-de-vista",
+   "cycle": 2027,
+   "ordinal": 21,
+   "categories": [
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-15",
+    "to": "2026-10-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 5,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Official Section entries close 23:59"
   },
   {
    "festival": "reelabilities",
