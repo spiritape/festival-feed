@@ -251,7 +251,8 @@
    "id": "anima-brussels-animation",
    "name": "Anima – the Brussels Animation Film Festival",
    "entry": "open",
-   "page": "https://www.animafestival.be/en",
+   "page": "https://submission-animafestival.festicine.pro/en",
+   "submit": "https://submission-animafestival.festicine.pro/en",
    "website": "https://www.animafestival.be/en",
    "portal": "own",
    "city": "Brussels",
@@ -300,7 +301,8 @@
    "id": "animator-animated",
    "name": "Animator International Animated Film Festival",
    "entry": "open",
-   "page": "https://www.animator-festival.com",
+   "page": "https://filmfreeway.com/ANIMATORFestival",
+   "submit": "https://filmfreeway.com/ANIMATORFestival",
    "website": "https://www.animator-festival.com",
    "portal": "own",
    "city": "Poznań",
@@ -3157,7 +3159,8 @@
    "id": "malaga",
    "name": "Festival de Malaga",
    "entry": "open",
-   "page": "https://festivaldemalaga.com",
+   "page": "https://filmmakers.festhome.com/festival/festival-de-malaga-cine-en-espanol",
+   "submit": "https://filmmakers.festhome.com/festival/festival-de-malaga-cine-en-espanol",
    "website": "https://festivaldemalaga.com",
    "portal": "festhome",
    "city": "Malaga",
@@ -5482,6 +5485,41 @@
    "verified_on": "2026-10-11"
   },
   {
+   "festival": "animator-animated",
+   "cycle": 2027,
+   "ordinal": 20,
+   "runs": {
+    "precision": "day",
+    "from": "2027-07-03",
+    "to": "2027-07-11",
+    "approximate": false
+   },
+   "verified_on": "2026-11-18"
+  },
+  {
+   "festival": "animayo-summit-animation",
+   "cycle": 2027,
+   "ordinal": 22,
+   "runs": {
+    "precision": "day",
+    "from": "2027-05-05",
+    "to": "2027-05-08",
+    "approximate": false
+   },
+   "verified_on": "2026-11-18"
+  },
+  {
+   "festival": "annecy-animation",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-06-13",
+    "to": "2027-06-19",
+    "approximate": false
+   },
+   "verified_on": "2026-11-18"
+  },
+  {
    "festival": "ashland-independent",
    "cycle": 2027,
    "ordinal": 26,
@@ -5978,13 +6016,14 @@
   {
    "festival": "malaga",
    "cycle": 2027,
+   "ordinal": 30,
    "runs": {
     "precision": "day",
     "from": "2027-02-26",
     "to": "2027-03-07",
     "approximate": false
    },
-   "verified_on": "2026-09-03"
+   "verified_on": "2026-11-18"
   },
   {
    "festival": "mammoth-lakes",
@@ -7354,6 +7393,27 @@
    "note": "Deadline for Bulgarian Feature and Short Films >"
   },
   {
+   "festival": "malaga",
+   "cycle": 2027,
+   "ordinal": 30,
+   "tier": "early",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-02",
+    "to": "2026-11-02",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Tarifa Early: fiction features"
+  },
+  {
    "festival": "milwaukee",
    "cycle": 2027,
    "tier": "early",
@@ -8043,8 +8103,31 @@
   {
    "festival": "malaga",
    "cycle": 2027,
+   "ordinal": 30,
+   "tier": "regular",
    "categories": [
-    "documentary",
+    "feature",
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-08",
+    "to": "2026-11-08",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Tarifa Regular/Late: documentary features"
+  },
+  {
+   "festival": "malaga",
+   "cycle": 2027,
+   "ordinal": 30,
+   "tier": "regular",
+   "categories": [
     "short"
    ],
    "closes": {
@@ -8053,8 +8136,12 @@
     "to": "2026-11-08",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Shorts/docs: Nov 8, 2026"
+   "fee": {
+    "amount": 30,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Tarifa Regular/Late: fiction, animation and documentary shorts"
   },
   {
    "festival": "jiiff-jose-ignacio",
@@ -9102,6 +9189,8 @@
   {
    "festival": "malaga",
    "cycle": 2027,
+   "ordinal": 30,
+   "tier": "regular",
    "categories": [
     "feature"
    ],
@@ -9111,8 +9200,12 @@
     "to": "2026-12-02",
     "approximate": false
    },
-   "fee_unknown": true,
-   "note": "Features: Dec 2, 2026"
+   "fee": {
+    "amount": 80,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Tarifa Regular/Late: fiction features (Official Section, ZonaZine)"
   },
   {
    "festival": "mammoth-lakes",
@@ -11014,6 +11107,29 @@
    "note": "Extended Deadline: Documentary Short, Animated Work"
   },
   {
+   "festival": "animayo-summit-animation",
+   "cycle": 2027,
+   "ordinal": 22,
+   "categories": [
+    "short",
+    "animation"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-10",
+    "to": "2027-01-10",
+    "approximate": false,
+    "time": "23:59:00",
+    "tz": "WET"
+   },
+   "fee": {
+    "amount": 0,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Obras a concurso 2027 (free); \"hora de Canarias\""
+  },
+  {
    "festival": "istanbul",
    "cycle": 2027,
    "ordinal": 46,
@@ -11068,6 +11184,28 @@
    },
    "fee_unknown": false,
    "note": "Final deadline: Korean Competition"
+  },
+  {
+   "festival": "animator-animated",
+   "cycle": 2027,
+   "ordinal": 20,
+   "categories": [
+    "feature",
+    "short",
+    "animation"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-12",
+    "to": "2027-01-12",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 0,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Call for entries, all competitions (free)"
   },
   {
    "festival": "brussels",
@@ -12673,6 +12811,24 @@
    "note": "Regular Deadline: Horror Short, Indiana Spotlight Narrative Short, Indiana Spotlight Documentary Short, Indiana Spotlight Animated Short"
   },
   {
+   "festival": "annecy-animation",
+   "cycle": 2027,
+   "categories": [
+    "short",
+    "animation"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-15",
+    "to": "2027-02-15",
+    "approximate": false,
+    "time": "23:59:00",
+    "tz": "CET"
+   },
+   "fee_unknown": false,
+   "note": "Short films, graduation films, TV and commissioned films"
+  },
+  {
    "festival": "galway-fleadh",
    "cycle": 2027,
    "tier": "regular",
@@ -13326,6 +13482,24 @@
    },
    "fee_unknown": false,
    "note": "Late Deadline: Narrative Short, Documentary Short, Animated Short"
+  },
+  {
+   "festival": "annecy-animation",
+   "cycle": 2027,
+   "categories": [
+    "feature",
+    "animation"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-03-15",
+    "to": "2027-03-15",
+    "approximate": false,
+    "time": "23:59:00",
+    "tz": "CET"
+   },
+   "fee_unknown": false,
+   "note": "Feature films and immersive works"
   },
   {
    "festival": "galway-fleadh",
@@ -14334,6 +14508,46 @@
    },
    "fee_unknown": true,
    "note": "Final Deadline"
+  },
+  {
+   "festival": "anima-brussels-animation",
+   "cycle": 2027,
+   "ordinal": 46,
+   "categories": [
+    "feature",
+    "short",
+    "animation"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-02",
+    "to": "2026-10-02",
+    "approximate": false
+   },
+   "fee_unknown": false,
+   "note": "Call for Entries Closes"
+  },
+  {
+   "festival": "animest-animation",
+   "cycle": 2026,
+   "ordinal": 21,
+   "categories": [
+    "feature",
+    "short",
+    "animation"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-01",
+    "to": "2026-07-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 0,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Entry form and file (no entry fee)"
   },
   {
    "festival": "ann-arbor",
@@ -24709,6 +24923,17 @@
    }
   },
   {
+   "festival": "lima",
+   "cycle": 2026,
+   "ordinal": 30,
+   "runs": {
+    "precision": "day",
+    "from": "2026-08-06",
+    "to": "2026-08-15",
+    "approximate": false
+   }
+  },
+  {
    "festival": "melbourne",
    "cycle": 2026,
    "runs": {
@@ -24912,6 +25137,17 @@
    "runs": {
     "precision": "day",
     "from": "2026-10-01",
+    "to": "2026-10-11",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "animest-animation",
+   "cycle": 2026,
+   "ordinal": 21,
+   "runs": {
+    "precision": "day",
+    "from": "2026-10-02",
     "to": "2026-10-11",
     "approximate": false
    }
@@ -25443,6 +25679,17 @@
    }
   },
   {
+   "festival": "anima-brussels-animation",
+   "cycle": 2027,
+   "ordinal": 46,
+   "runs": {
+    "precision": "day",
+    "from": "2027-02-19",
+    "to": "2027-02-28",
+    "approximate": false
+   }
+  },
+  {
    "festival": "voyage-in-time-fest",
    "cycle": 2027,
    "runs": {
@@ -25455,6 +25702,7 @@
   {
    "festival": "malaga",
    "cycle": 2027,
+   "ordinal": 30,
    "runs": {
     "precision": "day",
     "from": "2027-02-26",
@@ -25603,6 +25851,17 @@
    "runs": {
     "precision": "day",
     "from": "2027-04-01",
+    "to": "2027-04-11",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "athens-video",
+   "cycle": 2027,
+   "ordinal": 54,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-05",
     "to": "2027-04-11",
     "approximate": false
    }
@@ -25792,6 +26051,17 @@
    }
   },
   {
+   "festival": "animayo-summit-animation",
+   "cycle": 2027,
+   "ordinal": 22,
+   "runs": {
+    "precision": "day",
+    "from": "2027-05-05",
+    "to": "2027-05-08",
+    "approximate": false
+   }
+  },
+  {
    "festival": "seattle",
    "cycle": 2027,
    "runs": {
@@ -25916,6 +26186,16 @@
    }
   },
   {
+   "festival": "annecy-animation",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-06-13",
+    "to": "2027-06-19",
+    "approximate": false
+   }
+  },
+  {
    "festival": "palm-springs-shortfest",
    "cycle": 2027,
    "runs": {
@@ -25943,6 +26223,17 @@
     "precision": "day",
     "from": "2027-07-02",
     "to": "2027-07-10",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "animator-animated",
+   "cycle": 2027,
+   "ordinal": 20,
+   "runs": {
+    "precision": "day",
+    "from": "2027-07-03",
+    "to": "2027-07-11",
     "approximate": false
    }
   },
@@ -26077,6 +26368,16 @@
     "precision": "day",
     "from": "2027-09-16",
     "to": "2027-09-17",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "filmfest-hamburg",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-09-30",
+    "to": "2027-10-09",
     "approximate": false
    }
   },
