@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-11-18",
+ "generated_on": "2026-11-19",
  "festivals": [
   {
    "id": "25fps-zagreb",
@@ -5602,7 +5602,7 @@
     "to": "2027-02-28",
     "approximate": false
    },
-   "verified_on": "2026-11-11"
+   "verified_on": "2026-11-19"
   },
   {
    "festival": "bfi-flare",
@@ -5806,7 +5806,7 @@
     "to": "2027-01-31",
     "approximate": false
    },
-   "verified_on": "2026-11-04"
+   "verified_on": "2026-11-19"
   },
   {
    "festival": "florida",
@@ -5877,7 +5877,7 @@
     "to": "2027-04-11",
     "approximate": false
    },
-   "verified_on": "2026-11-04"
+   "verified_on": "2026-11-19"
   },
   {
    "festival": "guadalajara",
@@ -5890,6 +5890,12 @@
     "approximate": false
    },
    "verified_on": "2026-11-08"
+  },
+  {
+   "festival": "heartland",
+   "cycle": 2027,
+   "ordinal": 36,
+   "verified_on": "2026-11-19"
   },
   {
    "festival": "hollyshorts",
@@ -6050,7 +6056,7 @@
   {
    "festival": "manchester-film-festival",
    "cycle": 2027,
-   "verified_on": "2026-11-04"
+   "verified_on": "2026-11-19"
   },
   {
    "festival": "media-city",
@@ -6134,7 +6140,7 @@
   {
    "festival": "open-city-docs",
    "cycle": 2026,
-   "verified_on": "2026-11-04"
+   "verified_on": "2026-11-19"
   },
   {
    "festival": "oska-bright",
@@ -6364,7 +6370,7 @@
     "to": "2027-02-24",
     "approximate": false
    },
-   "verified_on": "2026-11-04"
+   "verified_on": "2026-11-19"
   },
   {
    "festival": "voyage-in-time-fest-tokyo",
@@ -6397,99 +6403,10 @@
     "to": "2026-12-05",
     "approximate": false
    },
-   "verified_on": "2026-11-04"
+   "verified_on": "2026-11-19"
   }
  ],
  "deadlines": [
-  {
-   "festival": "ashland-independent",
-   "cycle": 2027,
-   "ordinal": 26,
-   "tier": "regular",
-   "categories": [
-    "documentary",
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-19",
-    "to": "2026-10-19",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 55,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Documentary (feature length), Narrative (feature length)"
-  },
-  {
-   "festival": "ashland-independent",
-   "cycle": 2027,
-   "ordinal": 26,
-   "tier": "regular",
-   "categories": [
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-19",
-    "to": "2026-10-19",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 45,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Regular Deadline: Documentary (short subject), Narrative (short subject)"
-  },
-  {
-   "festival": "chicago-underground",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "documentary",
-    "experimental",
-    "feature",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-19",
-    "to": "2026-10-19",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 35,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Super Early Bird: Narrative Feature, Documentary Feature, Experimental Feature, Animation Feature, Music Film / Visual Album (Feature)"
-  },
-  {
-   "festival": "chicago-underground",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "documentary",
-    "experimental",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-19",
-    "to": "2026-10-19",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 30,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Super Early Bird: Narrative Short, Documentary Short, Experimental Short, Animated Short"
-  },
   {
    "festival": "berlinale",
    "cycle": 2027,
@@ -14426,6 +14343,22 @@
    "note": "LATE DEADLINE"
   },
   {
+   "festival": "heartland",
+   "cycle": 2027,
+   "ordinal": 36,
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-06-20",
+    "to": "2027-06-20",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Feature submissions close"
+  },
+  {
    "festival": "new-york-screening",
    "cycle": 2027,
    "tier": "final",
@@ -17607,78 +17540,6 @@
    },
    "fee_unknown": false,
    "note": "Late Deadline, features; Pacific Islander Showcase and Made in Hawai'i features USD 55"
-  },
-  {
-   "festival": "heartland",
-   "cycle": 2026,
-   "ordinal": 35,
-   "tier": "early",
-   "categories": [
-    "feature",
-    "documentary"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-02-01",
-    "to": "2026-02-01",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Early Bird Deadline"
-  },
-  {
-   "festival": "heartland",
-   "cycle": 2026,
-   "ordinal": 35,
-   "tier": "regular",
-   "categories": [
-    "feature",
-    "documentary"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-05-17",
-    "to": "2026-05-17",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Regular Deadline"
-  },
-  {
-   "festival": "heartland",
-   "cycle": 2026,
-   "ordinal": 35,
-   "tier": "late",
-   "categories": [
-    "feature",
-    "documentary"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-06-07",
-    "to": "2026-06-07",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Late Deadline"
-  },
-  {
-   "festival": "heartland",
-   "cycle": 2026,
-   "ordinal": 35,
-   "tier": "extended",
-   "categories": [
-    "feature",
-    "documentary"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-07-05",
-    "to": "2026-07-05",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Extended Deadline"
   },
   {
    "festival": "hiro-shima-animation",
