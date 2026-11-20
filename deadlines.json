@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-11-19",
+ "generated_on": "2026-11-20",
  "festivals": [
   {
    "id": "25fps-zagreb",
@@ -5715,7 +5715,7 @@
   {
    "festival": "cph-dox",
    "cycle": 2027,
-   "verified_on": "2026-11-12"
+   "verified_on": "2026-11-20"
   },
   {
    "festival": "curtas-vila-doconde",
@@ -5752,7 +5752,7 @@
   {
    "festival": "documentary-sheffield",
    "cycle": 2027,
-   "verified_on": "2026-11-05"
+   "verified_on": "2026-11-20"
   },
   {
    "festival": "durban",
@@ -6013,7 +6013,7 @@
   {
    "festival": "la-shorts-internatio",
    "cycle": 2027,
-   "verified_on": "2026-11-05"
+   "verified_on": "2026-11-20"
   },
   {
    "festival": "locarno",
@@ -6150,7 +6150,7 @@
   {
    "festival": "overlook",
    "cycle": 2027,
-   "verified_on": "2026-11-05"
+   "verified_on": "2026-11-20"
   },
   {
    "festival": "palm-springs-shortfest",
@@ -6236,7 +6236,7 @@
     "to": "2027-02-13",
     "approximate": false
    },
-   "verified_on": "2026-11-05"
+   "verified_on": "2026-11-20"
   },
   {
    "festival": "santa-fe",
@@ -6332,7 +6332,7 @@
     "approximate": true,
     "label": "~June 2027"
    },
-   "verified_on": "2026-11-05"
+   "verified_on": "2026-11-20"
   },
   {
    "festival": "vienna",
@@ -6381,7 +6381,7 @@
     "to": "2027-09-08",
     "approximate": false
    },
-   "verified_on": "2026-11-05"
+   "verified_on": "2026-11-20"
   },
   {
    "festival": "voyage-in-time-kyoto",
@@ -6392,7 +6392,7 @@
     "to": "2027-09-17",
     "approximate": false
    },
-   "verified_on": "2026-11-05"
+   "verified_on": "2026-11-20"
   },
   {
    "festival": "voyage-in-time-paris",
@@ -6483,6 +6483,22 @@
    },
    "fee_unknown": false,
    "note": "Late Deadline: Narrative Feature, Documentary Feature, Animated Feature, Animated Short, Student"
+  },
+  {
+   "festival": "tribeca",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-21",
+    "to": "2026-10-21",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Features Early Deadline"
   },
   {
    "festival": "berlin-independent",
@@ -6603,20 +6619,6 @@
    },
    "fee_unknown": true,
    "note": "Early Bird Deadline"
-  },
-  {
-   "festival": "tribeca",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-28",
-    "to": "2026-10-28",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Shorts & Music Videos Early Deadline"
   },
   {
    "festival": "hot-docs-canadian",
@@ -8509,6 +8511,22 @@
    "note": "Final Deadline: Animated Feature, Animated Short, Student"
   },
   {
+   "festival": "tribeca",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-18",
+    "to": "2026-11-18",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Features Official Deadline"
+  },
+  {
    "festival": "berlin-independent",
    "cycle": 2027,
    "tier": "late",
@@ -9215,20 +9233,6 @@
    },
    "fee_unknown": false,
    "note": "FINAL - Feature, Mid-Length, Youth: features only, no shorts"
-  },
-  {
-   "festival": "tribeca",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-12-02",
-    "to": "2026-12-02",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Shorts & Music Videos Official Deadline"
   },
   {
    "festival": "london-independent",
@@ -10012,6 +10016,22 @@
    },
    "fee_unknown": true,
    "note": "Deadline finale"
+  },
+  {
+   "festival": "tribeca",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-16",
+    "to": "2026-12-16",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Features Extended Deadline"
   },
   {
    "festival": "seattle",
@@ -12242,20 +12262,6 @@
    },
    "fee_unknown": true,
    "note": "Extended Deadline"
-  },
-  {
-   "festival": "tribeca",
-   "cycle": 2027,
-   "tier": "extended",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2027-02-03",
-    "to": "2027-02-03",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Shorts & Music Videos Extended Deadline"
   },
   {
    "festival": "deadcenter",
