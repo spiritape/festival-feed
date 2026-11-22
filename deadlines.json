@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-11-20",
+ "generated_on": "2026-11-22",
  "festivals": [
   {
    "id": "25fps-zagreb",
@@ -5591,7 +5591,7 @@
   {
    "festival": "berlin-independent",
    "cycle": 2027,
-   "verified_on": "2026-11-05"
+   "verified_on": "2026-11-22"
   },
   {
    "festival": "berlinale",
@@ -5855,7 +5855,7 @@
     "to": "2027-07-11",
     "approximate": false
    },
-   "verified_on": "2026-11-07"
+   "verified_on": "2026-11-22"
   },
   {
    "festival": "glasgow-short",
@@ -6109,7 +6109,7 @@
   {
    "festival": "new-media",
    "cycle": 2027,
-   "verified_on": "2026-11-06"
+   "verified_on": "2026-11-22"
   },
   {
    "festival": "new-york-childrens",
@@ -6407,113 +6407,6 @@
   }
  ],
  "deadlines": [
-  {
-   "festival": "berlinale",
-   "cycle": 2027,
-   "categories": [
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-21",
-    "to": "2026-10-21",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 175,
-    "currency": "EUR"
-   },
-   "fee_unknown": false
-  },
-  {
-   "festival": "exit-6",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-21",
-    "to": "2026-10-21",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "EARLYBIRD DEADLINE"
-  },
-  {
-   "festival": "portland",
-   "cycle": 2027,
-   "tier": "late",
-   "categories": [
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-21",
-    "to": "2026-10-21",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 70,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Late Deadline: Narrative Short, Documentary Short, Micro Shorts (1-5m)"
-  },
-  {
-   "festival": "portland",
-   "cycle": 2027,
-   "tier": "late",
-   "categories": [
-    "animation",
-    "documentary",
-    "feature",
-    "short",
-    "student"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-21",
-    "to": "2026-10-21",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 75,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Late Deadline: Narrative Feature, Documentary Feature, Animated Feature, Animated Short, Student"
-  },
-  {
-   "festival": "tribeca",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-21",
-    "to": "2026-10-21",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Features Early Deadline"
-  },
-  {
-   "festival": "berlin-independent",
-   "cycle": 2027,
-   "tier": "regular",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-22",
-    "to": "2026-10-22",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Regular"
-  },
   {
    "festival": "cinequest",
    "cycle": 2027,
