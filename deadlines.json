@@ -1197,8 +1197,9 @@
    "id": "clermont-ferrand",
    "name": "Clermont-ferrand International Short Film Festival",
    "entry": "open",
-   "page": "https://www.clermont-filmfest.org",
-   "website": "https://www.clermont-filmfest.org",
+   "page": "https://www.lecourt-clermont.org/pros/inscrire-un-film/",
+   "submit": "https://www.lecourt-clermont.org/pros/inscrire-un-film/",
+   "website": "https://www.lecourt-clermont.org/",
    "portal": "own",
    "country": "France",
    "academy": {
@@ -1602,7 +1603,8 @@
    "id": "drama",
    "name": "Drama International Short Film Festival",
    "entry": "open",
-   "page": "https://www.dramafilmfestival.gr/en/",
+   "page": "https://filmfreeway.com/Dramafilmfestival",
+   "submit": "https://filmfreeway.com/Dramafilmfestival",
    "website": "https://www.dramafilmfestival.gr/en/",
    "portal": "own",
    "country": "Greece",
@@ -1664,7 +1666,8 @@
    "id": "edmonton",
    "name": "Edmonton International Film Festival",
    "entry": "open",
-   "page": "https://www.edmontonfilmfest.com",
+   "page": "https://filmfreeway.com/EdmontonInternationalFilmFestival",
+   "submit": "https://filmfreeway.com/EdmontonInternationalFilmFestival",
    "website": "https://www.edmontonfilmfest.com",
    "portal": "own",
    "country": "Canada",
@@ -5750,6 +5753,18 @@
    "verified_on": "2026-10-11"
   },
   {
+   "festival": "docaviv-documentary",
+   "cycle": 2027,
+   "ordinal": 29,
+   "runs": {
+    "precision": "day",
+    "from": "2027-05-27",
+    "to": "2027-06-05",
+    "approximate": false
+   },
+   "verified_on": "2026-11-23"
+  },
+  {
    "festival": "documentary-sheffield",
    "cycle": 2027,
    "verified_on": "2026-11-20"
@@ -9715,6 +9730,50 @@
    "note": "Late Deadline: Documentary Short, Animated Work"
   },
   {
+   "festival": "docaviv-documentary",
+   "cycle": 2027,
+   "ordinal": 29,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-14",
+    "to": "2026-12-14",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 25,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "International films completed by November 2026"
+  },
+  {
+   "festival": "docaviv-documentary",
+   "cycle": 2027,
+   "ordinal": 29,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-14",
+    "to": "2026-12-14",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 15,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "International films completed by November 2026"
+  },
+  {
    "festival": "cleveland",
    "cycle": 2027,
    "tier": "late",
@@ -11387,6 +11446,50 @@
    },
    "fee_unknown": true,
    "note": "and the final deadline is 11:59pm"
+  },
+  {
+   "festival": "docaviv-documentary",
+   "cycle": 2027,
+   "ordinal": 29,
+   "tier": "final",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-18",
+    "to": "2027-01-18",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 25,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "International films to be completed by 1 April 2027"
+  },
+  {
+   "festival": "docaviv-documentary",
+   "cycle": 2027,
+   "ordinal": 29,
+   "tier": "final",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-18",
+    "to": "2027-01-18",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 15,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "International films to be completed by 1 April 2027"
   },
   {
    "festival": "oberhausen",
@@ -15757,6 +15860,46 @@
    "note": "Deadline: INTERNATIONAL COMPETITION - Short Films, INTERNATIONAL COMPETITION - Feature Films"
   },
   {
+   "festival": "clermont-ferrand",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-24",
+    "to": "2026-09-24",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 13,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "International competition (all countries except France, up to 40 min), films completed in 2026"
+  },
+  {
+   "festival": "clermont-ferrand",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-01",
+    "to": "2026-10-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 13,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "National competition (French productions, up to 59 min), films completed in 2026"
+  },
+  {
    "festival": "cork",
    "cycle": 2026,
    "tier": "early",
@@ -16504,6 +16647,53 @@
    "note": "Regular Deadline: Short List: Features, Winner's Circle (Features Only)"
   },
   {
+   "festival": "doclisboa",
+   "cycle": 2026,
+   "ordinal": 24,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-03-31",
+    "to": "2026-03-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "International films: €15 under 60 min, €30 over 60 min"
+  },
+  {
+   "festival": "doclisboa",
+   "cycle": 2026,
+   "ordinal": 24,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-30",
+    "to": "2026-04-30",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "International films: €20 under 60 min, €40 over 60 min"
+  },
+  {
+   "festival": "doclisboa",
+   "cycle": 2026,
+   "ordinal": 24,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-31",
+    "to": "2026-05-31",
+    "approximate": false,
+    "time": "23:59:00",
+    "tz": "GMT+1"
+   },
+   "fee_unknown": true,
+   "note": "International films: €35 under 60 min, €50 over 60 min"
+  },
+  {
    "festival": "documentaries-bilbao-zinebi",
    "cycle": 2026,
    "categories": [
@@ -16681,6 +16871,44 @@
    "note": "Late Deadline: Feature Films"
   },
   {
+   "festival": "drama",
+   "cycle": 2026,
+   "ordinal": 49,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-04-30",
+    "to": "2026-04-30",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "International, International Student and International Documentary competitions"
+  },
+  {
+   "festival": "drama",
+   "cycle": 2026,
+   "ordinal": 49,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-08",
+    "to": "2026-05-08",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 0,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "National and National Student competitions (Greek and Cypriot directors, free)"
+  },
+  {
    "festival": "edinburgh",
    "cycle": 2026,
    "tier": "early",
@@ -16839,6 +17067,123 @@
    },
    "fee_unknown": false,
    "note": "Extended (shorts, 30 minutes or under)"
+  },
+  {
+   "festival": "energacamerimage",
+   "cycle": 2026,
+   "ordinal": 34,
+   "tier": "regular",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-31",
+    "to": "2026-05-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 80,
+    "currency": "PLN"
+   },
+   "fee_unknown": false,
+   "note": "Main, Polish Feature Films and Debuts competitions"
+  },
+  {
+   "festival": "energacamerimage",
+   "cycle": 2026,
+   "ordinal": 34,
+   "categories": [
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-30",
+    "to": "2026-06-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 0,
+    "currency": "PLN"
+   },
+   "fee_unknown": false,
+   "note": "Documentary Features and Documentary Shorts competitions"
+  },
+  {
+   "festival": "energacamerimage",
+   "cycle": 2026,
+   "ordinal": 34,
+   "tier": "late",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-06-30",
+    "to": "2026-06-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 500,
+    "currency": "PLN"
+   },
+   "fee_unknown": false,
+   "note": "Additional deadline, late entry fee; films completed after 1 January 2026"
+  },
+  {
+   "festival": "energacamerimage",
+   "cycle": 2026,
+   "ordinal": 34,
+   "categories": [
+    "student",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-07-31",
+    "to": "2026-07-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Film and Art School Etudes Competition (submitted by schools)"
+  },
+  {
+   "festival": "fantoche-animation",
+   "cycle": 2026,
+   "ordinal": 24,
+   "categories": [
+    "short",
+    "animation"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-05-03",
+    "to": "2026-05-03",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 0,
+    "currency": "CHF"
+   },
+   "fee_unknown": false
+  },
+  {
+   "festival": "fespaco-pan-african",
+   "cycle": 2027,
+   "ordinal": 30,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-20",
+    "to": "2026-10-20",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Official selection, all categories; 32,798 FCFA"
   },
   {
    "festival": "ficvaldivia",
@@ -17019,6 +17364,24 @@
    },
    "fee_unknown": false,
    "note": "Non-Swedish films, 50 minutes or longer (International Competition, International Documentary Competition from 55 minutes, Ingmar Bergman Competition, Nordic Competition); Swedish films free"
+  },
+  {
+   "festival": "goya-awards",
+   "cycle": 2027,
+   "ordinal": 41,
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-04",
+    "to": "2026-09-04",
+    "approximate": false,
+    "time": "14:00:00",
+    "tz": "CEST"
+   },
+   "fee_unknown": true,
+   "note": "Cortometrajes (ficción, documental, animación); Spanish shorts with a qualifying festival award or selection"
   },
   {
    "festival": "guanajuato",
@@ -24739,6 +25102,17 @@
    }
   },
   {
+   "festival": "fantoche-animation",
+   "cycle": 2026,
+   "ordinal": 24,
+   "runs": {
+    "precision": "day",
+    "from": "2026-09-01",
+    "to": "2026-09-06",
+    "approximate": false
+   }
+  },
+  {
    "festival": "venice",
    "cycle": 2026,
    "ordinal": 83,
@@ -24756,6 +25130,17 @@
     "precision": "day",
     "from": "2026-09-04",
     "to": "2026-09-13",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "drama",
+   "cycle": 2026,
+   "ordinal": 49,
+   "runs": {
+    "precision": "day",
+    "from": "2026-09-06",
+    "to": "2026-09-12",
     "approximate": false
    }
   },
@@ -24817,6 +25202,16 @@
     "precision": "day",
     "from": "2026-09-23",
     "to": "2026-09-27",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "edmonton",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-09-24",
+    "to": "2026-10-03",
     "approximate": false
    }
   },
@@ -25010,6 +25405,17 @@
    }
   },
   {
+   "festival": "doclisboa",
+   "cycle": 2026,
+   "ordinal": 24,
+   "runs": {
+    "precision": "day",
+    "from": "2026-10-15",
+    "to": "2026-10-25",
+    "approximate": false
+   }
+  },
+  {
    "festival": "mostra-sao-paulo",
    "cycle": 2026,
    "ordinal": 50,
@@ -25151,6 +25557,17 @@
     "precision": "day",
     "from": "2026-11-06",
     "to": "2026-11-22",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "energacamerimage",
+   "cycle": 2026,
+   "ordinal": 34,
+   "runs": {
+    "precision": "day",
+    "from": "2026-11-07",
+    "to": "2026-11-14",
     "approximate": false
    }
   },
@@ -25351,6 +25768,16 @@
    }
   },
   {
+   "festival": "clermont-ferrand",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-01-29",
+    "to": "2027-02-06",
+    "approximate": false
+   }
+  },
+  {
    "festival": "goteborg",
    "cycle": 2027,
    "ordinal": 50,
@@ -25388,6 +25815,17 @@
     "precision": "day",
     "from": "2027-02-03",
     "to": "2027-02-13",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "goya-awards",
+   "cycle": 2027,
+   "ordinal": 41,
+   "runs": {
+    "precision": "day",
+    "from": "2027-02-06",
+    "to": "2027-02-06",
     "approximate": false
    }
   },
@@ -25551,6 +25989,7 @@
   {
    "festival": "fespaco-pan-african",
    "cycle": 2027,
+   "ordinal": 30,
    "runs": {
     "precision": "day",
     "from": "2027-03-20",
@@ -25835,6 +26274,17 @@
    }
   },
   {
+   "festival": "docaviv-documentary",
+   "cycle": 2027,
+   "ordinal": 29,
+   "runs": {
+    "precision": "day",
+    "from": "2027-05-27",
+    "to": "2027-06-05",
+    "approximate": false
+   }
+  },
+  {
    "festival": "friss-hus-budapest",
    "cycle": 2027,
    "runs": {
@@ -26091,6 +26541,17 @@
     "precision": "day",
     "from": "2027-09-06",
     "to": "2027-09-08",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "fantoche-animation",
+   "cycle": 2027,
+   "ordinal": 25,
+   "runs": {
+    "precision": "day",
+    "from": "2027-09-07",
+    "to": "2027-09-12",
     "approximate": false
    }
   },
