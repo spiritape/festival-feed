@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-11-22",
+ "generated_on": "2026-11-23",
  "festivals": [
   {
    "id": "25fps-zagreb",
@@ -5461,7 +5461,7 @@
   {
    "festival": "anca-animation",
    "cycle": 2027,
-   "verified_on": "2026-11-08"
+   "verified_on": "2026-11-23"
   },
   {
    "festival": "angeles-latino",
@@ -5529,7 +5529,7 @@
     "to": "2027-04-18",
     "approximate": false
    },
-   "verified_on": "2026-11-08"
+   "verified_on": "2026-11-23"
   },
   {
    "festival": "aspen",
@@ -5640,7 +5640,7 @@
     "to": "2027-06-03",
     "approximate": false
    },
-   "verified_on": "2026-10-20"
+   "verified_on": "2026-11-23"
   },
   {
    "festival": "brussels",
@@ -5710,7 +5710,7 @@
   {
    "festival": "courtisane",
    "cycle": 2027,
-   "verified_on": "2026-10-06"
+   "verified_on": "2026-11-23"
   },
   {
    "festival": "cph-dox",
@@ -5844,7 +5844,7 @@
     "to": "2027-04-04",
     "approximate": false
    },
-   "verified_on": "2026-11-04"
+   "verified_on": "2026-11-23"
   },
   {
    "festival": "galway-fleadh",
@@ -5991,7 +5991,7 @@
   {
    "festival": "jiiff-jose-ignacio",
    "cycle": 2027,
-   "verified_on": "2026-11-08"
+   "verified_on": "2026-11-23"
   },
   {
    "festival": "karlovy-vary",
@@ -6072,7 +6072,7 @@
   {
    "festival": "melbourne",
    "cycle": 2027,
-   "verified_on": "2026-11-08"
+   "verified_on": "2026-11-23"
   },
   {
    "festival": "milwaukee",
@@ -6408,71 +6408,6 @@
  ],
  "deadlines": [
   {
-   "festival": "cinequest",
-   "cycle": 2027,
-   "tier": "late",
-   "categories": [
-    "animation",
-    "documentary",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-23",
-    "to": "2026-10-23",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 55,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Late Deadline: Short Film Competition (General, Comedy, Dramatic, Animation, Thriller/Fantasy/Sci-Fi/Horror, Documentary, Maverick) and Films for Families"
-  },
-  {
-   "festival": "cinequest",
-   "cycle": 2027,
-   "tier": "late",
-   "categories": [
-    "short",
-    "student"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-23",
-    "to": "2026-10-23",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 50,
-    "currency": "USD",
-    "note": "college students; high school students $40"
-   },
-   "fee_unknown": false,
-   "note": "Late Deadline: College Student Shorts and High School Student Shorts"
-  },
-  {
-   "festival": "cinequest",
-   "cycle": 2027,
-   "tier": "late",
-   "categories": [
-    "documentary",
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-23",
-    "to": "2026-10-23",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 70,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Late Deadline: Comedy, Dramatic, Thriller/Fantasy/Sci-Fi/Horror, New Visions, Global Landscapes and Documentary Feature Competitions"
-  },
-  {
    "festival": "manchester-film-festival",
    "cycle": 2027,
    "categories": [],
@@ -6696,23 +6631,6 @@
    },
    "fee_unknown": false,
    "note": "Late Deadline: Feature: Fiction, Feature: Documentary, Feature: Animation, Feature: Santa Barbara Filmmaker"
-  },
-  {
-   "festival": "brooklyn",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [
-    "documentary",
-    "feature"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-31",
-    "to": "2026-10-31",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Early-bird Deadline – Feature Narrative & Feature Documentary"
   },
   {
    "festival": "curtas-vila-doconde",
@@ -8724,6 +8642,25 @@
    },
    "fee_unknown": true,
    "note": "Earlybird (free)"
+  },
+  {
+   "festival": "brooklyn",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "animation",
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-30",
+    "to": "2026-11-30",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Early-bird Deadline – Narrative Short, Short Doc, Experimental, Animation"
   },
   {
    "festival": "iff-boston",
