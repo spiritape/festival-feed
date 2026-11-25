@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-11-24",
+ "generated_on": "2026-11-25",
  "festivals": [
   {
    "id": "25fps-zagreb",
@@ -5848,7 +5848,7 @@
     "to": "2027-06-02",
     "approximate": false
    },
-   "verified_on": "2026-11-10"
+   "verified_on": "2026-11-25"
   },
   {
    "festival": "full-frame-documentary",
@@ -5944,7 +5944,7 @@
     "to": "2027-05-02",
     "approximate": false
    },
-   "verified_on": "2026-11-10"
+   "verified_on": "2026-11-25"
   },
   {
    "festival": "iff-boston",
@@ -6187,7 +6187,7 @@
     "to": "2027-04-11",
     "approximate": false
    },
-   "verified_on": "2026-11-10"
+   "verified_on": "2026-11-25"
   },
   {
    "festival": "portland",
