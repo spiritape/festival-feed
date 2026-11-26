@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-11-25",
+ "generated_on": "2026-11-26",
  "festivals": [
   {
    "id": "25fps-zagreb",
@@ -5605,7 +5605,7 @@
     "to": "2027-02-28",
     "approximate": false
    },
-   "verified_on": "2026-11-19"
+   "verified_on": "2026-11-26"
   },
   {
    "festival": "bfi-flare",
@@ -5821,7 +5821,7 @@
     "to": "2027-01-31",
     "approximate": false
    },
-   "verified_on": "2026-11-19"
+   "verified_on": "2026-11-26"
   },
   {
    "festival": "florida",
@@ -6330,7 +6330,7 @@
   {
    "festival": "tampere",
    "cycle": 2027,
-   "verified_on": "2026-11-11"
+   "verified_on": "2026-11-26"
   },
   {
    "festival": "tirana",
@@ -6363,7 +6363,7 @@
     "to": "2027-04-18",
     "approximate": false
    },
-   "verified_on": "2026-11-11"
+   "verified_on": "2026-11-26"
   },
   {
    "festival": "voyage-in-time-andong",
@@ -6422,19 +6422,6 @@
   }
  ],
  "deadlines": [
-  {
-   "festival": "manchester-film-festival",
-   "cycle": 2027,
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-26",
-    "to": "2026-10-26",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Next Deadline"
-  },
   {
    "festival": "glasgow-short",
    "cycle": 2027,
