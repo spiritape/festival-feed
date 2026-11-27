@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-11-26",
+ "generated_on": "2026-11-27",
  "festivals": [
   {
    "id": "25fps-zagreb",
@@ -5433,7 +5433,7 @@
   {
    "festival": "academy-canadian-cinema",
    "cycle": 2027,
-   "verified_on": "2026-11-12"
+   "verified_on": "2026-11-27"
   },
   {
    "festival": "aesthetica",
@@ -5718,7 +5718,7 @@
   {
    "festival": "cph-dox",
    "cycle": 2027,
-   "verified_on": "2026-11-20"
+   "verified_on": "2026-11-27"
   },
   {
    "festival": "curtas-vila-doconde",
@@ -5873,11 +5873,6 @@
    "verified_on": "2026-11-22"
   },
   {
-   "festival": "glasgow-short",
-   "cycle": 2027,
-   "verified_on": "2026-11-14"
-  },
-  {
    "festival": "golden-apricot",
    "cycle": 2027,
    "verified_on": "2026-10-20"
@@ -5949,7 +5944,7 @@
   {
    "festival": "iff-boston",
    "cycle": 2027,
-   "verified_on": "2026-11-12"
+   "verified_on": "2026-11-27"
   },
   {
    "festival": "imaginaria",
@@ -6061,7 +6056,7 @@
   {
    "festival": "mammoth-lakes",
    "cycle": 2027,
-   "verified_on": "2026-11-12"
+   "verified_on": "2026-11-27"
   },
   {
    "festival": "manchester-animation",
@@ -6422,20 +6417,6 @@
   }
  ],
  "deadlines": [
-  {
-   "festival": "glasgow-short",
-   "cycle": 2027,
-   "tier": "late",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-10-27",
-    "to": "2026-10-27",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Late Deadline"
-  },
   {
    "festival": "mammoth-lakes",
    "cycle": 2027,
@@ -17314,6 +17295,48 @@
    },
    "fee_unknown": false,
    "note": "Bewerbungsfrist (application deadline) via the Bundesportal"
+  },
+  {
+   "festival": "glasgow-short",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-04",
+    "to": "2026-08-04",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Earlybird Deadline"
+  },
+  {
+   "festival": "glasgow-short",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-22",
+    "to": "2026-09-22",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Deadline"
+  },
+  {
+   "festival": "glasgow-short",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-27",
+    "to": "2026-10-27",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Deadline"
   },
   {
    "festival": "goteborg",
